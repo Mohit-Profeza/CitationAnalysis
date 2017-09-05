@@ -1,4 +1,4 @@
-import requests, operator
+import requests, operator, itertools
 import xml.etree.ElementTree as ET
 import sys, json, os, urllib, nltk, re
 from bs4 import BeautifulSoup
@@ -78,7 +78,7 @@ class ParsePMC:
 				error_data['no_doi'] += 1
 			if 'OA URL Not Found' in line_data['error']:
 				error_data['no_url'] += 1
-		print "Creating Local Text Copies of Paper"
+		print "Creating Local Text Copies of Paper ........ "
 		for i in doi_url_file.readlines():
 			doi_url_data = json.loads(i)
 			doi_url = doi_url_data['best_oa_location']['url']
@@ -97,7 +97,7 @@ class ParsePMC:
 		self.pid_author = "Ward PS, Patel J, Wise DR, Abdel-Wahab O, Bennett BD, Coller HA, Cross JR, Fantin VR, Hedvat CV, Perl AE, Rabinowitz JD, Carroll M, Su SM, Sharp KA, Levine RL, Thompson CB."
 		pid_author = self.pid_author.split(", ")
 		doi_file = open(doi_file_name, 'r')
-		soup = BeautifulSoup(doi_file.read())
+		soup = BeautifulSoup(doi_file.read(), "html.parser")
 		file_content = soup.get_text()
 		self.file_content = file_content
 		if self.pid_title in file_content:
@@ -187,12 +187,15 @@ class ParsePMC:
 				return "-"
 		# Checking if it exists between Discussion/Conclusion/Result and Reference
 		concl_index = []
-		if len(list(set(['Discussion', 'Conclusion', 'Result']) - set(self.section_occ.keys()))):
+		concl_keys = list(set(self.section_occ.keys()).intersection(set(['Discussion', 'Conclusion', 'Result'])))
+		print concl_keys
+		if len(concl_keys):
 			# If Reference Exists, Get relevant Conclusion Indexes
-			concl_index = list(itertools.chain(filter(lambda x: x in ['Discussion', 'Conclusion', 'Result'],
-                                        self.section_occ)))
+			concl_index = [item for sublist in map(lambda x: self.section_occ[x], concl_keys) for item in sublist]
+			print concl_index
 			if ref_exists:
 				concl_index = filter(lambda x: x < self.section_occ['Reference'][-1], concl_index)
+			print "Concl Index : ", concl_index, citation_index
 			if len(concl_index):
 				concl_citation_index = filter(lambda x : x < citation_index, concl_index)
 				if len(concl_citation_index):
@@ -221,9 +224,10 @@ class ParsePMC:
 				occ_dict['method_conl'] = [intro_index]
 		# Building Occurance Data
 		print occ_dict
-		for i,v in occ_dict:
+		for i in occ_dict.keys():
 			print occ_data[i]
-			for j in v:
+			for j in occ_dict[i]:
+				print j
 				print self.file_content[j - 20: j + 20]
 		return occ_dict
 
