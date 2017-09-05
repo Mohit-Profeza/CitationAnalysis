@@ -1,0 +1,1078 @@
+<!DOCTYPE html>
+<html lang="en" class="no-js">
+    <head>
+        <title>D-2-Hydroxyglutarate producing neo-enzymatic activity inversely correlates with frequency of the type of isocitrate dehydrogenase 1 mutations found in glioma | Acta Neuropathologica Communications | Full Text</title>
+
+        
+    
+        
+    
+
+
+        
+        
+    
+    <meta name="journal_id" content='40478'/>
+    
+    <meta name="dc.title" content='D-2-Hydroxyglutarate producing neo-enzymatic activity inversely correlates with frequency of the type of isocitrate dehydrogenase 1 mutations found in glioma'/>
+    
+    <meta name="dc.description" content='IDH mutations frequently occur in diffuse gliomas and result in a neo-enzymatic activity that results in reduction of &#945;-ketoglutarate to D-2-hydroxyglutarate. In gliomas, the frequency of IDH1 mutations in codon 132 increases in the order R132L-R132S-R132G-R132C-R132H with R132H constituting more than 90% of all IDH1 mutations. We determined the levels of D-2-hydroxyglutarate in glioma tissues with IDH1 mutations. D-2-hydroxyglutarate levels increased in the order of R132H-R132C-R132S/R132G/R132L. We expressed and purified IDH1 wild type and mutant protein for biochemical characterization. Enzyme kinetics of mutant IDH protein correlated well with D-2-hydroxyglutarate production in cells with R132H exhibiting the highest and R132L the lowest KM for &#945;-ketoglutarate. Addition of D-2-hydroxyglutarate to the medium of cell lines revealed an inhibitory effect at higher concentrations. Migration of LN229 increased at lower D-2-hydroxyglutarate concentrations while higher concentrations showed no effect. These findings may suggest natural selection against the rare IDH1R132 mutations in human glioma due to toxicity caused by high levels of D-2-hydroxyglutarate.'/>
+    
+    <meta name="dc.source" content='Acta Neuropathologica Communications 2014 2:1'/>
+    
+    <meta name="dc.format" content='text/html'/>
+    
+    <meta name="dc.publisher" content='BioMed Central'/>
+    
+    <meta name="dc.date" content='2014-02-14'/>
+    
+    <meta name="dc.type" content='OriginalPaper'/>
+    
+    <meta name="dc.language" content='En'/>
+    
+    <meta name="dc.copyright" content='2014 Pusch et al.; licensee BioMed Central Ltd.'/>
+    
+    <meta name="dc.rights" content='http://creativecommons.org/licenses/by/2.0'/>
+    
+    <meta name="dc.rightsAgent" content='reprints@biomedcentral.com'/>
+    
+    <meta name="prism.issn" content='2051-5960'/>
+    
+    <meta name="prism.publicationName" content='Acta Neuropathologica Communications'/>
+    
+    <meta name="prism.publicationDate" content='2014-02-14'/>
+    
+    <meta name="prism.volume" content='2'/>
+    
+    <meta name="prism.number" content='1'/>
+    
+    <meta name="prism.section" content='OriginalPaper'/>
+    
+    <meta name="prism.startingPage" content='19'/>
+    
+    <meta name="prism.copyright" content='2014 Pusch et al.; licensee BioMed Central Ltd.'/>
+    
+    <meta name="prism.rightsAgent" content='reprints@biomedcentral.com'/>
+    
+    <meta name="prism.url" content='https://actaneurocomms.biomedcentral.com/articles/10.1186/2051-5960-2-19'/>
+    
+    <meta name="citation_pdf_url" content='https://actaneurocomms.biomedcentral.com/track/pdf/10.1186/2051-5960-2-19?site=actaneurocomms.biomedcentral.com'/>
+    
+    <meta name="citation_abstract_html_url" content='https://actaneurocomms.biomedcentral.com/articles/10.1186/2051-5960-2-19'/>
+    
+    <meta name="citation_fulltext_html_url" content='https://actaneurocomms.biomedcentral.com/articles/10.1186/2051-5960-2-19'/>
+    
+    <meta name="citation_journal_title" content='Acta Neuropathologica Communications'/>
+    
+    <meta name="citation_publisher" content='BioMed Central'/>
+    
+    <meta name="citation_issn" content='2051-5960'/>
+    
+    <meta name="citation_title" content='D-2-Hydroxyglutarate producing neo-enzymatic activity inversely correlates with frequency of the type of isocitrate dehydrogenase 1 mutations found in glioma'/>
+    
+    <meta name="citation_volume" content='2'/>
+    
+    <meta name="citation_issue" content='1'/>
+    
+    <meta name="citation_date" content='2014/02/14'/>
+    
+    <meta name="citation_publication_date" content='2014/02/14'/>
+    
+    <meta name="citation_firstpage" content='19'/>
+    
+    <meta name="citation_article_type" content='Research'/>
+    
+    <meta name="citation_fulltext_world_readable" content=''/>
+    
+    <meta name="dc.creator" content='Stefan Pusch'/>
+    
+    <meta name="dc.creator" content='Leonille Schweizer'/>
+    
+    <meta name="dc.creator" content='Ann-Christin Beck'/>
+    
+    <meta name="dc.creator" content='Johanna-Marie Lehmler'/>
+    
+    <meta name="dc.creator" content='Susanne Weissert'/>
+    
+    <meta name="dc.creator" content='J&#246;rg Balss'/>
+    
+    <meta name="dc.creator" content='Aubry K Miller'/>
+    
+    <meta name="dc.creator" content='Andreas von Deimling'/>
+    
+    <meta name="dc.subject" content='Neurosciences'/>
+    
+    <meta name="dc.subject" content='Pathology'/>
+    
+    <meta name="dc.subject" content='Neurology'/>
+    
+    <meta name="citation_author" content='Stefan Pusch'/>
+    
+    <meta name="citation_author_institution" content='German Consortium of Translational Cancer Research (DKTK), Clinical Cooperation Unit Neuropathology, German Cancer Research Center (DKFZ), INF 280, Heidelberg, Germany'/>
+    
+    <meta name="citation_author" content='Leonille Schweizer'/>
+    
+    <meta name="citation_author_institution" content='Department of Neuropathology, Institute of Pathology, INF 224, Ruprecht-Karls-University Heidelberg, Heidelberg, Germany'/>
+    
+    <meta name="citation_author" content='Ann-Christin Beck'/>
+    
+    <meta name="citation_author_institution" content='German Consortium of Translational Cancer Research (DKTK), Clinical Cooperation Unit Neuropathology, German Cancer Research Center (DKFZ), INF 280, Heidelberg, Germany'/>
+    
+    <meta name="citation_author" content='Johanna-Marie Lehmler'/>
+    
+    <meta name="citation_author_institution" content='German Consortium of Translational Cancer Research (DKTK), Clinical Cooperation Unit Neuropathology, German Cancer Research Center (DKFZ), INF 280, Heidelberg, Germany'/>
+    
+    <meta name="citation_author" content='Susanne Weissert'/>
+    
+    <meta name="citation_author_institution" content='Department of Neuropathology, Institute of Pathology, INF 224, Ruprecht-Karls-University Heidelberg, Heidelberg, Germany'/>
+    
+    <meta name="citation_author" content='J&#246;rg Balss'/>
+    
+    <meta name="citation_author_institution" content='German Consortium of Translational Cancer Research (DKTK), Clinical Cooperation Unit Neuropathology, German Cancer Research Center (DKFZ), INF 280, Heidelberg, Germany'/>
+    
+    <meta name="citation_author" content='Aubry K Miller'/>
+    
+    <meta name="citation_author_institution" content='Cancer Drug Development, German Cancer Research Center (DKFZ), INF 580, Heidelberg, Germany'/>
+    
+    <meta name="citation_author" content='Andreas von Deimling'/>
+    
+    <meta name="citation_author_institution" content='German Consortium of Translational Cancer Research (DKTK), Clinical Cooperation Unit Neuropathology, German Cancer Research Center (DKFZ), INF 280, Heidelberg, Germany'/>
+    
+    <meta name="citation_author_institution" content='Department of Neuropathology, Institute of Pathology, INF 224, Ruprecht-Karls-University Heidelberg, Heidelberg, Germany'/>
+    
+    <meta name="citation_reference" content='citation_journal_title=Acta Neuropathol; citation_title=Analysis of the IDH1 codon 132 mutation in brain tumors; citation_author=J Balss; citation_author=J Meyer; citation_author=W Mueller; citation_author=A Korshunov; citation_author=C Hartmann; citation_author=A von Deimling; citation_volume=116; citation_publication_date=2008; citation_pages=597-602; citation_doi=10.1007/s00401-008-0455-2; citation_id=CR1;'/>
+    
+    <meta name="citation_reference" content='citation_journal_title=Acta Neuropathol; citation_title=Type and frequency of IDH1 and IDH2 mutations are related to astrocytic and oligodendroglial differentiation and age: a study of 1010 diffuse gliomas; citation_author=C Hartmann; citation_author=J Meyer; citation_author=J Balss; citation_volume=118; citation_publication_date=2009; citation_pages=469-474; citation_doi=10.1007/s00401-009-0561-9; citation_id=CR2;'/>
+    
+    <meta name="citation_reference" content='citation_journal_title=N Engl J Med; citation_title=IDH1 and IDH2 mutations in gliomas; citation_author=H Yan; citation_author=DW Parsons; citation_author=G Jin; citation_volume=360; citation_publication_date=2009; citation_pages=765-773; citation_doi=10.1056/NEJMoa0808710; citation_id=CR3;'/>
+    
+    <meta name="citation_reference" content='citation_journal_title=N Engl J Med; citation_title=Recurring mutations found by sequencing an acute myeloid leukemia genome; citation_author=ER Mardis; citation_author=L Ding; citation_author=DJ Dooling; citation_volume=361; citation_publication_date=2009; citation_pages=1058-1066; citation_doi=10.1056/NEJMoa0903840; citation_id=CR4;'/>
+    
+    <meta name="citation_reference" content='citation_journal_title=J Clin Oncol; citation_title=IDH1 and IDH2 mutations are frequent genetic alterations in acute myeloid leukemia and confer adverse prognosis in cytogenetically normal acute myeloid leukemia with NPM1 mutation without FLT3 internal tandem duplication; citation_author=P Paschka; citation_author=RF Schlenk; citation_author=VI Gaidzik; citation_volume=28; citation_publication_date=2010; citation_pages=3636-3643; citation_doi=10.1200/JCO.2010.28.3762; citation_id=CR5;'/>
+    
+    <meta name="citation_reference" content='citation_journal_title=J Pathol; citation_title=IDH1 and IDH2 mutations are frequent events in central chondrosarcoma and central and periosteal chondromas but not in other mesenchymal tumours; citation_author=MF Amary; citation_author=K Bacsi; citation_author=F Maggiani; citation_volume=224; citation_publication_date=2011; citation_pages=334-343; citation_doi=10.1002/path.2913; citation_id=CR6;'/>
+    
+    <meta name="citation_reference" content='citation_journal_title=Brain Tumor Pathol; citation_title=Frequent IDH1/2 mutations in intracranial chondrosarcoma: a possible diagnostic clue for its differentiation from chordoma; citation_author=M Arai; citation_author=S Nobusawa; citation_author=H Ikota; citation_author=S Takemura; citation_author=Y Nakazato; citation_volume=29; citation_publication_date=2012; citation_pages=201-206; citation_doi=10.1007/s10014-012-0085-1; citation_id=CR7;'/>
+    
+    <meta name="citation_reference" content='citation_journal_title=Oncol; citation_title=Frequent mutation of isocitrate dehydrogenase (IDH)1 and IDH2 in cholangiocarcinoma identified through broad-based tumor genotyping; citation_author=D Borger; citation_author=K Tanabe; citation_author=K Fan; citation_volume=17; citation_publication_date=2012; citation_pages=72-79; citation_doi=10.1634/theoncologist.2011-0386; citation_id=CR8;'/>
+    
+    <meta name="citation_reference" content='citation_journal_title=Blood; citation_title=IDH2 mutations are frequent in angioimmunoblastic T-cell lymphoma; citation_author=RA Cairns; citation_author=J Iqbal; citation_author=F Lemonnier; citation_volume=119; citation_publication_date=2012; citation_pages=1901-1903; citation_doi=10.1182/blood-2011-11-391748; citation_id=CR9;'/>
+    
+    <meta name="citation_reference" content='citation_journal_title=Cancer Cell; citation_title=The common feature of leukemia-associated IDH1 and IDH2 mutations is a neomorphic enzyme activity converting alpha-ketoglutarate to 2-hydroxyglutarate; citation_author=PS Ward; citation_author=J Patel; citation_author=DR Wise; citation_volume=17; citation_publication_date=2010; citation_pages=225-234; citation_doi=10.1016/j.ccr.2010.01.020; citation_id=CR10;'/>
+    
+    <meta name="citation_reference" content='citation_journal_title=Nature; citation_title=IDH1 mutation is sufficient to establish the glioma hypermethylator phenotype; citation_author=S Turcan; citation_author=D Rohle; citation_author=A Goenka; citation_volume=483; citation_publication_date=2012; citation_pages=479-483; citation_doi=10.1038/nature10866; citation_id=CR11;'/>
+    
+    <meta name="citation_reference" content='citation_journal_title=Cancer Cell; citation_title=Oncometabolite 2-hydroxyglutarate is a competitive inhibitor of alpha-ketoglutarate-dependent dioxygenases; citation_author=W Xu; citation_author=H Yang; citation_author=Y Liu; citation_volume=19; citation_publication_date=2011; citation_pages=17-30; citation_doi=10.1016/j.ccr.2010.12.014; citation_id=CR12;'/>
+    
+    <meta name="citation_reference" content='citation_journal_title=Brain Pathol; citation_title=Detection of 2-Hydroxyglutarate in formalin-fixed paraffin-embedded glioma specimens by gas-chromatography/mass-spectrometry; citation_author=F Sahm; citation_author=D Capper; citation_author=S Pusch; citation_author=J Balss; citation_author=A Koch; citation_author=C Langhans; citation_author=J Okun; citation_author=A von Deimling; citation_volume=22; citation_publication_date=2012; citation_pages=26-31; citation_doi=10.1111/j.1750-3639.2011.00506.x; citation_id=CR13;'/>
+    
+    <meta name="citation_reference" content='citation_journal_title=J Biol Chem; citation_title=The potential for isocitrate dehydrogenase mutations to produce 2-hydroxyglutarate depends on allele specificity and subcellular compartmentalization; citation_author=PS Ward; citation_author=C Lu; citation_author=JR Cross; citation_author=O Abdel-Wahab; citation_author=RL Levine; citation_author=GK Schwartz; citation_author=CB Thompson; citation_volume=288; citation_publication_date=2013; citation_pages=3804-3815; citation_doi=10.1074/jbc.M112.435495; citation_id=CR14;'/>
+    
+    <meta name="citation_reference" content='citation_journal_title=Brain Pathol; citation_title=Characterization of R132H Mutation Specific IDH1 Antibody binding in brain tumors; citation_author=D Capper; citation_author=S Weissert; citation_author=J Balss; citation_volume=20; citation_publication_date=2010; citation_pages=245-254; citation_doi=10.1111/j.1750-3639.2009.00352.x; citation_id=CR15;'/>
+    
+    <meta name="citation_reference" content='citation_journal_title=Acta Neuropathol; citation_title=Enzymatic assay for quantitative analysis of (D)-2-hydroxyglutarate; citation_author=J Balss; citation_author=S Pusch; citation_author=A-C Beck; citation_volume=124; citation_publication_date=2012; citation_pages=883-891; citation_doi=10.1007/s00401-012-1060-y; citation_id=CR16;'/>
+    
+    <meta name="citation_reference" content='citation_journal_title=Nature; citation_title=Cancer-associated IDH1 mutations produce 2-hydroxyglutarate; citation_author=L Dang; citation_author=DW White; citation_author=S Gross; citation_volume=462; citation_publication_date=2009; citation_pages=739-744; citation_doi=10.1038/nature08617; citation_id=CR17;'/>
+    
+    <meta name="citation_reference" content='citation_journal_title=Neuro Oncol; citation_title=Accumulation of 2-hydroxyglutarate is not a biomarker for malignant progression in IDH-mutated low-grade gliomas; citation_author=TA Juratli; citation_author=M Peitzsch; citation_author=K Geiger; citation_author=G Schackert; citation_author=G Eisenhofer; citation_author=D Krex; citation_volume=15; citation_publication_date=2013; citation_pages=682-690; citation_doi=10.1093/neuonc/not006; citation_id=CR18;'/>
+    
+    <meta name="citation_reference" content='citation_journal_title=Acta neurologica Scandinavica; citation_title=The density of tissues in and about the head; citation_author=TW Barber; citation_author=JA Brockway; citation_author=LS Higgins; citation_volume=46; citation_publication_date=1970; citation_pages=85-92; citation_doi=10.1111/j.1600-0404.1970.tb05606.x; citation_id=CR19;'/>
+    
+    <meta name="citation_reference" content='citation_journal_title=Nature; citation_title=Mutational heterogeneity in cancer and the search for new cancer-associated genes; citation_author=MS Lawrence; citation_author=P Stojanov; citation_author=P Polak; citation_volume=499; citation_publication_date=2013; citation_pages=214-218; citation_doi=10.1038/nature12213; citation_id=CR20;'/>
+    
+    <meta name="citation_reference" content='citation_journal_title=J Exp Med; citation_title=Cancer-associated metabolite 2-hydroxyglutarate accumulates in acute myelogenous leukemia with isocitrate dehydrogenase 1 and 2 mutations; citation_author=S Gross; citation_author=RA Cairns; citation_author=MD Minden; citation_volume=207; citation_publication_date=2010; citation_pages=339-344; citation_doi=10.1084/jem.20092506; citation_id=CR21;'/>
+    
+    <meta name="citation_reference" content='citation_journal_title=Hum Pathol; citation_title=Isocitrate dehydrogenase 1 and 2 mutations in cholangiocarcinoma; citation_author=BR Kipp; citation_author=JS Voss; citation_author=SE Kerr; citation_volume=43; citation_publication_date=2012; citation_pages=1552-1558; citation_doi=10.1016/j.humpath.2011.12.007; citation_id=CR22;'/>
+    
+    <meta name="prism.doi" content='10.1186/2051-5960-2-19'/>
+    
+    <meta name="dc.identifier" content='10.1186/2051-5960-2-19'/>
+    
+    <meta name="citation_doi" content='10.1186/2051-5960-2-19'/>
+    
+    <meta name="citation_abstract" content='&lt;h2&gt;Abstract&lt;/h2&gt; &lt;h3&gt;Background&lt;/h3&gt; IDH mutations frequently occur in diffuse gliomas and result in a neo-enzymatic activity that results in reduction of &#945;-ketoglutarate to D-2-hydroxyglutarate. In gliomas, the frequency of IDH1 mutations in codon 132 increases in the order R132L-R132S-R132G-R132C-R132H with R132H constituting more than 90% of all IDH1 mutations.  &lt;h3&gt;Results&lt;/h3&gt; We determined the levels of D-2-hydroxyglutarate in glioma tissues with IDH1 mutations. D-2-hydroxyglutarate levels increased in the order of R132H-R132C-R132S/R132G/R132L. We expressed and purified IDH1 wild type and mutant protein for biochemical characterization. Enzyme kinetics of mutant IDH protein correlated well with D-2-hydroxyglutarate production in cells with R132H exhibiting the highest and R132L the lowest K&lt;sub&gt;M&lt;/sub&gt; for &#945;-ketoglutarate. Addition of D-2-hydroxyglutarate to the medium of cell lines revealed an inhibitory effect at higher concentrations. Migration of LN229 increased at lower D-2-hydroxyglutarate concentrations while higher concentrations showed no effect.  &lt;h3&gt;Conclusion&lt;/h3&gt; These findings may suggest natural selection against the rare IDH1R132 mutations in human glioma due to toxicity caused by high levels of D-2-hydroxyglutarate.'/>
+    
+    <meta name="DOI" content='10.1186/2051-5960-2-19'/>
+    
+
+        
+    <script type="text/javascript">
+        dataLayer = [{"content":{"article":{"doi":"10.1186/2051-5960-2-19","articleType":"Research","peerReviewType":"Closed"},"contentInfo":{"imprint":"BioMed Central","title":"D-2-Hydroxyglutarate producing neo-enzymatic activity inversely correlates with frequency of the type of isocitrate dehydrogenase 1 mutations found in glioma","publishedAt":1392336000000,"publishedAtDate":"2014-02-14","authors":["Stefan Pusch","Leonille Schweizer","Ann-Christin Beck","Johanna-Marie Lehmler","Susanne Weissert","Jörg Balss","Aubry K Miller","Andreas von Deimling"],"collections":[]},"attributes":{"deliveryPlatform":"oscar","template":null,"cms":null,"copyright":{"creativeCommonsType":null}},"journal":{"volume":"2","issue":"1","title":"Acta Neuropathologica Communications","category":"AJ","id":40478},"category":{"pmc":{"primarySubject":"Biomedicine"}}}}]
+
+    </script>
+
+        
+
+        <meta charset="UTF-8"/>
+        <meta http-equiv="X-UA-Compatible" content="IE=edge"/>
+        <meta name="viewport" content="width=device-width, initial-scale=1"/>
+        <!-- For IE 9 and below -->
+<!--[if IE]><link rel="shortcut icon" href=/static/images/favicons/biomedcentral/favicon-dc10a51d5f.ico><![endif]-->
+<!-- Touch Icons - iOS and Android 2.1+ -->
+<link rel="apple-touch-icon" href=/static/images/favicons/biomedcentral/favicon-0969f3a317.png>
+<!-- Firefox, Chrome, Safari, IE 11+ and Opera -->
+<link rel="icon" href=/static/images/favicons/biomedcentral/favicon-0969f3a317.png>
+        <script>(function(H){H.className=H.className.replace(/\bno-js\b/,'js')})(document.documentElement)</script>
+        <script>(function(d) {if (sessionStorage.getItem('webfonts') == 'true'){d.className += ' webfonts-loaded';}})(document.documentElement);</script>
+        <link rel="stylesheet" media="screen" href=/static/styles/basic/basic-8a9ed7dce9.css>
+<link rel="stylesheet" media="print" href=/static/styles/biomedcentral/biomedcentral-print-9d9c0bc8d5.css>
+
+<link rel="stylesheet" class="js-ctm" href=/static/styles/biomedcentral/biomedcentral-1a58e9106c.css
+      media="only screen and (-webkit-min-device-pixel-ratio:0) and (min-color-index:0), (-ms-high-contrast: none), only all and (min--moz-device-pixel-ratio:0) and (min-resolution: 3e1dpcm)">
+        
+    <script type="text/javascript">
+        config = {
+            env: 'live',
+            site: 'actaneurocomms.biomedcentral.com',
+            siteWithPath: 'actaneurocomms.biomedcentral.com' + window.location.pathname,
+            twitterHashtag: '',
+            cmsPrefix: 'http://studio-cms.springer.com/studio/',
+            
+            doi: '10.1186/2051-5960-2-19',
+            figshareScriptUrl: 'https://widgets.figshare.com/static/figshare.js',
+            publisherBrand: 'BioMed Central'
+        };
+    </script>
+
+        
+    
+    <script>
+        window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
+
+        (function() {
+            var sampleRate = 20;
+
+            ga('create', "UA-62059650-3", {
+                cookieDomain: 'none',
+                allowLinker: true,
+                siteSpeedSampleRate: sampleRate
+            });
+
+            ga("set", "anonymizeIp", true);
+            ga('send', 'pageview');
+
+        
+            ga('create', "UA-54492316-9", {
+                cookieDomain: 'none',
+                allowLinker: true,
+                siteSpeedSampleRate: sampleRate,
+                name: 'global'
+            });
+            ga("global.set", "anonymizeIp", true);
+            ga('global.send', 'pageview');
+            ga('set', 'transport', 'beacon');
+        
+        }())
+    </script>
+    <script async src='https://www.google-analytics.com/analytics.js'></script>
+    
+
+        
+    
+    <link rel="canonical" href="//actaneurocomms.biomedcentral.com/articles/10.1186/2051-5960-2-19"/>
+    
+
+
+        
+
+        
+        
+    <meta property="og:url" content="https://actaneurocomms.biomedcentral.com/articles/10.1186/2051-5960-2-19"/>
+    <meta property="og:type" content="article"/>
+    <meta property="og:site_name" content="Acta Neuropathologica Communications"/>
+    <meta property="og:title" content="D-2-Hydroxyglutarate producing neo-enzymatic activity inversely correlates with frequency of the type of isocitrate dehydrogenase 1 mutations found in glioma"/>
+    <meta property="og:description" content="IDH mutations frequently occur in diffuse gliomas and result in a neo-enzymatic activity that results in reduction of α-ketoglutarate to D-2-hydroxyglutarate. In gliomas, the frequency of IDH1 mutations in codon 132 increases in the order R132L-R132S-R132G-R132C-R132H with R132H constituting more than 90% of all IDH1 mutations. We determined the levels of D-2-hydroxyglutarate in glioma tissues with IDH1 mutations. D-2-hydroxyglutarate levels increased in the order of R132H-R132C-R132S/R132G/R132L. We expressed and purified IDH1 wild type and mutant protein for biochemical characterization. Enzyme kinetics of mutant IDH protein correlated well with D-2-hydroxyglutarate production in cells with R132H exhibiting the highest and R132L the lowest KM for α-ketoglutarate. Addition of D-2-hydroxyglutarate to the medium of cell lines revealed an inhibitory effect at higher concentrations. Migration of LN229 increased at lower D-2-hydroxyglutarate concentrations while higher concentrations showed no effect. These findings may suggest natural selection against the rare IDH1R132 mutations in human glioma due to toxicity caused by high levels of D-2-hydroxyglutarate."/>
+    <meta property="og:image" content="https://images.springer.com/sgw/journals/medium/40478.jpg"/>
+
+        
+    </head>
+
+    <body class="fulltext" >
+    
+    
+        
+    
+
+    
+    <div class="container" style="height: 0"><div id="wt_refpoint"></div></div>
+    <p class="skip-to-main">
+    <a class="skip-to-main__link" href="#main">Skip to main content</a>
+</p>
+
+    <div id="top">
+        
+<div id="RealMediaLeaderboard" class="adsbox RealMediaAd Ad Ad--leaderboard" data-position="Top">
+    <div class="Ad_content">
+        <p class="Ad_label">Advertisement</p>
+        
+    </div>
+</div>
+
+
+        
+
+
+
+         
+    <div id="membership-message-loader-desktop" class="placeholder" data-placeholder="/placeholder/v1/membership/message"></div>
+    <header class="header" role="banner">
+        <div class="header__inner">
+            <a id="header-logo" href="//www.biomedcentral.com/" class="logo header__logo" title="BioMed Central">
+                <img srcset="/static/images/biomed-central-logo-976eb64772.svg" src="/static/images/biomed-central-logo-5300b47908.png" class="logo__img" alt="Biomed Central" />
+            </a>
+            <div class="header__right">
+                <div class="toggles js-fade-toggle">
+                    <p id="loginLink" class="sign-in toggles__item" data-replace="true" data-placeholder="/placeholder/v1/username">
+    <a class="sign-in__link" href="//www.biomedcentral.com/login" data-track-event="click" data-event-category="Account" data-event-action="Click Login Link">
+        <span class="sign-in__no-js-account-hide">Login
+            <span class="sign-in__js-account-hide"> to </span>
+        </span>
+        <span class="sign-in__js-account-hide sign-in__no-js-capitalise">your account</span>
+    </a>
+</p>
+                    
+                    <a href="#globalSearch" class="toggles__item toggles__item--search" data-toggle="search"><span class="sr-only">Search</span></a>
+                </div>
+                <form role="search" id="globalSearch" class="search search--expandable header__search" method="GET" action="//www.biomedcentral.com/search" data-track-event="submit"
+      data-event-category="Search and Results" data-event-action="Submit search" data-event-label="">
+    <div class="search__content">
+        <label for="publisherSearch" class="sr-only">Search BioMed Central articles</label>
+        <input id="publisherSearch" class="search__input" autocomplete="off" role="textbox" name="query" type="text" value="" title="Search BioMed Central" placeholder="Search BioMed Central articles"/>
+        <button id="search" class="search__button" type="submit">
+            <span class="sr-only">Search</span>
+        </button>
+        <input type="hidden" name="searchType" value="publisherSearch"/>
+    </div>
+</form>
+
+            </div>
+            
+        </div>
+    </header>
+
+        <main role="main">
+            
+            <header class="journal-header" role="banner">
+                <div class="journal-header__inner">
+                    <h2 class="journal-header__title journal-header__title--medium" id="journalTitle">
+                        
+                        <a class="journal-header__logo" href="/">
+                            <img src="https://actaneurocomms.biomedcentral.com/images/40478/logo.svg" alt="Acta Neuropathologica Communications logo">
+                        </a>
+                        
+                        <a class="journal-header__title-text" href="/">
+                            Acta Neuropathologica Communications
+                        </a>
+                    </h2>
+                    
+                </div>
+                <div class="navbar">
+                    <div class="navbar__inner">
+                        
+
+                        
+                        <nav class="navbar__nav">
+                            <h3 class="navbar__menu-toggle" data-toggle="collapse" data-target="journal-menu">
+                                <span class="sr-only">Main </span>menu
+                            </h3>
+                            <ul id="journal-menu" class="navbar__menu" id="siteNavigation" role="menu">
+                                
+                                    <li class="navbar__item" role="menuitem">
+                                        <a class="navbar__link" href='/'>Home</a>
+                                    </li>
+                                
+                                    <li class="navbar__item" role="menuitem">
+                                        <a class="navbar__link" href='/about'>About</a>
+                                    </li>
+                                
+                                    <li class="navbar__item" role="menuitem">
+                                        <a class="navbar__link is-active" href='/articles'>Articles</a>
+                                    </li>
+                                
+                                    <li class="navbar__item" role="menuitem">
+                                        <a class="navbar__link" href='/submission-guidelines'>Submission Guidelines</a>
+                                    </li>
+                                
+                            </ul>
+                        </nav>
+                        
+                    </div>
+                </div>
+                <div class="journal-identity journal-identity--curves-red">
+                    
+                </div>
+            </header>
+            
+        
+            <div class="container">
+                
+                <div id="main" class="layout">
+                
+                    <div class="layout__main--wide" id="main-content">
+                        <div class="block" id="Test-ImgSrc">
+                            
+                            
+    <div class="FulltextWrapper">
+        <div class="Categories">
+            <div class="ArticleCategory">Research</div>
+            <div class="OpenAccessLabel">Open Access</div>
+            
+        </div>
+        
+    </div>
+
+                            <div class="FulltextWrapper"><div xmlns="" xmlns:fn="http://www.w3.org/2005/xpath-functions" xmlns:meta="http://www.springer.com/app/meta" class="MainTitleSection"><h1 xmlns="http://www.w3.org/1999/xhtml" class="ArticleTitle" lang="en">D-2-Hydroxyglutarate producing neo-enzymatic activity inversely correlates with frequency of the type of isocitrate dehydrogenase 1 mutations found in glioma</h1></div><div xmlns="" xmlns:fn="http://www.w3.org/2005/xpath-functions" xmlns:meta="http://www.springer.com/app/meta" class="AuthorNames" data-author-affiliations="true"><ul class="u-listReset"><li class="Author" data-jumpto="Aff"><span xmlns:func="http://oscar.fig.bmc.com" xmlns="http://www.w3.org/1999/xhtml" class="AuthorName">Stefan&nbsp;Pusch</span><sup><a href="#Aff1" class="AffiliationID">1</a></sup>, </li><li class="Author" data-jumpto="Aff"><span xmlns:func="http://oscar.fig.bmc.com" xmlns="http://www.w3.org/1999/xhtml" class="AuthorName">Leonille&nbsp;Schweizer</span><sup><a href="#Aff2" class="AffiliationID">2</a></sup>, </li><li class="Author" data-jumpto="Aff"><span xmlns:func="http://oscar.fig.bmc.com" xmlns="http://www.w3.org/1999/xhtml" class="AuthorName">Ann-Christin&nbsp;Beck</span><sup><a href="#Aff1" class="AffiliationID">1</a></sup>, </li><li class="Author" data-jumpto="Aff"><span xmlns:func="http://oscar.fig.bmc.com" xmlns="http://www.w3.org/1999/xhtml" class="AuthorName">Johanna-Marie&nbsp;Lehmler</span><sup><a href="#Aff1" class="AffiliationID">1</a></sup>, </li><li class="Author" data-jumpto="Aff"><span xmlns:func="http://oscar.fig.bmc.com" xmlns="http://www.w3.org/1999/xhtml" class="AuthorName">Susanne&nbsp;Weissert</span><sup><a href="#Aff2" class="AffiliationID">2</a></sup>, </li><li class="Author" data-jumpto="Aff"><span xmlns:func="http://oscar.fig.bmc.com" xmlns="http://www.w3.org/1999/xhtml" class="AuthorName">Jörg&nbsp;Balss</span><sup><a href="#Aff1" class="AffiliationID">1</a></sup>, </li><li class="Author" data-jumpto="Aff"><span xmlns:func="http://oscar.fig.bmc.com" xmlns="http://www.w3.org/1999/xhtml" class="AuthorName">Aubry&nbsp;K&nbsp;Miller</span><sup><a href="#Aff3" class="AffiliationID">3</a></sup> and </li><li class="Author" data-jumpto="Aff"><span xmlns:func="http://oscar.fig.bmc.com" xmlns="http://www.w3.org/1999/xhtml" class="AuthorName">Andreas&nbsp;von Deimling</span><sup><a href="#Aff1" class="AffiliationID">1</a>, <a href="#Aff2" class="AffiliationID">2</a></sup><a href="mailto:Andreas.vonDeimling@med.uni-heidelberg.de" class="EmailAuthor" title="Email author"><span class="ContactIcon" aria-hidden="true"></span><span class="u-srOnly">Email author</span></a></li></ul></div><div xmlns="" xmlns:fn="http://www.w3.org/2005/xpath-functions" xmlns:meta="http://www.springer.com/app/meta" class="ArticleContextInformation"><div class="ContextInformation"><div class="ContextInformationJournalTitles"><span class="ArticleCitation"><span xmlns="http://www.w3.org/1999/xhtml" class="JournalTitle">Acta Neuropathologica Communications</span><span class="ArticleCitation_Year">2014</span><span class="ArticleCitation_Volume"><strong>2</strong>:19</span></span></div><p class="ArticleDOI"><a target="_blank" href="https://doi.org/10.1186/2051-5960-2-19">https://doi.org/10.1186/2051-5960-2-19</a></p><p class="Copyright">© &nbsp;Pusch et al.; licensee BioMed Central Ltd.&nbsp;2014</p></div></div><div class="ArticleHistory"><p class="History HistoryReceived"><strong>Received: </strong>16&nbsp;December&nbsp;2013</p><p class="History HistoryAccepted"><strong>Accepted: </strong>24&nbsp;January&nbsp;2014</p><p class="History HistoryOnlineDate"><strong>Published: </strong>14&nbsp;February&nbsp;2014</p></div></div>
+                            
+                            
+                            
+    
+
+                            <div class="FulltextWrapper"><section xmlns="" xmlns:fn="http://www.w3.org/2005/xpath-functions" xmlns:meta="http://www.springer.com/app/meta" class="Abstract" id="Abs1" lang="en"><h2 class="Heading js-ToggleCollapseSection">Abstract</h2><div class="js-CollapseSection"><div xmlns:func="http://oscar.fig.bmc.com" xmlns="http://www.w3.org/1999/xhtml" class="AbstractSection" id="ASec1">
+                <h3 xmlns="" class="Heading">Background</h3>
+                <p class="Para">IDH mutations frequently occur in diffuse gliomas and result in a neo-enzymatic activity that results in reduction of α-ketoglutarate to D-2-hydroxyglutarate. In gliomas, the frequency of IDH1 mutations in codon 132 increases in the order R132L-R132S-R132G-R132C-R132H with R132H constituting more than 90% of all IDH1 mutations.</p>
+              </div><div xmlns:func="http://oscar.fig.bmc.com" xmlns="http://www.w3.org/1999/xhtml" class="AbstractSection" id="ASec2">
+                <h3 xmlns="" class="Heading">Results</h3>
+                <p class="Para">We determined the levels of D-2-hydroxyglutarate in glioma tissues with IDH1 mutations. D-2-hydroxyglutarate levels increased in the order of R132H-R132C-R132S/R132G/R132L. We expressed and purified IDH1 wild type and mutant protein for biochemical characterization. Enzyme kinetics of mutant IDH protein correlated well with D-2-hydroxyglutarate production in cells with R132H exhibiting the highest and R132L the lowest K<sub>M</sub> for α-ketoglutarate. Addition of D-2-hydroxyglutarate to the medium of cell lines revealed an inhibitory effect at higher concentrations. Migration of LN229 increased at lower D-2-hydroxyglutarate concentrations while higher concentrations showed no effect.</p>
+              </div><div xmlns:func="http://oscar.fig.bmc.com" xmlns="http://www.w3.org/1999/xhtml" class="AbstractSection" id="ASec3">
+                <h3 xmlns="" class="Heading">Conclusion</h3>
+                <p class="Para">These findings may suggest natural selection against the rare IDH1R132 mutations in human glioma due to toxicity caused by high levels of D-2-hydroxyglutarate.</p>
+              </div></div></section><div xmlns:func="http://oscar.fig.bmc.com" class="KeywordGroup" lang="en">
+              <h3 xmlns="" xmlns:fn="http://www.w3.org/2005/xpath-functions" xmlns:meta="http://www.springer.com/app/meta" class="Heading">Keywords</h3>
+              <span class="Keyword">IDH1</span>
+              <span class="Keyword">2-HG</span>
+              <span class="Keyword">D-2-hydroxyglutarate</span>
+              <span class="Keyword">Enzymatic activity</span>
+              <span class="Keyword">K<sub>M</sub>
+</span>
+              <span class="Keyword">Astrocytoma</span>
+              <span class="Keyword">Oligodendroglioma</span>
+            </div>
+            <section xmlns="" xmlns:fn="http://www.w3.org/2005/xpath-functions" xmlns:meta="http://www.springer.com/app/meta" id="Sec1" class="Section1 RenderAsSection1"><h2 class="Heading js-ToggleCollapseSection">Background</h2><div class="js-CollapseSection"><p xmlns:func="http://oscar.fig.bmc.com" xmlns="http://www.w3.org/1999/xhtml" class="Para">Mutations in isocitrate dehydrogenases 1 or 2 (IDH1, IDH2) occur approximately in 75% of diffuse astrocytomas and oligodendroglial tumors[<span class="CitationRef"><a href="#CR1" data-toggle="citation" data-target="CR1">1</a></span>–<span class="CitationRef"><a href="#CR3" data-toggle="citation" data-target="CR3">3</a></span>], in 20% of acute myeloid leukemia (AML)[<span class="CitationRef"><a href="#CR4" data-toggle="citation" data-target="CR4">4</a></span>, <span class="CitationRef"><a href="#CR5" data-toggle="citation" data-target="CR5">5</a></span>], 50% of chondrosarcoma[<span class="CitationRef"><a href="#CR6" data-toggle="citation" data-target="CR6">6</a></span>, <span class="CitationRef"><a href="#CR7" data-toggle="citation" data-target="CR7">7</a></span>], 20% of intrahepatic cholangiocarcinoma[<span class="CitationRef"><a href="#CR8" data-toggle="citation" data-target="CR8">8</a></span>] and in 20% of angioimmunoblastic T-cell lymphoma[<span class="CitationRef"><a href="#CR9" data-toggle="citation" data-target="CR9">9</a></span>]. Besides overall frequency, also the type of IDH mutations differs in these tumor entities. In astrocytoma and oligodendroglioma more than 90% of all IDH mutations are of the IDH1R132H type[<span class="CitationRef"><a href="#CR2" data-toggle="citation" data-target="CR2">2</a></span>], with the second most frequent type (approximately 4% of mutations) being IDH1R132C. The remaining mutations split into other very rare IDH1 and IDH2 mutations. Quite differently, IDH2R140Q mutations are most frequent in AML[<span class="CitationRef"><a href="#CR5" data-toggle="citation" data-target="CR5">5</a></span>, <span class="CitationRef"><a href="#CR10" data-toggle="citation" data-target="CR10">10</a></span>]. In chondrosarcoma and intrahepatic cholangiocarcinoma, the R132C alteration in IDH1 is the most frequent mutation[<span class="CitationRef"><a href="#CR6" data-toggle="citation" data-target="CR6">6</a></span>, <span class="CitationRef"><a href="#CR8" data-toggle="citation" data-target="CR8">8</a></span>], while in angioimmunoblastic T-cell lymphoma mutations in IDH2 are predominant[<span class="CitationRef"><a href="#CR9" data-toggle="citation" data-target="CR9">9</a></span>]. Common to all IDH mutations is a neo-enzymatic activity of the mutated proteins that results in reduction of α-ketoglutarate (α-KG) to D-2-hydroxyglutarate (2-HG) with consumption of NADPH. The neo-enzymatic activity of mutated IDH proteins is believed to constitute the major tumorigenic mechanism of this alteration due to the inhibitory effect of 2-HG on α-KG dependent dioxygenases. Among these, the TET hydroxylases are affected resulting in a severely altered methylation pattern of DNA[<span class="CitationRef"><a href="#CR11" data-toggle="citation" data-target="CR11">11</a></span>, <span class="CitationRef"><a href="#CR12" data-toggle="citation" data-target="CR12">12</a></span>] conferring an unknown advantage to these tumor cells.</p><p xmlns:func="http://oscar.fig.bmc.com" xmlns="http://www.w3.org/1999/xhtml" class="Para">In astrocytoma and oligodendroglioma, we detected higher 2-HG levels in rare IDH1 mutations than in the most common IDH1R132H alteration[<span class="CitationRef"><a href="#CR13" data-toggle="citation" data-target="CR13">13</a></span>]. A similar observation was made for IDH2, with cells carrying mutations affecting R172 exhibiting higher 2-HG concentrations than those with mutations in R140[<span class="CitationRef"><a href="#CR14" data-toggle="citation" data-target="CR14">14</a></span>]. These findings suggest different enzyme activity grades for the variant IDH mutants.</p><p xmlns:func="http://oscar.fig.bmc.com" xmlns="http://www.w3.org/1999/xhtml" class="Para">To explore the potential role of different mutation types in the formation of astrocytomas and oligodendroglial tumors, we determined the enzyme kinetics of wild type IDH1 and with the mutations R132H, R132C, R132G, R132S, R132L and R100Q followed by quantification of 2-HG in transfected cells and in human tumor tissues, and examined the effects on viability.</p></div></section>
+            <section xmlns="" xmlns:fn="http://www.w3.org/2005/xpath-functions" xmlns:meta="http://www.springer.com/app/meta" id="Sec2" class="Section1 RenderAsSection1"><h2 class="Heading js-ToggleCollapseSection">Methods</h2><div class="js-CollapseSection"><section id="Sec3" class="Section2 RenderAsSection2">
+                <h3 class="Heading">FFPE samples, DNA extraction and IDH1 sequencing</h3>
+                <p xmlns:func="http://oscar.fig.bmc.com" xmlns="http://www.w3.org/1999/xhtml" class="Para">The collection of IDH1 mutant tumors consist out of previously published specimen[<span class="CitationRef"><a href="#CR1" data-toggle="citation" data-target="CR1">1</a></span>, <span class="CitationRef"><a href="#CR2" data-toggle="citation" data-target="CR2">2</a></span>, <span class="CitationRef"><a href="#CR15" data-toggle="citation" data-target="CR15">15</a></span>] and tumors collected at the neuropathology department of the pathological institute of Heidelberg.</p>
+                <p xmlns:func="http://oscar.fig.bmc.com" xmlns="http://www.w3.org/1999/xhtml" class="Para">The DNA extractions form FFPE samples were performed by hand using Invisorb Genomic DNA Kit II (Invitek, Berlin, Germany) or semi-automated using Maxwell® 16 FFPE Plus LEV DNA Purification Kit (Promega, Madison, USA) following the manufacturer’s protocol.</p>
+                <p xmlns:func="http://oscar.fig.bmc.com" xmlns="http://www.w3.org/1999/xhtml" class="Para">The sequencing of published specimen was performed as described in the earlier publications. Our most recent probes were sequenced by generating a fragment of 212&nbsp;bp length spanning the catalytic domain of IDH1 including codon 100 and 132 using 60&nbsp;ng each of the sense primer IDH1-JM_f TGATGAGAAGAGGGTTGAGGA and the antisense primer IDH1-JM_r GCAAAATCACATTATTGCCAAC. PCR using standard buffer conditions, 20&nbsp;ng of DNA and GoTaq DNA Polymerase (Promega, Madison, USA) employed 35 cycles with denaturing at 95°C for 30&nbsp;s, annealing at 57°C for 40&nbsp;s and extension at 72°C for 50&nbsp;s in a total volume of 15&nbsp;μl.</p>
+                <p xmlns:func="http://oscar.fig.bmc.com" xmlns="http://www.w3.org/1999/xhtml" class="Para">A total of 2&nbsp;μl of the PCR amplification product was submitted to the sequencing reaction using the BigDye Terminator v3.1 Sequencing Kit (Applied Biosystems, Foster City, USA). Twenty-five cycles were performed employing 12&nbsp;ng of the sense primer IDH1-JM_f TGATGAGAAGAGGGTTGAGGA, with denaturing at 95°C for 30&nbsp;s, annealing at 57°C for 15&nbsp;s and extension at 60°C for 240&nbsp;s. A second round of sequencing analysis was performed using the antisense primer IDH1-JM_r GCAAAATCACATTATTGCCAAC and the sequencing reaction conditions as described above. Sequences were determined using the semi-automated sequencer (ABI 3100 Genetic Analyzer, Applied Biosystems, Foster City) and the Sequence Pilot version 3.1 (JSI-Medisys, Kippenheim, Germany) software.</p>
+              </section><section id="Sec4" class="Section2 RenderAsSection2">
+                <h3 class="Heading">IDH1 mutant generation and cloning</h3>
+                <p xmlns:func="http://oscar.fig.bmc.com" xmlns="http://www.w3.org/1999/xhtml" class="Para">IDH1 mutants were generated using the site directed mutagenesis method. Therefore, primers for each mutation were created and used on IDH1 wt cDNA in pDONR221 (DKFZ clone repository). Each mutation was confirmed by Sanger sequencing using the same procedure as described for the FFPE samples. The pDONR221 clones were used for all further LR-reactions into the described destination vectors. LR-reactions were performed following the manufacturers protocol (Invitrogen, Carlsbad, USA).</p>
+              </section><section id="Sec5" class="Section2 RenderAsSection2">
+                <h3 class="Heading">IDH1 protein purification</h3>
+                <p xmlns:func="http://oscar.fig.bmc.com" xmlns="http://www.w3.org/1999/xhtml" class="Para">To purify the different IDH1 proteins, the cDNAs were transferred into pDEST15 (Invitrogen, Carlsbad, USA), an <em xmlns="" class="EmphasisTypeItalic">E. coli</em> expression vector containing a N-terminal GST tag (Invitrogen, Carlsbad, USA). The pDEST15 vectors were then transfected into <em xmlns="" class="EmphasisTypeItalic">E.coli</em> expression strain KRX (Promega, Madison, USA). The <em xmlns="" class="EmphasisTypeItalic">E.coli</em> were then streaked out on lysogeny broth (LB)-plates containing Ampicillin (100&nbsp;μg/ml, Sigma-Aldrich, St. Luis, USA) and incubated at 37°C overnight. Six clones from each construct were transferred into 6&nbsp;ml liquid LB containing 100&nbsp;μg/ml Ampicillin and grown over night at 37°C in an orbital shaker (220&nbsp;rpm). From these overnight cultures we used aliquots to prepare two small cultures (10&nbsp;ml) for induction experiments. We only induced one culture from each colony following the manufacturer’s protocol (KRX protocol, Promega, Madison, USA). Briefly, inoculation of 1:100 of overnight culture, two hours incubation at 37°C and 220&nbsp;rpm in the orbital shaker followed by the induction with 0.1%&nbsp;L-Rhamnose (10% stock solution in water, AppliChem, Gatersleben, Germany) and four hours incubation at RT and 220&nbsp;rpm. Subsequently both cultures of each clone were harvested by centrifugation and resuspendet in GST-Lysis buffer from the Pierce® GST Spin Purification Kit (Thermo Scientific, Rockford, USA). Then they went through three freeze-thaw cycles with liquid nitrogen and a 15&nbsp;min sonification step, followed by a 15&nbsp;min centrifugation at 5000&nbsp;rpm on 4°C. The supernatant was used for a SDS-PAGE (Invitrogen, Carlsbad, USA). A coomassie stain of the gel showed us which colonies yield best results. We then used these clones according to the protocol described above to prepare 200&nbsp;ml cultures. The supernatant of these cultures were then used for protein purification with the Pierce® GST Spin Purification Kit (Thermo Scientific, Rockford, USA), following the manufacturer’s protocol.</p>
+              </section><section id="Sec6" class="Section2 RenderAsSection2">
+                <h3 class="Heading">IDH1 enzyme kinetics</h3>
+                <p xmlns:func="http://oscar.fig.bmc.com" xmlns="http://www.w3.org/1999/xhtml" class="Para">The measurement of the enzyme kinetics was performed with an Omega FluoStar (BMG Labtech, Ortenberg, Germany) equipped with a pump system, which was used to start the reaction, by adding 4&nbsp;μg protein to the reaction mixture. All measurements were performed in 96-well plates (BD Falcon, Franklin Lakes, USA) in a total volume of 100&nbsp;μl at 37°C. The reaction mixture consisted of Tris–HCl pH&nbsp;7.4 (50&nbsp;mM), MgCl<sub>2</sub> (2&nbsp;mM), NaCl (10&nbsp;mM), BSA (0.05%), NADP+/NAPDH (10&nbsp;mM or concentration row), and isocitrate/α-KG (10&nbsp;mM or concentration row). As a negative control we used the same mixture, but without isocitrate or α-KG, depending on the K<sub>M</sub> to be obtained. After the start of the reaction, a one second double orbital shaking (500&nbsp;rpm) was used to mix the reaction. Thereafter, every two minutes data was obtained from each well measuring the NADPH production or consumption (Ex. 340 +/- 10&nbsp;nm, Em. 440 +/- 10&nbsp;nm), depending on the reaction analyzed. All measurements were done in triplicate and at least 15 data points of each reaction were used for K<sub>M</sub> calculation. The mean of three independent measurements and the standard deviation of these is plotted for each K<sub>M</sub>.</p>
+              </section><section id="Sec7" class="Section2 RenderAsSection2">
+                <h3 class="Heading">D-2-hydroxyglutarate</h3>
+                <p xmlns:func="http://oscar.fig.bmc.com" xmlns="http://www.w3.org/1999/xhtml" class="Para">The 2-HG detection was performed with an enzymatic assay developed in our lab. Probe preparations and measurements were performed as described in[<span class="CitationRef"><a href="#CR16" data-toggle="citation" data-target="CR16">16</a></span>].</p>
+                <p xmlns:func="http://oscar.fig.bmc.com" xmlns="http://www.w3.org/1999/xhtml" class="Para">D-2-hydroxyglutarate was obtained from Sigma Aldrich (St. Luis, USA) as disodium salt (catalogue number H8378).</p>
+                <p xmlns:func="http://oscar.fig.bmc.com" xmlns="http://www.w3.org/1999/xhtml" class="Para">Octyl-D-2-hydroxyglutarate was synthesized following the method reported by Xu et al.[<span class="CitationRef"><a href="#CR12" data-toggle="citation" data-target="CR12">12</a></span>] with slight modifications (detailed protocol for D-2-hydroxyglutarate synthesis, see Additional file<span class="InternalRef"><a href="#MOESM1">1</a></span> and Additional file<span class="InternalRef"><a href="#MOESM2">2</a></span>: Figure S1).</p>
+              </section><section id="Sec8" class="Section2 RenderAsSection2">
+                <h3 class="Heading">Cell lines</h3>
+                <p xmlns:func="http://oscar.fig.bmc.com" xmlns="http://www.w3.org/1999/xhtml" class="Para">All cell lines were achieved from the ATCC and cultured under standard culture conditions (37°C, 5% CO<sub>2</sub>) in DMEM medium with 1% Penicillin and Streptomycin and 10% fetal calf serum (all obtained from Gibco® Invitrogen, Carlsbad, USA).</p>
+                <p xmlns:func="http://oscar.fig.bmc.com" xmlns="http://www.w3.org/1999/xhtml" class="Para">For the generation of IDH1R132H overexpressing cells, IDH1R132H in the destination vector pDEST26 (N-terminal 6x His Tag) was used. LN229 cells were transfected with IDH1R132H in pDEST26 vector by Fugene 6 (Promega, Madison, USA) followed by picking of single cell clones. Single cell clones were selected with 2&nbsp;mg/ml Gentamycin (Invitrogen, Carlsbad, USA). Clones that survived selection were analyzed for their expression of IDH1R132H by western blot. Clones H3 and H114 were chosen for further analysis, due to their different and stable expression levels of IDH1R132H.</p>
+                <p xmlns:func="http://oscar.fig.bmc.com" xmlns="http://www.w3.org/1999/xhtml" class="Para">For all experiments with the inducible expression system we used normal cell culture medium, but exchanged normal FCS with 10% Tet system approved FBS (Clontech, Mountain View, USA). To generate an inducible cell line we used the pT-REx-DEST system (Invitrogen, Carlsbad, USA). As a first step we transfected the cell line LN319 with pcDNA6/TR. From this transfection we generated single cell clones and tested their reliability by introducing EGFP in pT-REx-DEST30. We chose the clone with no GFP expression in tetracycline free media and with the highest expression after induction with 1&nbsp;μM Doxycycline (Sigma-Aldrich, St. Luis, USA). This clone 09 (K09) was then used for all further experiments.</p>
+                <p xmlns:func="http://oscar.fig.bmc.com" xmlns="http://www.w3.org/1999/xhtml" class="Para">For the experimental setup we used LN319 K09 transfected with IDH1 wild type (wt), the different IDH1 mutants, and GFP in pT-REx-DEST30. All cell lines were seeded as described under proliferation analysis. For each cell line two triplicates were seeded. One was induced with 1&nbsp;μg/ml Doxycycline, the other one was treated with the comparable amount of solvent (DMSO, Sigma-Aldrich, St. Luis, USA).</p>
+                <p xmlns:func="http://oscar.fig.bmc.com" xmlns="http://www.w3.org/1999/xhtml" class="Para">To generate cell lines which express IDH1 wt and mutant proteins, we used cDNAs in pMXs-GW-IRES-BsdR and transfected them into HEK293T cells with FuGene®. Cells were subsequently put under selection pressure, by adding 4&nbsp;μg/ml Blasticidine S (Sigma-Aldrich, St. Luis, USA). As control we used GFP in pMXs-GW-IRES-BsdR.</p>
+              </section><section id="Sec9" class="Section2 RenderAsSection2">
+                <h3 class="Heading">Cell line analysis</h3>
+                <p xmlns:func="http://oscar.fig.bmc.com" xmlns="http://www.w3.org/1999/xhtml" class="Para">For cell number analysis CellTiterGlo (Promega, Madison, USA) was used in 96-well plate format. All cells were seeded at a density of 5,000 cells/well and subsequently treated. Measurements were performed at the indicated time points following the manufacturer’s protocol.</p>
+                <p xmlns:func="http://oscar.fig.bmc.com" xmlns="http://www.w3.org/1999/xhtml" class="Para">All migration assays were performed with Ibidis Culture-Inserts. In each well of the insert, 50,000 cells were seeded. After 24&nbsp;h, the cells were treated with 10&nbsp;μg/ml Mitomycin C (Sigma-Aldrich, St. Luis, USA) for 2&nbsp;h, to avoid the influence of proliferation in the assay. Afterward, the inserts were removed leaving a gap of 500&nbsp;μm +/- 50&nbsp;μm. Cells were washed with PBS once and thereafter normal medium was applied. This medium was subsequently substituted with 2-HG at the given concentrations. The gap was microscopically documented at the start and the indicated time points. The pictures were analyzed with TScratch (<span class="ExternalRef"><a href="http://chaton.ethz.ch/software/"><span class="RefSource">http://chaton.ethz.ch/software/</span></a></span>) and the area closed after the indicated time point was plotted in the graph.</p>
+                <p xmlns:func="http://oscar.fig.bmc.com" xmlns="http://www.w3.org/1999/xhtml" class="Para">The soft agar assays were performed in 6-well plates. The wells were prepared with a 1% agar solution (Agar noble, US Biological, Salem, USA) as base agar. On top of this, 5,000 cells in 0.35% agar were seeded and grown for 14 days. The cells were stained with 0.00025% crystal violet solution and colonies &gt; 1&nbsp;mm<sup>2</sup> were counted.</p>
+              </section></div></section>
+            <section xmlns="" xmlns:fn="http://www.w3.org/2005/xpath-functions" xmlns:meta="http://www.springer.com/app/meta" id="Sec10" class="Section1 RenderAsSection1"><h2 class="Heading js-ToggleCollapseSection">Results</h2><div class="js-CollapseSection"><section id="Sec11" class="Section2 RenderAsSection2">
+                <h3 class="Heading">Distribution of IDH1 mutations in gliomas</h3>
+                <div xmlns:func="http://oscar.fig.bmc.com" xmlns="http://www.w3.org/1999/xhtml" class="Para">Including data from a previous study[<span class="CitationRef"><a href="#CR2" data-toggle="citation" data-target="CR2">2</a></span>] and on ongoing routine analysis of all diffuse astrocytoma and oligodendroglioma in the Department of Neuropathology at the University Heidelberg, the present series of IDH1 mutated gliomas comprises tumors from 1,976 patients. These 1,976 tumors represent only the immunohistochemical and sequence verified IDH1 mutant cases out of the whole collection of glial tumors in our department. The frequency of IDH1 mutations in these tumors decreases in the order R132H (91.5%), R132C (4.3%), R132G (1.9%), R132S (1.6%), R132L (0.6%) and R100Q (0.3%). Incidences of the mutations are given in Figure&nbsp;<span class="InternalRef"><a href="#Fig1">1</a></span>.<figure xmlns="" class="Figure" id="Fig1"><div xmlns="http://www.w3.org/1999/xhtml" class="MediaObject">
+                      <a target="_blank" href="http://media.springernature.com/full/springer-static/image/art%3A10.1186%2F2051-5960-2-19/MediaObjects/40478_2013_Article_97_Fig1_HTML.jpg"><img src="http://media.springernature.com/lw785/springer-static/image/art%3A10.1186%2F2051-5960-2-19/MediaObjects/40478_2013_Article_97_Fig1_HTML.jpg"></img></a>
+                    </div><figcaption class="Caption" lang="en"><div xmlns="http://www.w3.org/1999/xhtml" class="CaptionContent"><span class="CaptionNumber">Figure 1</span>
+                        <p xmlns="" class="SimplePara">
+<strong class="EmphasisTypeBold">Distribution of IDH1 mutation types.</strong> Distribution of mutation types in the Heidelberg series of 1,976 diffuse astrocytomas and oligodendrogliomas with <em class="EmphasisTypeItalic">IDH1</em> mutations.</p>
+                      </div></figcaption></figure>
+</div>
+              </section><section id="Sec12" class="Section2 RenderAsSection2">
+                <h3 class="Heading">2-HG in tumor tissue</h3>
+                <div xmlns:func="http://oscar.fig.bmc.com" xmlns="http://www.w3.org/1999/xhtml" class="Para">We determined the amount of 2-HG in glioma tissue. The limiting step of our analyses was the low incidence of IDH1 mutations in gliomas other than R132H. Sufficient formalin fixed and paraffin embedded tissue was available from 9 tumors with R132C, 6 tumors with R132G and 1 each with R132S and R132L. Due to loss of 2-HG during the processing up to paraffin embedding[<span class="CitationRef"><a href="#CR13" data-toggle="citation" data-target="CR13">13</a></span>], only approximate values for 2-HG could be determined. Lowest 2-HG levels were detected in tumors with R132H followed by R132C and then R132G. The single tumors with R132S and R132L mutation also exhibited high levels of 2-HG. No 2-HG was detected in 5 control glioma samples without IDH1 mutation. The data is shown in Figure&nbsp;<span class="InternalRef"><a href="#Fig2">2</a></span>.<figure xmlns="" class="Figure" id="Fig2"><div xmlns="http://www.w3.org/1999/xhtml" class="MediaObject">
+                      <a target="_blank" href="http://media.springernature.com/full/springer-static/image/art%3A10.1186%2F2051-5960-2-19/MediaObjects/40478_2013_Article_97_Fig2_HTML.jpg"><img src="http://media.springernature.com/lw785/springer-static/image/art%3A10.1186%2F2051-5960-2-19/MediaObjects/40478_2013_Article_97_Fig2_HTML.jpg"></img></a>
+                    </div><figcaption class="Caption" lang="en"><div xmlns="http://www.w3.org/1999/xhtml" class="CaptionContent"><span class="CaptionNumber">Figure 2</span>
+                        <p xmlns="" class="SimplePara">
+<strong class="EmphasisTypeBold">D</strong> <strong class="EmphasisTypeBold">-2-hydroxyglutarate levels in FFPE tissue.</strong> D-2-hydroxyglutarate levels in FFPE tissue from diffuse astrocytomas and oligodendrogliomas with <em class="EmphasisTypeItalic">IDH1</em> mutations. Shown are the levels of 6 IDH1 wt tumors, 25 with IDH1R132H, 8 with IDH1R132C and 7 with IDH1R132G. All mutant tumors show significant (** = p ≤ 0.01) higher 2-HG levels than wildtype tumors, but only the difference between R132H and R132G mutation was statistically significant (* = p ≤ 0.05).</p>
+                      </div></figcaption></figure>
+</div>
+              </section><section id="Sec13" class="Section2 RenderAsSection2">
+                <h3 class="Heading">Enzyme kinetics</h3>
+                <div xmlns:func="http://oscar.fig.bmc.com" xmlns="http://www.w3.org/1999/xhtml" class="Para">Recombinant expression of proteins with IDH1 mutations followed by purification enabled the determination of Michaelis constants for each mutant protein with the substrate α-KG. A high K<sub>M</sub> of α-KG was observed for the R132H mutation (243.7&nbsp;μM) whereas lower K<sub>M</sub>’s were seen for R132G (67.4&nbsp;μM), R132C (33.7&nbsp;μM), R132S (26.1&nbsp;μM) and R132L (11.8&nbsp;μM). Data is shown in Figure&nbsp;<span class="InternalRef"><a href="#Fig3">3</a></span>A.<figure xmlns="" class="Figure" id="Fig3"><div xmlns="http://www.w3.org/1999/xhtml" class="MediaObject">
+                      <a target="_blank" href="http://media.springernature.com/full/springer-static/image/art%3A10.1186%2F2051-5960-2-19/MediaObjects/40478_2013_Article_97_Fig3_HTML.jpg"><img src="http://media.springernature.com/lw785/springer-static/image/art%3A10.1186%2F2051-5960-2-19/MediaObjects/40478_2013_Article_97_Fig3_HTML.jpg"></img></a>
+                    </div><figcaption class="Caption" lang="en"><div xmlns="http://www.w3.org/1999/xhtml" class="CaptionContent"><span class="CaptionNumber">Figure 3</span>
+                        <p xmlns="" class="SimplePara">
+<strong class="EmphasisTypeBold">K</strong>
+<sub xmlns="http://www.w3.org/1999/xhtml">
+                            <strong xmlns="" class="EmphasisTypeBold">M</strong>
+                          </sub> <strong class="EmphasisTypeBold">values and</strong> <strong class="EmphasisTypeBold">D</strong> <strong class="EmphasisTypeBold">-2-hydroxyglutarate levels of IDH1 mutation types.</strong> K<sub xmlns="http://www.w3.org/1999/xhtml">M</sub> values of IDH1 mutation types for α-ketoglutarate <strong class="EmphasisTypeBold">(A)</strong> and isocitrate <strong class="EmphasisTypeBold">(B)</strong>. The K<sub xmlns="http://www.w3.org/1999/xhtml">M</sub> value for α-ketoglutarate of IDH1 wt and the K<sub xmlns="http://www.w3.org/1999/xhtml">M</sub> values for isocitrate of all IDH1<sup xmlns="http://www.w3.org/1999/xhtml">R132</sup> mutations could not be determined. Therefore K<sub xmlns="http://www.w3.org/1999/xhtml">M</sub> values of R132 mutations are not shown. All K<sub xmlns="http://www.w3.org/1999/xhtml">M</sub> values are significantly different from each other with a p-value of ≤0.01, if not otherwise stated (* = p ≤ 0.05 or n.s. = not significant). All measurements were done in triplicate from different protein purifications. D-2-hydroxyglutarate levels in HEK293T cells ectopically expressing different IDH1 mutations and wild type IDH1 <strong class="EmphasisTypeBold">(C)</strong>. Levels are measured in cells from one confluent dish of 6-well Plate 72&nbsp;h after seeding. All D-2-hydroxyglutarate levels of the mutant IDH1 expressing cells are significantly higher (p ≤ 0.01) than both controls (wt and GFP). The levels of all other R132 mutants are significantly higher than the one of R132H (p-value: * = p ≤ 0.05 and ** = p ≤ 0.01). Only the level of R100Q is significant lower than the level of R132H (p-value: ** = p ≤ 0.01).</p>
+                      </div></figcaption></figure>
+</div>
+                <p xmlns:func="http://oscar.fig.bmc.com" xmlns="http://www.w3.org/1999/xhtml" class="Para">The very rare R100Q mutation exhibited a high K<sub>M</sub> of (3671.1&nbsp;μM). This was the only mutated IDH1 protein for which a Michaelis constant for isocitrate was detected (K<sub>M</sub> = 2724.0&nbsp;μM) (Figures&nbsp;<span class="InternalRef"><a href="#Fig3">3</a></span>A and<span class="InternalRef"><a href="#Fig3">3</a></span>B). To further validate this data, we transfected HEK293T cells with all different IDH1 variants and determined the cellular 2-HG level (Figure&nbsp;<span class="InternalRef"><a href="#Fig3">3</a></span>C). As expected the R132C mutant produced more 2-HG than R132H mutant. Also, the other mutants R132G, R132S and R132L all produced more than R132H. However, the 2-HG concentration measured did not exactly correspond to the K<sub>M</sub> values determined. The 2-HG concentration from R100Q was as low as expected, ranging below that from R132H. To exclude the possibility that the different 2-HG concentrations are due to differential expression of the respective mutant proteins or different protein stabilities, we performed a western blot demonstrating comparable protein quantity (Additional file<span class="InternalRef"><a href="#MOESM3">3</a></span>: Figure S5).</p>
+              </section><section id="Sec14" class="Section2 RenderAsSection2">
+                <h3 class="Heading">Cell viability dependence on 2-HG concentration</h3>
+                <div xmlns:func="http://oscar.fig.bmc.com" xmlns="http://www.w3.org/1999/xhtml" class="Para">Viability upon exogenous exposure to 2-HG was tested using immortalized human astrocytes, HEK293T cells, and seven glioma lines (LN18, LN229, LN319, A172, U87, U373, T98G) by addition of cell permeable octyl-2-HG to medium[<span class="CitationRef"><a href="#CR12" data-toggle="citation" data-target="CR12">12</a></span>]. To determine the concentration range to be used, we calculated the molar 2-HG concentrations in the tumor specimens from previous reports[<span class="CitationRef"><a href="#CR17" data-toggle="citation" data-target="CR17">17</a></span>, <span class="CitationRef"><a href="#CR18" data-toggle="citation" data-target="CR18">18</a></span>] and our tumor material. For converting concentrations given in μmol/g to molarities we assumed brain tumor tissue density to be similar to normal human brain tissue measuring 1.054 +/- 0.014&nbsp;g/cm<sup>3</sup>[<span class="CitationRef"><a href="#CR19" data-toggle="citation" data-target="CR19">19</a></span>]. On this basis, 2-HG concentrations in brain tumor tissues range from 0.1–126&nbsp;mM. We, therefore, added cell permeable octyl-2-HG to cell medium in concentrations ranging from 100&nbsp;μM to 150&nbsp;mM. All cell lines challenged perished at 2-HG concentrations of 7.5&nbsp;mM and above. Therefore, only data using octyl-2-HG concentrations ranging from 250&nbsp;μM to 7.5&nbsp;mM are shown in Figure&nbsp;<span class="InternalRef"><a href="#Fig4">4</a></span>A.<figure xmlns="" class="Figure" id="Fig4"><div xmlns="http://www.w3.org/1999/xhtml" class="MediaObject">
+                      <a target="_blank" href="http://media.springernature.com/full/springer-static/image/art%3A10.1186%2F2051-5960-2-19/MediaObjects/40478_2013_Article_97_Fig4_HTML.jpg"><img src="http://media.springernature.com/lw785/springer-static/image/art%3A10.1186%2F2051-5960-2-19/MediaObjects/40478_2013_Article_97_Fig4_HTML.jpg"></img></a>
+                    </div><figcaption class="Caption" lang="en"><div xmlns="http://www.w3.org/1999/xhtml" class="CaptionContent"><span class="CaptionNumber">Figure 4</span>
+                        <p xmlns="" class="SimplePara">
+<strong class="EmphasisTypeBold">D</strong> <strong class="EmphasisTypeBold">-2-hydroxyglutarate toxicity and analysis of two LN229 sublines.</strong> Octyl-D-2-hydroxyglutarate mediated toxicity in different cell lines <strong class="EmphasisTypeBold">(A)</strong>. D-2-hydroxyglutarate mediated toxicity in different cell lines <strong class="EmphasisTypeBold">(B)</strong>. Toxicity was measured 48&nbsp;h after treatment. Plotted are the relative cell numbers in % compared to the corresponding untreated control. D-2-hydroxyglutarate levels in LN229 glioma cell line and two LN229 glioma cell subclones H3 and H114 overexpressing different protein levels of R132H <strong class="EmphasisTypeBold">(C)</strong>. All D-2-hydroxyglutarate levels are significantly different from each other (p ≤ 0.01). Proliferation of LN229 glioma cell line and of two LN229 glioma cell subclones H3 and H114 overexpressing different protein levels of R132H <strong class="EmphasisTypeBold">(D)</strong>. The relative cell numbers were determined 48&nbsp;h after seeding and are plotted in % compared to the corresponding control. The enhanced proliferation of subclone H3 is not significant compared to the parental line, but the reduced proliferation of subclone H114 is statistically significant compared to both other lines (p ≤ 0.01).</p>
+                      </div></figcaption></figure>
+</div>
+                <p xmlns:func="http://oscar.fig.bmc.com" xmlns="http://www.w3.org/1999/xhtml" class="Para">Due to the high toxicity of octyl-2-HG we switched to the less cell permeable sodium salt of 2-HG, because we aimed for more physiological concentrations in our experiments. We added this 2-HG to HEK293T, human astrocytes and LN229 in concentrations ranging from 500&nbsp;μM to 50&nbsp;mM. Concentrations at the low end from 500&nbsp;μM to 1&nbsp;mM had no significant effect on proliferation. From 2.5&nbsp;mM to 50&nbsp;mM, increasing toxicity was observed with LN229 being more resistant than HEK293T and human astrocytes (Figure&nbsp;<span class="InternalRef"><a href="#Fig4">4</a></span>B).</p>
+                <p xmlns:func="http://oscar.fig.bmc.com" xmlns="http://www.w3.org/1999/xhtml" class="Para">In order to test the effect of endogenous 2-HG we transfected LN229 with pDEST26 containing an IDH1R132H construct. Two clones H3 and H114 were established by single cell cloning, both stably producing 2-HG, albeit at different levels. Clone LN229 H3 contained 6.58 pmol 2-HG/μg total protein, a concentration not significantly affecting proliferation. In fact, a trend for higher proliferation was noted. In contrast, clone LN229 H114 containing 13.94 pmol 2-HG/μg total protein exhibited a significant reduction of proliferation (Figures&nbsp;<span class="InternalRef"><a href="#Fig4">4</a></span>D).</p>
+              </section><section id="Sec15" class="Section2 RenderAsSection2">
+                <h3 class="Heading">Concentration dependent toxicity of different IDH1 mutations</h3>
+                <p xmlns:func="http://oscar.fig.bmc.com" xmlns="http://www.w3.org/1999/xhtml" class="Para">We transfected in LN319 and HEK293T cells with pcDNA6/TR and selected single colonies. This was done to have cell lines with high expression of TR (tet repressor) sufficient for silencing pT-Rex-DEST30 prior to induction with Doxycycline.</p>
+                <p xmlns:func="http://oscar.fig.bmc.com" xmlns="http://www.w3.org/1999/xhtml" class="Para">We cloned IDH1 wt, all the R132 mutants and the R100Q mutant in pT-Rex-DEST30, and transfected these constructs into LN319 and HEK293T containing pcDNA6/TR. Then, the expression of the respective mutant IDH protein was induced.</p>
+                <div xmlns:func="http://oscar.fig.bmc.com" xmlns="http://www.w3.org/1999/xhtml" class="Para">Induction of R132H had no effect on proliferation in LN319, but in HEK293T it lead to a reduction in growth. Induction of all the mutations with lower K<sub>M</sub> for α-KG resulted in reduced cell growth in both lines. As expected, expression of the R100Q mutation, producing low levels of 2-HG, also had no effect on growth in LN319. Neither expression of wt IDH1 protein nor of GFP affected cell growth in LN319. Results of growth kinetics for the different transfectants are shown in Figure&nbsp;<span class="InternalRef"><a href="#Fig5">5</a></span>.<figure xmlns="" class="Figure" id="Fig5"><div xmlns="http://www.w3.org/1999/xhtml" class="MediaObject">
+                      <a target="_blank" href="http://media.springernature.com/full/springer-static/image/art%3A10.1186%2F2051-5960-2-19/MediaObjects/40478_2013_Article_97_Fig5_HTML.jpg"><img src="http://media.springernature.com/lw785/springer-static/image/art%3A10.1186%2F2051-5960-2-19/MediaObjects/40478_2013_Article_97_Fig5_HTML.jpg"></img></a>
+                    </div><figcaption class="Caption" lang="en"><div xmlns="http://www.w3.org/1999/xhtml" class="CaptionContent"><span class="CaptionNumber">Figure 5</span>
+                        <p xmlns="" class="SimplePara">
+<strong class="EmphasisTypeBold">Proliferation analysis of LN319 glioma and HEK293T cells with and without induction of mutant IDH expression.</strong> Cell viability of LN319 glioma and HEK293T cells bearing tetracycline inducible constructs of different IDH mutations and controls 72&nbsp;h after induction. Shown are the relative cell numbers compared to the corresponding uninduced controls. The significant differences are depicted in the figure with their corresponding to their p-values (* = p ≤ 0.05 and ** = p ≤ 0.01).</p>
+                      </div></figcaption></figure>
+</div>
+              </section><section id="Sec16" class="Section2 RenderAsSection2">
+                <h3 class="Heading">Effect of 2-HG concentration on migration and colony formation</h3>
+                <div xmlns:func="http://oscar.fig.bmc.com" xmlns="http://www.w3.org/1999/xhtml" class="Para">Wound healing assays were performed employing LN229 and different concentrations of 2-HG. In addition, we performed this assay employing LN229 H3 and LN229 H114 cells with ectopic expression of mutant R132H IDH protein at different levels. Addition of 2-HG at low concentration of 100&nbsp;μM resulted in enhanced migration, which was less pronounced at higher concentrations of 10&nbsp;mM. LN229 H3 showed a migration rate higher than the parental LN229 while LN229 H114 did not differ from LN229 in this respect (Figure&nbsp;<span class="InternalRef"><a href="#Fig6">6</a></span>A).<figure xmlns="" class="Figure" id="Fig6"><div xmlns="http://www.w3.org/1999/xhtml" class="MediaObject">
+                      <a target="_blank" href="http://media.springernature.com/full/springer-static/image/art%3A10.1186%2F2051-5960-2-19/MediaObjects/40478_2013_Article_97_Fig6_HTML.jpg"><img src="http://media.springernature.com/lw785/springer-static/image/art%3A10.1186%2F2051-5960-2-19/MediaObjects/40478_2013_Article_97_Fig6_HTML.jpg"></img></a>
+                    </div><figcaption class="Caption" lang="en"><div xmlns="http://www.w3.org/1999/xhtml" class="CaptionContent"><span class="CaptionNumber">Figure 6</span>
+                        <p xmlns="" class="SimplePara">
+<strong class="EmphasisTypeBold">Migration and soft agar analysis of LN229 treated with</strong> <strong class="EmphasisTypeBold">D</strong> <strong class="EmphasisTypeBold">-2-hydroxyglutarate and LN229 subclones.</strong> Migration of LN229 and subclones H3 and H114 after 72&nbsp;h. LN229 cells were treated with 100&nbsp;μM or 10&nbsp;mM 2-HG. Subclones H3 and H114 expressed R132H protein in different amounts <strong class="EmphasisTypeBold">(A)</strong>. Plotted is the open area after 24&nbsp;h of incubation. Treatment with 100&nbsp;μM 2-HG or ectopic expression of low amounts of R132H protein (subclone H3) increased migration speed significantly (** = p ≤ 0.01). Colony formation in soft agar of the same cells in the same setting <strong class="EmphasisTypeBold">(B)</strong>. Shown are the relative colony numbers compared to the untreated parental line (100%). The 2-HG treatment could significantly (* = p ≤ 0.05) increase colony formation independent of the used concentration. An even stronger increase (** = p ≤ 0.01) could be measured for subclone H3, but no difference could be detected for subclone H114.</p>
+                      </div></figcaption></figure>
+</div>
+                <p xmlns:func="http://oscar.fig.bmc.com" xmlns="http://www.w3.org/1999/xhtml" class="Para">Colony formation in soft agar was augmented upon exposure to 2-HG in moderate concentrations. Concentrations of 100&nbsp;μM and 10&nbsp;mM 2-HG in medium both resulted in an increase of colonies by 61% and 59%, respectively. LN229 H3 containing 6.58 pmol 2-HG/μg total protein exhibited a 3-fold increase in colony formation. In contrast, LN229 H114 containing 13.94 pmol 2-HG/μg total protein did not form significantly more colonies than LN229 without treatment (Figure&nbsp;<span class="InternalRef"><a href="#Fig6">6</a></span>B).</p>
+              </section></div></section>
+            <section xmlns="" xmlns:fn="http://www.w3.org/2005/xpath-functions" xmlns:meta="http://www.springer.com/app/meta" id="Sec17" class="Section1 RenderAsSection1"><h2 class="Heading js-ToggleCollapseSection">Discussion</h2><div class="js-CollapseSection"><p xmlns:func="http://oscar.fig.bmc.com" xmlns="http://www.w3.org/1999/xhtml" class="Para">The IDH1 mutation of the R132H type by far outnumbers the other IDH1 mutations in diffuse astrocytic and oligodendroglial tumors. In order to provide a hypothesis for this lopsided distribution, we characterized biochemical features of different IDH1 mutations, analyzed native tumors and performed experiments addressing the effects of different mutations on <em xmlns="" class="EmphasisTypeItalic">in vitro</em> systems.</p><p xmlns:func="http://oscar.fig.bmc.com" xmlns="http://www.w3.org/1999/xhtml" class="Para">Common to all IDH1 mutations is acquisition of a neo-enzymatic activity with the ability to convert α-KG to 2-HG. Thus, we determined the Michaelis constants of mutated IDH proteins for the substrate α-KG. We detected the highest K<sub>M</sub> for α-KG in protein carrying the R132H mutation followed by R132G, R132C, R132S and R132L (Figure&nbsp;<span class="InternalRef"><a href="#Fig3">3</a></span>). While increased 2-HG levels are expected to provide a selection advantage for early tumor cells, it should be kept in mind that high 2-HG levels may be toxic. Thus, positive discrimination for a mutation type resulting in a protein with moderate activity for features beneficial at low but potentially deleterious at high dose is well compatible with a selection process.</p><p xmlns:func="http://oscar.fig.bmc.com" xmlns="http://www.w3.org/1999/xhtml" class="Para">A beneficial effect of moderately increased 2-HG on proliferation (cell line LN229 H3, 6.58 pmol 2-HG/μg total protein) is demonstrated in Figure&nbsp;<span class="InternalRef"><a href="#Fig4">4</a></span>D. In contrast, strongly increased 2-HG levels (cell line LN229 H114, 13.94 pmol 2-HG/μg total protein) did not favor proliferation. Similarly, migration could be increased for LN229 by 100&nbsp;μM 2-HG in the medium and slightly less by 10&nbsp;mM 2-HG in the medium. Moreover, the cell line LN229 H3 with moderately induced 2-HG production exhibited increased migration compared to LN229. LN229 H114, with higher 2-HG production, did not migrate significantly faster than LN229 (Figure&nbsp;<span class="InternalRef"><a href="#Fig6">6</a></span>A). Likewise, colony formation was strongly supported by moderate 2-HG concentrations in the LN229 and subclone LN229 H3. In contrast, LN229 H114, producing high levels of 2-HG, exhibited no benefit (Figure&nbsp;<span class="InternalRef"><a href="#Fig6">6</a></span>B).</p><p xmlns:func="http://oscar.fig.bmc.com" xmlns="http://www.w3.org/1999/xhtml" class="Para">To test the effect of 2-HG on viability of cells we added 2-HG, or the more cell permeable octyl-2-HG[<span class="CitationRef"><a href="#CR12" data-toggle="citation" data-target="CR12">12</a></span>], to culture medium. In our models employing human astrocytes and HEK293T, LD<sub>50</sub> for 2-HG was determined for concentrations between 5&nbsp;mM and 10&nbsp;mM while the LD<sub>50</sub> for LN229 was approximately 50&nbsp;mM (Figure&nbsp;<span class="InternalRef"><a href="#Fig4">4</a></span>B). In the same cell lines and several more, the LD<sub>50</sub> for octyl-2-HG was reached at approximately 750&nbsp;μM (Figure&nbsp;<span class="InternalRef"><a href="#Fig4">4</a></span>A). Moreover, transfection and induction of the different IDH1 mutations into LN319 cells demonstrated no influence on proliferation for R132H; however, the other mutations with lower K<sub>M</sub> for α-KG inhibited proliferation. These findings demonstrated considerable cell toxicity of 2-HG.</p><p xmlns:func="http://oscar.fig.bmc.com" xmlns="http://www.w3.org/1999/xhtml" class="Para">To further support this hypothesis we analyzed the amount of 2-HG in formalin fixed and paraffin embedded brain tumors harboring different IDH mutations. The limiting step of our analyses was the low incidence of IDH1 mutations other than R132H in gliomas. The detection of moderately increased 2-HG levels in tumors with the IDH1R132H mutation and higher levels in the rare mutation types matched well with the different affinities for α-KG of the respective mutations.</p><p xmlns:func="http://oscar.fig.bmc.com" xmlns="http://www.w3.org/1999/xhtml" class="Para">Thus, in glioma cells we demonstrate beneficial effects of moderate 2-HG concentrations for proliferation, migration and colony formation and toxic effects on these readouts for high 2-HG concentrations. This would well match a model favoring an IDH1 mutation with an intermediate K<sub>M</sub> for α-KG.</p><p xmlns:func="http://oscar.fig.bmc.com" xmlns="http://www.w3.org/1999/xhtml" class="Para">These findings may explain the strong preponderance of the IDH1R132H mutation type in glioma.</p><p xmlns:func="http://oscar.fig.bmc.com" xmlns="http://www.w3.org/1999/xhtml" class="Para">Both exo- and endogenous mechanisms affect types of mutation in DNA. Sporadic primary brain tumors in humans have not been shown to be associated with typical exogenous DNA damage such as ultraviolet-induced DNA-damage or that following exposure to carcinogens. It is unresolved whether accumulation of distinct mutations such as IDH1 originates from an endogenously mediated increase or a specific failure of repairing this distinct alteration. In low grade glioma, cytosine to thymidine transitions constitute the most frequent mutation type on the single nucleotide level[<span class="CitationRef"><a href="#CR20" data-toggle="citation" data-target="CR20">20</a></span>]. R132H facilitated by a CGT to CAT change corresponds to a C to T transition on the reverse strand. On the other hand, R132C facilitated by CGT to TGT is based on this transition on the coding strand. Neglecting potential repair of the C to T transition on the reverse strand during replication, R132H and R132C could be expected to occur with comparable frequency. This holds true for these mutations in acute myeloid leukemia[<span class="CitationRef"><a href="#CR5" data-toggle="citation" data-target="CR5">5</a></span>, <span class="CitationRef"><a href="#CR21" data-toggle="citation" data-target="CR21">21</a></span>]. In contrast, IDH1R132H dominates in diffuse gliomas and R132C appears to be the most frequent mutation in chondrosarcoma[<span class="CitationRef"><a href="#CR6" data-toggle="citation" data-target="CR6">6</a></span>, <span class="CitationRef"><a href="#CR7" data-toggle="citation" data-target="CR7">7</a></span>] and intrahepatic cholangiocarcinoma[<span class="CitationRef"><a href="#CR8" data-toggle="citation" data-target="CR8">8</a></span>, <span class="CitationRef"><a href="#CR22" data-toggle="citation" data-target="CR22">22</a></span>]. Thus, the strong bias for IDH1R132H mutation in astrocytoma and oligodendroglioma may support a selection bias for this alteration.</p></div></section>
+            <section xmlns="" xmlns:fn="http://www.w3.org/2005/xpath-functions" xmlns:meta="http://www.springer.com/app/meta" id="Sec18" class="Section1 RenderAsSection1"><h2 class="Heading js-ToggleCollapseSection">Conclusion</h2><div class="js-CollapseSection"><p xmlns:func="http://oscar.fig.bmc.com" xmlns="http://www.w3.org/1999/xhtml" class="Para">We determined significantly different enzymatic activities for distinct IDH1 mutations and provide a selection based hypothesis for the preponderance of the IDH1R132H mutation in astrocytoma and oligodendroglioma.</p></div></section>
+          <section xmlns="" xmlns:fn="http://www.w3.org/2005/xpath-functions" xmlns:meta="http://www.springer.com/app/meta" class="Section1 RenderAsSection1" id="Declarations"><h2 class="Heading js-ToggleCollapseSection">
+              Declarations
+            </h2><div class="js-CollapseSection"><aside class="Appendix" id="App1">
+              
+                <h3 class="Heading">Electronic supplementary material</h3><div id="widgetContainer"></div>
+                <div xmlns:func="http://oscar.fig.bmc.com" xmlns="http://www.w3.org/1999/xhtml" class="Para">
+                  <div class="MediaObject" id="MOESM1">
+                    <div xmlns="" class="esm-item "><div xmlns="http://www.w3.org/1999/xhtml" class="caption-container"><a class="filename" href="https://static-content.springer.com/esm/art%3A10.1186%2F2051-5960-2-19/MediaObjects/40478_2013_97_MOESM1_ESM.pdf">40478_2013_97_MOESM1_ESM.pdf</a>
+                          <span xmlns="" class="SimplePara">Additional file 1: d-2-hydroxyglutarate synthesis. (PDF 442 KB)</span>
+                        </div></div>
+                  </div>
+                  <div class="MediaObject" id="MOESM2">
+                    <div xmlns="" class="esm-item "><div xmlns="http://www.w3.org/1999/xhtml" class="caption-container"><a class="filename" href="https://static-content.springer.com/esm/art%3A10.1186%2F2051-5960-2-19/MediaObjects/40478_2013_97_MOESM2_ESM.pdf">40478_2013_97_MOESM2_ESM.pdf</a>
+                          <span xmlns="" class="SimplePara">Additional file 2: Figure S1: Synthetic route to octyl-D-2-HG. (PDF 25 KB)</span>
+                        </div></div>
+                  </div>
+                  <div class="MediaObject" id="MOESM3">
+                    <div xmlns="" class="esm-item "><div xmlns="http://www.w3.org/1999/xhtml" class="caption-container"><a class="filename" href="https://static-content.springer.com/esm/art%3A10.1186%2F2051-5960-2-19/MediaObjects/40478_2013_97_MOESM3_ESM.pdf">40478_2013_97_MOESM3_ESM.pdf</a>
+                          <span xmlns="" class="SimplePara">Additional file 3: Figure S5: Western blot analysis of overexpression cell lines. (PDF 30 KB)</span>
+                        </div></div>
+                  </div>
+                </div>
+              
+              
+                
+                <div xmlns:func="http://oscar.fig.bmc.com" xmlns="http://www.w3.org/1999/xhtml" class="Para">Below are the links to the authors’ original submitted files for images.<div class="MediaObject" id="MOESM4">
+                    <div xmlns="" class="esm-item "><div xmlns="http://www.w3.org/1999/xhtml" class="caption-container"><a class="filename" href="https://static-content.springer.com/esm/art%3A10.1186%2F2051-5960-2-19/MediaObjects/40478_2013_97_MOESM4_ESM.pdf">40478_2013_97_MOESM4_ESM.pdf</a>
+                          <span xmlns="" class="SimplePara">Authors’ original file for figure 1</span>
+                        </div></div>
+                  </div>
+<div class="MediaObject" id="MOESM5">
+                    <div xmlns="" class="esm-item "><div xmlns="http://www.w3.org/1999/xhtml" class="caption-container"><a class="filename" href="https://static-content.springer.com/esm/art%3A10.1186%2F2051-5960-2-19/MediaObjects/40478_2013_97_MOESM5_ESM.pdf">40478_2013_97_MOESM5_ESM.pdf</a>
+                          <span xmlns="" class="SimplePara">Authors’ original file for figure 2</span>
+                        </div></div>
+                  </div>
+<div class="MediaObject" id="MOESM6">
+                    <div xmlns="" class="esm-item "><div xmlns="http://www.w3.org/1999/xhtml" class="caption-container"><a class="filename" href="https://static-content.springer.com/esm/art%3A10.1186%2F2051-5960-2-19/MediaObjects/40478_2013_97_MOESM6_ESM.pdf">40478_2013_97_MOESM6_ESM.pdf</a>
+                          <span xmlns="" class="SimplePara">Authors’ original file for figure 3</span>
+                        </div></div>
+                  </div>
+<div class="MediaObject" id="MOESM7">
+                    <div xmlns="" class="esm-item "><div xmlns="http://www.w3.org/1999/xhtml" class="caption-container"><a class="filename" href="https://static-content.springer.com/esm/art%3A10.1186%2F2051-5960-2-19/MediaObjects/40478_2013_97_MOESM7_ESM.tiff">40478_2013_97_MOESM7_ESM.tiff</a>
+                          <span xmlns="" class="SimplePara">Authors’ original file for figure 4</span>
+                        </div></div>
+                  </div>
+<div class="MediaObject" id="MOESM8">
+                    <div xmlns="" class="esm-item "><div xmlns="http://www.w3.org/1999/xhtml" class="caption-container"><a class="filename" href="https://static-content.springer.com/esm/art%3A10.1186%2F2051-5960-2-19/MediaObjects/40478_2013_97_MOESM8_ESM.pdf">40478_2013_97_MOESM8_ESM.pdf</a>
+                          <span xmlns="" class="SimplePara">Authors’ original file for figure 5</span>
+                        </div></div>
+                  </div>
+<div class="MediaObject" id="MOESM9">
+                    <div xmlns="" class="esm-item "><div xmlns="http://www.w3.org/1999/xhtml" class="caption-container"><a class="filename" href="https://static-content.springer.com/esm/art%3A10.1186%2F2051-5960-2-19/MediaObjects/40478_2013_97_MOESM9_ESM.tiff">40478_2013_97_MOESM9_ESM.tiff</a>
+                          <span xmlns="" class="SimplePara">Authors’ original file for figure 6</span>
+                        </div></div>
+                  </div>
+</div>
+              
+            </aside><aside xmlns:func="http://oscar.fig.bmc.com" xmlns="http://www.w3.org/1999/xhtml" class="ArticleNote ArticleNoteMisc"><h3 xmlns="" class="Heading">Competing interests</h3><p xmlns="" class="SimplePara">AvD, JB and SP hold a patent for the enzymatic D-2-hydroxyglutarate detection assay. All other authors declare that they have no competing interests.</p></aside><aside xmlns:func="http://oscar.fig.bmc.com" xmlns="http://www.w3.org/1999/xhtml" class="ArticleNote ArticleNoteMisc"><h3 xmlns="" class="Heading">Authors’ contributions</h3><p xmlns="" class="SimplePara">Conceived and designed the experiments SP. Generated mutant proteins and vectors SP, inducible cell line JL SP, over expression cell lines SW AB SP. Performed soft agar assay and migration assay LS, proliferation analysis SP, enzyme kinetics AB JL JB, 2-HG detection assay AB JB, octyl-2-HG synthesis AM, database analysis AvD, statistical analysis LS SP. Wrote the manuscript AvD LS SP. All authors read and approved the final manuscript.</p></aside></div></section></div>
+                            <div class="FulltextWrapper"><section xmlns="" xmlns:fn="http://www.w3.org/2005/xpath-functions" xmlns:meta="http://www.springer.com/app/meta" class="Section1 RenderAsSection1 Affiliations" id="Aff"><h2 class="Heading js-ToggleCollapseSection">Authors’ Affiliations</h2><div class="js-CollapseSection"><div class="Affiliation" id="Aff1"><span class="AffiliationNumber">(1)</span><div class="AffiliationText">German Consortium of Translational Cancer Research (DKTK), Clinical Cooperation Unit Neuropathology, German Cancer Research Center (DKFZ), INF 280</div></div><div class="Affiliation" id="Aff2"><span class="AffiliationNumber">(2)</span><div class="AffiliationText">Department of Neuropathology, Institute of Pathology, INF 224, Ruprecht-Karls-University Heidelberg</div></div><div class="Affiliation" id="Aff3"><span class="AffiliationNumber">(3)</span><div class="AffiliationText">Cancer Drug Development, German Cancer Research Center (DKFZ), INF 580</div></div></div></section></div>
+                            <div class="FulltextWrapper"><section xmlns="" xmlns:fn="http://www.w3.org/2005/xpath-functions" xmlns:meta="http://www.springer.com/app/meta" class="Section1 RenderAsSection1 SectionTypeMaterialsAndMethods" id="Bib1"><h2 class="Heading js-ToggleCollapseSection">References</h2><div class="js-CollapseSection"><ol class="BibliographyWrapper"><li class="Citation"><cite class="CitationContent" id="CR1">Balss J, Meyer J, Mueller W, Korshunov A, Hartmann C, von Deimling A: Analysis of the IDH1 codon 132 mutation in brain tumors. <em class="EmphasisTypeItalic">Acta Neuropathol</em> 2008, 116: 597–602. 10.1007/s00401-008-0455-2<span class="Occurrences"><span class="Occurrence OccurrenceDOI"><a target="_blank" href="https://doi.org/10.1007/s00401-008-0455-2"><span><span>View Article</span></span></a></span><span class="Occurrence OccurrencePID"><a target="_blank" href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=PubMed&amp;dopt=Abstract&amp;list_uids=18985363"><span><span>PubMed</span></span></a></span><span class="Occurrence OccurrenceGS"><a target="_blank" href="http://scholar.google.com/scholar_lookup?title=Analysis%20of%20the%20IDH1%20codon%20132%20mutation%20in%20brain%20tumors&amp;author=J.%20Balss&amp;author=J.%20Meyer&amp;author=W.%20Mueller&amp;author=A.%20Korshunov&amp;author=C.%20Hartmann&amp;author=A.%20von%20Deimling&amp;journal=Acta%20Neuropathol&amp;volume=116&amp;pages=597-602&amp;publication_year=2008&amp;doi=10.1007%2Fs00401-008-0455-2"><span><span>Google Scholar</span></span></a></span></span></cite></li><li class="Citation"><cite class="CitationContent" id="CR2">Hartmann C, Meyer J, Balss J, <em class="EmphasisTypeItalic">et al</em>.: Type and frequency of IDH1 and IDH2 mutations are related to astrocytic and oligodendroglial differentiation and age: a study of 1010 diffuse gliomas. <em class="EmphasisTypeItalic">Acta Neuropathol</em> 2009, 118: 469–474. 10.1007/s00401-009-0561-9<span class="Occurrences"><span class="Occurrence OccurrenceDOI"><a target="_blank" href="https://doi.org/10.1007/s00401-009-0561-9"><span><span>View Article</span></span></a></span><span class="Occurrence OccurrencePID"><a target="_blank" href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=PubMed&amp;dopt=Abstract&amp;list_uids=19554337"><span><span>PubMed</span></span></a></span><span class="Occurrence OccurrenceGS"><a target="_blank" href="http://scholar.google.com/scholar_lookup?title=Type%20and%20frequency%20of%20IDH1%20and%20IDH2%20mutations%20are%20related%20to%20astrocytic%20and%20oligodendroglial%20differentiation%20and%20age%3A%20a%20study%20of%201010%20diffuse%20gliomas&amp;author=C.%20Hartmann&amp;author=J.%20Meyer&amp;author=J.%20Balss&amp;journal=Acta%20Neuropathol&amp;volume=118&amp;pages=469-474&amp;publication_year=2009&amp;doi=10.1007%2Fs00401-009-0561-9"><span><span>Google Scholar</span></span></a></span></span></cite></li><li class="Citation"><cite class="CitationContent" id="CR3">Yan H, Parsons DW, Jin G, <em class="EmphasisTypeItalic">et al</em>.: IDH1 and IDH2 mutations in gliomas. <em class="EmphasisTypeItalic">N Engl J Med</em> 2009, 360: 765–773. 10.1056/NEJMoa0808710<span class="Occurrences"><span class="Occurrence OccurrenceDOI"><a target="_blank" href="https://doi.org/10.1056/NEJMoa0808710"><span><span>View Article</span></span></a></span><span class="Occurrence OccurrencePID"><a target="_blank" href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=PubMed&amp;dopt=Abstract&amp;list_uids=19228619"><span><span>PubMed</span></span></a></span><span class="Occurrence OccurrencePMCID"><a target="_blank" href="http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2820383"><span><span>PubMed Central</span></span></a></span><span class="Occurrence OccurrenceGS"><a target="_blank" href="http://scholar.google.com/scholar_lookup?title=IDH1%20and%20IDH2%20mutations%20in%20gliomas&amp;author=H.%20Yan&amp;author=DW.%20Parsons&amp;author=G.%20Jin&amp;journal=N%20Engl%20J%20Med&amp;volume=360&amp;pages=765-773&amp;publication_year=2009&amp;doi=10.1056%2FNEJMoa0808710"><span><span>Google Scholar</span></span></a></span></span></cite></li><li class="Citation"><cite class="CitationContent" id="CR4">Mardis ER, Ding L, Dooling DJ, <em class="EmphasisTypeItalic">et al</em>.: Recurring mutations found by sequencing an acute myeloid leukemia genome. <em class="EmphasisTypeItalic">N Engl J Med</em> 2009, 361: 1058–1066. 10.1056/NEJMoa0903840<span class="Occurrences"><span class="Occurrence OccurrenceDOI"><a target="_blank" href="https://doi.org/10.1056/NEJMoa0903840"><span><span>View Article</span></span></a></span><span class="Occurrence OccurrencePID"><a target="_blank" href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=PubMed&amp;dopt=Abstract&amp;list_uids=19657110"><span><span>PubMed</span></span></a></span><span class="Occurrence OccurrencePMCID"><a target="_blank" href="http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3201812"><span><span>PubMed Central</span></span></a></span><span class="Occurrence OccurrenceGS"><a target="_blank" href="http://scholar.google.com/scholar_lookup?title=Recurring%20mutations%20found%20by%20sequencing%20an%20acute%20myeloid%20leukemia%20genome&amp;author=ER.%20Mardis&amp;author=L.%20Ding&amp;author=DJ.%20Dooling&amp;journal=N%20Engl%20J%20Med&amp;volume=361&amp;pages=1058-1066&amp;publication_year=2009&amp;doi=10.1056%2FNEJMoa0903840"><span><span>Google Scholar</span></span></a></span></span></cite></li><li class="Citation"><cite class="CitationContent" id="CR5">Paschka P, Schlenk RF, Gaidzik VI, <em class="EmphasisTypeItalic">et al</em>.: IDH1 and IDH2 mutations are frequent genetic alterations in acute myeloid leukemia and confer adverse prognosis in cytogenetically normal acute myeloid leukemia with NPM1 mutation without FLT3 internal tandem duplication. <em class="EmphasisTypeItalic">J Clin Oncol</em> 2010, 28: 3636–3643. 10.1200/JCO.2010.28.3762<span class="Occurrences"><span class="Occurrence OccurrenceDOI"><a target="_blank" href="https://doi.org/10.1200/JCO.2010.28.3762"><span><span>View Article</span></span></a></span><span class="Occurrence OccurrencePID"><a target="_blank" href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=PubMed&amp;dopt=Abstract&amp;list_uids=20567020"><span><span>PubMed</span></span></a></span><span class="Occurrence OccurrenceGS"><a target="_blank" href="http://scholar.google.com/scholar_lookup?title=IDH1%20and%20IDH2%20mutations%20are%20frequent%20genetic%20alterations%20in%20acute%20myeloid%20leukemia%20and%20confer%20adverse%20prognosis%20in%20cytogenetically%20normal%20acute%20myeloid%20leukemia%20with%20NPM1%20mutation%20without%20FLT3%20internal%20tandem%20duplication&amp;author=P.%20Paschka&amp;author=RF.%20Schlenk&amp;author=VI.%20Gaidzik&amp;journal=J%20Clin%20Oncol&amp;volume=28&amp;pages=3636-3643&amp;publication_year=2010&amp;doi=10.1200%2FJCO.2010.28.3762"><span><span>Google Scholar</span></span></a></span></span></cite></li><li class="Citation"><cite class="CitationContent" id="CR6">Amary MF, Bacsi K, Maggiani F, <em class="EmphasisTypeItalic">et al</em>.: IDH1 and IDH2 mutations are frequent events in central chondrosarcoma and central and periosteal chondromas but not in other mesenchymal tumours. <em class="EmphasisTypeItalic">J Pathol</em> 2011, 224: 334–343. 10.1002/path.2913<span class="Occurrences"><span class="Occurrence OccurrenceDOI"><a target="_blank" href="https://doi.org/10.1002/path.2913"><span><span>View Article</span></span></a></span><span class="Occurrence OccurrencePID"><a target="_blank" href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=PubMed&amp;dopt=Abstract&amp;list_uids=21598255"><span><span>PubMed</span></span></a></span><span class="Occurrence OccurrenceGS"><a target="_blank" href="http://scholar.google.com/scholar_lookup?title=IDH1%20and%20IDH2%20mutations%20are%20frequent%20events%20in%20central%20chondrosarcoma%20and%20central%20and%20periosteal%20chondromas%20but%20not%20in%20other%20mesenchymal%20tumours&amp;author=MF.%20Amary&amp;author=K.%20Bacsi&amp;author=F.%20Maggiani&amp;journal=J%20Pathol&amp;volume=224&amp;pages=334-343&amp;publication_year=2011&amp;doi=10.1002%2Fpath.2913"><span><span>Google Scholar</span></span></a></span></span></cite></li><li class="Citation"><cite class="CitationContent" id="CR7">Arai M, Nobusawa S, Ikota H, Takemura S, Nakazato Y: Frequent IDH1/2 mutations in intracranial chondrosarcoma: a possible diagnostic clue for its differentiation from chordoma. <em class="EmphasisTypeItalic">Brain Tumor Pathol</em> 2012, 29: 201–206. 10.1007/s10014-012-0085-1<span class="Occurrences"><span class="Occurrence OccurrenceDOI"><a target="_blank" href="https://doi.org/10.1007/s10014-012-0085-1"><span><span>View Article</span></span></a></span><span class="Occurrence OccurrencePID"><a target="_blank" href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=PubMed&amp;dopt=Abstract&amp;list_uids=22323113"><span><span>PubMed</span></span></a></span><span class="Occurrence OccurrenceGS"><a target="_blank" href="http://scholar.google.com/scholar_lookup?title=Frequent%20IDH1%2F2%20mutations%20in%20intracranial%20chondrosarcoma%3A%20a%20possible%20diagnostic%20clue%20for%20its%20differentiation%20from%20chordoma&amp;author=M.%20Arai&amp;author=S.%20Nobusawa&amp;author=H.%20Ikota&amp;author=S.%20Takemura&amp;author=Y.%20Nakazato&amp;journal=Brain%20Tumor%20Pathol&amp;volume=29&amp;pages=201-206&amp;publication_year=2012&amp;doi=10.1007%2Fs10014-012-0085-1"><span><span>Google Scholar</span></span></a></span></span></cite></li><li class="Citation"><cite class="CitationContent" id="CR8">Borger D, Tanabe K, Fan K, <em class="EmphasisTypeItalic">et al</em>.: Frequent mutation of isocitrate dehydrogenase (IDH)1 and IDH2 in cholangiocarcinoma identified through broad-based tumor genotyping. <em class="EmphasisTypeItalic">Oncol</em> 2012, 17: 72–79. 10.1634/theoncologist.2011-0386<span class="Occurrences"><span class="Occurrence OccurrenceDOI"><a target="_blank" href="https://doi.org/10.1634/theoncologist.2011-0386"><span><span>View Article</span></span></a></span><span class="Occurrence OccurrenceGS"><a target="_blank" href="http://scholar.google.com/scholar_lookup?title=Frequent%20mutation%20of%20isocitrate%20dehydrogenase%20%28IDH%291%20and%20IDH2%20in%20cholangiocarcinoma%20identified%20through%20broad-based%20tumor%20genotyping&amp;author=D.%20Borger&amp;author=K.%20Tanabe&amp;author=K.%20Fan&amp;journal=Oncol&amp;volume=17&amp;pages=72-79&amp;publication_year=2012&amp;doi=10.1634%2Ftheoncologist.2011-0386"><span><span>Google Scholar</span></span></a></span></span></cite></li><li class="Citation"><cite class="CitationContent" id="CR9">Cairns RA, Iqbal J, Lemonnier F, <em class="EmphasisTypeItalic">et al</em>.: IDH2 mutations are frequent in angioimmunoblastic T-cell lymphoma. <em class="EmphasisTypeItalic">Blood</em> 2012, 119: 1901–1903. 10.1182/blood-2011-11-391748<span class="Occurrences"><span class="Occurrence OccurrenceDOI"><a target="_blank" href="https://doi.org/10.1182/blood-2011-11-391748"><span><span>View Article</span></span></a></span><span class="Occurrence OccurrencePID"><a target="_blank" href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=PubMed&amp;dopt=Abstract&amp;list_uids=22215888"><span><span>PubMed</span></span></a></span><span class="Occurrence OccurrencePMCID"><a target="_blank" href="http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3293643"><span><span>PubMed Central</span></span></a></span><span class="Occurrence OccurrenceGS"><a target="_blank" href="http://scholar.google.com/scholar_lookup?title=IDH2%20mutations%20are%20frequent%20in%20angioimmunoblastic%20T-cell%20lymphoma&amp;author=RA.%20Cairns&amp;author=J.%20Iqbal&amp;author=F.%20Lemonnier&amp;journal=Blood&amp;volume=119&amp;pages=1901-1903&amp;publication_year=2012&amp;doi=10.1182%2Fblood-2011-11-391748"><span><span>Google Scholar</span></span></a></span></span></cite></li><li class="Citation"><cite class="CitationContent" id="CR10">Ward PS, Patel J, Wise DR, <em class="EmphasisTypeItalic">et al</em>.: The common feature of leukemia-associated IDH1 and IDH2 mutations is a neomorphic enzyme activity converting alpha-ketoglutarate to 2-hydroxyglutarate. <em class="EmphasisTypeItalic">Cancer Cell</em> 2010, 17: 225–234. 10.1016/j.ccr.2010.01.020<span class="Occurrences"><span class="Occurrence OccurrenceDOI"><a target="_blank" href="https://doi.org/10.1016/j.ccr.2010.01.020"><span><span>View Article</span></span></a></span><span class="Occurrence OccurrencePID"><a target="_blank" href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=PubMed&amp;dopt=Abstract&amp;list_uids=20171147"><span><span>PubMed</span></span></a></span><span class="Occurrence OccurrencePMCID"><a target="_blank" href="http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2849316"><span><span>PubMed Central</span></span></a></span><span class="Occurrence OccurrenceGS"><a target="_blank" href="http://scholar.google.com/scholar_lookup?title=The%20common%20feature%20of%20leukemia-associated%20IDH1%20and%20IDH2%20mutations%20is%20a%20neomorphic%20enzyme%20activity%20converting%20alpha-ketoglutarate%20to%202-hydroxyglutarate&amp;author=PS.%20Ward&amp;author=J.%20Patel&amp;author=DR.%20Wise&amp;journal=Cancer%20Cell&amp;volume=17&amp;pages=225-234&amp;publication_year=2010&amp;doi=10.1016%2Fj.ccr.2010.01.020"><span><span>Google Scholar</span></span></a></span></span></cite></li><li class="Citation"><cite class="CitationContent" id="CR11">Turcan S, Rohle D, Goenka A, <em class="EmphasisTypeItalic">et al</em>.: IDH1 mutation is sufficient to establish the glioma hypermethylator phenotype. <em class="EmphasisTypeItalic">Nature</em> 2012, 483: 479–483. 10.1038/nature10866<span class="Occurrences"><span class="Occurrence OccurrenceDOI"><a target="_blank" href="https://doi.org/10.1038/nature10866"><span><span>View Article</span></span></a></span><span class="Occurrence OccurrencePID"><a target="_blank" href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=PubMed&amp;dopt=Abstract&amp;list_uids=22343889"><span><span>PubMed</span></span></a></span><span class="Occurrence OccurrencePMCID"><a target="_blank" href="http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3351699"><span><span>PubMed Central</span></span></a></span><span class="Occurrence OccurrenceGS"><a target="_blank" href="http://scholar.google.com/scholar_lookup?title=IDH1%20mutation%20is%20sufficient%20to%20establish%20the%20glioma%20hypermethylator%20phenotype&amp;author=S.%20Turcan&amp;author=D.%20Rohle&amp;author=A.%20Goenka&amp;journal=Nature&amp;volume=483&amp;pages=479-483&amp;publication_year=2012&amp;doi=10.1038%2Fnature10866"><span><span>Google Scholar</span></span></a></span></span></cite></li><li class="Citation"><cite class="CitationContent" id="CR12">Xu W, Yang H, Liu Y, <em class="EmphasisTypeItalic">et al</em>.: Oncometabolite 2-hydroxyglutarate is a competitive inhibitor of alpha-ketoglutarate-dependent dioxygenases. <em class="EmphasisTypeItalic">Cancer Cell</em> 2011, 19: 17–30. 10.1016/j.ccr.2010.12.014<span class="Occurrences"><span class="Occurrence OccurrenceDOI"><a target="_blank" href="https://doi.org/10.1016/j.ccr.2010.12.014"><span><span>View Article</span></span></a></span><span class="Occurrence OccurrencePID"><a target="_blank" href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=PubMed&amp;dopt=Abstract&amp;list_uids=21251613"><span><span>PubMed</span></span></a></span><span class="Occurrence OccurrencePMCID"><a target="_blank" href="http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3229304"><span><span>PubMed Central</span></span></a></span><span class="Occurrence OccurrenceGS"><a target="_blank" href="http://scholar.google.com/scholar_lookup?title=Oncometabolite%202-hydroxyglutarate%20is%20a%20competitive%20inhibitor%20of%20alpha-ketoglutarate-dependent%20dioxygenases&amp;author=W.%20Xu&amp;author=H.%20Yang&amp;author=Y.%20Liu&amp;journal=Cancer%20Cell&amp;volume=19&amp;pages=17-30&amp;publication_year=2011&amp;doi=10.1016%2Fj.ccr.2010.12.014"><span><span>Google Scholar</span></span></a></span></span></cite></li><li class="Citation"><cite class="CitationContent" id="CR13">Sahm F, Capper D, Pusch S, Balss J, Koch A, Langhans C, Okun J, von Deimling A: Detection of 2-Hydroxyglutarate in formalin-fixed paraffin-embedded glioma specimens by gas-chromatography/mass-spectrometry. <em class="EmphasisTypeItalic">Brain Pathol</em> 2012, 22: 26–31. 10.1111/j.1750-3639.2011.00506.x<span class="Occurrences"><span class="Occurrence OccurrenceDOI"><a target="_blank" href="https://doi.org/10.1111/j.1750-3639.2011.00506.x"><span><span>View Article</span></span></a></span><span class="Occurrence OccurrencePID"><a target="_blank" href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=PubMed&amp;dopt=Abstract&amp;list_uids=21631627"><span><span>PubMed</span></span></a></span><span class="Occurrence OccurrenceGS"><a target="_blank" href="http://scholar.google.com/scholar_lookup?title=Detection%20of%202-Hydroxyglutarate%20in%20formalin-fixed%20paraffin-embedded%20glioma%20specimens%20by%20gas-chromatography%2Fmass-spectrometry&amp;author=F.%20Sahm&amp;author=D.%20Capper&amp;author=S.%20Pusch&amp;author=J.%20Balss&amp;author=A.%20Koch&amp;author=C.%20Langhans&amp;author=J.%20Okun&amp;author=A.%20von%20Deimling&amp;journal=Brain%20Pathol&amp;volume=22&amp;pages=26-31&amp;publication_year=2012&amp;doi=10.1111%2Fj.1750-3639.2011.00506.x"><span><span>Google Scholar</span></span></a></span></span></cite></li><li class="Citation"><cite class="CitationContent" id="CR14">Ward PS, Lu C, Cross JR, Abdel-Wahab O, Levine RL, Schwartz GK, Thompson CB: The potential for isocitrate dehydrogenase mutations to produce 2-hydroxyglutarate depends on allele specificity and subcellular compartmentalization. <em class="EmphasisTypeItalic">J Biol Chem</em> 2013, 288: 3804–3815. 10.1074/jbc.M112.435495<span class="Occurrences"><span class="Occurrence OccurrenceDOI"><a target="_blank" href="https://doi.org/10.1074/jbc.M112.435495"><span><span>View Article</span></span></a></span><span class="Occurrence OccurrencePID"><a target="_blank" href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=PubMed&amp;dopt=Abstract&amp;list_uids=23264629"><span><span>PubMed</span></span></a></span><span class="Occurrence OccurrenceGS"><a target="_blank" href="http://scholar.google.com/scholar_lookup?title=The%20potential%20for%20isocitrate%20dehydrogenase%20mutations%20to%20produce%202-hydroxyglutarate%20depends%20on%20allele%20specificity%20and%20subcellular%20compartmentalization&amp;author=PS.%20Ward&amp;author=C.%20Lu&amp;author=JR.%20Cross&amp;author=O.%20Abdel-Wahab&amp;author=RL.%20Levine&amp;author=GK.%20Schwartz&amp;author=CB.%20Thompson&amp;journal=J%20Biol%20Chem&amp;volume=288&amp;pages=3804-3815&amp;publication_year=2013&amp;doi=10.1074%2Fjbc.M112.435495"><span><span>Google Scholar</span></span></a></span></span></cite></li><li class="Citation"><cite class="CitationContent" id="CR15">Capper D, Weissert S, Balss J, <em class="EmphasisTypeItalic">et al</em>.: Characterization of R132H Mutation Specific IDH1 Antibody binding in brain tumors. <em class="EmphasisTypeItalic">Brain Pathol</em> 2010, 20: 245–254. 10.1111/j.1750-3639.2009.00352.x<span class="Occurrences"><span class="Occurrence OccurrenceDOI"><a target="_blank" href="https://doi.org/10.1111/j.1750-3639.2009.00352.x"><span><span>View Article</span></span></a></span><span class="Occurrence OccurrencePID"><a target="_blank" href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=PubMed&amp;dopt=Abstract&amp;list_uids=19903171"><span><span>PubMed</span></span></a></span><span class="Occurrence OccurrenceGS"><a target="_blank" href="http://scholar.google.com/scholar_lookup?title=Characterization%20of%20R132H%20Mutation%20Specific%20IDH1%20Antibody%20binding%20in%20brain%20tumors&amp;author=D.%20Capper&amp;author=S.%20Weissert&amp;author=J.%20Balss&amp;journal=Brain%20Pathol&amp;volume=20&amp;pages=245-254&amp;publication_year=2010&amp;doi=10.1111%2Fj.1750-3639.2009.00352.x"><span><span>Google Scholar</span></span></a></span></span></cite></li><li class="Citation"><cite class="CitationContent" id="CR16">Balss J, Pusch S, Beck A-C, <em class="EmphasisTypeItalic">et al</em>.: Enzymatic assay for quantitative analysis of (D)-2-hydroxyglutarate. <em class="EmphasisTypeItalic">Acta Neuropathol</em> 2012, 124: 883–891. 10.1007/s00401-012-1060-y<span class="Occurrences"><span class="Occurrence OccurrenceDOI"><a target="_blank" href="https://doi.org/10.1007/s00401-012-1060-y"><span><span>View Article</span></span></a></span><span class="Occurrence OccurrencePID"><a target="_blank" href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=PubMed&amp;dopt=Abstract&amp;list_uids=23117877"><span><span>PubMed</span></span></a></span><span class="Occurrence OccurrenceGS"><a target="_blank" href="http://scholar.google.com/scholar_lookup?title=Enzymatic%20assay%20for%20quantitative%20analysis%20of%20%28D%29-2-hydroxyglutarate&amp;author=J.%20Balss&amp;author=S.%20Pusch&amp;author=A-C.%20Beck&amp;journal=Acta%20Neuropathol&amp;volume=124&amp;pages=883-891&amp;publication_year=2012&amp;doi=10.1007%2Fs00401-012-1060-y"><span><span>Google Scholar</span></span></a></span></span></cite></li><li class="Citation"><cite class="CitationContent" id="CR17">Dang L, White DW, Gross S, <em class="EmphasisTypeItalic">et al</em>.: Cancer-associated IDH1 mutations produce 2-hydroxyglutarate. <em class="EmphasisTypeItalic">Nature</em> 2009, 462: 739–744. 10.1038/nature08617<span class="Occurrences"><span class="Occurrence OccurrenceDOI"><a target="_blank" href="https://doi.org/10.1038/nature08617"><span><span>View Article</span></span></a></span><span class="Occurrence OccurrencePID"><a target="_blank" href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=PubMed&amp;dopt=Abstract&amp;list_uids=19935646"><span><span>PubMed</span></span></a></span><span class="Occurrence OccurrencePMCID"><a target="_blank" href="http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2818760"><span><span>PubMed Central</span></span></a></span><span class="Occurrence OccurrenceGS"><a target="_blank" href="http://scholar.google.com/scholar_lookup?title=Cancer-associated%20IDH1%20mutations%20produce%202-hydroxyglutarate&amp;author=L.%20Dang&amp;author=DW.%20White&amp;author=S.%20Gross&amp;journal=Nature&amp;volume=462&amp;pages=739-744&amp;publication_year=2009&amp;doi=10.1038%2Fnature08617"><span><span>Google Scholar</span></span></a></span></span></cite></li><li class="Citation"><cite class="CitationContent" id="CR18">Juratli TA, Peitzsch M, Geiger K, Schackert G, Eisenhofer G, Krex D: Accumulation of 2-hydroxyglutarate is not a biomarker for malignant progression in IDH-mutated low-grade gliomas. <em class="EmphasisTypeItalic">Neuro Oncol</em> 2013, 15: 682–690. 10.1093/neuonc/not006<span class="Occurrences"><span class="Occurrence OccurrenceDOI"><a target="_blank" href="https://doi.org/10.1093/neuonc/not006"><span><span>View Article</span></span></a></span><span class="Occurrence OccurrencePID"><a target="_blank" href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=PubMed&amp;dopt=Abstract&amp;list_uids=23410661"><span><span>PubMed</span></span></a></span><span class="Occurrence OccurrencePMCID"><a target="_blank" href="http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3661092"><span><span>PubMed Central</span></span></a></span><span class="Occurrence OccurrenceGS"><a target="_blank" href="http://scholar.google.com/scholar_lookup?title=Accumulation%20of%202-hydroxyglutarate%20is%20not%20a%20biomarker%20for%20malignant%20progression%20in%20IDH-mutated%20low-grade%20gliomas&amp;author=TA.%20Juratli&amp;author=M.%20Peitzsch&amp;author=K.%20Geiger&amp;author=G.%20Schackert&amp;author=G.%20Eisenhofer&amp;author=D.%20Krex&amp;journal=Neuro%20Oncol&amp;volume=15&amp;pages=682-690&amp;publication_year=2013&amp;doi=10.1093%2Fneuonc%2Fnot006"><span><span>Google Scholar</span></span></a></span></span></cite></li><li class="Citation"><cite class="CitationContent" id="CR19">Barber TW, Brockway JA, Higgins LS: The density of tissues in and about the head. <em class="EmphasisTypeItalic">Acta neurologica Scandinavica</em> 1970, 46: 85–92. 10.1111/j.1600-0404.1970.tb05606.x<span class="Occurrences"><span class="Occurrence OccurrenceDOI"><a target="_blank" href="https://doi.org/10.1111/j.1600-0404.1970.tb05606.x"><span><span>View Article</span></span></a></span><span class="Occurrence OccurrencePID"><a target="_blank" href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=PubMed&amp;dopt=Abstract&amp;list_uids=4983875"><span><span>PubMed</span></span></a></span><span class="Occurrence OccurrenceGS"><a target="_blank" href="http://scholar.google.com/scholar_lookup?title=The%20density%20of%20tissues%20in%20and%20about%20the%20head&amp;author=TW.%20Barber&amp;author=JA.%20Brockway&amp;author=LS.%20Higgins&amp;journal=Acta%20neurologica%20Scandinavica&amp;volume=46&amp;pages=85-92&amp;publication_year=1970&amp;doi=10.1111%2Fj.1600-0404.1970.tb05606.x"><span><span>Google Scholar</span></span></a></span></span></cite></li><li class="Citation"><cite class="CitationContent" id="CR20">Lawrence MS, Stojanov P, Polak P, <em class="EmphasisTypeItalic">et al</em>.: Mutational heterogeneity in cancer and the search for new cancer-associated genes. <em class="EmphasisTypeItalic">Nature</em> 2013, 499: 214–218. 10.1038/nature12213<span class="Occurrences"><span class="Occurrence OccurrenceDOI"><a target="_blank" href="https://doi.org/10.1038/nature12213"><span><span>View Article</span></span></a></span><span class="Occurrence OccurrencePID"><a target="_blank" href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=PubMed&amp;dopt=Abstract&amp;list_uids=23770567"><span><span>PubMed</span></span></a></span><span class="Occurrence OccurrencePMCID"><a target="_blank" href="http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3919509"><span><span>PubMed Central</span></span></a></span><span class="Occurrence OccurrenceGS"><a target="_blank" href="http://scholar.google.com/scholar_lookup?title=Mutational%20heterogeneity%20in%20cancer%20and%20the%20search%20for%20new%20cancer-associated%20genes&amp;author=MS.%20Lawrence&amp;author=P.%20Stojanov&amp;author=P.%20Polak&amp;journal=Nature&amp;volume=499&amp;pages=214-218&amp;publication_year=2013&amp;doi=10.1038%2Fnature12213"><span><span>Google Scholar</span></span></a></span></span></cite></li><li class="Citation"><cite class="CitationContent" id="CR21">Gross S, Cairns RA, Minden MD, <em class="EmphasisTypeItalic">et al</em>.: Cancer-associated metabolite 2-hydroxyglutarate accumulates in acute myelogenous leukemia with isocitrate dehydrogenase 1 and 2 mutations. <em class="EmphasisTypeItalic">J Exp Med</em> 2010, 207: 339–344. 10.1084/jem.20092506<span class="Occurrences"><span class="Occurrence OccurrenceDOI"><a target="_blank" href="https://doi.org/10.1084/jem.20092506"><span><span>View Article</span></span></a></span><span class="Occurrence OccurrencePID"><a target="_blank" href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=PubMed&amp;dopt=Abstract&amp;list_uids=20142433"><span><span>PubMed</span></span></a></span><span class="Occurrence OccurrencePMCID"><a target="_blank" href="http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2822606"><span><span>PubMed Central</span></span></a></span><span class="Occurrence OccurrenceGS"><a target="_blank" href="http://scholar.google.com/scholar_lookup?title=Cancer-associated%20metabolite%202-hydroxyglutarate%20accumulates%20in%20acute%20myelogenous%20leukemia%20with%20isocitrate%20dehydrogenase%201%20and%202%20mutations&amp;author=S.%20Gross&amp;author=RA.%20Cairns&amp;author=MD.%20Minden&amp;journal=J%20Exp%20Med&amp;volume=207&amp;pages=339-344&amp;publication_year=2010&amp;doi=10.1084%2Fjem.20092506"><span><span>Google Scholar</span></span></a></span></span></cite></li><li class="Citation"><cite class="CitationContent" id="CR22">Kipp BR, Voss JS, Kerr SE, <em class="EmphasisTypeItalic">et al</em>.: Isocitrate dehydrogenase 1 and 2 mutations in cholangiocarcinoma. <em class="EmphasisTypeItalic">Hum Pathol</em> 2012, 43: 1552–1558. 10.1016/j.humpath.2011.12.007<span class="Occurrences"><span class="Occurrence OccurrenceDOI"><a target="_blank" href="https://doi.org/10.1016/j.humpath.2011.12.007"><span><span>View Article</span></span></a></span><span class="Occurrence OccurrencePID"><a target="_blank" href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=PubMed&amp;dopt=Abstract&amp;list_uids=22503487"><span><span>PubMed</span></span></a></span><span class="Occurrence OccurrenceGS"><a target="_blank" href="http://scholar.google.com/scholar_lookup?title=Isocitrate%20dehydrogenase%201%20and%202%20mutations%20in%20cholangiocarcinoma&amp;author=BR.%20Kipp&amp;author=JS.%20Voss&amp;author=SE.%20Kerr&amp;journal=Hum%20Pathol&amp;volume=43&amp;pages=1552-1558&amp;publication_year=2012&amp;doi=10.1016%2Fj.humpath.2011.12.007"><span><span>Google Scholar</span></span></a></span></span></cite></li></ol></div></section><section xmlns="" xmlns:fn="http://www.w3.org/2005/xpath-functions" xmlns:meta="http://www.springer.com/app/meta" class="Section1 RenderAsSection1" id="CopyrightMessage"><h2 class="Heading js-ToggleCollapseSection">Copyright</h2><div class="js-CollapseSection"><div xmlns="http://www.w3.org/1999/xhtml" class="ArticleCopyright">©&nbsp;Pusch et al.; licensee BioMed Central Ltd.&nbsp;2014<div class="CopyrightComment">
+                <p xmlns="" class="SimplePara">This article is published under license to BioMed Central Ltd. This is an Open Access article distributed under the terms of the Creative Commons Attribution License (<span xmlns:func="http://oscar.fig.bmc.com" xmlns="http://www.w3.org/1999/xhtml" class="ExternalRef"><a href="http://creativecommons.org/licenses/by/2.0"><span class="RefSource">http://creativecommons.org/licenses/by/2.0</span></a></span>), which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly cited. The Creative Commons Public Domain Dedication waiver (<span xmlns:func="http://oscar.fig.bmc.com" xmlns="http://www.w3.org/1999/xhtml" class="ExternalRef"><a href="http://creativecommons.org/publicdomain/zero/1.0/"><span class="RefSource">http://creativecommons.org/publicdomain/zero/1.0/</span></a></span>) applies to the data made available in this article, unless otherwise stated.</p>
+              </div></div></div></section></div>
+                            
+
+
+                        </div>
+                    </div>
+                    <div class="layout__sidebar-right" id="main-sidebar">
+                        
+                        <div class="block">
+                            <aside role="complementary">
+                                <div class="SideBox">
+                                    
+    <p class="SideBox_action">
+        <a class="SideBox_pdf" id="articlePdf" target="_blank" href="/track/pdf/10.1186/2051-5960-2-19?site&#x3D;actaneurocomms.biomedcentral.com" data-track-event="click" data-event-category="PDF Download"
+           data-event-action="Click download article PDF"
+           data-event-label="10.1186/2051-5960-2-19">Download PDF</a>
+    </p>
+
+                                    
+                                    
+    <h3 class="export-citations-button" data-toggle="collapse" data-target="js-exportCitations">Export citations</h3>
+    <div id="js-exportCitations" class="export-citations-content panel">
+        <div class="panel__section">
+            <h4 class="panel__title">Citations & References</h4>
+            <ul class="ListDownload" id="articleReferences">
+                <li><a data-track-event="click" data-event-category="Article Page" data-event-action="Download Papers, Zotero, Reference Manager, RefWorks citations and references"
+                       data-event-label="10.1186/2051-5960-2-19"
+                       href="http://citation-needed.springer.com/v2/references/10.1186/2051-5960-2-19?format=refman&flavour=full">Papers, Zotero, Reference Manager, RefWorks <span>(.RIS)</span></a>
+                </li>
+                <li><a data-track-event="click" data-event-category="Article Page" data-event-action="Download EndNote citations and references" data-event-label="10.1186/2051-5960-2-19"
+                       href="http://citation-needed.springer.com/v2/references/10.1186/2051-5960-2-19?format=endnote&flavour=full">EndNote <span>(.ENW)</span></a></li>
+                <li><a data-track-event="click" data-event-category="Article Page" data-event-action="Download Mendeley, JabRef citations and references" data-event-label="10.1186/2051-5960-2-19"
+                       href="http://citation-needed.springer.com/v2/references/10.1186/2051-5960-2-19?format=bibtex&flavour=full">Mendeley, JabRef <span>(.BIB)</span></a></li>
+            </ul>
+        </div>
+        <div class="panel__section">
+            <h4 class="panel__title">Article citation</h4>
+            <ul class="ListDownload">
+                <li><a data-track-event="click" data-event-category="Article Page" data-event-action="Download Papers, Zotero, Reference Manager, RefWorks article citations" data-event-label="10.1186/2051-5960-2-19"
+                       href="http://citation-needed.springer.com/v2/references/10.1186/2051-5960-2-19?format=refman&flavour=citation">Papers, Zotero, Reference Manager, RefWorks <span>(.RIS)</span></a></li>
+                <li><a data-track-event="click" data-event-category="Article Page" data-event-action="Download EndNote article citations" data-event-label="10.1186/2051-5960-2-19"
+                       href="http://citation-needed.springer.com/v2/references/10.1186/2051-5960-2-19?format=endnote&flavour=citation">EndNote <span>(.ENW)</span></a></li>
+                <li><a data-track-event="click" data-event-category="Article Page" data-event-action="Download Mendeley, JabRef article citations" data-event-label="10.1186/2051-5960-2-19"
+                       href="http://citation-needed.springer.com/v2/references/10.1186/2051-5960-2-19?format=bibtex&flavour=citation">Mendeley, JabRef <span>(.BIB)</span></a></li>
+            </ul>
+        </div>
+        <div class="panel__section">
+            <h4 class="panel__title">References</h4>
+            <ul class="ListDownload">
+                <li><a data-track-event="click" data-event-category="Article Page" data-event-action="Download Papers, Zotero, Reference Manager, RefWorks references" data-event-label="10.1186/2051-5960-2-19"
+                       href="http://citation-needed.springer.com/v2/references/10.1186/2051-5960-2-19?format=refman&flavour=references">Papers, Zotero, Reference Manager, RefWorks <span>(.RIS)</span></a>
+                </li>
+                <li><a data-track-event="click" data-event-category="Article Page" data-event-action="Download EndNote references" data-event-label="10.1186/2051-5960-2-19"
+                       href="http://citation-needed.springer.com/v2/references/10.1186/2051-5960-2-19?format=endnote&flavour=references">EndNote <span>(.ENW)</span></a></li>
+                <li><a data-track-event="click" data-event-category="Article Page" data-event-action="Download Mendeley, JabRef references" data-event-label="10.1186/2051-5960-2-19"
+                       href="http://citation-needed.springer.com/v2/references/10.1186/2051-5960-2-19?format=bibtex&flavour=references">Mendeley, JabRef <span>(.BIB)</span></a></li>
+            </ul>
+        </div>
+    </div>
+
+                                </div>
+                                <div class="SideBox">
+                                    <nav xmlns="" xmlns:fn="http://www.w3.org/2005/xpath-functions" xmlns:meta="http://www.springer.com/app/meta" id="ArticleNavigation" class="table-of-contents" aria-label="table of contents"><div class="table-of-contents__content" data-sticky="toc"><h3 class="table-of-contents__title is-open" data-toggle="collapse" data-target="tocMenu" data-event-category="Table of Contents" data-track-event="click" data-event-action="Toggle ToC" data-event-label="Toggle" data-toggle-disable-clickoff="true" aria-expanded="true">Table of Contents</h3><ul class="table-of-contents__menu is-open" role="menu" id="tocMenu" aria-expanded="true"><li role="menuitem" class="table-of-contents__item"><a class="table-of-contents__link" href="#Abs1" data-event-category="Table of Contents" data-track-event="click" data-event-action="Link Clicked" data-event-label="Abstract">Abstract</a></li><li role="menuitem" class="table-of-contents__item"><a class="table-of-contents__link" href="#Sec1" data-event-category="Table of Contents" data-track-event="click" data-event-action="Link Clicked" data-event-label="Background">Background</a></li><li role="menuitem" class="table-of-contents__item"><a class="table-of-contents__link" href="#Sec2" data-event-category="Table of Contents" data-track-event="click" data-event-action="Link Clicked" data-event-label="Methods">Methods</a></li><li role="menuitem" class="table-of-contents__item"><a class="table-of-contents__link" href="#Sec10" data-event-category="Table of Contents" data-track-event="click" data-event-action="Link Clicked" data-event-label="Results">Results</a></li><li role="menuitem" class="table-of-contents__item"><a class="table-of-contents__link" href="#Sec17" data-event-category="Table of Contents" data-track-event="click" data-event-action="Link Clicked" data-event-label="Discussion">Discussion</a></li><li role="menuitem" class="table-of-contents__item"><a class="table-of-contents__link" href="#Sec18" data-event-category="Table of Contents" data-track-event="click" data-event-action="Link Clicked" data-event-label="Conclusion">Conclusion</a></li><li role="menuitem" class="table-of-contents__item"><a class="table-of-contents__link" href="#Declarations" data-event-category="Table of Contents" data-track-event="click" data-event-action="Link Clicked" data-event-label="Declarations">
+                        Declarations
+                      </a></li><li role="menuitem" class="table-of-contents__item"><a class="table-of-contents__link" href="#Bib1" data-event-category="Table of Contents" data-track-event="click" data-event-action="Link Clicked" data-event-label="References">References</a></li><li role="menuitem" class="table-of-contents__item is-hidden"><a class="table-of-contents__link" href="#comments" data-event-category="Table of Contents" data-track-event="click" data-event-action="Link Clicked" data-event-label="Comments">Comments</a></li></ul></div></nav>
+                                </div>
+                                <div class="SideBox">
+                                    <h3 class="SideBox_title">Metrics</h3>
+                                    <ul class="SideBox_list list-stacked list-stacked--small list-stacked--2">
+                                        <div id="article-access-count-loader" class="placeholder" data-replace="true" data-placeholder="/placeholder/v1/article/access-count/10.1186/2051-5960-2-19 #accessCount-container"></div>
+                                        <div id="citation-count-loader" class="placeholder" data-replace="true" data-placeholder="/placeholder/v1/article/citation-count/10.1186/2051-5960-2-19 #count-container"></div>
+                                        <div id="altmetric-loader" class="placeholder" data-replace="true" data-placeholder="/placeholder/v1/article/altmetric/10.1186/2051-5960-2-19 #altmetric-container"></div>
+                                    </ul>
+                                </div>
+                                
+    <div id="sociaMediaShare" class="SideBox">
+        <h3 class="SideBox_title">Share this article</h3>
+        <ul id="shareButtons" class="share">
+            <li class="share__item">
+                <button id="shareOnTwitter" class="js-btnShareOnTwitter share__button share__button--twitter" data-track-event="click"
+                        data-event-category="Article Page" data-event-action="Share Twitter" data-event-label="10.1186/2051-5960-2-19">
+                    <span class="sr-only">Share on Twitter</span>
+                </button>
+            </li>
+            <li class="share__item">
+                <button id="shareOnFacebook" class="js-btnShareOnFacebook share__button share__button--facebook" data-track-event="click"
+                        data-event-category="Article Page" data-event-action="Share Facebook" data-event-label="10.1186/2051-5960-2-19">
+                    <span class="sr-only">Share on Facebook</span>
+                </button>
+            </li>
+            <li class="share__item">
+                <button id="shareOnLinkedIn" class="js-btnShareOnLinkedIn share__button share__button--linkedin" data-track-event="click"
+                        data-event-category="Article Page" data-event-action="Share LinkedIn" data-event-label="10.1186/2051-5960-2-19">
+                    <span class="sr-only">Share on LinkedIn</span>
+                </button>
+            </li>
+            <li class="share__item">
+                <button id="shareOnWeibo" class="js-btnShareOnWeibo share__button share__button--weibo" data-track-event="click"
+                        data-event-category="Article Page" data-event-action="Share Weibo" data-event-label="10.1186/2051-5960-2-19">
+                    <span class="sr-only">Share on Weibo</span>
+                </button>
+            </li>
+            <li class="share__item">
+                <button id="shareOnGooglePlus" class="js-btnShareOnGplus share__button share__button--gplus" data-track-event="click"
+                        data-event-category="Article Page" data-event-action="Share Google+" data-event-label="10.1186/2051-5960-2-19">
+                    <span class="sr-only">Share on Google Plus</span>
+                </button>
+            </li>
+            <li class="share__item">
+                <button id="shareOnReddit" class="js-btnShareOnReddit share__button share__button--reddit" data-track-event="click"
+                        data-event-category="Article Page" data-event-action="Share Reddit" data-event-label="10.1186/2051-5960-2-19">
+                    <span class="sr-only">Share on Reddit</span>
+                </button>
+            </li>
+        </ul>
+    </div>
+
+                                
+    
+
+                                
+    
+
+                                
+    
+
+                                <div class="SideBox">
+                                    <h3 class="SideBox_title">Other Actions</h3>
+                                    <ul class="list-stacked list-stacked--2 list-stacked--small">
+                                        <li class="list-stacked__item">
+                                            
+    <a data-track-event="click" data-event-category="Article Page" data-event-action="Order article reprints" data-event-label="10.1186/2051-5960-2-19" href="https://www.odysseypress.com/onlinehost/reprint_order.php?type=A&page=0&journal=738&doi=10.1186%2F2051-5960-2-19&volume=2&issue=1&title=D-2-Hydroxyglutarate+producing+neo-enzymatic+activity+inversely+correlates+with+frequency+of+the+type+of+isocitrate+dehydrogenase+1+mutations+found+in+glioma&author_name=Stefan+Pusch&start_page=1&end_page=10">Order reprint</a>
+
+                                        </li>
+                                    </ul>
+                                </div>
+                                
+        
+        <div id="sociaMediaAccounts" class="SideBox">
+            <h3 class="SideBox_title">Follow</h3>
+            <ul class="follow follow--inline">
+                
+                <li class="follow__item">
+                    <a class="follow__link follow__link--twitter-2" href="https://twitter.com/ActaNeuropathol" data-track-event="click" data-event-category="Social Media"
+                       data-event-action="Click Follow Social Media" data-event-label="Twitter">
+                        <span class="follow__label">Follow us on Twitter</span>
+                    </a>
+                </li>
+                
+
+                
+
+                
+            </ul>
+        </div>
+        
+    
+                            </aside>
+                            
+    <div id="FulltextAd" class="adsbox Ad Ad--skyscraper">
+        <div class="Ad_content">
+            <p class="Ad_label">Advertisement</p>
+            <span id="pbgrd-43415139"></span>
+        </div>
+    </div>
+
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </main>
+        
+            <div class="journal-footer">
+                <div class="journal-footer__inner">
+                    <div class="journal-footer__summary">
+                        <h4 class="journal-footer__title">
+                            <img class="journal-footer__logo" src="https://actaneurocomms.biomedcentral.com/images/40478/logo.svg"/>
+                            <span class="journal-footer__title-text">Acta Neuropathologica Communications</span>
+                        </h4>
+                        <p class="journal-footer__issn">ISSN: 2051-5960</p>
+                    </div>
+                    
+                        <div class="journal-footer__contact">
+                            <h4 class="journal-footer__contact-title">Contact us</h4>
+                            <ul class="journal-footer__contact-list">
+                                
+                                    <li class="journal-footer__contact-item">Editorial email: <a href="mailto:editorial@actaneurocomms.org">editorial@actaneurocomms.org</a></li>
+                                
+                                
+                                    <li class="journal-footer__contact-item">Support email: <a href="mailto:info@biomedcentral.com">info@biomedcentral.com</a></li>
+                                
+                            </ul>
+                        </div>
+                    
+                </div>
+            </div>
+        
+         
+    <footer>
+        <div class="footer">
+            <div class="footer__header">
+                <img srcset="/static/images/biomed-central-logo-white-3c6c941205.svg" src="/static/images/biomed-central-logo-white-faac4202d5.png" class="logo__img footer__logo" alt="Biomed Central" />
+                
+                    <h2 class="footer__menu-title">Publisher Main Menu</h2>
+                    <ul class="footer__primary-menu">
+                        
+                            <li class="footer__primary-item">
+                                <a class="footer__link footer__primary-link" href="//www.biomedcentral.com/journals">Explore journals</a>
+                            </li>
+                        
+                            <li class="footer__primary-item">
+                                <a class="footer__link footer__primary-link" href="//www.biomedcentral.com/getpublished">Get published</a>
+                            </li>
+                        
+                            <li class="footer__primary-item">
+                                <a class="footer__link footer__primary-link" href="//www.biomedcentral.com/about">About BioMed Central</a>
+                            </li>
+                        
+                    </ul>
+                
+            </div>
+            <div id="Test-FooterExists" class="footer__content">
+                <div class="footer__legal">
+                    
+                    <p class="footer__terms">By continuing to use this website, you agree to our <a class="footer__link footer__link--inline" href="//www.biomedcentral.com/terms-and-conditions">Terms and Conditions</a>, <a class="footer__link footer__link--inline"
+                                                                                                                                                                                                                               href="//www.biomedcentral.com/terms-and-conditions/privacy-statement">Privacy
+                        statement</a> and <a class="footer__link footer__link--inline" href="//www.biomedcentral.com/cookies">Cookies</a> policy.</p>
+                </div>
+                
+    <nav id="publisherFooter" class="footer__nav">
+        <h3 class="footer__menu-title">Publisher secondary menu</h3>
+        <div class="footer__nav-inner">
+            
+            <div class="footer__menu">
+                <ul class="footer__list">
+                    
+                    <li class="footer__item">
+                        <a class="footer__link" href="http://blogs.biomedcentral.com/">Read more on our blogs</a>
+                        
+                    </li>
+                    
+                    <li class="footer__item">
+                        <a class="footer__link" href="//www.biomedcentral.com/login">Receive BMC newsletters</a>
+                        
+                    </li>
+                    
+                    <li class="footer__item">
+                        <a class="footer__link" href="//www.biomedcentral.com/account">Manage article alerts</a>
+                        
+                    </li>
+                    
+                    <li class="footer__item">
+                        <a class="footer__link" href="http://authorservices.springernature.com/language-editing/">Language editing for authors</a>
+                        
+                    </li>
+                    
+                    <li class="footer__item">
+                        <a class="footer__link" href="http://authorservices.springernature.com/scientific-editing/">Scientific editing for authors</a>
+                        
+                    </li>
+                    
+                </ul>
+            </div>
+            
+            <div class="footer__menu">
+                <ul class="footer__list">
+                    
+                    <li class="footer__item">
+                        <a class="footer__link" href="//www.biomedcentral.com/about/policies">Policies</a>
+                        
+                    </li>
+                    
+                    <li class="footer__item">
+                        <a class="footer__link" href="//www.biomedcentral.com/accessibility">Accessibility</a>
+                        
+                    </li>
+                    
+                    <li class="footer__item">
+                        <a class="footer__link" href="//www.biomedcentral.com/about/press-centre">Press center</a>
+                        
+                    </li>
+                    
+                </ul>
+            </div>
+            
+            <div class="footer__menu">
+                <ul class="footer__list">
+                    
+                    <li class="footer__item">
+                        <a class="footer__link" href="//www.biomedcentral.com/about/contact-us">Contact us</a>
+                        
+                    </li>
+                    
+                    <li class="footer__item">
+                        <a class="footer__link" href="https://biomedcentral.typeform.com/to/VLXboo">Leave feedback</a>
+                        
+                    </li>
+                    
+                    <li class="footer__item">
+                        <a class="footer__link" href="//www.biomedcentral.com/about/jobs">Careers</a>
+                        
+                    </li>
+                    
+                </ul>
+            </div>
+            
+            <div class="footer__menu footer__menu--follow">
+                <div class="footer__follow">
+                    <h3 class="footer__follow-title">Follow BioMed Central</h3>
+                    <ul class="follow follow--inline">
+                    
+                        <li class="footer__follow-item follow__item">
+                            <a class="follow__link follow__link--twitter" href="https://twitter.com/biomedcentral" target="_blank" data-track-event="click" data-event-category="Social Media" data-event-action="Click Follow Social Media" data-event-label="Twitter">
+                                <span class="follow__label">Twitter</span>
+                            </a>
+                        </li>
+                    
+                        <li class="footer__follow-item follow__item">
+                            <a class="follow__link follow__link--facebook" href="https://www.facebook.com/BioMedCentral" target="_blank" data-track-event="click" data-event-category="Social Media" data-event-action="Click Follow Social Media" data-event-label="Facebook">
+                                <span class="follow__label">Facebook</span>
+                            </a>
+                        </li>
+                    
+                        <li class="footer__follow-item follow__item">
+                            <a class="follow__link follow__link--gplus" href="https://plus.google.com/106226337984152901734/" target="_blank" data-track-event="click" data-event-category="Social Media" data-event-action="Click Follow Social Media" data-event-label="Google Plus">
+                                <span class="follow__label">Google Plus</span>
+                            </a>
+                        </li>
+                    
+                        <li class="footer__follow-item follow__item">
+                            <a class="follow__link follow__link--weibo" href="http://www.weibo.com/biomedcentral" target="_blank" data-track-event="click" data-event-category="Social Media" data-event-action="Click Follow Social Media" data-event-label="Weibo">
+                                <span class="follow__label">Weibo</span>
+                            </a>
+                        </li>
+                    
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </nav>
+
+
+            </div>
+        </div>
+        <div class="branding-bar">
+            <div class="logo branding-bar__logo">
+                <img srcset="/static/images/logo-springernature-4230d19d5c.svg" src="/static/images/logo-springernature-828f4f84c8.png" class="logo__img branding-bar-logo__img" alt="Springer Nature Logo" />
+            </div>
+            <p class="branding-bar__copyright">&#169; 2017 BioMed Central Ltd unless otherwise stated. Part of <a class="branding-bar__link" href="http://www.springernature.com">Springer Nature</a>.</p>
+        </div>
+    </footer>
+    <noscript class="js-cookie-banner-noscript">
+        <div class="cookie-banner js-cookie-banner">
+            <div class="cookie-banner__inner">
+                <p class="cookie-banner__message">
+                    We use cookies to improve your experience with our site.
+                    <a href="https://www.biomedcentral.com/cookies"
+                       class="cookie-banner__link"
+                       data-track-event="click"
+                       data-event-category="EU Cookie Law Banner"
+                       data-event-action="Find out more">More information <span class="sr-only">about our cookie policy</span>
+                    </a>
+                </p>
+                <button hidden class="cookie-banner__dismiss js-cookie-banner-dismiss"
+                        data-track-event="click"
+                        data-event-category="EU Cookie Law Banner"
+                        data-event-action="Close"><span class="cookie-banner__dismiss-text">Close</span>
+                </button>
+            </div>
+        </div>
+</noscript>
+
+
+    </div>
+    
+    <img class='tracker' style='display:none' src='/track/article/10.1186/2051-5960-2-19' alt=""/>
+
+    <div id="JFulltext"></div>
+
+    
+    <script type="text/javascript" src="//cdn.pbgrd.com/bmc.js" async="async"></script>
+
+    
+
+    
+<script>
+(function() {
+    var linkEl = document.querySelector('.js-ctm');
+    if (linkEl && window.matchMedia && window.matchMedia(linkEl.media)) {
+        var vendorScript = document.createElement('script');
+        vendorScript.src = '/static/js/oscar-vendor-67103b4f35.js';
+        vendorScript.async = false;
+        document.body.appendChild(vendorScript);
+        var appScript = document.createElement('script');
+        appScript.src = '/static/js/oscar-app-4e91ea0ef9.js';
+        appScript.async = false;
+        document.body.appendChild(appScript);
+    }
+})();
+</script>
+
+
+
+<script type="text/javascript">
+    if (config) {
+        (function (d) {
+            Array.prototype.forEach.call(d.getElementsByClassName('RealMediaAd'), function (adElement) {
+                var iframe = d.createElement('iframe');
+                iframe.frameBorder = '0';
+                iframe.scrolling = 'no';
+                var position = adElement.getAttribute("data-position"),
+                        iframeInDoc = adElement.getElementsByClassName('Ad_content')[0].appendChild(iframe),
+                        doc = iframeInDoc.contentWindow.document;
+
+                doc.open().write('<body onload="window.location.href = '
+                        + '\'/placeholder/v1/advertising/realMedia?siteWithPath=' + encodeURIComponent(config.siteWithPath)
+                        + '&placement=' + position + '\';">');
+                doc.close();
+            });
+        })(document);
+    }
+</script>
+
+
+
+    
+        <script type="text/javascript">
+            document.addEventListener('readystatechange', function () {
+                if (document.readyState === 'complete') {
+                    setTimeout(function () {
+                        var script = document.createElement("script");
+                        script.type = "text/javascript";
+                        script.src = "https://recommendations.springernature.com/latest/entry-point.js";
+                        document.getElementsByTagName("head")[0].appendChild(script);
+                    }, 0);
+                }
+            });
+        </script>
+    
+
+
+    <script type="text/javascript">
+        var _kiq = _kiq || [];
+        (function () {
+            setTimeout(function () {
+                var d = document, f = d.getElementsByTagName('script')[0], s = d.createElement('script');
+                s.type = 'text/javascript';
+                s.async = true;
+                s.src = '//s3.amazonaws.com/ki.js/47412/9CC.js';
+                f.parentNode.insertBefore(s, f);
+            }, 1);
+            setTimeout(function () {
+                var d = document, f = d.getElementsByTagName('script')[0], s = d.createElement('script');
+                s.type = 'text/javascript';
+                s.async = true;
+                s.src = '//s3.amazonaws.com/ki.js/47412/aC6.js';
+                f.parentNode.insertBefore(s, f);
+            }, 1);
+        })();
+    </script>
+
+
+<noscript>
+	<img hidden src="https://verify.nature.com/verify/nature.png" border="0" width="0" height="0" style="display: none">
+</noscript>
+</body>
+</html>
+

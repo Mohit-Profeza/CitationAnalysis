@@ -1,0 +1,1877 @@
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml"
+      xmlns:dc="http://purl.org/dc/terms/"
+      xmlns:doi="http://dx.doi.org/"
+      lang="en" xml:lang="en"
+      itemscope itemtype="http://schema.org/Article"
+      class="no-js">
+
+
+
+<head prefix="og: http://ogp.me/ns#">
+  <title>Single Arginine Mutation in Two Yeast Isocitrate Dehydrogenases: Biochemical Characterization and Functional Implication</title>
+
+
+
+
+
+
+
+<link rel="stylesheet" href="/plosone/resource/compiled/asset_V7OLX4LSII2Y4DADFWUTOT572TJ6EECJ.css" />
+
+  <!-- allows for  extra head tags -->
+
+
+<!-- hello -->
+<link rel="stylesheet" type="text/css"
+      href="https://fonts.googleapis.com/css?family=Open+Sans:400,400i,600">
+
+<link media="print" rel="stylesheet" type="text/css"  href="/plosone/resource/css/print.css"/>
+    <script type="text/javascript">
+        var siteUrlPrefix = "/plosone/";
+    </script>
+<script src="/plosone/resource/compiled/asset_SC5JIUGEUPR4P4P6VBUINUVOVUSU3NRY.js"></script>
+
+  <link rel="shortcut icon" href="/plosone/resource/img/favicon.ico" type="image/x-icon"/>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+
+
+
+
+
+
+  <link rel="canonical" href="http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0115025" />
+  <meta name="description" content="Isocitrate dehydrogenase (IDH), a housekeeping gene, has drawn the attention of cancer experts. Mutation of the catalytic Arg132 residue of human IDH1 (HcIDH) eliminates the enzyme's wild-type isocitrate oxidation activity, but confer the mutant an ability of reducing &alpha;-ketoglutarate (&alpha;-KG) to 2-hydroxyglutarate (2-HG). To examine whether an analogous mutation in IDHs of other eukaryotes could cause similar effects, two yeast mitochondrial IDHs, Saccharomyces cerevisiae NADP+-IDH1 (ScIDH1) and Yarrowia lipolytica NADP+-IDH (YlIDH), were studied. The analogous Arg residues (Arg148 of ScIDH1 and Arg141 of YlIDH) were mutated to His. The Km values of ScIDH1 R148H and YlIDH R141H for isocitrate were determined to be 2.4-fold and 2.2-fold higher, respectively, than those of the corresponding wild-type enzymes. The catalytic efficiencies (kcat/Km) of ScIDH1 R148H and YlIDH R141H for isocitrate oxidation were drastically reduced by 227-fold and 460-fold, respectively, of those of the wild-type enzymes. As expected, both ScIDH1 R148H and YlIDH R141H acquired the neomorphic activity of catalyzing &alpha;-KG to 2-HG, and the generation of 2-HG was confirmed using gas chromatography/time of flight-mass spectrometry (GC/TOF-MS). Kinetic analysis showed that ScIDH1 R148H and YlIDH R141H displayed 5.2-fold and 3.3-fold higher affinities, respectively, for &alpha;-KG than the HcIDH R132H mutant. The catalytic efficiencies of ScIDH1 R148H and YlIDH R141H for &alpha;-KG were 5.5-fold and 4.5-fold, respectively, of that of the HcIDH R132H mutant. Since the HcIDH Arg132 mutation is associated with the tumorigenesis, this study provides fundamental information for further research on the physiological role of this IDH mutation in vivo using yeast." />
+
+  <meta name="keywords" content="Saccharomyces cerevisiae,Enzymes,Yeast,Oxidation,Mitochondria,Enzyme structure,Catalysis,Enzyme purification" />
+
+
+<meta name="citation_doi" content="10.1371/journal.pone.0115025"/>
+<meta name="citation_author" content="Ping Song"/>
+  <meta name="citation_author_institution" content="Institute of Molecular Biology and Biotechnology, Anhui Normal University, No. 1 Beijing East Road, Wuhu, 241000, Anhui, China"/>
+<meta name="citation_author" content="Huanhuan Wei"/>
+  <meta name="citation_author_institution" content="Institute of Molecular Biology and Biotechnology, Anhui Normal University, No. 1 Beijing East Road, Wuhu, 241000, Anhui, China"/>
+<meta name="citation_author" content="Zhengyu Cao"/>
+  <meta name="citation_author_institution" content="Institute of Molecular Biology and Biotechnology, Anhui Normal University, No. 1 Beijing East Road, Wuhu, 241000, Anhui, China"/>
+<meta name="citation_author" content="Peng Wang"/>
+  <meta name="citation_author_institution" content="Institute of Molecular Biology and Biotechnology, Anhui Normal University, No. 1 Beijing East Road, Wuhu, 241000, Anhui, China"/>
+<meta name="citation_author" content="Guoping Zhu"/>
+  <meta name="citation_author_institution" content="Institute of Molecular Biology and Biotechnology, Anhui Normal University, No. 1 Beijing East Road, Wuhu, 241000, Anhui, China"/>
+
+<meta name="citation_title" content="Single Arginine Mutation in Two Yeast Isocitrate Dehydrogenases: Biochemical Characterization and Functional Implication"/>
+<meta itemprop="name" content="Single Arginine Mutation in Two Yeast Isocitrate Dehydrogenases: Biochemical Characterization and Functional Implication"/>
+<meta name="citation_journal_title" content="PLOS ONE"/>
+<meta name="citation_journal_abbrev" content="PLOS ONE"/>
+<meta name="citation_date" content="Dec 11, 2014"/>
+<meta name="citation_firstpage" content="e115025"/>
+<meta name="citation_issue" content="12"/>
+<meta name="citation_volume" content="9"/>
+<meta name="citation_issn" content="1932-6203"/>
+<meta name="citation_publisher" content="Public Library of Science"/>
+
+  <meta name="citation_pdf_url" content="http://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0115025&type=printable">
+
+
+<meta name="dc.identifier" content="10.1371/journal.pone.0115025" />
+
+
+  <meta name="twitter:card" content="summary" />
+  <meta name="twitter:site" content="@plosone"/>
+    <meta name="twitter:title" content="Single Arginine Mutation in Two Yeast Isocitrate Dehydrogenases: Biochemical Characterization and Functional Implication" />
+    <meta property="twitter:description" content="Isocitrate dehydrogenase (IDH), a housekeeping gene, has drawn the attention of cancer experts. Mutation of the catalytic Arg132 residue of human IDH1 (HcIDH) eliminates the enzyme's wild-type isocitrate oxidation activity, but confer the mutant an ability of reducing &alpha;-ketoglutarate (&alpha;-KG) to 2-hydroxyglutarate (2-HG). To examine whether an analogous mutation in IDHs of other eukaryotes could cause similar effects, two yeast mitochondrial IDHs, Saccharomyces cerevisiae NADP+-IDH1 (ScIDH1) and Yarrowia lipolytica NADP+-IDH (YlIDH), were studied. The analogous Arg residues (Arg148 of ScIDH1 and Arg141 of YlIDH) were mutated to His. The Km values of ScIDH1 R148H and YlIDH R141H for isocitrate were determined to be 2.4-fold and 2.2-fold higher, respectively, than those of the corresponding wild-type enzymes. The catalytic efficiencies (kcat/Km) of ScIDH1 R148H and YlIDH R141H for isocitrate oxidation were drastically reduced by 227-fold and 460-fold, respectively, of those of the wild-type enzymes. As expected, both ScIDH1 R148H and YlIDH R141H acquired the neomorphic activity of catalyzing &alpha;-KG to 2-HG, and the generation of 2-HG was confirmed using gas chromatography/time of flight-mass spectrometry (GC/TOF-MS). Kinetic analysis showed that ScIDH1 R148H and YlIDH R141H displayed 5.2-fold and 3.3-fold higher affinities, respectively, for &alpha;-KG than the HcIDH R132H mutant. The catalytic efficiencies of ScIDH1 R148H and YlIDH R141H for &alpha;-KG were 5.5-fold and 4.5-fold, respectively, of that of the HcIDH R132H mutant. Since the HcIDH Arg132 mutation is associated with the tumorigenesis, this study provides fundamental information for further research on the physiological role of this IDH mutation in vivo using yeast." />
+    <meta property="twitter:image" content="http://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0115025.g007&size=inline" />
+
+<meta property="og:type" content="article" />
+<meta property="og:url" content="http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0115025"/>
+<meta property="og:title" content="Single Arginine Mutation in Two Yeast Isocitrate Dehydrogenases: Biochemical Characterization and Functional Implication"/>
+<meta property="og:description" content="Isocitrate dehydrogenase (IDH), a housekeeping gene, has drawn the attention of cancer experts. Mutation of the catalytic Arg132 residue of human IDH1 (HcIDH) eliminates the enzyme's wild-type isocitrate oxidation activity, but confer the mutant an ability of reducing &alpha;-ketoglutarate (&alpha;-KG) to 2-hydroxyglutarate (2-HG). To examine whether an analogous mutation in IDHs of other eukaryotes could cause similar effects, two yeast mitochondrial IDHs, Saccharomyces cerevisiae NADP+-IDH1 (ScIDH1) and Yarrowia lipolytica NADP+-IDH (YlIDH), were studied. The analogous Arg residues (Arg148 of ScIDH1 and Arg141 of YlIDH) were mutated to His. The Km values of ScIDH1 R148H and YlIDH R141H for isocitrate were determined to be 2.4-fold and 2.2-fold higher, respectively, than those of the corresponding wild-type enzymes. The catalytic efficiencies (kcat/Km) of ScIDH1 R148H and YlIDH R141H for isocitrate oxidation were drastically reduced by 227-fold and 460-fold, respectively, of those of the wild-type enzymes. As expected, both ScIDH1 R148H and YlIDH R141H acquired the neomorphic activity of catalyzing &alpha;-KG to 2-HG, and the generation of 2-HG was confirmed using gas chromatography/time of flight-mass spectrometry (GC/TOF-MS). Kinetic analysis showed that ScIDH1 R148H and YlIDH R141H displayed 5.2-fold and 3.3-fold higher affinities, respectively, for &alpha;-KG than the HcIDH R132H mutant. The catalytic efficiencies of ScIDH1 R148H and YlIDH R141H for &alpha;-KG were 5.5-fold and 4.5-fold, respectively, of that of the HcIDH R132H mutant. Since the HcIDH Arg132 mutation is associated with the tumorigenesis, this study provides fundamental information for further research on the physiological role of this IDH mutation in vivo using yeast."/>
+<meta property="og:image" content="http://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0115025.g007&size=inline"/>
+
+<meta name="citation_reference" content="citation_title=Structures of human cytosolic NADP-dependent isocitrate dehydrogenase reveal a novel self-regulatory mechanism of activity;citation_author=X Xu;citation_author=J Zhao;citation_author=Z Xu;citation_author=B Peng;citation_author=Q Huang;citation_journal_title=J Biol Chem;citation_volume=279;citation_number=279;citation_first_page=33946;citation_last_page=33957;citation_publication_date=2004;"/>    
+<meta name="citation_reference" content="citation_title=Identification of Mn 2+ -binding aspartates from alpha, beta, and gamma subunits of human NAD-dependent isocitrate dehydrogenase;citation_author=S Soundar;citation_author=M O'Hagan;citation_author=KS Fomulu;citation_author=RF Colman;citation_journal_title=J Biol Chem;citation_volume=281;citation_number=281;citation_first_page=21073;citation_last_page=21081;citation_publication_date=2006;"/>    
+<meta name="citation_reference" content="citation_title=Silencing of mitochondrial NADP + -dependent isocitrate dehydrogenase by small interfering RNA enhances heat shock-induced apoptosis;citation_author=SW Shin;citation_author=IS Kil;citation_author=JW Park;citation_journal_title=Biochem Biophys Res Commun;citation_volume=366;citation_number=366;citation_first_page=1012;citation_last_page=1018;citation_publication_date=2008;"/>    
+<meta name="citation_reference" content="citation_title=Silencing of cytosolic NADP(+)-dependent isocitrate dehydrogenase by small interfering RNA enhances the sensitivity of HeLa cells toward staurosporine;citation_author=SM Lee;citation_author=SY Park;citation_author=SW Shin;citation_author=IS Kil;citation_author=ES Yang;citation_journal_title=Free Radic Res;citation_volume=43;citation_number=43;citation_first_page=165;citation_last_page=173;citation_publication_date=2009;"/>    
+<meta name="citation_reference" content="citation_title=Knockdown of cytosolic NADP(+) -dependent isocitrate dehydrogenase enhances MPP(+)-induced oxidative injury in PC12 cells;citation_author=ES Yang;citation_author=JW Park;citation_journal_title=BMB Rep;citation_volume=44;citation_number=44;citation_first_page=312;citation_last_page=316;citation_publication_date=2011;"/>    
+<meta name="citation_reference" content="citation_title=Multiple cellular consequences of isocitrate dehydrogenase isozyme dysfunction;citation_author=MT McCammon;citation_author=L McAlister-Henn;citation_journal_title=Arch Biochem Biophys;citation_volume=419;citation_number=419;citation_first_page=222;citation_last_page=233;citation_publication_date=2003;"/>    
+<meta name="citation_reference" content="citation_title=Influence of compartmental localization on the function of yeast NADP + -specific isocitrate dehydrogenases;citation_author=V Contreras-Shannon;citation_author=L McAlister-Henn;citation_journal_title=Arch Biochem Biophys;citation_volume=423;citation_number=423;citation_first_page=235;citation_last_page=246;citation_publication_date=2004;"/>    
+<meta name="citation_reference" content="citation_title=Dual compartmental localization and function of mammalian NADP + -specific isocitrate dehydrogenase in yeast;citation_author=Q Lu;citation_author=KI Minard;citation_author=L McAlister-Henn;citation_journal_title=Arch Biochem Biophys;citation_volume=472;citation_number=472;citation_first_page=17;citation_last_page=25;citation_publication_date=2008;"/>    
+<meta name="citation_reference" content="citation_title=Structural studies of  Saccharomyces cerevesiae  mitochondrial NADP-dependent isocitrate dehydrogenase in different enzymatic states reveal substantial conformational changes during the catalytic reaction;citation_author=Y Peng;citation_author=C Zhong;citation_author=W Huang;citation_author=J Ding;citation_journal_title=Protein Sci;citation_volume=17;citation_number=17;citation_first_page=1542;citation_last_page=1554;citation_publication_date=2008;"/>    
+<meta name="citation_reference" content="citation_title=Peroxisomal localization and function of NADP +  -specific isocitrate dehydrogenases in yeast;citation_author=Q Lu;citation_author=L McAlister-Henn;citation_journal_title=Arch Biochem Biophys;citation_volume=493;citation_number=493;citation_first_page=125;citation_last_page=134;citation_publication_date=2010;"/>    
+<meta name="citation_reference" content="citation_title=NADP(+)-specific isocitrate dehydrogenase from oleaginous yeast  Yarrowia lipolytica  CLIB122: biochemical characterization and coenzyme sites evaluation;citation_author=X Li;citation_author=P Wang;citation_author=Y Ge;citation_author=W Wang;citation_author=A Abbas;citation_journal_title=Appl Biochem Biotechnol;citation_volume=171;citation_number=171;citation_first_page=403;citation_last_page=416;citation_publication_date=2013;"/>    
+<meta name="citation_reference" content="citation_title=An integrated genomic analysis of human glioblastoma multiforme;citation_author=DW Parsons;citation_author=S Jones;citation_author=X Zhang;citation_author=JC Lin;citation_author=RJ Leary;citation_journal_title=Science;citation_volume=321;citation_number=321;citation_first_page=1807;citation_last_page=1812;citation_publication_date=2008;"/>    
+<meta name="citation_reference" content="citation_title=Recurring mutations found by sequencing an acute myeloid leukemia genome;citation_author=ER Mardis;citation_author=L Ding;citation_author=DJ Dooling;citation_author=DE Larson;citation_author=MD McLellan;citation_journal_title=N Engl J Med;citation_volume=361;citation_number=361;citation_first_page=1058;citation_last_page=1066;citation_publication_date=2009;"/>    
+<meta name="citation_reference" content="citation_title=IDH1 and IDH2 mutations in gliomas;citation_author=H Yan;citation_author=DW Parsons;citation_author=G Jin;citation_author=R McLendon;citation_author=BA Rasheed;citation_journal_title=N Engl J Med;citation_volume=360;citation_number=360;citation_first_page=765;citation_last_page=773;citation_publication_date=2009;"/>    
+<meta name="citation_reference" content="citation_title=The common feature of leukemia-associated IDH1 and IDH2 mutations is a neomorphic enzyme activity converting alpha-ketoglutarate to 2-hydroxyglutarate;citation_author=PS Ward;citation_author=J Patel;citation_author=DR Wise;citation_author=O Abdel-Wahab;citation_author=BD Bennett;citation_journal_title=Cancer Cell;citation_volume=17;citation_number=17;citation_first_page=225;citation_last_page=234;citation_publication_date=2010;"/>    
+<meta name="citation_reference" content="citation_title=Glioma-derived mutations in IDH1 dominantly inhibit IDH1 catalytic activity and induce HIF-1alpha;citation_author=S Zhao;citation_author=Y Lin;citation_author=W Xu;citation_author=W Jiang;citation_author=Z Zha;citation_journal_title=Science;citation_volume=324;citation_number=324;citation_first_page=261;citation_last_page=265;citation_publication_date=2009;"/>    
+<meta name="citation_reference" content="citation_title=Cancer-associated IDH1 mutations produce 2-hydroxyglutarate;citation_author=L Dang;citation_author=DW White;citation_author=S Gross;citation_author=BD Bennett;citation_author=MA Bittinger;citation_journal_title=Nature;citation_volume=462;citation_number=462;citation_first_page=739;citation_last_page=744;citation_publication_date=2009;"/>    
+<meta name="citation_reference" content="citation_title=Molecular mechanisms of &amp;quot;off-on switch&amp;quot; of activities of human IDH1 by tumor-associated mutation R132H;citation_author=B Yang;citation_author=C Zhong;citation_author=Y Peng;citation_author=Z Lai;citation_author=J Ding;citation_journal_title=Cell Res;citation_volume=20;citation_number=20;citation_first_page=1188;citation_last_page=1200;citation_publication_date=2010;"/>    
+<meta name="citation_reference" content="citation_title=Mutant IDH1 enhances the production of 2-hydroxyglutarate due to its kinetic mechanism;citation_author=AR Rendina;citation_author=B Pietrak;citation_author=A Smallwood;citation_author=H Zhao;citation_author=H Qi;citation_journal_title=Biochemistry;citation_volume=52;citation_number=52;citation_first_page=4563;citation_last_page=4577;citation_publication_date=2013;"/>    
+<meta name="citation_reference" content="citation_title=Inhibition of 2-oxoglutarate dependent oxygenases;citation_author=NR Rose;citation_author=MA McDonough;citation_author=ON King;citation_author=A Kawamura;citation_author=CJ Schofield;citation_journal_title=Chem Soc Rev;citation_volume=40;citation_number=40;citation_first_page=4364;citation_last_page=4397;citation_publication_date=2011;"/>    
+<meta name="citation_reference" content="citation_title=IDH1 mutation is sufficient to establish the glioma hypermethylator phenotype;citation_author=S Turcan;citation_author=D Rohle;citation_author=A Goenka;citation_author=LA Walsh;citation_author=F Fang;citation_journal_title=Nature;citation_volume=483;citation_number=483;citation_first_page=479;citation_last_page=483;citation_publication_date=2012;"/>    
+<meta name="citation_reference" content="citation_title=IDH mutation impairs histone demethylation and results in a block to cell differentiation;citation_author=C Lu;citation_author=PS Ward;citation_author=GS Kapoor;citation_author=D Rohle;citation_author=S Turcan;citation_journal_title=Nature;citation_volume=483;citation_number=483;citation_first_page=474;citation_last_page=478;citation_publication_date=2012;"/>    
+<meta name="citation_reference" content="citation_title=Induction of sarcomas by mutant IDH2;citation_author=C Lu;citation_author=S Venneti;citation_author=A Akalin;citation_author=F Fang;citation_author=PS Ward;citation_journal_title=Genes Dev;citation_volume=27;citation_number=27;citation_first_page=1986;citation_last_page=1998;citation_publication_date=2013;"/>    
+<meta name="citation_reference" content="citation_title=Cancer-associated IDH2 mutants drive an acute myeloid leukemia that is susceptible to Brd4 inhibition;citation_author=C Chen;citation_author=Y Liu;citation_author=C Lu;citation_author=JR Cross;citation_author=JPt Morris;citation_journal_title=Genes Dev;citation_volume=27;citation_number=27;citation_first_page=1974;citation_last_page=1985;citation_publication_date=2013;"/>    
+<meta name="citation_reference" content="citation_title=ESPript: analysis of multiple sequence alignments in PostScript;citation_author=P Gouet;citation_author=E Courcelle;citation_author=DI Stuart;citation_author=F Metoz;citation_journal_title=Bioinformatics;citation_volume=15;citation_number=15;citation_first_page=305;citation_last_page=308;citation_publication_date=1999;"/>    
+<meta name="citation_reference" content="citation_title=Clustal W and Clustal X version 2.0;citation_author=MA Larkin;citation_author=G Blackshields;citation_author=NP Brown;citation_author=R Chenna;citation_author=PA McGettigan;citation_journal_title=Bioinformatics;citation_volume=23;citation_number=23;citation_first_page=2947;citation_last_page=2948;citation_publication_date=2007;"/>    
+<meta name="citation_reference" content="citation_title=How to measure and predict the molar absorption coefficient of a protein;citation_author=CN Pace;citation_author=F Vajdos;citation_author=L Fee;citation_author=G Grimsley;citation_author=T Gray;citation_journal_title=Protein Sci;citation_volume=4;citation_number=4;citation_first_page=2411;citation_last_page=2423;citation_publication_date=1995;"/>    
+<meta name="citation_reference" content="citation_title=Cancer-associated metabolite 2-hydroxyglutarate accumulates in acute myelogenous leukemia with isocitrate dehydrogenase 1 and 2 mutations;citation_author=S Gross;citation_author=RA Cairns;citation_author=MD Minden;citation_author=EM Driggers;citation_author=MA Bittinger;citation_journal_title=J Exp Med;citation_volume=207;citation_number=207;citation_first_page=339;citation_last_page=344;citation_publication_date=2010;"/>    
+<meta name="citation_reference" content="citation_title=New insights into cancer-related proteins provided by the yeast model;citation_author=C Pereira;citation_author=I Coutinho;citation_author=J Soares;citation_author=C Bessa;citation_author=M Leao;citation_journal_title=Febs j;citation_volume=279;citation_number=279;citation_first_page=697;citation_last_page=712;citation_publication_date=2012;"/>    
+<meta name="citation_reference" content="citation_title=The expanding role of yeast in cancer research and diagnosis: insights into the function of the oncosuppressors p53 and BRCA1/2;citation_author=N Guaragnella;citation_author=V Palermo;citation_author=A Galli;citation_author=L Moro;citation_author=C Mazzoni;citation_journal_title=FEMS Yeast Research;citation_volume=14;citation_number=14;citation_first_page=2;citation_last_page=16;citation_publication_date=2014;"/>    
+
+
+<!-- DoubleClick overall ad setup script -->
+<script type='text/javascript'>
+  var googletag = googletag || {};
+  googletag.cmd = googletag.cmd || [];
+  (function() {
+    var gads = document.createElement('script');
+    gads.async = true;
+    gads.type = 'text/javascript';
+    var useSSL = 'https:' == document.location.protocol;
+    gads.src = (useSSL ? 'https:' : 'http:') +
+        '//www.googletagservices.com/tag/js/gpt.js';
+    var node = document.getElementsByTagName('script')[0];
+    node.parentNode.insertBefore(gads, node);
+  })();
+</script>
+
+<!-- DoubleClick ad slot setup script -->
+
+  <script id="doubleClickSetupScript" type='text/javascript'>
+    googletag.cmd.push(function() {
+  googletag.defineSlot('/75507958/PONE_728x90_ATF', [728, 90], 'div-gpt-ad-1458247671871-0').addService(googletag.pubads());
+  googletag.defineSlot('/75507958/PONE_160x600_BTF', [160, 600], 'div-gpt-ad-1458247671871-1').addService(googletag.pubads());
+      googletag.pubads().enableSingleRequest();
+      googletag.enableServices();
+    });
+  </script>
+
+
+
+<script type="text/javascript">
+    var WombatConfig = WombatConfig || {};
+    WombatConfig.resourcePath = "/plosone/resource/";
+    WombatConfig.imgPath = "/plosone/resource/img/";
+    WombatConfig.journalKey = "PLoSONE";
+    WombatConfig.figurePath = "/plosone/article/figure/image";
+    WombatConfig.figShareInstitutionString = "plos";
+    WombatConfig.doiResolverPrefix = "http://dx.plos.org/";
+</script>
+
+<script type="text/javascript">
+  var WombatConfig = WombatConfig || {};
+  WombatConfig.metrics = WombatConfig.metrics || {};
+  WombatConfig.metrics.referenceUrl      = "http://lagotto.io/plos";
+  WombatConfig.metrics.googleScholarUrl  = "http://scholar.google.com/scholar";
+  WombatConfig.metrics.googleScholarCitationUrl  = WombatConfig.metrics.googleScholarUrl + "?hl=en&lr=&cites=";
+  WombatConfig.metrics.crossrefUrl  = "http://www.crossref.org";
+</script><script src="//code.jquery.com/jquery-2.1.4.min.js" ></script>
+<script>window.jQuery || document.write('<script src="/plosone/resource/js/vendor/jquery-2.1.4.min.js""><\/script>')</script>
+
+          <script type="text/javascript" src="https://widgets.figshare.com/static/figshare.js"></script>
+
+
+
+
+
+
+
+
+
+
+<!--For Google Tag manager to be able to track site information  -->
+<script>
+
+  dataLayer = [{
+    'mobileSite': 'false',
+    'desktopSite': 'true'
+  }];
+
+</script>
+
+</head>
+
+
+
+<body class="article plosone">
+
+
+<!-- Google Tag Manager -->
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-TP26BH"
+                  height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+    new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+    j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+    '//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-TP26BH');</script>
+
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-MQQMGF"
+                  height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+    new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+    j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+    '//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-MQQMGF');</script>
+<!-- End Google Tag Manager -->
+
+<header>
+  <div id="topslot" class="head-top">
+
+<div class="center">
+<div class="title">Advertisement</div>
+<!-- DoubleClick Ad Zone -->
+  <div class='advertisement' id='div-gpt-ad-1458247671871-0' style='width:728px; height:90px;'>
+    <script type='text/javascript'>
+      googletag.cmd.push(function() { googletag.display('div-gpt-ad-1458247671871-0'); });
+    </script>
+  </div>
+</div>
+  </div>
+
+  <div id="user" class="nav">
+    <ul class="nav-user">
+
+
+
+
+      <li ><a href="http://www.plos.org">plos.org</a></li>
+
+
+        <li ><a href="https://community.plos.org/registration/new">create account</a></li>
+
+
+          <li class="highlighted"><a href="/plosone/user/secure/login?page=%2Fplosone%2Farticle%3Fid%3D10.1371%2Fjournal.pone.0115025">sign in</a></li>
+
+    </ul>
+  </div>
+  <div id="pagehdr">
+
+    <nav class="nav-main">
+
+
+
+
+<h1 class="logo">
+  <a href="/plosone/.">PLOS ONE</a>
+</h1>
+
+<section class="top-bar-section"> 
+
+<ul class="nav-elements">
+
+
+    <li class="multi-col-parent menu-section-header has-dropdown" id="publish">
+    Publish
+      <div class="dropdown mega ">
+        <ul class="multi-col" id="publish-dropdown-list">
+
+  <li class="menu-section-header " id="submissions">
+    <span class="menu-section-header-title">  Submissions </span>
+
+    <ul class="menu-section "
+        id="submissions-dropdown-list">
+      <li>
+    <a href="/plosone/s/getting-started" >Getting Started</a>
+  </li>
+
+      <li>
+    <a href="/plosone/s/submission-guidelines" >Submission Guidelines</a>
+  </li>
+
+      <li>
+    <a href="/plosone/s/figures" >Figures</a>
+  </li>
+
+      <li>
+    <a href="/plosone/s/tables" >Tables</a>
+  </li>
+
+      <li>
+    <a href="/plosone/s/supporting-information" >Supporting Information</a>
+  </li>
+
+      <li>
+    <a href="/plosone/s/latex" >LaTeX</a>
+  </li>
+
+      <li>
+    <a href="/plosone/s/revising-your-manuscript" >Revising Your Manuscript</a>
+  </li>
+
+      <li>
+    <a href="/plosone/s/submit-now" >Submit Now</a>
+  </li>
+
+    </ul>
+
+  </li>
+
+
+  <li class="menu-section-header " id="policies">
+    <span class="menu-section-header-title">  Policies </span>
+
+    <ul class="menu-section "
+        id="policies-dropdown-list">
+      <li>
+    <a href="/plosone/s/best-practices-in-research-reporting" >Best Practices in Research Reporting</a>
+  </li>
+
+      <li>
+    <a href="/plosone/s/human-subjects-research" >Human Subjects Research</a>
+  </li>
+
+      <li>
+    <a href="/plosone/s/animal-research" >Animal Research</a>
+  </li>
+
+      <li>
+    <a href="/plosone/s/competing-interests" >Competing Interests</a>
+  </li>
+
+      <li>
+    <a href="/plosone/s/disclosure-of-funding-sources" >Disclosure of Funding Sources</a>
+  </li>
+
+      <li>
+    <a href="/plosone/s/licenses-and-copyright" >Licenses and Copyright</a>
+  </li>
+
+      <li>
+    <a href="/plosone/s/data-availability" >Data Availability</a>
+  </li>
+
+      <li>
+    <a href="/plosone/s/materials-and-software-sharing" >Materials and Software Sharing</a>
+  </li>
+
+      <li>
+    <a href="/plosone/s/ethical-publishing-practice" >Ethical Publishing Practice</a>
+  </li>
+
+      <li>
+    <a href="/plosone/s/authorship" >Authorship</a>
+  </li>
+
+      <li>
+    <a href="/plosone/s/downloads-and-translations" >Downloads and Translations</a>
+  </li>
+
+    </ul>
+
+  </li>
+
+
+  <li class="menu-section-header " id="manuscript-review-and-publication">
+    <span class="menu-section-header-title">  Manuscript Review and Publication </span>
+
+    <ul class="menu-section "
+        id="manuscript-review-and-publication-dropdown-list">
+      <li>
+    <a href="/plosone/s/criteria-for-publication" >Criteria for Publication</a>
+  </li>
+
+      <li>
+    <a href="/plosone/s/editorial-and-peer-review-process" >Editorial and Peer Review Process</a>
+  </li>
+
+      <li>
+    <a href="/plosone/s/reviewer-guidelines" >Reviewer Guidelines</a>
+  </li>
+
+      <li>
+    <a href="/plosone/s/accepted-manuscripts" >Accepted Manuscripts</a>
+  </li>
+
+      <li>
+    <a href="/plosone/s/corrections-and-retractions" >Corrections and Retractions</a>
+  </li>
+
+      <li>
+    <a href="/plosone/s/comments" >Comments</a>
+  </li>
+
+      <li>
+    <a href="/plosone/s/article-level-metrics" >Article-Level Metrics</a>
+  </li>
+
+    </ul>
+
+  </li>
+        </ul>
+          <div class="calloutcontainer">
+
+
+
+  <h3 class="callout-headline">Submit Your Manuscript</h3>
+
+  <div class="action-contain">
+  <p class="callout-content">
+  Discover a faster, simpler path to publishing in a high-quality journal. <em>PLOS ONE</em> promises fair, rigorous peer review,
+  broad scope, and wide readership – a perfect fit for your research every time.
+  </p>
+
+  <p class="button-contain special">
+    <a class="button button-default" href="/plosone/static/publish">
+     Learn More
+    </a>
+    <a class="button-link" href="http://www.editorialmanager.com/pone/default.asp">
+      Submit Now
+    </a>
+  </p>
+  </div>  <!-- opens in siteMenuCalloutDescription -->
+
+
+          </div>
+      </div>
+    </li>
+
+
+
+  <li class="menu-section-header has-dropdown " id="about">
+    <span class="menu-section-header-title">  About </span>
+
+    <ul class="menu-section dropdown "
+        id="about-dropdown-list">
+      <li>
+    <a href="/plosone/static/publish" >Why Publish with PLOS ONE</a>
+  </li>
+
+      <li>
+    <a href="/plosone/s/journal-information" >Journal Information</a>
+  </li>
+
+      <li>
+    <a href="/plosone/s/staff-editors" >Staff Editors</a>
+  </li>
+
+      <li>
+    <a href="/plosone/static/editorial-board" >Editorial Board</a>
+  </li>
+
+      <li>
+    <a href="/plosone/s/section-editors" >Section Editors</a>
+  </li>
+
+      <li>
+    <a href="/plosone/s/advisory-groups" >Advisory Groups</a>
+  </li>
+
+      <li>
+    <a href="/plosone/s/publishing-information" >Publishing Information</a>
+  </li>
+
+      <li>
+    <a href="/plosone/s/publication-fees" >Publication Fees</a>
+  </li>
+
+      <li>
+    <a href="/plosone/s/press-and-media" >Press and Media</a>
+  </li>
+
+      <li>
+    <a href="/plosone/s/contact" >Contact</a>
+  </li>
+
+    </ul>
+
+  </li>
+
+  <li data-js-tooltip-hover="trigger" class="subject-area menu-section-header">
+  Browse
+  </li>
+
+
+
+
+  <li id="navsearch" class="head-search">
+    <form name="searchForm" action="/plosone/search" method="get">
+      <fieldset>
+        <legend>Search</legend>
+        <label for="search">Search</label>
+        <input id="search" type="text" name="q" placeholder="Search" required/>
+        <button id="headerSearchButton" type="submit"><span class="search-icon"></span></button>
+
+      </fieldset>
+      <input type="hidden" name="filterJournals" value="PLoSONE"/>
+    </form>
+
+    <a id="advSearch"
+       href="/plosone/search">
+      advanced search
+    </a>
+
+  </li>
+
+
+
+
+
+      </ul>     
+      </section>  
+    </nav>
+  </div>
+
+</header><section id="taxonomyContainer">
+
+<div id="taxonomy-browser" class="areas" data-search-url="/plosone/browse">
+  <div class="wrapper">
+    <div class="taxonomy-header">
+      Browse Subject Areas
+      <div id="subjInfo">?</div>
+      <div id="subjInfoText">
+        <p>Click through the PLOS taxonomy to find articles in your field.</p>
+        <p>For more information about PLOS Subject Areas, click
+          <a href="/plosone/s/help-using-this-site#loc-subject-areas">here</a>.
+        </p>
+      </div>
+    </div>
+    <div class="levels">
+      <div class="levels-container cf">
+        <div class="levels-position"></div>
+      </div>
+      <a href="#" class="prev"></a>
+      <a href="#" class="next active"></a>
+    </div>
+  </div>
+  <div class="taxonomy-browser-border-bottom"></div>
+</div></section>
+<main> <div class="set-grid">
+
+<header class="title-block">
+
+
+
+
+<ul id="almSignposts" class="signposts">
+  <li id="loadingMetrics">
+    <p>Loading metrics</p>
+  </li>
+</ul>
+
+<script type="text/template" id="signpostsGeneralErrorTemplate">
+  <li id="metricsError">Article metrics are unavailable at this time. Please try again later.</li>
+</script>
+
+<script type="text/template" id="signpostsNewArticleErrorTemplate">
+  <li></li><li></li><li id="tooSoon">Article metrics are unavailable for recently published articles.</li>
+</script>
+
+<script type="text/template" id="signpostsTemplate">
+    <li id="almSaves">
+      <%= s.numberFormat(saveCount, 0) %>
+      <div class="tools" data-js-tooltip-hover="trigger">
+        <a class="metric-term" href="/plosone/article/metrics?id=10.1371/journal.pone.0115025#savedHeader">Save</a>
+        <p class="saves-tip" data-js-tooltip-hover="target"><a href="/plosone/article/metrics?id=10.1371/journal.pone.0115025#savedHeader">Total Mendeley and CiteULike bookmarks.</a></p>
+      </div>
+    </li>
+
+    <li id="almCitations">
+      <%= s.numberFormat(citationCount, 0) %>
+      <div class="tools" data-js-tooltip-hover="trigger">
+        <a class="metric-term" href="/plosone/article/metrics?id=10.1371/journal.pone.0115025#citedHeader">Citation</a>
+        <p class="citations-tip" data-js-tooltip-hover="target"><a href="/plosone/article/metrics?id=10.1371/journal.pone.0115025#citedHeader">Paper's citation count computed by Scopus.</a></p>
+      </div>
+    </li>
+
+    <li id="almViews">
+      <%= s.numberFormat(viewCount, 0) %>
+      <div class="tools" data-js-tooltip-hover="trigger">
+        <a class="metric-term" href="/plosone/article/metrics?id=10.1371/journal.pone.0115025#viewedHeader">View</a>
+        <p class="views-tip" data-js-tooltip-hover="target"><a href="/plosone/article/metrics?id=10.1371/journal.pone.0115025#viewedHeader">Sum of PLOS and PubMed Central page views and downloads.</a></p>
+      </div>
+    </li>
+
+    <li id="almShares">
+      <%= s.numberFormat(shareCount, 0) %>
+      <div class="tools" data-js-tooltip-hover="trigger">
+        <a class="metric-term" href="/plosone/article/metrics?id=10.1371/journal.pone.0115025#discussedHeader">Share</a>
+        <p class="shares-tip" data-js-tooltip-hover="target"><a href="/plosone/article/metrics?id=10.1371/journal.pone.0115025#discussedHeader">Sum of Facebook and Twitter activity.</a></p>
+      </div>
+    </li>
+</script>
+
+    <div class="article-meta">
+
+<div class="classifications">
+  <p class="license-short" id="licenseShort">Open Access</p>
+  <p class="peer-reviewed" id="peerReviewed">Peer-reviewed</p>
+
+<div class="article-type" >
+  <p class="type-article" id="artType">Research Article</p>
+</div>
+
+
+</div>
+
+
+    </div>
+    <div class="article-title-etc">
+
+
+
+<div class="title-authors">
+  <h1 id="artTitle"><?xml version="1.0" encoding="UTF-8"?>Single Arginine Mutation in Two Yeast Isocitrate Dehydrogenases: Biochemical Characterization and Functional Implication</h1>
+
+<ul class="author-list clearfix"  data-js-tooltip="tooltip_container" id="author-list">
+
+
+
+<li
+  data-js-tooltip="tooltip_trigger"
+  
+>
+   <a  data-author-id="0" class="author-name" >
+Ping Song,</a>    <div id="author-meta-0" class="author-info" data-js-tooltip="tooltip_target">
+
+  
+  
+  <p id="authAffiliations-0"><span class="type">Affiliation</span>
+    Institute of Molecular Biology and Biotechnology, Anhui Normal University, No. 1 Beijing East Road, Wuhu, 241000, Anhui, China
+  </p>
+
+      <a data-js-tooltip="tooltip_close" class="close" id="tooltipClose0"> &#x02A2F; </a>
+    </div>
+</li>
+
+<li
+  data-js-tooltip="tooltip_trigger"
+  
+>
+   <a  data-author-id="1" class="author-name" >
+Huanhuan Wei,</a>    <div id="author-meta-1" class="author-info" data-js-tooltip="tooltip_target">
+
+  
+  
+  <p id="authAffiliations-1"><span class="type">Affiliation</span>
+    Institute of Molecular Biology and Biotechnology, Anhui Normal University, No. 1 Beijing East Road, Wuhu, 241000, Anhui, China
+  </p>
+
+      <a data-js-tooltip="tooltip_close" class="close" id="tooltipClose1"> &#x02A2F; </a>
+    </div>
+</li>
+
+<li
+  data-js-tooltip="tooltip_trigger"
+  
+>
+   <a  data-author-id="2" class="author-name" >
+Zhengyu Cao,</a>    <div id="author-meta-2" class="author-info" data-js-tooltip="tooltip_target">
+
+  
+  
+  <p id="authAffiliations-2"><span class="type">Affiliation</span>
+    Institute of Molecular Biology and Biotechnology, Anhui Normal University, No. 1 Beijing East Road, Wuhu, 241000, Anhui, China
+  </p>
+
+      <a data-js-tooltip="tooltip_close" class="close" id="tooltipClose2"> &#x02A2F; </a>
+    </div>
+</li>
+
+<li
+  data-js-tooltip="tooltip_trigger"
+  
+>
+   <a  data-author-id="3" class="author-name" >
+Peng Wang <span class="email">  </span>,</a>    <div id="author-meta-3" class="author-info" data-js-tooltip="tooltip_target">
+
+  
+  <p id="authCorresponding-3"> <span class="email">* E-mail:</span> <a href="mailto:wangpeng1219@gmail.com">wangpeng1219@gmail.com</a> (PW); <a href="mailto:gpz1996@yahoo.com">gpz1996@yahoo.com</a> (GPZ)</p>
+  <p id="authAffiliations-3"><span class="type">Affiliation</span>
+    Institute of Molecular Biology and Biotechnology, Anhui Normal University, No. 1 Beijing East Road, Wuhu, 241000, Anhui, China
+  </p>
+
+      <a data-js-tooltip="tooltip_close" class="close" id="tooltipClose3"> &#x02A2F; </a>
+    </div>
+</li>
+
+<li
+  data-js-tooltip="tooltip_trigger"
+  
+>
+   <a  data-author-id="4" class="author-name" >
+Guoping Zhu <span class="email">  </span></a>    <div id="author-meta-4" class="author-info" data-js-tooltip="tooltip_target">
+
+  
+  <p id="authCorresponding-4"> <span class="email">* E-mail:</span> <a href="mailto:wangpeng1219@gmail.com">wangpeng1219@gmail.com</a> (PW); <a href="mailto:gpz1996@yahoo.com">gpz1996@yahoo.com</a> (GPZ)</p>
+  <p id="authAffiliations-4"><span class="type">Affiliation</span>
+    Institute of Molecular Biology and Biotechnology, Anhui Normal University, No. 1 Beijing East Road, Wuhu, 241000, Anhui, China
+  </p>
+
+      <a data-js-tooltip="tooltip_close" class="close" id="tooltipClose4"> &#x02A2F; </a>
+    </div>
+</li>
+
+</ul>
+
+</div>
+
+
+<div id="floatTitleTop" data-js-floater="title_author" class="float-title">
+  <div class="set-grid">
+    <div class="float-title-inner">
+      <h1><?xml version="1.0" encoding="UTF-8"?>Single Arginine Mutation in Two Yeast Isocitrate Dehydrogenases: Biochemical Characterization and Functional Implication</h1>
+
+<ul id="floatAuthorList" data-js-floater="floated_authors">
+
+  <li data-float-index="1">Ping Song,&nbsp;
+
+  </li>
+  <li data-float-index="2">Huanhuan Wei,&nbsp;
+
+  </li>
+  <li data-float-index="3">Zhengyu Cao,&nbsp;
+
+  </li>
+  <li data-float-index="4">Peng Wang,&nbsp;
+
+  </li>
+  <li data-float-index="5">Guoping Zhu
+
+  </li>
+
+</ul>
+
+
+
+    </div>
+    <div class="logo-close" id="titleTopCloser">
+      <img src="/plosone/resource/img/logo.plos.95.png" alt="PLOS" />
+      <div class="close-floater" title="close">x</div>
+    </div>
+  </div>
+</div>
+
+      <ul class="date-doi">
+        <li id="artPubDate">Published: December 11, 2014</li>
+        <li id="artDoi">
+<a   href="https://doi.org/10.1371/journal.pone.0115025">https://doi.org/10.1371/journal.pone.0115025</a>
+            </li>
+      </ul>
+
+    </div>
+  <div>
+
+  </div>
+</header>
+
+  <section class="article-body">
+
+
+
+<ul class="article-tabs">
+
+        <li class="tab-title active" id="tabArticle">
+          <a href="/plosone/article?id=10.1371/journal.pone.0115025" class="article-tab-1">Article</a>
+      </li>
+
+
+            <li class="tab-title " id="tabAuthors">
+          <a href="/plosone/article/authors?id=10.1371/journal.pone.0115025" class="article-tab-2">Authors</a>
+      </li>
+
+
+        <li class="tab-title " id="tabMetrics">
+          <a href="/plosone/article/metrics?id=10.1371/journal.pone.0115025" class="article-tab-3">Metrics</a>
+      </li>
+
+        <li class="tab-title " id="tabComments">
+          <a href="/plosone/article/comments?id=10.1371/journal.pone.0115025" class="article-tab-4">Comments</a>
+      </li>
+
+        <li class="tab-title " id="tabRelated">
+          <a href="/plosone/article/related?id=10.1371/journal.pone.0115025" class="article-tab-5">Related Content</a>
+      </li>
+
+</ul>
+
+    <div class="article-container">
+
+
+<div id="nav-article">
+  <ul class="nav-secondary">
+
+    <li class="nav-comments" id="nav-comments">
+      <a href="article/comments?id=10.1371/journal.pone.0115025">Reader Comments (0)</a>
+    </li>
+
+    <li class="nav-media" id="nav-media" data-doi="10.1371/journal.pone.0115025">
+      <a href="/plosone/article/related?id=10.1371/journal.pone.0115025">
+        Media Coverage <span id="media-coverage-count"></span>
+      </a>
+    </li>
+
+    <li id="nav-figures"><a href="#" data-doi="10.1371/journal.pone.0115025">Figures</a></li>
+  </ul>
+</div>
+
+<div id="figure-lightbox-container"></div>
+
+<script id="figure-lightbox-template" type="text/template">
+  <div id="figure-lightbox" class="reveal-modal full" data-reveal aria-hidden="true"
+       role="dialog">
+    <div class="lb-header">
+      <h1 id="lb-title"><%= articleTitle %></h1>
+
+      <div id="lb-authors">
+        <% authorList.split(',').forEach(function (author) { %>
+        <span><%= author.trim() %></span>
+        <% }) %>
+      </div>
+
+      <div class="lb-close" title="close">&nbsp;</div>
+    </div>
+    <div class="img-container">
+      <div class="loader"> <i class="fa-spinner"></i> </div>
+      <img class="main-lightbox-image" src=""/>
+      <aside id="figures-list">
+        <% figureList.each(function (ix, figure) { %>
+        <div class="change-img" data-doi="<%= figure.getAttribute('data-doi') %>">
+          <img class="aside-figure" src="/plosone/article/figure/image?size=inline&id=<%= figure.getAttribute('data-doi') %>" />
+        </div>
+        <% }) %>
+        <div class="dummy-figure">
+        </div>
+      </aside>
+    </div>
+    <div id="lightbox-footer">
+
+      <div id="btns-container" class="lightbox-row <% if(figureList.length <= 1) { print('one-figure-only') } %>">
+        <div class="fig-btns-container reset-zoom-wrapper left">
+          <span class="fig-btn reset-zoom-btn">Reset zoom</span>
+        </div>
+        <div class="zoom-slider-container">
+          <div class="range-slider-container">
+            <span id="lb-zoom-min"></span>
+            <div class="range-slider round" data-slider data-options="start: 20; end: 200; initial: 20;">
+              <span class="range-slider-handle" role="slider" tabindex="0"></span>
+              <span class="range-slider-active-segment"></span>
+              <input type="hidden">
+            </div>
+            <span id="lb-zoom-max"></span>
+          </div>
+        </div>
+        <% if(figureList.length > 1) { %>
+        <div class="fig-btns-container">
+          <span class="fig-btn all-fig-btn"><i class="icon icon-all"></i> All Figures</span>
+          <span class="fig-btn next-fig-btn"><i class="icon icon-next"></i> Next</span>
+          <span class="fig-btn prev-fig-btn"><i class="icon icon-prev"></i> Previous</span>
+        </div>
+        <% } %>
+      </div>
+      <div id="image-context">
+      </div>
+    </div>
+  </div>
+</script>
+
+<script id="image-context-template" type="text/template">
+  <div class="footer-text">
+    <div id="figure-description-wrapper">
+      <div id="view-more-wrapper" style="<% descriptionExpanded? print('display:none;') : '' %>">
+        <span id="figure-title"><%= title %></span>
+        <p id="figure-description">
+          <%= description %>&nbsp;&nbsp;
+        </p>
+        <span id="view-more">show more<i class="icon-arrow-right"></i></span>
+
+      </div>
+      <div id="view-less-wrapper" style="<% descriptionExpanded? print('display:inline-block;') : '' %>" >
+        <span id="figure-title"><%= title %></span>
+        <p id="full-figure-description">
+          <%= description %>&nbsp;&nbsp;
+          <span id="view-less">show less<i class="icon-arrow-left"></i></span>
+        </p>
+      </div>
+    </div>
+  </div>
+  <div id="show-context-container">
+    <a class="btn show-context" href="<%= showInContext(strippedDoi) %>">Show in Context</a>
+  </div>
+  <div id="download-buttons">
+    <h3>Download:</h3>
+    <div class="item">
+      <a href="/plosone/article/figure/image?size=original&download=&id=<%= doi %>" title="original image">
+        <span class="download-btn">TIFF</span>
+      </a>
+      <span class="file-size"><%= fileSizes.original %></span>
+    </div>
+    <div class="item">
+      <a href="/plosone/article/figure/image?size=large&download=&id=<%= doi %>" title="large image">
+        <span class="download-btn">PNG</span>
+      </a>
+      <span class="file-size"><%= fileSizes.large %></span>
+    </div>
+    <div class="item">
+      <a href="/plosone/article/figure/powerpoint?id=<%= doi %>" title="PowerPoint slide">
+        <span class="download-btn">PPT</span>
+      </a>
+    </div>
+
+  </div>
+</script>
+      <div class="article-content">
+
+
+
+
+
+
+
+
+<div id="figure-carousel-section">
+  <h2>Figures</h2>
+
+  <div id="figure-carousel">
+
+    <div class="carousel-wrapper">
+      <div class="slider">
+
+          <div class="carousel-item lightbox-figure" data-doi="10.1371/journal.pone.0115025.g001">
+
+                <img src="/plosone/article/figure/image?size=inline&amp;id=10.1371/journal.pone.0115025.g001"
+                     alt="Figure 1"
+                />
+
+            </div>
+
+          <div class="carousel-item lightbox-figure" data-doi="10.1371/journal.pone.0115025.t001">
+
+                <img src="/plosone/article/figure/image?size=inline&amp;id=10.1371/journal.pone.0115025.t001"
+                     alt="Table 1"
+                />
+
+            </div>
+
+          <div class="carousel-item lightbox-figure" data-doi="10.1371/journal.pone.0115025.g002">
+
+                <img src="/plosone/article/figure/image?size=inline&amp;id=10.1371/journal.pone.0115025.g002"
+                     alt="Figure 2"
+                />
+
+            </div>
+
+          <div class="carousel-item lightbox-figure" data-doi="10.1371/journal.pone.0115025.g003">
+
+                <img src="/plosone/article/figure/image?size=inline&amp;id=10.1371/journal.pone.0115025.g003"
+                     alt="Figure 3"
+                />
+
+            </div>
+
+          <div class="carousel-item lightbox-figure" data-doi="10.1371/journal.pone.0115025.g004">
+
+                <img src="/plosone/article/figure/image?size=inline&amp;id=10.1371/journal.pone.0115025.g004"
+                     alt="Figure 4"
+                />
+
+            </div>
+
+          <div class="carousel-item lightbox-figure" data-doi="10.1371/journal.pone.0115025.t002">
+
+                <img src="/plosone/article/figure/image?size=inline&amp;id=10.1371/journal.pone.0115025.t002"
+                     alt="Table 2"
+                />
+
+            </div>
+
+          <div class="carousel-item lightbox-figure" data-doi="10.1371/journal.pone.0115025.g005">
+
+                <img src="/plosone/article/figure/image?size=inline&amp;id=10.1371/journal.pone.0115025.g005"
+                     alt="Figure 5"
+                />
+
+            </div>
+
+          <div class="carousel-item lightbox-figure" data-doi="10.1371/journal.pone.0115025.t003">
+
+                <img src="/plosone/article/figure/image?size=inline&amp;id=10.1371/journal.pone.0115025.t003"
+                     alt="Table 3"
+                />
+
+            </div>
+
+          <div class="carousel-item lightbox-figure" data-doi="10.1371/journal.pone.0115025.g006">
+
+                <img src="/plosone/article/figure/image?size=inline&amp;id=10.1371/journal.pone.0115025.g006"
+                     alt="Figure 6"
+                />
+
+            </div>
+
+          <div class="carousel-item lightbox-figure" data-doi="10.1371/journal.pone.0115025.g007">
+
+                <img src="/plosone/article/figure/image?size=inline&amp;id=10.1371/journal.pone.0115025.g007"
+                     alt="Figure 7"
+                />
+
+            </div>
+      </div>
+    </div>
+
+    <div class="carousel-control">
+      <span class="button previous"></span>
+      <span class="button next"></span>
+    </div>
+    <div class="carousel-page-buttons">
+
+    </div>
+  </div>
+</div>
+
+
+        <div class="article-text" id="artText">
+        
+
+
+
+<div class="abstract toc-section"><a id="abstract0" name="abstract0" data-toc="abstract0" class="link-target" title="Abstract"></a><h2>Abstract</h2><a id="article1.front1.article-meta1.abstract1.p1" name="article1.front1.article-meta1.abstract1.p1" class="link-target"></a><p>Isocitrate dehydrogenase (IDH), a housekeeping gene, has drawn the attention of cancer experts. Mutation of the catalytic Arg132 residue of human IDH1 (HcIDH) eliminates the enzyme's wild-type isocitrate oxidation activity, but confer the mutant an ability of reducing α-ketoglutarate (α-KG) to 2-hydroxyglutarate (2-HG). To examine whether an analogous mutation in IDHs of other eukaryotes could cause similar effects, two yeast mitochondrial IDHs, <em>Saccharomyces cerevisiae</em> NADP<sup>+</sup>-IDH1 (ScIDH1) and <em>Yarrowia lipolytica</em> NADP<sup>+</sup>-IDH (YlIDH), were studied. The analogous Arg residues (Arg148 of ScIDH1 and Arg141 of YlIDH) were mutated to His. The <em>K</em><sub>m</sub> values of ScIDH1 R148H and YlIDH R141H for isocitrate were determined to be 2.4-fold and 2.2-fold higher, respectively, than those of the corresponding wild-type enzymes. The catalytic efficiencies (<em>k</em><sub>cat</sub>/<em>K</em><sub>m</sub>) of ScIDH1 R148H and YlIDH R141H for isocitrate oxidation were drastically reduced by 227-fold and 460-fold, respectively, of those of the wild-type enzymes. As expected, both ScIDH1 R148H and YlIDH R141H acquired the neomorphic activity of catalyzing α-KG to 2-HG, and the generation of 2-HG was confirmed using gas chromatography/time of flight-mass spectrometry (GC/TOF-MS). Kinetic analysis showed that ScIDH1 R148H and YlIDH R141H displayed 5.2-fold and 3.3-fold higher affinities, respectively, for α-KG than the HcIDH R132H mutant. The catalytic efficiencies of ScIDH1 R148H and YlIDH R141H for α-KG were 5.5-fold and 4.5-fold, respectively, of that of the HcIDH R132H mutant. Since the HcIDH Arg132 mutation is associated with the tumorigenesis, this study provides fundamental information for further research on the physiological role of this IDH mutation <em>in vivo</em> using yeast.</p>
+</div>
+
+
+<div class="articleinfo"><p><strong>Citation: </strong>Song P, Wei H, Cao Z, Wang P, Zhu G (2014) Single Arginine Mutation in Two Yeast Isocitrate Dehydrogenases: Biochemical Characterization and Functional Implication. PLoS ONE 9(12):
+        e115025.
+        https://doi.org/10.1371/journal.pone.0115025</p><p><strong>Editor: </strong>S. Ashraf Ahmed, United States Army Medical Research Institute of Infectious Diseases, United States of America</p><p><strong>Received: </strong>July 5, 2014; <strong>Accepted: </strong>November 17, 2014; <strong>Published: </strong> December 11, 2014</p><p><strong>Copyright: </strong> © 2014 Song et al. This is an open-access article distributed under the terms of the <a href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution License</a>, which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.</p><p><strong>Data Availability: </strong>The authors confirm that all data underlying the findings are fully available without restriction. All relevant data are within the paper.</p><p><strong>Funding: </strong>This research was supported by the National High Technology Research and Development Program (“863” Program: 2012AA02A708), the National Natural Science Foundation of China (31170005, 31400003), Specialized Research Fund for the Doctoral Program of Higher Education of China (20113424110004), the Natural Science Foundation of Anhui Province of China (1308085QC67), and the Provincial Project of Natural Science Research for Colleges and Universities of Anhui Province of China (KJ2013A128). The funders had no role in study design, data collection and analysis, decision to publish, or preparation of the manuscript.</p><p><strong>Competing interests: </strong> The authors have declared that no competing interests exist.</p></div>
+
+
+
+
+
+<div id="section1" class="section toc-section"><a id="s1" name="s1" data-toc="s1" class="link-target" title="Introduction"></a><h2>Introduction</h2><a id="article1.body1.sec1.p1" name="article1.body1.sec1.p1" class="link-target"></a><p>Isocitrate dehydrogenase (IDH) is an enzyme of the tricarboxylic acid (TCA) cycle and catalyzes the oxidative, NAD(P)<sup>+</sup>-dependent dehydrogenation and decarboxylation of isocitrate to α-ketoglutarate (α-KG) and CO<sub>2</sub>. Due to its critical metabolic function in the cell, IDH is found in organism from all domains of life. IDH can be subdivided according to its cofactor specificity into NAD<sup>+</sup>-and NADP<sup>+</sup>-specific IDHs. Eukaryotes usually have both types of IDH. Eukaryotic NAD<sup>+</sup>-IDH always localizes in the mitochondria and participates in energy metabolism, whereas NADP<sup>+</sup>-IDHs are distributed throughout different cell compartments and function in diverse cellular processes.</p>
+<a id="article1.body1.sec1.p2" name="article1.body1.sec1.p2" class="link-target"></a><p>The most extensively investigated eukaryotic IDHs are those from human and yeast. Three distinct IDH isoforms are found in human cells. Both cytosolic NADP<sup>+</sup>-IDH (IDH1) and mitochondrial NADP<sup>+</sup>-IDH (IDH2) are homodimers, whereas the mitochondrial NAD<sup>+</sup>-IDH (IDH3) is a heterooctamer <a href="#pone.0115025-Xu1" class="ref-tip">[1]</a>, <a href="#pone.0115025-Soundar1" class="ref-tip">[2]</a>. In addition to their potential catabolic role in the TCA cycle, both IDH1 and IDH2have been demonstrated to aid in the cellular defense against oxidative damage by generating NADPH <a href="#pone.0115025-Shin1" class="ref-tip">[3]</a>–<a href="#pone.0115025-Yang1" class="ref-tip">[5]</a>. In <em>Saccharomyces cerevisiae</em>, there are three homologous NADP<sup>+</sup>-IDHs: mitochondrial NADP<sup>+</sup>-IDH1 (ScIDH1), cytosolic NADP<sup>+</sup>-IDH2 (ScIDH2), and peroxisomal NADP<sup>+</sup>-IDH3 (ScIDH3) <a href="#pone.0115025-McCammon1" class="ref-tip">[6]</a>–<a href="#pone.0115025-Lu2" class="ref-tip">[10]</a>. Each of these proteins plays distinct roles in the central metabolism of <em>S. cerevisiae</em>: ScIDH1 is involved in the cellular glutamate synthesis, ScIDH2 provides NADPH for thiol-based antioxidant systems, and ScIDH3 generates NADPH for the β-oxidation of unsaturated fatty acids <a href="#pone.0115025-Lu2" class="ref-tip">[10]</a>. In <em>Yarrowia lipolytica</em>, a 'non-conventional' species of oleaginous yeast, has only one NADP<sup>+</sup>-IDH (YlIDH), which is located in the mitochondria and is closely related to the oleaginicity of <em>Y.lipolytica</em> <a href="#pone.0115025-Li1" class="ref-tip">[11]</a>.</p>
+<a id="article1.body1.sec1.p3" name="article1.body1.sec1.p3" class="link-target"></a><p>As a fundamental metabolic enzyme, IDH has been extensively studied both kinetically and structurally. However, few new studies on IDH have been published in recent years. Furthermore, interest in human IDH1 and IDH2 in tumor metabolism studies has recently increased since the publication of a cancer genome project showing that the genes encoding IDH1and IDH2 were mutated in glioblastoma multiforme (GBM), in 2008 <a href="#pone.0115025-Parsons1" class="ref-tip">[12]</a>. The scientific community was further encouraged to consider this abnormality when another cancer genome project also reported the very same mutation in IDH1 and IDH2 of acute myeloid leukemia (AML) patients <a href="#pone.0115025-Mardis1" class="ref-tip">[13]</a>.</p>
+<a id="article1.body1.sec1.p4" name="article1.body1.sec1.p4" class="link-target"></a><p>Recently, human IDH mutations have been reported to be somatic and monoallelic and to occur at a single residue located in the substrate-binding pocket. Mutations in IDH1 of GBM patient almost always affect arginine 132 (R132) <a href="#pone.0115025-Parsons1" class="ref-tip">[12]</a>, which has been found to be converted to histidine, serine, cysteine, glycine or leucine, with histidine (R132H) being the most frequent change <a href="#pone.0115025-Yan1" class="ref-tip">[14]</a>. GBM-associated IDH2mutations are present at the homologous R172 residue (with the alterations being predominantly R172K), and AML-associated mutations are found at another active site, arginine R140 (with the alterations being predominantly R140Q) <a href="#pone.0115025-Yan1" class="ref-tip">[14]</a>, <a href="#pone.0115025-Ward1" class="ref-tip">[15]</a>. As R132 and R172 are hotspots in the substrate-binding site of IDH1 and IDH2 <a href="#pone.0115025-Xu1" class="ref-tip">[1]</a>, mutations affecting these amino acids lead to structural alteration of the active site of the enzyme, resulting in the simultaneous loss of their normal catalytic activity and the production of α-ketoglutarate (α-KG) and NADPH <a href="#pone.0115025-Zhao1" class="ref-tip">[16]</a>. However, mutant IDH enzymes acquire a neomorphic activity in which the normal product, α-KG, is reduced to 2-hydroxyglutarate (2-HG) while NADPH is oxidized to NADP<sup>+</sup> <a href="#pone.0115025-Ward1" class="ref-tip">[15]</a>, <a href="#pone.0115025-Dang1" class="ref-tip">[17]</a>–<a href="#pone.0115025-Rendina1" class="ref-tip">[19]</a> (<a href="#pone-0115025-g001">Fig. 1</a>). 2-HG is structurally similar to α-KG and acts as α-KG antagonist to inhibit multiple α-KG-dependent enzymes involved in epigenetic regulation, collagen synthesis, and cell signaling <a href="#pone.0115025-Rose1" class="ref-tip">[20]</a>–<a href="#pone.0115025-Lu3" class="ref-tip">[22]</a>. The two most recent studies confirmed that <em>in vivo</em>, IDH2 mutations inhibit differentiation, alter DNA methylation and result in hyper proliferation in diverse tumor contexts. Furthermore, IDH2 is required for tumor maintenance rather than simply for tumor initiation <a href="#pone.0115025-Lu4" class="ref-tip">[23]</a>, <a href="#pone.0115025-Chen1" class="ref-tip">[24]</a>.</p>
+<a class="link-target" id="pone-0115025-g001" name="pone-0115025-g001"></a><div class="figure" data-doi="10.1371/journal.pone.0115025.g001"><div class="img-box"><a title="Click for larger image" href="article/figure/image?size=medium&amp;id=info:doi/10.1371/journal.pone.0115025.g001" data-doi="info:doi/10.1371/journal.pone.0115025" data-uri="info:doi/10.1371/journal.pone.0115025.g001"><img src="article/figure/image?size=inline&amp;id=info:doi/10.1371/journal.pone.0115025.g001" alt="thumbnail" class="thumbnail"></a><div class="expand"></div></div><div class="figure-inline-download">
+          Download:
+          <ul><li><div class="definition-label"><a href="article/figure/powerpoint?id=info:doi/10.1371/journal.pone.0115025.g001">
+                  PPT
+                </a></div><a href="article/figure/powerpoint?id=info:doi/10.1371/journal.pone.0115025.g001">
+                PowerPoint slide
+              </a></li><li><div class="definition-label"><a href="article/figure/image?download&amp;size=large&amp;id=info:doi/10.1371/journal.pone.0115025.g001">
+                  PNG
+                </a></div><a href="article/figure/image?download&amp;size=large&amp;id=info:doi/10.1371/journal.pone.0115025.g001">
+                larger image
+              </a></li><li><div class="definition-label"><a href="article/figure/image?download&amp;size=original&amp;id=info:doi/10.1371/journal.pone.0115025.g001">
+                  TIFF
+                </a></div><a href="article/figure/image?download&amp;size=original&amp;id=info:doi/10.1371/journal.pone.0115025.g001">
+                original image
+              </a></li></ul></div><div class="figcaption"><span>Figure 1. </span> Normal and neomorphic reactions catalyzed by wild-type and mutant IDH.</div><p class="caption_target"><a id="article1.body1.sec1.fig1.caption1.p1" name="article1.body1.sec1.fig1.caption1.p1" class="link-target"></a><p>The normal reaction converts isocitrate to α-ketoglutarate and CO<sub>2</sub> accompanying with NADP<sup>+</sup> reduction, while the neomorphic reaction transforms α-ketoglutarate to 2-hydroxyglutarate in an NADPH dependent manner.</p>
+</p><p class="caption_object"><a href="https://doi.org/10.1371/journal.pone.0115025.g001">
+              https://doi.org/10.1371/journal.pone.0115025.g001</a></p></div><a id="article1.body1.sec1.p5" name="article1.body1.sec1.p5" class="link-target"></a><p>The R132 residue of IDH1 is completely conserved at the corresponding sites in all bacterial and eukaryotic NADP<sup>+</sup>-IDH enzymes <a href="#pone.0115025-Xu1" class="ref-tip">[1]</a>, which implies that the analogous mutation would transform all homologous IDHs into new enzymes and would result in the neoenzymatic activity of α-KG to 2-HG conversion. In the present study, we studied two yeast NADP<sup>+</sup>-IDHs, <em>S. cerevisiae</em> mitochondrial NADP<sup>+</sup>-IDH1 (ScIDH1) and <em>Y. lipolytica</em> mitochondrial NADP<sup>+</sup>-IDH (YlIDH). Both of the analogous Arg residues of human IDH, Arg132 and Arg148 of ScIDH1 and Arg141 of YlIDH, were mutated to His. Detailed assays were performed to assess the enzymatic characteristics of the wild-type and mutant IDHs. We demonstrated for the first time that alteration of the analogous Arg to His confers NADP<sup>+</sup>-IDHs from the two lower eukaryotes the ability to convert α-KG to 2-HG with moderate catalytic efficiency. Because the HcIDH Arg132 mutation is associated with tumorigenesis, it will be interesting to investigate the physiological role of the mutated IDHs in yeast cells. This study provides fundamental information for further research on the physiological role of this IDH mutation <em>in vivo</em> using yeast.</p>
+</div>
+
+<div id="section2" class="section toc-section"><a id="s2" name="s2" data-toc="s2" class="link-target" title="Materials and Methods"></a><h2>Materials and Methods</h2>
+<div id="section1" class="section toc-section"><a id="s2a" name="s2a" class="link-target" title="Vectors and reagents"></a>
+<h3>Vectors and reagents</h3>
+<a id="article1.body1.sec2.sec1.p1" name="article1.body1.sec2.sec1.p1" class="link-target"></a><p>The plasmid pET-28b(+) (Novagen, USA) was used to carry the target gene. PrimeSTAR HS DNA polymerase was purchased from TaKaRa (Dalian, China). Restriction enzymes and protein molecular weight standards were obtained from Fermentas (Shanghai, China). Proteins were purified using BD TALON Metal Affinity Resin (Clontech, USA). NADH and NAD(P)H were obtained from Bio Basic Inc. (Canada).N-methyl-N trimethyl silicon alkyl-three fluoroacetamide (MSTFA), trimethylchlorosilane (TMCS) and methoxamine hydrochloride were purchased from Sigma (USA).</p>
+</div>
+
+<div id="section2" class="section toc-section"><a id="s2b" name="s2b" class="link-target" title="Recombinant plasmid construction"></a>
+<h3>Recombinant plasmid construction</h3>
+<a id="article1.body1.sec2.sec2.p1" name="article1.body1.sec2.sec2.p1" class="link-target"></a><p>Genomic DNA was extracted from <em>S. cerevisiae</em> S288c and <em>Y. lipolytica</em> CLIB122. The complete <em>HcIDH</em> gene was ordered from company. The PCR products of <em>ScIDH1</em>, <em>YlIDH</em> and <em>HcIDH</em> were digested with corresponding restriction enzymes and ligated into expression vector pET-28b(+) to generate the recombinant expression vectors pET-<em>ScIDH1</em>, pET-<em>YlIDH</em> and pET-<em>HcIDH</em>. Primers used in this study were listed in the <a href="#pone-0115025-t001">Table 1</a>.</p>
+<a class="link-target" id="pone-0115025-t001" name="pone-0115025-t001"></a><div class="figure" data-doi="10.1371/journal.pone.0115025.t001"><div class="img-box"><a title="Click for larger image" href="article/figure/image?size=medium&amp;id=info:doi/10.1371/journal.pone.0115025.t001" data-doi="info:doi/10.1371/journal.pone.0115025" data-uri="info:doi/10.1371/journal.pone.0115025.t001"><img src="article/figure/image?size=inline&amp;id=info:doi/10.1371/journal.pone.0115025.t001" alt="thumbnail" class="thumbnail"></a><div class="expand"></div></div><div class="figure-inline-download">
+          Download:
+          <ul><li><div class="definition-label"><a href="article/figure/powerpoint?id=info:doi/10.1371/journal.pone.0115025.t001">
+                  PPT
+                </a></div><a href="article/figure/powerpoint?id=info:doi/10.1371/journal.pone.0115025.t001">
+                PowerPoint slide
+              </a></li><li><div class="definition-label"><a href="article/figure/image?download&amp;size=large&amp;id=info:doi/10.1371/journal.pone.0115025.t001">
+                  PNG
+                </a></div><a href="article/figure/image?download&amp;size=large&amp;id=info:doi/10.1371/journal.pone.0115025.t001">
+                larger image
+              </a></li><li><div class="definition-label"><a href="article/figure/image?download&amp;size=original&amp;id=info:doi/10.1371/journal.pone.0115025.t001">
+                  TIFF
+                </a></div><a href="article/figure/image?download&amp;size=original&amp;id=info:doi/10.1371/journal.pone.0115025.t001">
+                original image
+              </a></li></ul></div><div class="figcaption"><span>Table 1. </span> Primers used in this study.</div><p class="caption_target"></p><p class="caption_object"><a href="https://doi.org/10.1371/journal.pone.0115025.t001">
+              https://doi.org/10.1371/journal.pone.0115025.t001</a></p></div></div>
+
+<div id="section3" class="section toc-section"><a id="s2c" name="s2c" class="link-target" title="Sequence analysis"></a>
+<h3>Sequence analysis</h3>
+<a id="article1.body1.sec2.sec3.p1" name="article1.body1.sec2.sec3.p1" class="link-target"></a><p>The amino acid sequences of IDH were downloaded from GenBank via the NCBI website (<a href="http://www.ncbi.nlm.nih.gov/">http://www.ncbi.nlm.nih.gov/</a>). The X-ray structures of human cytosolic (HcIDH, 1T0L) and yeast mitochondrial IDH (ScIDH1, 2QFV) were downloaded from the PDB database (<a href="http://www.rcsb.org/pdb/">http://www.rcsb.org/pdb/</a>). Amino acid sequence alignment was conducted using the ClustalX program (<a href="ftp://ftp.ebi.ac.uk/pub/software/clustalw2">ftp://ftp.ebi.ac.uk/pub/software/clustalw2</a>) and structure-based alignment was performed using ESPript 2.2 web tool (<a href="http://espript.ibcp.fr/ESPript/ESPript/">http://espript.ibcp.fr/ESPript/ESPript/</a>) <a href="#pone.0115025-Gouet1" class="ref-tip">[25]</a>, <a href="#pone.0115025-Larkin1" class="ref-tip">[26]</a>.</p>
+</div>
+
+<div id="section4" class="section toc-section"><a id="s2d" name="s2d" class="link-target" title="Site-directed mutagenesis"></a>
+<h3>Site-directed mutagenesis</h3>
+<a id="article1.body1.sec2.sec4.p1" name="article1.body1.sec2.sec4.p1" class="link-target"></a><p>Arg148 (R148H, R148A and R148E), Arg141 (R141H, R141A and R141E) and Arg 132 (R132H, R132A and R132E) point mutations were introduced into ScIDH1, YlIDH and HcIDH, respectively, by overlap extension PCR-based site-directed mutagenesis. The overlap mutant primer sets were listed in <a href="#pone-0115025-t001">Table 1</a>. The PCR products for all the mutants were digested with the corresponding restriction enzymes and ligated into the expression vector pET-28b(+) to generate the recombinant expression vectors.</p>
+</div>
+
+<div id="section5" class="section toc-section"><a id="s2e" name="s2e" class="link-target" title="Expression and purification of the wild-type and mutant enzymes"></a>
+<h3>Expression and purification of the wild-type and mutant enzymes</h3>
+<a id="article1.body1.sec2.sec5.p1" name="article1.body1.sec2.sec5.p1" class="link-target"></a><p>The wild type and mutant forms of ScIDH1, YlIDH and HcIDH were purified from <em>E. coli</em> Rosetta (DE3) clones over-expressing these proteins. The transformed cells were cultured overnight at 37°C in Luria-Bertani (LB) medium containing 30 µg/mL kanamycin and 25 µg/mL chloramphenicol. The cells were then inoculated (1∶100) into 50 mL of fresh LB medium containing the same antibiotics and grown in 250 mL flasks at 225 rpm and 37°C until the culture density reached an OD<sub>600</sub> of 0.5–0.6. Isopropyl-β-D-1-thiogalactopyranoside (IPTG) was added to the culture at a final concentration of 0.1 mM with subsequent cultivation for 20 h at 20°C.</p>
+<a id="article1.body1.sec2.sec5.p2" name="article1.body1.sec2.sec5.p2" class="link-target"></a><p>The cells were harvested by centrifugation at 4,000 rpm for 5 min at 4°C and resuspended in equilibration/wash buffer (50 mM sodium phosphate, 300 mM NaCl, pH 8.0). After sonication, the cell debris was removed by centrifugation at 11,000 rpm for 20 min at 4°C. The 6×His-tagged wild-type and the mutant enzymes of YlIDH, ScIDH1 and HcIDH were purified using BD TALON Metal Affinity Resin according to the manufacturer's instructions on ice. The purity of the enzymes was determined by SDS-polyacrylamide gel electrophoresis (SDS-PAGE), and the proteins were stained with Coomassie Brilliant Blue R-250.</p>
+</div>
+
+<div id="section6" class="section toc-section"><a id="s2f" name="s2f" class="link-target" title="Circular dichroism spectroscopy of the wild-type and mutant enzymes"></a>
+<h3>Circular dichroism spectroscopy of the wild-type and mutant enzymes</h3>
+<a id="article1.body1.sec2.sec6.p1" name="article1.body1.sec2.sec6.p1" class="link-target"></a><p>Circular dichroism (CD) spectroscopy was performed using a Jasco model J-810 spectropolarimeter. The ellipticity measurements as a function of the wavelength were performed as described previously <a href="#pone.0115025-Pace1" class="ref-tip">[27]</a>. Purified protein samples (0.2 mg/mL) were prepared in 20 mM sodium phosphate and 75 mM Na<sub>2</sub>SO<sub>4</sub> (pH 8.0), and the ellipticity (<em>θ</em>) was obtained by averaging 3 scans of the enzyme solution between 195 and 260 nm at 0.5-nm increments. The mean molar ellipticity, [<em>θ</em>] (deg cm<sup>2</sup> dmole<sup>−1</sup>), was calculated using the relationship [<em>θ</em>] = <em>θ</em>/10nCl, where <em>θ</em> is the measured ellipticity (millidegrees), <em>C</em> is the molar concentration of the protein, <em>l</em> is the cell path length in centimeters (0.1 cm), and <em>n</em> is the number of residues per subunit of enzyme (419 for wild-type and mutant ScIDH1; 422 for wild-type and mutant YlIDH; 420 for wild-type and mutant HcIDH).</p>
+</div>
+
+<div id="section7" class="section toc-section"><a id="s2g" name="s2g" class="link-target" title="Enzyme assay"></a>
+<h3>Enzyme assay</h3>
+<a id="article1.body1.sec2.sec7.p1" name="article1.body1.sec2.sec7.p1" class="link-target"></a><p>The isocitrate oxidation activities of wild-type and mutants of ScIDH1, YlIDH and HcIDH were determined spectrophotometrically by measuring the reduction of NADP<sup>+</sup> to NADPH at 340 nm. The standard assay solution contained 50 mM Tris-HCl buffer (pH 8.0), 2 mM MgCl<sub>2</sub>, 1 mM DL-isocitrate, and 0.5 mM NADP<sup>+</sup> in a 1 mL volume at 25°C. The increase in NADPH was monitored at 340 nm using a thermostated Cary 300 UV-Vis spectrophotometer (VARIAN, USA). The activities were calculated using a molar extinction coefficient of 6220 M<sup>−1</sup>cm<sup>−1</sup>. One unit (U) of enzyme activity was defined as the amount of enzyme that catalyzed the formation of 1 µmol of NADPH per minute under the standard assay conditions. The reaction was initiated by adding the wild-type or mutant enzyme at the appropriate concentrations. To determine the <em>K</em><sub>m</sub> of isocitrate, the concentration of isocitrate was varied, where as the standard concentrations of NADP<sup>+</sup> and Mg<sup>2+</sup> were held constant. The apparent kinetic parameters were obtained by nonlinear regression using the program Prism 5.0 (Prism, GraphPad Software, CA, USA), except that the <em>K</em><sub>m</sub> values of isocitrate of ScIDH1 R148A, ScIDH1 R148E, YlIDH R141A, HcIDH R132H and HcIDH R132A mutants were obtained by linear regression because the weaker affinity for isocitrate.</p>
+<a id="article1.body1.sec2.sec7.p2" name="article1.body1.sec2.sec7.p2" class="link-target"></a><p>The α-KG reduction activities of ScIDH1 R148H, YlIDH R141H and HcIDH R132H were assayed by measuring the conversion of NADPH to NADP<sup>+</sup>. ScIDH1 R148H or YlIDH R141H and or HcIDH R132H was added to 1 mL of an assay solution consisting of 50 mM Tris-HCl (pH 8.0), 2 mM MgCl<sub>2</sub>, 0.2 mM NADPH, and 0.2 mM α-KG, and the decrease of absorbance at 340 nm over time was measured. All kinetic parameters were determined in at least three independent experiments. The protein concentrations were determined using the Bio-Rad protein assay kit (Bio-Rad, USA) with bovine serum albumin as a standard.</p>
+</div>
+
+<div id="section8" class="section toc-section"><a id="s2h" name="s2h" class="link-target" title="Gas chromatography/time of flight-mass spectrometer (GC/TOF-MS) analysis"></a>
+<h3>Gas chromatography/time of flight-mass spectrometer (GC/TOF-MS) analysis</h3>
+<a id="article1.body1.sec2.sec8.p1" name="article1.body1.sec2.sec8.p1" class="link-target"></a><p>Assay solutions consisting of 50 mM Tris-HCl (pH 8.0), 2 mM MgCl<sub>2</sub>, 0.2 mM α-KG, 0.2 mM NADPH and the appropriate amount of purified mutant enzymes (ScIDH1 R148H and YlIDH R141H) in a 1 mL volume were incubated in a water bath for 2 hours at 25°C. The reaction mixture was then collected using a Millipore protein concentration kit (USA). The mixture was dried under nitrogen gas, oximated with 40 µL of a 20 mg/mL pyridine methoxyl amine solution at 30°C for 90 min, and then silanizated at 37°C for 30 min using a 40 µL solution of MSTFA and TMCS at a ratio of 99∶1 (vol/vol).</p>
+<a id="article1.body1.sec2.sec8.p2" name="article1.body1.sec2.sec8.p2" class="link-target"></a><p>The supernatant after derivatization was then analyzed using a GC/TOF-MS system (gas chromatography HP6890, Agilent, USA and time of flight-mass spectrometer, Waters, USA), with a DB-5 chromatographic column (30 m×0.25 mm id, film thickness 0.25 µm, Agilent, USA). The temperature of the column was initially set at 70°C and was then increased by 5°C/min to 300°C. The solvent was delayed for 5 min, a 1 µL sample was injected at a constant velocity at 260°C, and the velocity of the Helium developing solvent was 1 mL/min. The temperature of the ion source was 220°C and the temperature of the union lever was 220°C. The ionizing voltage was 70 eV, and the scanning range of the mass spectrum was between 50 and 800 (m/z).</p>
+</div>
+
+<div id="section9" class="section toc-section"><a id="s2i" name="s2i" class="link-target" title="Ethical statement"></a>
+<h3>Ethical statement</h3>
+<a id="article1.body1.sec2.sec9.p1" name="article1.body1.sec2.sec9.p1" class="link-target"></a><p>This study was a novel investigation of two yeast isocitrate dehydrogenases, and no human subjects material or data were directly involved (the complete <em>HcIDH</em> gene was obtained through chemical synthesis from biotechnology company). The human data utilized for comparison were all cited from published articles and are appropriately marked in the manuscript.</p>
+</div>
+</div>
+
+<div id="section3" class="section toc-section"><a id="s3" name="s3" data-toc="s3" class="link-target" title="Results and Discussion"></a><h2>Results and Discussion</h2>
+<div id="section1" class="section toc-section"><a id="s3a" name="s3a" class="link-target" title="Bioinformatics analysis"></a>
+<h3>Bioinformatics analysis</h3>
+<a id="article1.body1.sec3.sec1.p1" name="article1.body1.sec3.sec1.p1" class="link-target"></a><p>The sequence comparison between the two NADP<sup>+</sup>-IDH from lower eukaryotes, ScIDH1 and YlIDH, and human IDH1 (HcIDH) is presented in <a href="#pone-0115025-g002">Fig. 2</a>. The sequence identity among these three eukaryotic IDHs is greater than 60%, suggesting their comparable positions in evolution. As shown in <a href="#pone-0115025-g002">Fig. 2</a>, Arg132 of HcIDH is an evolutionarily invariant residue in NADP<sup>+</sup>-IDHs. Some other critical residues, such as Tyr139 and Lys212 that are important for isocitrate binding and catalysis in wild-type HcIDH and for α-KG binding and catalysis in the mutant HcIDH are also conserved in ScIDH1 and YlIDH (<a href="#pone-0115025-g002">Fig. 2</a>). The crystal structures of HcIDH and ScIDH1 have been solved <a href="#pone.0115025-Xu1" class="ref-tip">[1]</a>, <a href="#pone.0115025-Peng1" class="ref-tip">[9]</a>, and the secondary structural elements are shown in <a href="#pone-0115025-g002">Fig. 2</a>. The overall three-dimensional structures of HcIDH and ScIDH1 are very similar and consequently share an equivalent isocitrate catalysis mechanism, indicating the possibility that the analogous mutation will also confer to ScIDH1 and YlIDH a similar neomorphic ability as that of HcIDH (i.e., the conversion of α-KG to 2-HG).</p>
+<a class="link-target" id="pone-0115025-g002" name="pone-0115025-g002"></a><div class="figure" data-doi="10.1371/journal.pone.0115025.g002"><div class="img-box"><a title="Click for larger image" href="article/figure/image?size=medium&amp;id=info:doi/10.1371/journal.pone.0115025.g002" data-doi="info:doi/10.1371/journal.pone.0115025" data-uri="info:doi/10.1371/journal.pone.0115025.g002"><img src="article/figure/image?size=inline&amp;id=info:doi/10.1371/journal.pone.0115025.g002" alt="thumbnail" class="thumbnail"></a><div class="expand"></div></div><div class="figure-inline-download">
+          Download:
+          <ul><li><div class="definition-label"><a href="article/figure/powerpoint?id=info:doi/10.1371/journal.pone.0115025.g002">
+                  PPT
+                </a></div><a href="article/figure/powerpoint?id=info:doi/10.1371/journal.pone.0115025.g002">
+                PowerPoint slide
+              </a></li><li><div class="definition-label"><a href="article/figure/image?download&amp;size=large&amp;id=info:doi/10.1371/journal.pone.0115025.g002">
+                  PNG
+                </a></div><a href="article/figure/image?download&amp;size=large&amp;id=info:doi/10.1371/journal.pone.0115025.g002">
+                larger image
+              </a></li><li><div class="definition-label"><a href="article/figure/image?download&amp;size=original&amp;id=info:doi/10.1371/journal.pone.0115025.g002">
+                  TIFF
+                </a></div><a href="article/figure/image?download&amp;size=original&amp;id=info:doi/10.1371/journal.pone.0115025.g002">
+                original image
+              </a></li></ul></div><div class="figcaption"><span>Figure 2. </span> Structure-based protein sequence alignment of ScIDH1, YlIDH and HcIDH.</div><p class="caption_target"><a id="article1.body1.sec3.sec1.fig1.caption1.p1" name="article1.body1.sec3.sec1.fig1.caption1.p1" class="link-target"></a><p>The conserved amino acid residues are shaded. The secondary structure components, j.e, α-helices and β-sheets, of HcIDH and ScIDH1 are also shown. The conserved amino acid residues involved in substrate binding (★) and cofactor binding (▴) are indicated. This figure was generated using ESPript 2.2.</p>
+</p><p class="caption_object"><a href="https://doi.org/10.1371/journal.pone.0115025.g002">
+              https://doi.org/10.1371/journal.pone.0115025.g002</a></p></div></div>
+
+<div id="section2" class="section toc-section"><a id="s3b" name="s3b" class="link-target" title="Overexpression and purification of the wild-type and mutant enzymes"></a>
+<h3>Overexpression and purification of the wild-type and mutant enzymes</h3>
+<a id="article1.body1.sec3.sec2.p1" name="article1.body1.sec3.sec2.p1" class="link-target"></a><p>The mutated versions of ScIDH1, YlIDH and HcIDH were generated by the fusion-PCR-based site-directed mutagenesis method, as described above. The wild-type and mutant enzymes were expressed in <em>E. coli</em> Rosetta (DE3) cells as 6×His-tagged fusion proteins and purified by immobilized metal affinity chromatography. The SDS-PAGE gel patterns indicated that the wild-type and mutated ScIDH1, YlIDH and HcIDH were well expressed and purified to greater than 95% homogeneity (<a href="#pone-0115025-g003">Fig. 3</a>).</p>
+<a class="link-target" id="pone-0115025-g003" name="pone-0115025-g003"></a><div class="figure" data-doi="10.1371/journal.pone.0115025.g003"><div class="img-box"><a title="Click for larger image" href="article/figure/image?size=medium&amp;id=info:doi/10.1371/journal.pone.0115025.g003" data-doi="info:doi/10.1371/journal.pone.0115025" data-uri="info:doi/10.1371/journal.pone.0115025.g003"><img src="article/figure/image?size=inline&amp;id=info:doi/10.1371/journal.pone.0115025.g003" alt="thumbnail" class="thumbnail"></a><div class="expand"></div></div><div class="figure-inline-download">
+          Download:
+          <ul><li><div class="definition-label"><a href="article/figure/powerpoint?id=info:doi/10.1371/journal.pone.0115025.g003">
+                  PPT
+                </a></div><a href="article/figure/powerpoint?id=info:doi/10.1371/journal.pone.0115025.g003">
+                PowerPoint slide
+              </a></li><li><div class="definition-label"><a href="article/figure/image?download&amp;size=large&amp;id=info:doi/10.1371/journal.pone.0115025.g003">
+                  PNG
+                </a></div><a href="article/figure/image?download&amp;size=large&amp;id=info:doi/10.1371/journal.pone.0115025.g003">
+                larger image
+              </a></li><li><div class="definition-label"><a href="article/figure/image?download&amp;size=original&amp;id=info:doi/10.1371/journal.pone.0115025.g003">
+                  TIFF
+                </a></div><a href="article/figure/image?download&amp;size=original&amp;id=info:doi/10.1371/journal.pone.0115025.g003">
+                original image
+              </a></li></ul></div><div class="figcaption"><span>Figure 3. </span> SDS-PAGE analysis of the expression and purification of wild-type and mutant YlIDH, ScIDH1 and HcIDH.</div><p class="caption_target"><a id="article1.body1.sec3.sec2.fig1.caption1.p1" name="article1.body1.sec3.sec2.fig1.caption1.p1" class="link-target"></a><p>Analysis was performed using a 12% polyacrylamide gel. M, protein molecular weight markers; lane 1 to 4, purified proteins of YlIDH, YlIDH R141H, YlIDH R141A and YlIDH R141E, respectively; lane 5 to 8, purified proteins of ScIDH, ScIDH R148H, ScIDH R148A and ScIDH R148E, respectively; lane 9 to 12, purified proteins of HcIDH, HcIDH R132H, HcIDH R132A and HcIDH R132E, respectively.</p>
+</p><p class="caption_object"><a href="https://doi.org/10.1371/journal.pone.0115025.g003">
+              https://doi.org/10.1371/journal.pone.0115025.g003</a></p></div></div>
+
+<div id="section3" class="section toc-section"><a id="s3c" name="s3c" class="link-target" title="Secondary structure determination"></a>
+<h3>Secondary structure determination</h3>
+<a id="article1.body1.sec3.sec3.p1" name="article1.body1.sec3.sec3.p1" class="link-target"></a><p>CD spectroscopy was used to determine the secondary structure of the wild-type and single-point-mutated enzymes, and the results are shown in <a href="#pone-0115025-g004">Fig. 4</a>. The CD spectrum of ScIDH1 R148H, ScIDH1 R148A and ScIDH1 R148E were very similar to that of the wild-type enzyme, and similar results were obtained for YlIDH and HcIDH and their mutants. The results indicate that although the conserved Arg residue lies in the active sites of ScIDH1, YlIDH and HcIDH, its mutation does not lead to significant changes in the secondary structure of the enzymes. The YlIDH R141E mutant exhibits a small difference in its CD spectrum, which may reflect a minor change in its secondary structure.</p>
+<a class="link-target" id="pone-0115025-g004" name="pone-0115025-g004"></a><div class="figure" data-doi="10.1371/journal.pone.0115025.g004"><div class="img-box"><a title="Click for larger image" href="article/figure/image?size=medium&amp;id=info:doi/10.1371/journal.pone.0115025.g004" data-doi="info:doi/10.1371/journal.pone.0115025" data-uri="info:doi/10.1371/journal.pone.0115025.g004"><img src="article/figure/image?size=inline&amp;id=info:doi/10.1371/journal.pone.0115025.g004" alt="thumbnail" class="thumbnail"></a><div class="expand"></div></div><div class="figure-inline-download">
+          Download:
+          <ul><li><div class="definition-label"><a href="article/figure/powerpoint?id=info:doi/10.1371/journal.pone.0115025.g004">
+                  PPT
+                </a></div><a href="article/figure/powerpoint?id=info:doi/10.1371/journal.pone.0115025.g004">
+                PowerPoint slide
+              </a></li><li><div class="definition-label"><a href="article/figure/image?download&amp;size=large&amp;id=info:doi/10.1371/journal.pone.0115025.g004">
+                  PNG
+                </a></div><a href="article/figure/image?download&amp;size=large&amp;id=info:doi/10.1371/journal.pone.0115025.g004">
+                larger image
+              </a></li><li><div class="definition-label"><a href="article/figure/image?download&amp;size=original&amp;id=info:doi/10.1371/journal.pone.0115025.g004">
+                  TIFF
+                </a></div><a href="article/figure/image?download&amp;size=original&amp;id=info:doi/10.1371/journal.pone.0115025.g004">
+                original image
+              </a></li></ul></div><div class="figcaption"><span>Figure 4. </span> Circular dichroism (CD) spectra analysis of intact and mutant YlIDH, ScIDH1 and HcIDH.</div><p class="caption_target"><a id="article1.body1.sec3.sec3.fig1.caption1.p1" name="article1.body1.sec3.sec3.fig1.caption1.p1" class="link-target"></a><p>The CD was measured, and the molar ellipticity was calculated as described in the <a href="#s2">Materials and Methods</a>. (A) The molar ellipticities of HcIDH (▪), HcIDH R148H (•), HcIDH R132A (▴) and HcIDH R132E (▾) from 195 to 260 nm; (B) the molar ellipticities of ScIDH1 (▪), ScIDH1 R148H (•), ScIDH1 R148A (▴) and ScIDH1 R148E (▾) from 195 to 260 nm; (C) the molar ellipticities of YlIDH (▪), YlIDH R141H (•), YlIDH R141A (▴) and YlIDH R148E (▾) from 195 to 260 nm.</p>
+</p><p class="caption_object"><a href="https://doi.org/10.1371/journal.pone.0115025.g004">
+              https://doi.org/10.1371/journal.pone.0115025.g004</a></p></div></div>
+
+<div id="section4" class="section toc-section"><a id="s3d" name="s3d" class="link-target" title="The isocitrate oxidation activities of wild-type and mutated enzymes"></a>
+<h3>The isocitrate oxidation activities of wild-type and mutated enzymes</h3>
+<a id="article1.body1.sec3.sec4.p1" name="article1.body1.sec3.sec4.p1" class="link-target"></a><p>The HcIDH Arg132 mutation nearly inactivates the enzyme, leading to the loss of the ability to oxidize isocitrate to α-KG. However, the mutation provides a new reductive function of catalyzing the NADPH-dependent converting of α-KG to 2-HG <a href="#pone.0115025-Yan1" class="ref-tip">[14]</a>, <a href="#pone.0115025-Ward1" class="ref-tip">[15]</a>, <a href="#pone.0115025-Dang1" class="ref-tip">[17]</a>, <a href="#pone.0115025-Yang2" class="ref-tip">[18]</a>, <a href="#pone.0115025-Gross1" class="ref-tip">[28]</a>. As the overall structures of yeast NADP<sup>+</sup>-IDHs are highly homologous to those of human IDH1 and IDH2, it can be expected that an analogous mutation introduced into yeast NADP<sup>+</sup>-IDHs will also confer the same neomorphic α-KG reduction ability to the mutated enzyme. We attempted this conversion for two yeast NADP<sup>+</sup>-IDHs, one was the well-known yeast <em>S. cerevisiae</em> (ScIDH1) and the other was the “non-conventional” yeast <em>Y. lipolytica</em> (YlIDH).</p>
+<a id="article1.body1.sec3.sec4.p2" name="article1.body1.sec3.sec4.p2" class="link-target"></a><p>The importance of Arg148, Arg141 and Arg132 to the isocitrate oxidation activity of ScIDH1, YlIDH and HcIDH, respectively, was assessed by site-directed mutagenesis in the first place. Each arginine was mutated into either the small, neutral alanine, which cannot participate in hydrogen bonding, or the large, negatively charged glutamic acid, which will repel the negatively charged isocitrate. The <em>K</em><sub>m</sub> values of ScIDH1 R148A, YlIDH R141A and HcIDH R132A were substantially increased by 216-fold, 31-fold and 270-fold, respectively (<a href="#pone-0115025-t002">Table 2</a>). Meanwhile, their specific activities toward isocitrate were reduced by 3-fold, 22-fold and 135-fold, respectively (<a href="#pone-0115025-t002">Table 2</a>). The mutation of arginine to glutamic acid caused even more severe drop in the wild-type activity, since YlIDH R141E and HcIDH R132E were completely inactivated while ScIDH R148E retained only 3% of the wild-type specific activity (<a href="#pone-0115025-t002">Table 2</a>). Our biochemical data showed that Arg148, Arg141 and Arg132 have pivotal roles in both isocitrate binding and catalysis in ScIDH1, YlIDH and HcIDH, respectively.</p>
+<a class="link-target" id="pone-0115025-t002" name="pone-0115025-t002"></a><div class="figure" data-doi="10.1371/journal.pone.0115025.t002"><div class="img-box"><a title="Click for larger image" href="article/figure/image?size=medium&amp;id=info:doi/10.1371/journal.pone.0115025.t002" data-doi="info:doi/10.1371/journal.pone.0115025" data-uri="info:doi/10.1371/journal.pone.0115025.t002"><img src="article/figure/image?size=inline&amp;id=info:doi/10.1371/journal.pone.0115025.t002" alt="thumbnail" class="thumbnail"></a><div class="expand"></div></div><div class="figure-inline-download">
+          Download:
+          <ul><li><div class="definition-label"><a href="article/figure/powerpoint?id=info:doi/10.1371/journal.pone.0115025.t002">
+                  PPT
+                </a></div><a href="article/figure/powerpoint?id=info:doi/10.1371/journal.pone.0115025.t002">
+                PowerPoint slide
+              </a></li><li><div class="definition-label"><a href="article/figure/image?download&amp;size=large&amp;id=info:doi/10.1371/journal.pone.0115025.t002">
+                  PNG
+                </a></div><a href="article/figure/image?download&amp;size=large&amp;id=info:doi/10.1371/journal.pone.0115025.t002">
+                larger image
+              </a></li><li><div class="definition-label"><a href="article/figure/image?download&amp;size=original&amp;id=info:doi/10.1371/journal.pone.0115025.t002">
+                  TIFF
+                </a></div><a href="article/figure/image?download&amp;size=original&amp;id=info:doi/10.1371/journal.pone.0115025.t002">
+                original image
+              </a></li></ul></div><div class="figcaption"><span>Table 2. </span> Comparison of the kinetic parameters of the isocitrate oxidation activity of the wild-type and mutant IDH enzymes.</div><p class="caption_target"></p><p class="caption_object"><a href="https://doi.org/10.1371/journal.pone.0115025.t002">
+              https://doi.org/10.1371/journal.pone.0115025.t002</a></p></div><a id="article1.body1.sec3.sec4.p3" name="article1.body1.sec3.sec4.p3" class="link-target"></a><p>The loss of the wild-type activities of ScIDH1 and YlIDH by the Arg mutation was shown by the slow generation of NADPH by ScIDH1 R148H and YlIDH R141H (<a href="#pone-0115025-g005">Fig. 5A</a>). The specific activities of ScIDH1 R148H and YlIDH R141H towards isocitrate were about 106.9-fold and 259.2-fold lower, respectively, than that of the wild-type enzyme (<a href="#pone-0115025-t002">Table 2</a>). The kinetic analysis showed that the <em>K</em><sub>m</sub> values of ScIDH1 R148H for isocitrate was 2.4-fold higher than that of the corresponding wild-type enzyme, whereas that of YlIDH R141H was 2.2-fold higher than that of its corresponding wild-type enzyme, suggesting that the mutated enzymes still have a relatively high affinity for isocitrate and that their impaired isocitrate catalyzing activities are not mainly caused by their inability to bind isocitrate (<a href="#pone-0115025-t002">Table 2</a>). However, the catalytic turnover values (<em>k</em><sub>cat</sub>) of ScIDH1 R148H and YlIDH R141H toward isocitrate were severely reduced by 97-fold and 190-fold, respectively, of that of their wild-type enzymes (<a href="#pone-0115025-t002">Table 2</a>). The decreased <em>k</em><sub>cat</sub> values led to the largely reduced catalytic efficiencies (<em>k</em><sub>cat</sub>/<em>K</em><sub>m</sub>) of ScIDH1 R148H and YlIDH R141H for isocitrate oxidation, which decreased by 227-fold and 460-fold of that of wild-type enzyme (<a href="#pone-0115025-t002">Table 2</a>). Because Arg does not participate in cofactor binding, the affinities of ScIDH1 R148H and YlIDH R141H for NADP<sup>+</sup> were only slightly affected by the mutation, as indicated by their similar <em>K</em><sub>m</sub> values (<a href="#pone-0115025-t002">Table 2</a>).</p>
+<a class="link-target" id="pone-0115025-g005" name="pone-0115025-g005"></a><div class="figure" data-doi="10.1371/journal.pone.0115025.g005"><div class="img-box"><a title="Click for larger image" href="article/figure/image?size=medium&amp;id=info:doi/10.1371/journal.pone.0115025.g005" data-doi="info:doi/10.1371/journal.pone.0115025" data-uri="info:doi/10.1371/journal.pone.0115025.g005"><img src="article/figure/image?size=inline&amp;id=info:doi/10.1371/journal.pone.0115025.g005" alt="thumbnail" class="thumbnail"></a><div class="expand"></div></div><div class="figure-inline-download">
+          Download:
+          <ul><li><div class="definition-label"><a href="article/figure/powerpoint?id=info:doi/10.1371/journal.pone.0115025.g005">
+                  PPT
+                </a></div><a href="article/figure/powerpoint?id=info:doi/10.1371/journal.pone.0115025.g005">
+                PowerPoint slide
+              </a></li><li><div class="definition-label"><a href="article/figure/image?download&amp;size=large&amp;id=info:doi/10.1371/journal.pone.0115025.g005">
+                  PNG
+                </a></div><a href="article/figure/image?download&amp;size=large&amp;id=info:doi/10.1371/journal.pone.0115025.g005">
+                larger image
+              </a></li><li><div class="definition-label"><a href="article/figure/image?download&amp;size=original&amp;id=info:doi/10.1371/journal.pone.0115025.g005">
+                  TIFF
+                </a></div><a href="article/figure/image?download&amp;size=original&amp;id=info:doi/10.1371/journal.pone.0115025.g005">
+                original image
+              </a></li></ul></div><div class="figcaption"><span>Figure 5. </span> Normal and neomorphic reaction analysis of the wild-type and mutant YlIDH and ScIDH1.</div><p class="caption_target"><a id="article1.body1.sec3.sec4.fig1.caption1.p1" name="article1.body1.sec3.sec4.fig1.caption1.p1" class="link-target"></a><p>(A) The oxidation activity was determined using the standard assay conditions. The oxidation reaction was initiated by adding the appropriate amount of enzymes. The increasing of NADPH catalyzed by YlIDH (▪), YlIDH R141H (□), ScIDH1 (•) and ScIDH1 R148H (○), respectively. (B) The reduction of α-KG was determined using standard assay conditions. The enzymatic reaction was initiated by adding an appropriate amount of enzyme. The decrease of NADPH catalyzed by YlIDH (▪), YlIDH R141H (□), ScIDH1 (•) and ScIDH1 R148H (○), respectively.</p>
+</p><p class="caption_object"><a href="https://doi.org/10.1371/journal.pone.0115025.g005">
+              https://doi.org/10.1371/journal.pone.0115025.g005</a></p></div><a id="article1.body1.sec3.sec4.p4" name="article1.body1.sec3.sec4.p4" class="link-target"></a><p>The enzymatic parameters of the wild-type and mutated HcIDH from five independent studies are summarized in <a href="#pone-0115025-t002">Table 2</a>. These results suggest that there is a large difference in the kinetic properties of wild-type HcIDH as determined by different research groups. For example, the catalytic constant (<em>k</em><sub>cat</sub>) for isocitrate reported by Gross et al. <a href="#pone.0115025-Gross1" class="ref-tip">[28]</a> was more than 10,000-fold larger than that determined by Yang et al. <a href="#pone.0115025-Yang2" class="ref-tip">[18]</a>. Moreover, there are disagreements in the kinetic parameters of the HcIDH Arg132 mutants that were reported by several researchers, as the catalytic efficiency (<em>k</em><sub>cat</sub>/<em>K</em><sub>m</sub>) of the R132H mutant for isocitrate that was reported by Dang et al. <a href="#pone.0115025-Dang1" class="ref-tip">[17]</a> was more than 3935-fold higher than that reported by Yang et al. <a href="#pone.0115025-Yang2" class="ref-tip">[18]</a>. We also introduced the R132H mutation into HcIDH and determined the kinetic parameters of both wild type HcIDH and R132H mutant (<a href="#pone-0115025-t002">Table 2</a>). Our data were in the best agreement with that reported by Yang et al. <a href="#pone.0115025-Yang2" class="ref-tip">[18]</a>, as the catalytic efficiency we determined for HcIDH R132H was in the same order of magnitudes with that from Yang's study (<a href="#pone-0115025-t002">Table 2</a>).</p>
+<a id="article1.body1.sec3.sec4.p5" name="article1.body1.sec3.sec4.p5" class="link-target"></a><p>As shown in <a href="#pone-0115025-t002">Table 2</a>, all five studies confirmed that the impaired activity of HcIDH was caused by a dramatic decrease in the substrate affinity, because the mutants' <em>K</em><sub>m</sub> values for isocitrate were found to be 5-fold to 1500-fold higher than that of the wild-type enzymes. However, the analogous mutations in ScIDH1 and YlIDH did not significantly abrogate the enzymes' binding affinities for isocitrate, as demonstrated by the slightly increased <em>K</em><sub>m</sub> values (approximately 2-fold higher) for isocitrate that were displayed by the ScIDH1 R148H and YlIDH R141H mutants compared to those of the wild-type enzymes (<a href="#pone-0115025-t002">Table 2</a>). Despite retain the ability to bind isocitrate, the ScIDH R148H and YlIDH R141H mutants showed a severely reduced rate of converting the bound isocitrate, suggesting that effects of the ScIDH1 and YlIDH Arg mutation occurred via a different mechanism compared to that of HcIDH.</p>
+</div>
+
+<div id="section5" class="section toc-section"><a id="s3e" name="s3e" class="link-target" title="The α-KG reduction activities of wild-type and mutant enzymes"></a>
+<h3>The α-KG reduction activities of wild-type and mutant enzymes</h3>
+<a id="article1.body1.sec3.sec5.p1" name="article1.body1.sec3.sec5.p1" class="link-target"></a><p>The neoenzymatic activity of reducing α-KG to 2-HG was determined using a standard assay. Wild-type ScIDH1 and YlIDH could not catalyze this conversion, as no changes in NADPH were detected in the reaction mix (<a href="#pone-0115025-g005">Fig. 5B</a>). The neoenzymatic activities of ScIDH1 R148H and YlIDH R141H were clearly demonstrated by the evident NADPH-dependent consumption of α-KG (<a href="#pone-0115025-g005">Fig. 5B</a>). The catalytic efficiencies of the two mutants showed that ScIDH1 R148H is 1.2-fold more effective than YlIDH R141H at producing 2-HG (<a href="#pone-0115025-t003">Table 3</a>).</p>
+<a class="link-target" id="pone-0115025-t003" name="pone-0115025-t003"></a><div class="figure" data-doi="10.1371/journal.pone.0115025.t003"><div class="img-box"><a title="Click for larger image" href="article/figure/image?size=medium&amp;id=info:doi/10.1371/journal.pone.0115025.t003" data-doi="info:doi/10.1371/journal.pone.0115025" data-uri="info:doi/10.1371/journal.pone.0115025.t003"><img src="article/figure/image?size=inline&amp;id=info:doi/10.1371/journal.pone.0115025.t003" alt="thumbnail" class="thumbnail"></a><div class="expand"></div></div><div class="figure-inline-download">
+          Download:
+          <ul><li><div class="definition-label"><a href="article/figure/powerpoint?id=info:doi/10.1371/journal.pone.0115025.t003">
+                  PPT
+                </a></div><a href="article/figure/powerpoint?id=info:doi/10.1371/journal.pone.0115025.t003">
+                PowerPoint slide
+              </a></li><li><div class="definition-label"><a href="article/figure/image?download&amp;size=large&amp;id=info:doi/10.1371/journal.pone.0115025.t003">
+                  PNG
+                </a></div><a href="article/figure/image?download&amp;size=large&amp;id=info:doi/10.1371/journal.pone.0115025.t003">
+                larger image
+              </a></li><li><div class="definition-label"><a href="article/figure/image?download&amp;size=original&amp;id=info:doi/10.1371/journal.pone.0115025.t003">
+                  TIFF
+                </a></div><a href="article/figure/image?download&amp;size=original&amp;id=info:doi/10.1371/journal.pone.0115025.t003">
+                original image
+              </a></li></ul></div><div class="figcaption"><span>Table 3. </span> Comparison of the kinetic parameters for the α-KG reduction activity of the mutant IDHs.</div><p class="caption_target"></p><p class="caption_object"><a href="https://doi.org/10.1371/journal.pone.0115025.t003">
+              https://doi.org/10.1371/journal.pone.0115025.t003</a></p></div><a id="article1.body1.sec3.sec5.p2" name="article1.body1.sec3.sec5.p2" class="link-target"></a><p>The acquisition of neomorphic activities by ScIDH1 R148H and YlIDH R141H can be explained by their emergent abilities to bind α-KG. The kinetic analysis demonstrated that ScIDH1 R148H and YlIDH R141H showed considerable affinity towards both α-KG and NADPH (<a href="#pone-0115025-t003">Table 3</a>). The <em>K</em><sub>m</sub> value of ScIDH1 R148H for α-KG was 32-fold lower than that of the HcIDH R132H mutant determined by Dang et al. <a href="#pone.0115025-Dang1" class="ref-tip">[17]</a>. Similarly, YlIDH R141H had a 20-fold higher affinity for α-KG than HcIDH R132H <a href="#pone.0115025-Dang1" class="ref-tip">[17]</a>. However, the <em>k</em><sub>cat</sub> values of ScIDH1 R148H and YlIDH R141H for α-KG were much smaller (approximately 0.04%) than those of the HcIDH R132H and R132C mutants reported from other studies <a href="#pone.0115025-Dang1" class="ref-tip">[17]</a>, <a href="#pone.0115025-Gross1" class="ref-tip">[28]</a> (<a href="#pone-0115025-t003">Table 3</a>). The huge discrepancy in the α-KG reduction activity between the yeast IDH Arg mutants of this study and HcIDH R132H mutant from other groups promoted us to perform the HcIDH Arg mutation experiment in our research as well. The kinetic parameters determined for the HcIDH R132H mutant suggested that the Arg mutation in HcIDH did not confer the mutant enzyme that high activity towards α-KG as reported previously <a href="#pone.0115025-Dang1" class="ref-tip">[17]</a>, <a href="#pone.0115025-Gross1" class="ref-tip">[28]</a>. HcIDH R132H mutant, by contrast, showed lower catalytic efficiency for α-KG when compared to ScIDH1 R148H (18%) and YlIDH R141H (22%) as determined by our assays (<a href="#pone-0115025-t003">Table 3</a>). The specific activities towards α-KG of both yeast IDH Arg mutants and HcIDH R132H mutant were proved to be very similar, being around 0.2 U/mg (<a href="#pone-0115025-t003">Table 3</a>).</p>
+<a id="article1.body1.sec3.sec5.p3" name="article1.body1.sec3.sec5.p3" class="link-target"></a><p>The performance of the HcIDH R132H mutant in transforming α-KG to 2-HG was proposed to be assisted by the fine-tuned conformational adaptation of the substrate-binding site <a href="#pone.0115025-Dang1" class="ref-tip">[17]</a>, <a href="#pone.0115025-Yang2" class="ref-tip">[18]</a>. The conservation of amino acid residues at the corresponding positions of ScIDH1 and YlIDH (<a href="#pone-0115025-g002">Fig. 2</a>), and the comparable capabilities of ScIDH1 R148H and YlIDH R141H in reducing α-KG demonstrated the similar coordinated conformation-adjusting mechanism in these two mutated yeast IDHs. HcIDH Arg132 mutation is certainly involved in the tumorigenesis, but the detailed roles that HcIDH Arg132 mutants play in cancer cell metabolism has not been clearly demonstrated due to the complexity of human cells. One implication from this study is that the metabolic pathways disturbed by the mutated IDH can be explored using yeast as model organism, because yeast is a much simpler unicellular eukaryote and its molecular interaction networks are highly similar to human cells <a href="#pone.0115025-Pereira1" class="ref-tip">[29]</a>, <a href="#pone.0115025-Guaragnella1" class="ref-tip">[30]</a>.</p>
+</div>
+
+<div id="section6" class="section toc-section"><a id="s3f" name="s3f" class="link-target" title="GC/TOF-MS identification of 2-HG"></a>
+<h3>GC/TOF-MS identification of 2-HG</h3>
+<a id="article1.body1.sec3.sec6.p1" name="article1.body1.sec3.sec6.p1" class="link-target"></a><p>High-purity (&gt;98%) 2-HG, ICT and α-KG were identified by GC/TOF-MS as standards, having retention times of 11.94 min (<a href="#pone-0115025-g006">Fig. 6A</a>), 17.44 min (<a href="#pone-0115025-g006">Fig. 6B</a>) and 12.03 min (<a href="#pone-0115025-g006">Fig. 6C</a>), respectively. The corresponding mass spectrogram of the three standards is shown in <a href="#pone-0115025-g006">Figs. 6D-6F</a>. Samples of these action mixtures catalyzed by YlIDH R141H and ScIDH R148H were then characterized in the same manner. 2-HG was identified as the end product for both the YlIDH R141H 11.94 min (<a href="#pone-0115025-g007">Fig. 7A</a>) and ScIDH R148H 11.91 min (<a href="#pone-0115025-g007">Fig. 7D</a>) mutant enzymes in the gas chromatogram, respectively. The mass spectrograms for the YlIDH R141H 11.94 min peak (<a href="#pone-0115025-g007">Fig. 7B</a>) and the ScIDH R 148H 11.91 min peak (<a href="#pone-0115025-g007">Fig. 7E</a>) were both consistent with that of the 2-HG standard (<a href="#pone-0115025-g006">Fig. 6D</a>), conforming the production of 2-HG from α-KG by the two mutant enzymes. Although a conspicuous ICT peak at 17.43 min was both detected in YlIDH R141H (<a href="#pone-0115025-g007">Fig. 7A</a>) and ScIDH R148H (<a href="#pone-0115025-g007">Fig. 7D</a>) in the gas chromatogram, but the corresponding mass spectrograms of YlIDH R141H 17.43 min (<a href="#pone-0115025-g007">Fig. 7C</a>) and ScIDH R148H 17.43 min (<a href="#pone-0115025-g007">Fig. 7F</a>) suggest that the both conspicuous ICT peaks were different from that of the ICT standard (<a href="#pone-0115025-g006">Fig. 6E</a>), demonstrating that ICT was not produced from α-KG by the residual IDH activity of the two mutant enzymes. All substrates were completely transformed into 2-HG in the dependence of NADPH in the assay, as no remaining α-KG was detected in the reaction mixture samples by GC/TOF-MS.</p>
+<a class="link-target" id="pone-0115025-g006" name="pone-0115025-g006"></a><div class="figure" data-doi="10.1371/journal.pone.0115025.g006"><div class="img-box"><a title="Click for larger image" href="article/figure/image?size=medium&amp;id=info:doi/10.1371/journal.pone.0115025.g006" data-doi="info:doi/10.1371/journal.pone.0115025" data-uri="info:doi/10.1371/journal.pone.0115025.g006"><img src="article/figure/image?size=inline&amp;id=info:doi/10.1371/journal.pone.0115025.g006" alt="thumbnail" class="thumbnail"></a><div class="expand"></div></div><div class="figure-inline-download">
+          Download:
+          <ul><li><div class="definition-label"><a href="article/figure/powerpoint?id=info:doi/10.1371/journal.pone.0115025.g006">
+                  PPT
+                </a></div><a href="article/figure/powerpoint?id=info:doi/10.1371/journal.pone.0115025.g006">
+                PowerPoint slide
+              </a></li><li><div class="definition-label"><a href="article/figure/image?download&amp;size=large&amp;id=info:doi/10.1371/journal.pone.0115025.g006">
+                  PNG
+                </a></div><a href="article/figure/image?download&amp;size=large&amp;id=info:doi/10.1371/journal.pone.0115025.g006">
+                larger image
+              </a></li><li><div class="definition-label"><a href="article/figure/image?download&amp;size=original&amp;id=info:doi/10.1371/journal.pone.0115025.g006">
+                  TIFF
+                </a></div><a href="article/figure/image?download&amp;size=original&amp;id=info:doi/10.1371/journal.pone.0115025.g006">
+                original image
+              </a></li></ul></div><div class="figcaption"><span>Figure 6. </span> GC/TOF-MS identification of the 2-HG, ICT and α-KG standards.</div><p class="caption_target"><a id="article1.body1.sec3.sec6.fig1.caption1.p1" name="article1.body1.sec3.sec6.fig1.caption1.p1" class="link-target"></a><p>The retention times of the 2-HG, ICT and α-KG standards in the gas chromatogram were 11.94 min (A), 17.44 min (B) and 12.03 min (C), respectively. (D), (E) and (F) show the mass spectrogram identifications of 2-HG, ICT and α-KG, respectively.</p>
+</p><p class="caption_object"><a href="https://doi.org/10.1371/journal.pone.0115025.g006">
+              https://doi.org/10.1371/journal.pone.0115025.g006</a></p></div><a class="link-target" id="pone-0115025-g007" name="pone-0115025-g007"></a><div class="figure" data-doi="10.1371/journal.pone.0115025.g007"><div class="img-box"><a title="Click for larger image" href="article/figure/image?size=medium&amp;id=info:doi/10.1371/journal.pone.0115025.g007" data-doi="info:doi/10.1371/journal.pone.0115025" data-uri="info:doi/10.1371/journal.pone.0115025.g007"><img src="article/figure/image?size=inline&amp;id=info:doi/10.1371/journal.pone.0115025.g007" alt="thumbnail" class="thumbnail"></a><div class="expand"></div></div><div class="figure-inline-download">
+          Download:
+          <ul><li><div class="definition-label"><a href="article/figure/powerpoint?id=info:doi/10.1371/journal.pone.0115025.g007">
+                  PPT
+                </a></div><a href="article/figure/powerpoint?id=info:doi/10.1371/journal.pone.0115025.g007">
+                PowerPoint slide
+              </a></li><li><div class="definition-label"><a href="article/figure/image?download&amp;size=large&amp;id=info:doi/10.1371/journal.pone.0115025.g007">
+                  PNG
+                </a></div><a href="article/figure/image?download&amp;size=large&amp;id=info:doi/10.1371/journal.pone.0115025.g007">
+                larger image
+              </a></li><li><div class="definition-label"><a href="article/figure/image?download&amp;size=original&amp;id=info:doi/10.1371/journal.pone.0115025.g007">
+                  TIFF
+                </a></div><a href="article/figure/image?download&amp;size=original&amp;id=info:doi/10.1371/journal.pone.0115025.g007">
+                original image
+              </a></li></ul></div><div class="figcaption"><span>Figure 7. </span> GC/TOF-MS identification of the products generated by YlIDH R141H and ScIDH1 R148H catalysis.</div><p class="caption_target"><a id="article1.body1.sec3.sec6.fig2.caption1.p1" name="article1.body1.sec3.sec6.fig2.caption1.p1" class="link-target"></a><p>(A) and (D) Gas chromatograms of the products generated by YlIDH R141Hand ScIDH1 R148H catalysis, respectively. (B) and (E) Mass spectrogram identifications of the 11.94-min peak in (A) and 11.91-minpeak in (D), respectively.(C) and (F) Mass spectrogram identifications of the 17.43-min peak in (A) and (D), respectively.</p>
+</p><p class="caption_object"><a href="https://doi.org/10.1371/journal.pone.0115025.g007">
+              https://doi.org/10.1371/journal.pone.0115025.g007</a></p></div></div>
+</div>
+
+<div id="section4" class="section toc-section"><a id="s4" name="s4" data-toc="s4" class="link-target" title="Conclusions"></a><h2>Conclusions</h2><a id="article1.body1.sec4.p1" name="article1.body1.sec4.p1" class="link-target"></a><p>In summary, we introduced the single point mutations Arg148His and Arg141His into ScIDH1 and YlIDH, respectively, because the analogous mutation was found in HcIDH of tumor patients. As expected, the normal isocitrate oxidation activities of the ScIDH1 R148H and YlIDH R141H mutants were nearly eliminated, and the neoenzymatic ability to catalyze the conversion of α-KG to 2-HG was acquired by the mutants, and the catalytic activities of ScIDH1 R148H and YlIDH R141H for α-KG were comparable to that of the HcIDH R132H mutant. Since the HcIDH Arg132 mutation promotes tumorigenesis in human cells, a parallel role of the Arg mutated IDHs in yeast cells deserves in-depth exploration in the future.</p>
+</div>
+
+
+
+
+
+<div class="section toc-section"><a id="ack" name="ack" data-toc="ack" title="Acknowledgments" class="link-target"></a><h2>Acknowledgments</h2>
+<a id="article1.back1.ack1.p1" name="article1.back1.ack1.p1" class="link-target"></a><p>We are very grateful to technician Shengming Wu (National Center of Biomedical Analysis) for his helpful assistance with the GC/TOF-MS experiment.</p>
+</div><div class="contributions toc-section"><a id="authcontrib" name="authcontrib" data-toc="authcontrib" title="Author Contributions"></a><h2>Author Contributions</h2><p>Conceived and designed the experiments: PS PW GPZ. Performed the experiments: PS HHW ZYC. Analyzed the data: PS PW GPZ. Contributed reagents/materials/analysis tools: PS HHW ZYC. Wrote the paper: PS PW GPZ.</p></div><div class="toc-section"><a id="references" name="references" class="link-target" data-toc="references" title="References"></a><h2>References</h2><ol class="references"><li id="ref1"><span class="order">1.
+            </span><a name="pone.0115025-Xu1" id="pone.0115025-Xu1" class="link-target"></a>Xu X, Zhao J, Xu Z, Peng B, Huang Q, et al. (2004) Structures of human cytosolic NADP-dependent isocitrate dehydrogenase reveal a novel self-regulatory mechanism of activity. J Biol Chem 279:33946–33957. <ul class="reflinks"><li><a href="#" data-author="Xu" data-cit="XuX%2C%20ZhaoJ%2C%20XuZ%2C%20PengB%2C%20HuangQ%2C%20et%20al.%20%282004%29%20Structures%20of%20human%20cytosolic%20NADP-dependent%20isocitrate%20dehydrogenase%20reveal%20a%20novel%20self-regulatory%20mechanism%20of%20activity.%20J%20Biol%20Chem%20279%3A33946%E2%80%9333957." data-title="Structures%20of%20human%20cytosolic%20NADP-dependent%20isocitrate%20dehydrogenase%20reveal%20a%20novel%20self-regulatory%20mechanism%20of%20activity" target="_new" title="Go to article in CrossRef">
+                      View Article
+                    </a></li><li><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?db=PubMed&amp;cmd=Search&amp;doptcmdl=Citation&amp;defaultField=Title+Word&amp;term=Xu%5Bauthor%5D+AND+Structures+of+human+cytosolic+NADP-dependent+isocitrate+dehydrogenase+reveal+a+novel+self-regulatory+mechanism+of+activity" target="_new" title="Go to article in PubMed">
+                      PubMed/NCBI
+                    </a></li><li><a href="http://scholar.google.com/scholar_lookup?title=Structures+of+human+cytosolic+NADP-dependent+isocitrate+dehydrogenase+reveal+a+novel+self-regulatory+mechanism+of+activity&amp;author=Xu&amp;publication_year=2004" target="_new" title="Go to article in Google Scholar">
+                      Google Scholar
+                    </a></li></ul></li><li id="ref2"><span class="order">2.
+            </span><a name="pone.0115025-Soundar1" id="pone.0115025-Soundar1" class="link-target"></a>Soundar S, O'Hagan M, Fomulu KS, Colman RF (2006) Identification of Mn<sup>2+</sup>-binding aspartates from alpha, beta, and gamma subunits of human NAD-dependent isocitrate dehydrogenase. J Biol Chem 281:21073–21081. <ul class="reflinks"><li><a href="#" data-author="Soundar" data-cit="SoundarS%2C%20O%27HaganM%2C%20FomuluKS%2C%20ColmanRF%20%282006%29%20Identification%20of%20Mn2%2B-binding%20aspartates%20from%20alpha%2C%20beta%2C%20and%20gamma%20subunits%20of%20human%20NAD-dependent%20isocitrate%20dehydrogenase.%20J%20Biol%20Chem%20281%3A21073%E2%80%9321081." data-title="Identification%20of%20Mn2%2B-binding%20aspartates%20from%20alpha%2C%20beta%2C%20and%20gamma%20subunits%20of%20human%20NAD-dependent%20isocitrate%20dehydrogenase" target="_new" title="Go to article in CrossRef">
+                      View Article
+                    </a></li><li><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?db=PubMed&amp;cmd=Search&amp;doptcmdl=Citation&amp;defaultField=Title+Word&amp;term=Soundar%5Bauthor%5D+AND+Identification+of+Mn2%2B-binding+aspartates+from+alpha%2C+beta%2C+and+gamma+subunits+of+human+NAD-dependent+isocitrate+dehydrogenase" target="_new" title="Go to article in PubMed">
+                      PubMed/NCBI
+                    </a></li><li><a href="http://scholar.google.com/scholar_lookup?title=Identification+of+Mn2%2B-binding+aspartates+from+alpha%2C+beta%2C+and+gamma+subunits+of+human+NAD-dependent+isocitrate+dehydrogenase&amp;author=Soundar&amp;publication_year=2006" target="_new" title="Go to article in Google Scholar">
+                      Google Scholar
+                    </a></li></ul></li><li id="ref3"><span class="order">3.
+            </span><a name="pone.0115025-Shin1" id="pone.0115025-Shin1" class="link-target"></a>Shin SW, Kil IS, Park JW (2008) Silencing of mitochondrial NADP<sup>+</sup>-dependent isocitrate dehydrogenase by small interfering RNA enhances heat shock-induced apoptosis. Biochem Biophys Res Commun 366:1012–1018. <ul class="reflinks"><li><a href="#" data-author="Shin" data-cit="ShinSW%2C%20KilIS%2C%20ParkJW%20%282008%29%20Silencing%20of%20mitochondrial%20NADP%2B-dependent%20isocitrate%20dehydrogenase%20by%20small%20interfering%20RNA%20enhances%20heat%20shock-induced%20apoptosis.%20Biochem%20Biophys%20Res%20Commun%20366%3A1012%E2%80%931018." data-title="Silencing%20of%20mitochondrial%20NADP%2B-dependent%20isocitrate%20dehydrogenase%20by%20small%20interfering%20RNA%20enhances%20heat%20shock-induced%20apoptosis" target="_new" title="Go to article in CrossRef">
+                      View Article
+                    </a></li><li><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?db=PubMed&amp;cmd=Search&amp;doptcmdl=Citation&amp;defaultField=Title+Word&amp;term=Shin%5Bauthor%5D+AND+Silencing+of+mitochondrial+NADP%2B-dependent+isocitrate+dehydrogenase+by+small+interfering+RNA+enhances+heat+shock-induced+apoptosis" target="_new" title="Go to article in PubMed">
+                      PubMed/NCBI
+                    </a></li><li><a href="http://scholar.google.com/scholar_lookup?title=Silencing+of+mitochondrial+NADP%2B-dependent+isocitrate+dehydrogenase+by+small+interfering+RNA+enhances+heat+shock-induced+apoptosis&amp;author=Shin&amp;publication_year=2008" target="_new" title="Go to article in Google Scholar">
+                      Google Scholar
+                    </a></li></ul></li><li id="ref4"><span class="order">4.
+            </span><a name="pone.0115025-Lee1" id="pone.0115025-Lee1" class="link-target"></a>Lee SM, Park SY, Shin SW, Kil IS, Yang ES, et al. (2009) Silencing of cytosolic NADP(+)-dependent isocitrate dehydrogenase by small interfering RNA enhances the sensitivity of HeLa cells toward staurosporine. Free Radic Res 43:165–173. <ul class="reflinks"><li><a href="#" data-author="Lee" data-cit="LeeSM%2C%20ParkSY%2C%20ShinSW%2C%20KilIS%2C%20YangES%2C%20et%20al.%20%282009%29%20Silencing%20of%20cytosolic%20NADP%28%2B%29-dependent%20isocitrate%20dehydrogenase%20by%20small%20interfering%20RNA%20enhances%20the%20sensitivity%20of%20HeLa%20cells%20toward%20staurosporine.%20Free%20Radic%20Res%2043%3A165%E2%80%93173." data-title="Silencing%20of%20cytosolic%20NADP%28%2B%29-dependent%20isocitrate%20dehydrogenase%20by%20small%20interfering%20RNA%20enhances%20the%20sensitivity%20of%20HeLa%20cells%20toward%20staurosporine" target="_new" title="Go to article in CrossRef">
+                      View Article
+                    </a></li><li><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?db=PubMed&amp;cmd=Search&amp;doptcmdl=Citation&amp;defaultField=Title+Word&amp;term=Lee%5Bauthor%5D+AND+Silencing+of+cytosolic+NADP%28%2B%29-dependent+isocitrate+dehydrogenase+by+small+interfering+RNA+enhances+the+sensitivity+of+HeLa+cells+toward+staurosporine" target="_new" title="Go to article in PubMed">
+                      PubMed/NCBI
+                    </a></li><li><a href="http://scholar.google.com/scholar_lookup?title=Silencing+of+cytosolic+NADP%28%2B%29-dependent+isocitrate+dehydrogenase+by+small+interfering+RNA+enhances+the+sensitivity+of+HeLa+cells+toward+staurosporine&amp;author=Lee&amp;publication_year=2009" target="_new" title="Go to article in Google Scholar">
+                      Google Scholar
+                    </a></li></ul></li><li id="ref5"><span class="order">5.
+            </span><a name="pone.0115025-Yang1" id="pone.0115025-Yang1" class="link-target"></a>Yang ES, Park JW (2011) Knockdown of cytosolic NADP(+) -dependent isocitrate dehydrogenase enhances MPP(+)-induced oxidative injury in PC12 cells. BMB Rep 44:312–316. <ul class="reflinks"><li><a href="#" data-author="Yang" data-cit="YangES%2C%20ParkJW%20%282011%29%20Knockdown%20of%20cytosolic%20NADP%28%2B%29%20-dependent%20isocitrate%20dehydrogenase%20enhances%20MPP%28%2B%29-induced%20oxidative%20injury%20in%20PC12%20cells.%20BMB%20Rep%2044%3A312%E2%80%93316." data-title="Knockdown%20of%20cytosolic%20NADP%28%2B%29%20-dependent%20isocitrate%20dehydrogenase%20enhances%20MPP%28%2B%29-induced%20oxidative%20injury%20in%20PC12%20cells" target="_new" title="Go to article in CrossRef">
+                      View Article
+                    </a></li><li><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?db=PubMed&amp;cmd=Search&amp;doptcmdl=Citation&amp;defaultField=Title+Word&amp;term=Yang%5Bauthor%5D+AND+Knockdown+of+cytosolic+NADP%28%2B%29+-dependent+isocitrate+dehydrogenase+enhances+MPP%28%2B%29-induced+oxidative+injury+in+PC12+cells" target="_new" title="Go to article in PubMed">
+                      PubMed/NCBI
+                    </a></li><li><a href="http://scholar.google.com/scholar_lookup?title=Knockdown+of+cytosolic+NADP%28%2B%29+-dependent+isocitrate+dehydrogenase+enhances+MPP%28%2B%29-induced+oxidative+injury+in+PC12+cells&amp;author=Yang&amp;publication_year=2011" target="_new" title="Go to article in Google Scholar">
+                      Google Scholar
+                    </a></li></ul></li><li id="ref6"><span class="order">6.
+            </span><a name="pone.0115025-McCammon1" id="pone.0115025-McCammon1" class="link-target"></a>McCammon MT, McAlister-Henn L (2003) Multiple cellular consequences of isocitrate dehydrogenase isozyme dysfunction. Arch Biochem Biophys 419:222–233. <ul class="reflinks"><li><a href="#" data-author="McCammon" data-cit="McCammonMT%2C%20McAlister-HennL%20%282003%29%20Multiple%20cellular%20consequences%20of%20isocitrate%20dehydrogenase%20isozyme%20dysfunction.%20Arch%20Biochem%20Biophys%20419%3A222%E2%80%93233." data-title="Multiple%20cellular%20consequences%20of%20isocitrate%20dehydrogenase%20isozyme%20dysfunction" target="_new" title="Go to article in CrossRef">
+                      View Article
+                    </a></li><li><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?db=PubMed&amp;cmd=Search&amp;doptcmdl=Citation&amp;defaultField=Title+Word&amp;term=McCammon%5Bauthor%5D+AND+Multiple+cellular+consequences+of+isocitrate+dehydrogenase+isozyme+dysfunction" target="_new" title="Go to article in PubMed">
+                      PubMed/NCBI
+                    </a></li><li><a href="http://scholar.google.com/scholar_lookup?title=Multiple+cellular+consequences+of+isocitrate+dehydrogenase+isozyme+dysfunction&amp;author=McCammon&amp;publication_year=2003" target="_new" title="Go to article in Google Scholar">
+                      Google Scholar
+                    </a></li></ul></li><li id="ref7"><span class="order">7.
+            </span><a name="pone.0115025-ContrerasShannon1" id="pone.0115025-ContrerasShannon1" class="link-target"></a>Contreras-Shannon V, McAlister-Henn L (2004) Influence of compartmental localization on the function of yeast NADP<sup>+</sup>-specific isocitrate dehydrogenases. Arch Biochem Biophys 423:235–246. <ul class="reflinks"><li><a href="#" data-author="Contreras-Shannon" data-cit="Contreras-ShannonV%2C%20McAlister-HennL%20%282004%29%20Influence%20of%20compartmental%20localization%20on%20the%20function%20of%20yeast%20NADP%2B-specific%20isocitrate%20dehydrogenases.%20Arch%20Biochem%20Biophys%20423%3A235%E2%80%93246." data-title="Influence%20of%20compartmental%20localization%20on%20the%20function%20of%20yeast%20NADP%2B-specific%20isocitrate%20dehydrogenases" target="_new" title="Go to article in CrossRef">
+                      View Article
+                    </a></li><li><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?db=PubMed&amp;cmd=Search&amp;doptcmdl=Citation&amp;defaultField=Title+Word&amp;term=Contreras-Shannon%5Bauthor%5D+AND+Influence+of+compartmental+localization+on+the+function+of+yeast+NADP%2B-specific+isocitrate+dehydrogenases" target="_new" title="Go to article in PubMed">
+                      PubMed/NCBI
+                    </a></li><li><a href="http://scholar.google.com/scholar_lookup?title=Influence+of+compartmental+localization+on+the+function+of+yeast+NADP%2B-specific+isocitrate+dehydrogenases&amp;author=Contreras-Shannon&amp;publication_year=2004" target="_new" title="Go to article in Google Scholar">
+                      Google Scholar
+                    </a></li></ul></li><li id="ref8"><span class="order">8.
+            </span><a name="pone.0115025-Lu1" id="pone.0115025-Lu1" class="link-target"></a>Lu Q, Minard KI, McAlister-Henn L (2008) Dual compartmental localization and function of mammalian NADP<sup>+</sup>-specific isocitrate dehydrogenase in yeast. Arch Biochem Biophys 472:17–25. <ul class="reflinks"><li><a href="#" data-author="Lu" data-cit="LuQ%2C%20MinardKI%2C%20McAlister-HennL%20%282008%29%20Dual%20compartmental%20localization%20and%20function%20of%20mammalian%20NADP%2B-specific%20isocitrate%20dehydrogenase%20in%20yeast.%20Arch%20Biochem%20Biophys%20472%3A17%E2%80%9325." data-title="Dual%20compartmental%20localization%20and%20function%20of%20mammalian%20NADP%2B-specific%20isocitrate%20dehydrogenase%20in%20yeast" target="_new" title="Go to article in CrossRef">
+                      View Article
+                    </a></li><li><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?db=PubMed&amp;cmd=Search&amp;doptcmdl=Citation&amp;defaultField=Title+Word&amp;term=Lu%5Bauthor%5D+AND+Dual+compartmental+localization+and+function+of+mammalian+NADP%2B-specific+isocitrate+dehydrogenase+in+yeast" target="_new" title="Go to article in PubMed">
+                      PubMed/NCBI
+                    </a></li><li><a href="http://scholar.google.com/scholar_lookup?title=Dual+compartmental+localization+and+function+of+mammalian+NADP%2B-specific+isocitrate+dehydrogenase+in+yeast&amp;author=Lu&amp;publication_year=2008" target="_new" title="Go to article in Google Scholar">
+                      Google Scholar
+                    </a></li></ul></li><li id="ref9"><span class="order">9.
+            </span><a name="pone.0115025-Peng1" id="pone.0115025-Peng1" class="link-target"></a>Peng Y, Zhong C, Huang W, Ding J (2008) Structural studies of <em>Saccharomyces cerevesiae</em> mitochondrial NADP-dependent isocitrate dehydrogenase in different enzymatic states reveal substantial conformational changes during the catalytic reaction. Protein Sci 17:1542–1554. <ul class="reflinks"><li><a href="#" data-author="Peng" data-cit="PengY%2C%20ZhongC%2C%20HuangW%2C%20DingJ%20%282008%29%20Structural%20studies%20of%20Saccharomyces%20cerevesiae%20mitochondrial%20NADP-dependent%20isocitrate%20dehydrogenase%20in%20different%20enzymatic%20states%20reveal%20substantial%20conformational%20changes%20during%20the%20catalytic%20reaction.%20Protein%20Sci%2017%3A1542%E2%80%931554." data-title="Structural%20studies%20of%20Saccharomyces%20cerevesiae%20mitochondrial%20NADP-dependent%20isocitrate%20dehydrogenase%20in%20different%20enzymatic%20states%20reveal%20substantial%20conformational%20changes%20during%20the%20catalytic%20reaction" target="_new" title="Go to article in CrossRef">
+                      View Article
+                    </a></li><li><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?db=PubMed&amp;cmd=Search&amp;doptcmdl=Citation&amp;defaultField=Title+Word&amp;term=Peng%5Bauthor%5D+AND+Structural+studies+of+Saccharomyces+cerevesiae+mitochondrial+NADP-dependent+isocitrate+dehydrogenase+in+different+enzymatic+states+reveal+substantial+conformational+changes+during+the+catalytic+reaction" target="_new" title="Go to article in PubMed">
+                      PubMed/NCBI
+                    </a></li><li><a href="http://scholar.google.com/scholar_lookup?title=Structural+studies+of+Saccharomyces+cerevesiae+mitochondrial+NADP-dependent+isocitrate+dehydrogenase+in+different+enzymatic+states+reveal+substantial+conformational+changes+during+the+catalytic+reaction&amp;author=Peng&amp;publication_year=2008" target="_new" title="Go to article in Google Scholar">
+                      Google Scholar
+                    </a></li></ul></li><li id="ref10"><span class="order">10.
+            </span><a name="pone.0115025-Lu2" id="pone.0115025-Lu2" class="link-target"></a>Lu Q, McAlister-Henn L (2010) Peroxisomal localization and function of NADP<sup>+</sup> -specific isocitrate dehydrogenases in yeast. Arch Biochem Biophys 493:125–134. <ul class="reflinks"><li><a href="#" data-author="Lu" data-cit="LuQ%2C%20McAlister-HennL%20%282010%29%20Peroxisomal%20localization%20and%20function%20of%20NADP%2B%20-specific%20isocitrate%20dehydrogenases%20in%20yeast.%20Arch%20Biochem%20Biophys%20493%3A125%E2%80%93134." data-title="Peroxisomal%20localization%20and%20function%20of%20NADP%2B%20-specific%20isocitrate%20dehydrogenases%20in%20yeast" target="_new" title="Go to article in CrossRef">
+                      View Article
+                    </a></li><li><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?db=PubMed&amp;cmd=Search&amp;doptcmdl=Citation&amp;defaultField=Title+Word&amp;term=Lu%5Bauthor%5D+AND+Peroxisomal+localization+and+function+of+NADP%2B+-specific+isocitrate+dehydrogenases+in+yeast" target="_new" title="Go to article in PubMed">
+                      PubMed/NCBI
+                    </a></li><li><a href="http://scholar.google.com/scholar_lookup?title=Peroxisomal+localization+and+function+of+NADP%2B+-specific+isocitrate+dehydrogenases+in+yeast&amp;author=Lu&amp;publication_year=2010" target="_new" title="Go to article in Google Scholar">
+                      Google Scholar
+                    </a></li></ul></li><li id="ref11"><span class="order">11.
+            </span><a name="pone.0115025-Li1" id="pone.0115025-Li1" class="link-target"></a>Li X, Wang P, Ge Y, Wang W, Abbas A, et al. (2013) NADP(+)-specific isocitrate dehydrogenase from oleaginous yeast <em>Yarrowia lipolytica</em> CLIB122: biochemical characterization and coenzyme sites evaluation. Appl Biochem Biotechnol 171:403–416. <ul class="reflinks"><li><a href="#" data-author="Li" data-cit="LiX%2C%20WangP%2C%20GeY%2C%20WangW%2C%20AbbasA%2C%20et%20al.%20%282013%29%20NADP%28%2B%29-specific%20isocitrate%20dehydrogenase%20from%20oleaginous%20yeast%20Yarrowia%20lipolytica%20CLIB122%3A%20biochemical%20characterization%20and%20coenzyme%20sites%20evaluation.%20Appl%20Biochem%20Biotechnol%20171%3A403%E2%80%93416." data-title="NADP%28%2B%29-specific%20isocitrate%20dehydrogenase%20from%20oleaginous%20yeast%20Yarrowia%20lipolytica%20CLIB122%3A%20biochemical%20characterization%20and%20coenzyme%20sites%20evaluation" target="_new" title="Go to article in CrossRef">
+                      View Article
+                    </a></li><li><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?db=PubMed&amp;cmd=Search&amp;doptcmdl=Citation&amp;defaultField=Title+Word&amp;term=Li%5Bauthor%5D+AND+NADP%28%2B%29-specific+isocitrate+dehydrogenase+from+oleaginous+yeast+Yarrowia+lipolytica+CLIB122%3A+biochemical+characterization+and+coenzyme+sites+evaluation" target="_new" title="Go to article in PubMed">
+                      PubMed/NCBI
+                    </a></li><li><a href="http://scholar.google.com/scholar_lookup?title=NADP%28%2B%29-specific+isocitrate+dehydrogenase+from+oleaginous+yeast+Yarrowia+lipolytica+CLIB122%3A+biochemical+characterization+and+coenzyme+sites+evaluation&amp;author=Li&amp;publication_year=2013" target="_new" title="Go to article in Google Scholar">
+                      Google Scholar
+                    </a></li></ul></li><li id="ref12"><span class="order">12.
+            </span><a name="pone.0115025-Parsons1" id="pone.0115025-Parsons1" class="link-target"></a>Parsons DW, Jones S, Zhang X, Lin JC, Leary RJ, et al. (2008) An integrated genomic analysis of human glioblastoma multiforme. Science 321:1807–1812. <ul class="reflinks"><li><a href="#" data-author="Parsons" data-cit="ParsonsDW%2C%20JonesS%2C%20ZhangX%2C%20LinJC%2C%20LearyRJ%2C%20et%20al.%20%282008%29%20An%20integrated%20genomic%20analysis%20of%20human%20glioblastoma%20multiforme.%20Science%20321%3A1807%E2%80%931812." data-title="An%20integrated%20genomic%20analysis%20of%20human%20glioblastoma%20multiforme" target="_new" title="Go to article in CrossRef">
+                      View Article
+                    </a></li><li><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?db=PubMed&amp;cmd=Search&amp;doptcmdl=Citation&amp;defaultField=Title+Word&amp;term=Parsons%5Bauthor%5D+AND+An+integrated+genomic+analysis+of+human+glioblastoma+multiforme" target="_new" title="Go to article in PubMed">
+                      PubMed/NCBI
+                    </a></li><li><a href="http://scholar.google.com/scholar_lookup?title=An+integrated+genomic+analysis+of+human+glioblastoma+multiforme&amp;author=Parsons&amp;publication_year=2008" target="_new" title="Go to article in Google Scholar">
+                      Google Scholar
+                    </a></li></ul></li><li id="ref13"><span class="order">13.
+            </span><a name="pone.0115025-Mardis1" id="pone.0115025-Mardis1" class="link-target"></a>Mardis ER, Ding L, Dooling DJ, Larson DE, McLellan MD, et al. (2009) Recurring mutations found by sequencing an acute myeloid leukemia genome. N Engl J Med 361:1058–1066. <ul class="reflinks"><li><a href="#" data-author="Mardis" data-cit="MardisER%2C%20DingL%2C%20DoolingDJ%2C%20LarsonDE%2C%20McLellanMD%2C%20et%20al.%20%282009%29%20Recurring%20mutations%20found%20by%20sequencing%20an%20acute%20myeloid%20leukemia%20genome.%20N%20Engl%20J%20Med%20361%3A1058%E2%80%931066." data-title="Recurring%20mutations%20found%20by%20sequencing%20an%20acute%20myeloid%20leukemia%20genome" target="_new" title="Go to article in CrossRef">
+                      View Article
+                    </a></li><li><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?db=PubMed&amp;cmd=Search&amp;doptcmdl=Citation&amp;defaultField=Title+Word&amp;term=Mardis%5Bauthor%5D+AND+Recurring+mutations+found+by+sequencing+an+acute+myeloid+leukemia+genome" target="_new" title="Go to article in PubMed">
+                      PubMed/NCBI
+                    </a></li><li><a href="http://scholar.google.com/scholar_lookup?title=Recurring+mutations+found+by+sequencing+an+acute+myeloid+leukemia+genome&amp;author=Mardis&amp;publication_year=2009" target="_new" title="Go to article in Google Scholar">
+                      Google Scholar
+                    </a></li></ul></li><li id="ref14"><span class="order">14.
+            </span><a name="pone.0115025-Yan1" id="pone.0115025-Yan1" class="link-target"></a>Yan H, Parsons DW, Jin G, McLendon R, Rasheed BA, et al. (2009) IDH1 and IDH2 mutations in gliomas. N Engl J Med 360:765–773. <ul class="reflinks"><li><a href="#" data-author="Yan" data-cit="YanH%2C%20ParsonsDW%2C%20JinG%2C%20McLendonR%2C%20RasheedBA%2C%20et%20al.%20%282009%29%20IDH1%20and%20IDH2%20mutations%20in%20gliomas.%20N%20Engl%20J%20Med%20360%3A765%E2%80%93773." data-title="IDH1%20and%20IDH2%20mutations%20in%20gliomas" target="_new" title="Go to article in CrossRef">
+                      View Article
+                    </a></li><li><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?db=PubMed&amp;cmd=Search&amp;doptcmdl=Citation&amp;defaultField=Title+Word&amp;term=Yan%5Bauthor%5D+AND+IDH1+and+IDH2+mutations+in+gliomas" target="_new" title="Go to article in PubMed">
+                      PubMed/NCBI
+                    </a></li><li><a href="http://scholar.google.com/scholar_lookup?title=IDH1+and+IDH2+mutations+in+gliomas&amp;author=Yan&amp;publication_year=2009" target="_new" title="Go to article in Google Scholar">
+                      Google Scholar
+                    </a></li></ul></li><li id="ref15"><span class="order">15.
+            </span><a name="pone.0115025-Ward1" id="pone.0115025-Ward1" class="link-target"></a>Ward PS, Patel J, Wise DR, Abdel-Wahab O, Bennett BD, et al. (2010) The common feature of leukemia-associated IDH1 and IDH2 mutations is a neomorphic enzyme activity converting alpha-ketoglutarate to 2-hydroxyglutarate. Cancer Cell 17:225–234. <ul class="reflinks"><li><a href="#" data-author="Ward" data-cit="WardPS%2C%20PatelJ%2C%20WiseDR%2C%20Abdel-WahabO%2C%20BennettBD%2C%20et%20al.%20%282010%29%20The%20common%20feature%20of%20leukemia-associated%20IDH1%20and%20IDH2%20mutations%20is%20a%20neomorphic%20enzyme%20activity%20converting%20alpha-ketoglutarate%20to%202-hydroxyglutarate.%20Cancer%20Cell%2017%3A225%E2%80%93234." data-title="The%20common%20feature%20of%20leukemia-associated%20IDH1%20and%20IDH2%20mutations%20is%20a%20neomorphic%20enzyme%20activity%20converting%20alpha-ketoglutarate%20to%202-hydroxyglutarate" target="_new" title="Go to article in CrossRef">
+                      View Article
+                    </a></li><li><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?db=PubMed&amp;cmd=Search&amp;doptcmdl=Citation&amp;defaultField=Title+Word&amp;term=Ward%5Bauthor%5D+AND+The+common+feature+of+leukemia-associated+IDH1+and+IDH2+mutations+is+a+neomorphic+enzyme+activity+converting+alpha-ketoglutarate+to+2-hydroxyglutarate" target="_new" title="Go to article in PubMed">
+                      PubMed/NCBI
+                    </a></li><li><a href="http://scholar.google.com/scholar_lookup?title=The+common+feature+of+leukemia-associated+IDH1+and+IDH2+mutations+is+a+neomorphic+enzyme+activity+converting+alpha-ketoglutarate+to+2-hydroxyglutarate&amp;author=Ward&amp;publication_year=2010" target="_new" title="Go to article in Google Scholar">
+                      Google Scholar
+                    </a></li></ul></li><li id="ref16"><span class="order">16.
+            </span><a name="pone.0115025-Zhao1" id="pone.0115025-Zhao1" class="link-target"></a>Zhao S, Lin Y, Xu W, Jiang W, Zha Z, et al. (2009) Glioma-derived mutations in IDH1 dominantly inhibit IDH1 catalytic activity and induce HIF-1alpha. Science 324:261–265. <ul class="reflinks"><li><a href="#" data-author="Zhao" data-cit="ZhaoS%2C%20LinY%2C%20XuW%2C%20JiangW%2C%20ZhaZ%2C%20et%20al.%20%282009%29%20Glioma-derived%20mutations%20in%20IDH1%20dominantly%20inhibit%20IDH1%20catalytic%20activity%20and%20induce%20HIF-1alpha.%20Science%20324%3A261%E2%80%93265." data-title="Glioma-derived%20mutations%20in%20IDH1%20dominantly%20inhibit%20IDH1%20catalytic%20activity%20and%20induce%20HIF-1alpha" target="_new" title="Go to article in CrossRef">
+                      View Article
+                    </a></li><li><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?db=PubMed&amp;cmd=Search&amp;doptcmdl=Citation&amp;defaultField=Title+Word&amp;term=Zhao%5Bauthor%5D+AND+Glioma-derived+mutations+in+IDH1+dominantly+inhibit+IDH1+catalytic+activity+and+induce+HIF-1alpha" target="_new" title="Go to article in PubMed">
+                      PubMed/NCBI
+                    </a></li><li><a href="http://scholar.google.com/scholar_lookup?title=Glioma-derived+mutations+in+IDH1+dominantly+inhibit+IDH1+catalytic+activity+and+induce+HIF-1alpha&amp;author=Zhao&amp;publication_year=2009" target="_new" title="Go to article in Google Scholar">
+                      Google Scholar
+                    </a></li></ul></li><li id="ref17"><span class="order">17.
+            </span><a name="pone.0115025-Dang1" id="pone.0115025-Dang1" class="link-target"></a>Dang L, White DW, Gross S, Bennett BD, Bittinger MA, et al. (2009) Cancer-associated IDH1 mutations produce 2-hydroxyglutarate. Nature 462:739–744. <ul class="reflinks"><li><a href="#" data-author="Dang" data-cit="DangL%2C%20WhiteDW%2C%20GrossS%2C%20BennettBD%2C%20BittingerMA%2C%20et%20al.%20%282009%29%20Cancer-associated%20IDH1%20mutations%20produce%202-hydroxyglutarate.%20Nature%20462%3A739%E2%80%93744." data-title="Cancer-associated%20IDH1%20mutations%20produce%202-hydroxyglutarate" target="_new" title="Go to article in CrossRef">
+                      View Article
+                    </a></li><li><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?db=PubMed&amp;cmd=Search&amp;doptcmdl=Citation&amp;defaultField=Title+Word&amp;term=Dang%5Bauthor%5D+AND+Cancer-associated+IDH1+mutations+produce+2-hydroxyglutarate" target="_new" title="Go to article in PubMed">
+                      PubMed/NCBI
+                    </a></li><li><a href="http://scholar.google.com/scholar_lookup?title=Cancer-associated+IDH1+mutations+produce+2-hydroxyglutarate&amp;author=Dang&amp;publication_year=2009" target="_new" title="Go to article in Google Scholar">
+                      Google Scholar
+                    </a></li></ul></li><li id="ref18"><span class="order">18.
+            </span><a name="pone.0115025-Yang2" id="pone.0115025-Yang2" class="link-target"></a>Yang B, Zhong C, Peng Y, Lai Z, Ding J (2010) Molecular mechanisms of "off-on switch" of activities of human IDH1 by tumor-associated mutation R132H. Cell Res 20:1188–1200. <ul class="reflinks"><li><a href="#" data-author="Yang" data-cit="YangB%2C%20ZhongC%2C%20PengY%2C%20LaiZ%2C%20DingJ%20%282010%29%20Molecular%20mechanisms%20of%20%22off-on%20switch%22%20of%20activities%20of%20human%20IDH1%20by%20tumor-associated%20mutation%20R132H.%20Cell%20Res%2020%3A1188%E2%80%931200." data-title="Molecular%20mechanisms%20of%20%26quot%3Boff-on%20switch%26quot%3B%20of%20activities%20of%20human%20IDH1%20by%20tumor-associated%20mutation%20R132H" target="_new" title="Go to article in CrossRef">
+                      View Article
+                    </a></li><li><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?db=PubMed&amp;cmd=Search&amp;doptcmdl=Citation&amp;defaultField=Title+Word&amp;term=Yang%5Bauthor%5D+AND+Molecular+mechanisms+of+%26quot%3Boff-on+switch%26quot%3B+of+activities+of+human+IDH1+by+tumor-associated+mutation+R132H" target="_new" title="Go to article in PubMed">
+                      PubMed/NCBI
+                    </a></li><li><a href="http://scholar.google.com/scholar_lookup?title=Molecular+mechanisms+of+%26quot%3Boff-on+switch%26quot%3B+of+activities+of+human+IDH1+by+tumor-associated+mutation+R132H&amp;author=Yang&amp;publication_year=2010" target="_new" title="Go to article in Google Scholar">
+                      Google Scholar
+                    </a></li></ul></li><li id="ref19"><span class="order">19.
+            </span><a name="pone.0115025-Rendina1" id="pone.0115025-Rendina1" class="link-target"></a>Rendina AR, Pietrak B, Smallwood A, Zhao H, Qi H, et al. (2013) Mutant IDH1 enhances the production of 2-hydroxyglutarate due to its kinetic mechanism. Biochemistry 52:4563–4577. <ul class="reflinks"><li><a href="#" data-author="Rendina" data-cit="RendinaAR%2C%20PietrakB%2C%20SmallwoodA%2C%20ZhaoH%2C%20QiH%2C%20et%20al.%20%282013%29%20Mutant%20IDH1%20enhances%20the%20production%20of%202-hydroxyglutarate%20due%20to%20its%20kinetic%20mechanism.%20Biochemistry%2052%3A4563%E2%80%934577." data-title="Mutant%20IDH1%20enhances%20the%20production%20of%202-hydroxyglutarate%20due%20to%20its%20kinetic%20mechanism" target="_new" title="Go to article in CrossRef">
+                      View Article
+                    </a></li><li><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?db=PubMed&amp;cmd=Search&amp;doptcmdl=Citation&amp;defaultField=Title+Word&amp;term=Rendina%5Bauthor%5D+AND+Mutant+IDH1+enhances+the+production+of+2-hydroxyglutarate+due+to+its+kinetic+mechanism" target="_new" title="Go to article in PubMed">
+                      PubMed/NCBI
+                    </a></li><li><a href="http://scholar.google.com/scholar_lookup?title=Mutant+IDH1+enhances+the+production+of+2-hydroxyglutarate+due+to+its+kinetic+mechanism&amp;author=Rendina&amp;publication_year=2013" target="_new" title="Go to article in Google Scholar">
+                      Google Scholar
+                    </a></li></ul></li><li id="ref20"><span class="order">20.
+            </span><a name="pone.0115025-Rose1" id="pone.0115025-Rose1" class="link-target"></a>Rose NR, McDonough MA, King ON, Kawamura A, Schofield CJ (2011) Inhibition of 2-oxoglutarate dependent oxygenases. Chem Soc Rev 40:4364–4397. <ul class="reflinks"><li><a href="#" data-author="Rose" data-cit="RoseNR%2C%20McDonoughMA%2C%20KingON%2C%20KawamuraA%2C%20SchofieldCJ%20%282011%29%20Inhibition%20of%202-oxoglutarate%20dependent%20oxygenases.%20Chem%20Soc%20Rev%2040%3A4364%E2%80%934397." data-title="Inhibition%20of%202-oxoglutarate%20dependent%20oxygenases" target="_new" title="Go to article in CrossRef">
+                      View Article
+                    </a></li><li><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?db=PubMed&amp;cmd=Search&amp;doptcmdl=Citation&amp;defaultField=Title+Word&amp;term=Rose%5Bauthor%5D+AND+Inhibition+of+2-oxoglutarate+dependent+oxygenases" target="_new" title="Go to article in PubMed">
+                      PubMed/NCBI
+                    </a></li><li><a href="http://scholar.google.com/scholar_lookup?title=Inhibition+of+2-oxoglutarate+dependent+oxygenases&amp;author=Rose&amp;publication_year=2011" target="_new" title="Go to article in Google Scholar">
+                      Google Scholar
+                    </a></li></ul></li><li id="ref21"><span class="order">21.
+            </span><a name="pone.0115025-Turcan1" id="pone.0115025-Turcan1" class="link-target"></a>Turcan S, Rohle D, Goenka A, Walsh LA, Fang F, et al. (2012) IDH1 mutation is sufficient to establish the glioma hypermethylator phenotype. Nature 483:479–483. <ul class="reflinks"><li><a href="#" data-author="Turcan" data-cit="TurcanS%2C%20RohleD%2C%20GoenkaA%2C%20WalshLA%2C%20FangF%2C%20et%20al.%20%282012%29%20IDH1%20mutation%20is%20sufficient%20to%20establish%20the%20glioma%20hypermethylator%20phenotype.%20Nature%20483%3A479%E2%80%93483." data-title="IDH1%20mutation%20is%20sufficient%20to%20establish%20the%20glioma%20hypermethylator%20phenotype" target="_new" title="Go to article in CrossRef">
+                      View Article
+                    </a></li><li><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?db=PubMed&amp;cmd=Search&amp;doptcmdl=Citation&amp;defaultField=Title+Word&amp;term=Turcan%5Bauthor%5D+AND+IDH1+mutation+is+sufficient+to+establish+the+glioma+hypermethylator+phenotype" target="_new" title="Go to article in PubMed">
+                      PubMed/NCBI
+                    </a></li><li><a href="http://scholar.google.com/scholar_lookup?title=IDH1+mutation+is+sufficient+to+establish+the+glioma+hypermethylator+phenotype&amp;author=Turcan&amp;publication_year=2012" target="_new" title="Go to article in Google Scholar">
+                      Google Scholar
+                    </a></li></ul></li><li id="ref22"><span class="order">22.
+            </span><a name="pone.0115025-Lu3" id="pone.0115025-Lu3" class="link-target"></a>Lu C, Ward PS, Kapoor GS, Rohle D, Turcan S, et al. (2012) IDH mutation impairs histone demethylation and results in a block to cell differentiation. Nature 483:474–478. <ul class="reflinks"><li><a href="#" data-author="Lu" data-cit="LuC%2C%20WardPS%2C%20KapoorGS%2C%20RohleD%2C%20TurcanS%2C%20et%20al.%20%282012%29%20IDH%20mutation%20impairs%20histone%20demethylation%20and%20results%20in%20a%20block%20to%20cell%20differentiation.%20Nature%20483%3A474%E2%80%93478." data-title="IDH%20mutation%20impairs%20histone%20demethylation%20and%20results%20in%20a%20block%20to%20cell%20differentiation" target="_new" title="Go to article in CrossRef">
+                      View Article
+                    </a></li><li><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?db=PubMed&amp;cmd=Search&amp;doptcmdl=Citation&amp;defaultField=Title+Word&amp;term=Lu%5Bauthor%5D+AND+IDH+mutation+impairs+histone+demethylation+and+results+in+a+block+to+cell+differentiation" target="_new" title="Go to article in PubMed">
+                      PubMed/NCBI
+                    </a></li><li><a href="http://scholar.google.com/scholar_lookup?title=IDH+mutation+impairs+histone+demethylation+and+results+in+a+block+to+cell+differentiation&amp;author=Lu&amp;publication_year=2012" target="_new" title="Go to article in Google Scholar">
+                      Google Scholar
+                    </a></li></ul></li><li id="ref23"><span class="order">23.
+            </span><a name="pone.0115025-Lu4" id="pone.0115025-Lu4" class="link-target"></a>Lu C, Venneti S, Akalin A, Fang F, Ward PS, et al. (2013) Induction of sarcomas by mutant IDH2. Genes Dev 27:1986–1998. <ul class="reflinks"><li><a href="#" data-author="Lu" data-cit="LuC%2C%20VennetiS%2C%20AkalinA%2C%20FangF%2C%20WardPS%2C%20et%20al.%20%282013%29%20Induction%20of%20sarcomas%20by%20mutant%20IDH2.%20Genes%20Dev%2027%3A1986%E2%80%931998." data-title="Induction%20of%20sarcomas%20by%20mutant%20IDH2" target="_new" title="Go to article in CrossRef">
+                      View Article
+                    </a></li><li><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?db=PubMed&amp;cmd=Search&amp;doptcmdl=Citation&amp;defaultField=Title+Word&amp;term=Lu%5Bauthor%5D+AND+Induction+of+sarcomas+by+mutant+IDH2" target="_new" title="Go to article in PubMed">
+                      PubMed/NCBI
+                    </a></li><li><a href="http://scholar.google.com/scholar_lookup?title=Induction+of+sarcomas+by+mutant+IDH2&amp;author=Lu&amp;publication_year=2013" target="_new" title="Go to article in Google Scholar">
+                      Google Scholar
+                    </a></li></ul></li><li id="ref24"><span class="order">24.
+            </span><a name="pone.0115025-Chen1" id="pone.0115025-Chen1" class="link-target"></a>Chen C, Liu Y, Lu C, Cross JR, Morris JPt, et al. (2013) Cancer-associated IDH2 mutants drive an acute myeloid leukemia that is susceptible to Brd4 inhibition. Genes Dev 27:1974–1985. <ul class="reflinks"><li><a href="#" data-author="Chen" data-cit="ChenC%2C%20LiuY%2C%20LuC%2C%20CrossJR%2C%20MorrisJPt%2C%20et%20al.%20%282013%29%20Cancer-associated%20IDH2%20mutants%20drive%20an%20acute%20myeloid%20leukemia%20that%20is%20susceptible%20to%20Brd4%20inhibition.%20Genes%20Dev%2027%3A1974%E2%80%931985." data-title="Cancer-associated%20IDH2%20mutants%20drive%20an%20acute%20myeloid%20leukemia%20that%20is%20susceptible%20to%20Brd4%20inhibition" target="_new" title="Go to article in CrossRef">
+                      View Article
+                    </a></li><li><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?db=PubMed&amp;cmd=Search&amp;doptcmdl=Citation&amp;defaultField=Title+Word&amp;term=Chen%5Bauthor%5D+AND+Cancer-associated+IDH2+mutants+drive+an+acute+myeloid+leukemia+that+is+susceptible+to+Brd4+inhibition" target="_new" title="Go to article in PubMed">
+                      PubMed/NCBI
+                    </a></li><li><a href="http://scholar.google.com/scholar_lookup?title=Cancer-associated+IDH2+mutants+drive+an+acute+myeloid+leukemia+that+is+susceptible+to+Brd4+inhibition&amp;author=Chen&amp;publication_year=2013" target="_new" title="Go to article in Google Scholar">
+                      Google Scholar
+                    </a></li></ul></li><li id="ref25"><span class="order">25.
+            </span><a name="pone.0115025-Gouet1" id="pone.0115025-Gouet1" class="link-target"></a>Gouet P, Courcelle E, Stuart DI, Metoz F (1999) ESPript: analysis of multiple sequence alignments in PostScript. Bioinformatics 15:305–308. <ul class="reflinks"><li><a href="#" data-author="Gouet" data-cit="GouetP%2C%20CourcelleE%2C%20StuartDI%2C%20MetozF%20%281999%29%20ESPript%3A%20analysis%20of%20multiple%20sequence%20alignments%20in%20PostScript.%20Bioinformatics%2015%3A305%E2%80%93308." data-title="ESPript%3A%20analysis%20of%20multiple%20sequence%20alignments%20in%20PostScript" target="_new" title="Go to article in CrossRef">
+                      View Article
+                    </a></li><li><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?db=PubMed&amp;cmd=Search&amp;doptcmdl=Citation&amp;defaultField=Title+Word&amp;term=Gouet%5Bauthor%5D+AND+ESPript%3A+analysis+of+multiple+sequence+alignments+in+PostScript" target="_new" title="Go to article in PubMed">
+                      PubMed/NCBI
+                    </a></li><li><a href="http://scholar.google.com/scholar_lookup?title=ESPript%3A+analysis+of+multiple+sequence+alignments+in+PostScript&amp;author=Gouet&amp;publication_year=1999" target="_new" title="Go to article in Google Scholar">
+                      Google Scholar
+                    </a></li></ul></li><li id="ref26"><span class="order">26.
+            </span><a name="pone.0115025-Larkin1" id="pone.0115025-Larkin1" class="link-target"></a>Larkin MA, Blackshields G, Brown NP, Chenna R, McGettigan PA, et al. (2007) Clustal W and Clustal X version 2.0. Bioinformatics 23:2947–2948. <ul class="reflinks"><li><a href="#" data-author="Larkin" data-cit="LarkinMA%2C%20BlackshieldsG%2C%20BrownNP%2C%20ChennaR%2C%20McGettiganPA%2C%20et%20al.%20%282007%29%20Clustal%20W%20and%20Clustal%20X%20version%202.0.%20Bioinformatics%2023%3A2947%E2%80%932948." data-title="Clustal%20W%20and%20Clustal%20X%20version%202.0" target="_new" title="Go to article in CrossRef">
+                      View Article
+                    </a></li><li><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?db=PubMed&amp;cmd=Search&amp;doptcmdl=Citation&amp;defaultField=Title+Word&amp;term=Larkin%5Bauthor%5D+AND+Clustal+W+and+Clustal+X+version+2.0" target="_new" title="Go to article in PubMed">
+                      PubMed/NCBI
+                    </a></li><li><a href="http://scholar.google.com/scholar_lookup?title=Clustal+W+and+Clustal+X+version+2.0&amp;author=Larkin&amp;publication_year=2007" target="_new" title="Go to article in Google Scholar">
+                      Google Scholar
+                    </a></li></ul></li><li id="ref27"><span class="order">27.
+            </span><a name="pone.0115025-Pace1" id="pone.0115025-Pace1" class="link-target"></a>Pace CN, Vajdos F, Fee L, Grimsley G, Gray T (1995) How to measure and predict the molar absorption coefficient of a protein. Protein Sci 4:2411–2423. <ul class="reflinks"><li><a href="#" data-author="Pace" data-cit="PaceCN%2C%20VajdosF%2C%20FeeL%2C%20GrimsleyG%2C%20GrayT%20%281995%29%20How%20to%20measure%20and%20predict%20the%20molar%20absorption%20coefficient%20of%20a%20protein.%20Protein%20Sci%204%3A2411%E2%80%932423." data-title="How%20to%20measure%20and%20predict%20the%20molar%20absorption%20coefficient%20of%20a%20protein" target="_new" title="Go to article in CrossRef">
+                      View Article
+                    </a></li><li><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?db=PubMed&amp;cmd=Search&amp;doptcmdl=Citation&amp;defaultField=Title+Word&amp;term=Pace%5Bauthor%5D+AND+How+to+measure+and+predict+the+molar+absorption+coefficient+of+a+protein" target="_new" title="Go to article in PubMed">
+                      PubMed/NCBI
+                    </a></li><li><a href="http://scholar.google.com/scholar_lookup?title=How+to+measure+and+predict+the+molar+absorption+coefficient+of+a+protein&amp;author=Pace&amp;publication_year=1995" target="_new" title="Go to article in Google Scholar">
+                      Google Scholar
+                    </a></li></ul></li><li id="ref28"><span class="order">28.
+            </span><a name="pone.0115025-Gross1" id="pone.0115025-Gross1" class="link-target"></a>Gross S, Cairns RA, Minden MD, Driggers EM, Bittinger MA, et al. (2010) Cancer-associated metabolite 2-hydroxyglutarate accumulates in acute myelogenous leukemia with isocitrate dehydrogenase 1 and 2 mutations. J Exp Med 207:339–344. <ul class="reflinks"><li><a href="#" data-author="Gross" data-cit="GrossS%2C%20CairnsRA%2C%20MindenMD%2C%20DriggersEM%2C%20BittingerMA%2C%20et%20al.%20%282010%29%20Cancer-associated%20metabolite%202-hydroxyglutarate%20accumulates%20in%20acute%20myelogenous%20leukemia%20with%20isocitrate%20dehydrogenase%201%20and%202%20mutations.%20J%20Exp%20Med%20207%3A339%E2%80%93344." data-title="Cancer-associated%20metabolite%202-hydroxyglutarate%20accumulates%20in%20acute%20myelogenous%20leukemia%20with%20isocitrate%20dehydrogenase%201%20and%202%20mutations" target="_new" title="Go to article in CrossRef">
+                      View Article
+                    </a></li><li><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?db=PubMed&amp;cmd=Search&amp;doptcmdl=Citation&amp;defaultField=Title+Word&amp;term=Gross%5Bauthor%5D+AND+Cancer-associated+metabolite+2-hydroxyglutarate+accumulates+in+acute+myelogenous+leukemia+with+isocitrate+dehydrogenase+1+and+2+mutations" target="_new" title="Go to article in PubMed">
+                      PubMed/NCBI
+                    </a></li><li><a href="http://scholar.google.com/scholar_lookup?title=Cancer-associated+metabolite+2-hydroxyglutarate+accumulates+in+acute+myelogenous+leukemia+with+isocitrate+dehydrogenase+1+and+2+mutations&amp;author=Gross&amp;publication_year=2010" target="_new" title="Go to article in Google Scholar">
+                      Google Scholar
+                    </a></li></ul></li><li id="ref29"><span class="order">29.
+            </span><a name="pone.0115025-Pereira1" id="pone.0115025-Pereira1" class="link-target"></a>Pereira C, Coutinho I, Soares J, Bessa C, Leao M, et al. (2012) New insights into cancer-related proteins provided by the yeast model. Febs j 279:697–712. <ul class="reflinks"><li><a href="#" data-author="Pereira" data-cit="PereiraC%2C%20CoutinhoI%2C%20SoaresJ%2C%20BessaC%2C%20LeaoM%2C%20et%20al.%20%282012%29%20New%20insights%20into%20cancer-related%20proteins%20provided%20by%20the%20yeast%20model.%20Febs%20j%20279%3A697%E2%80%93712." data-title="New%20insights%20into%20cancer-related%20proteins%20provided%20by%20the%20yeast%20model" target="_new" title="Go to article in CrossRef">
+                      View Article
+                    </a></li><li><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?db=PubMed&amp;cmd=Search&amp;doptcmdl=Citation&amp;defaultField=Title+Word&amp;term=Pereira%5Bauthor%5D+AND+New+insights+into+cancer-related+proteins+provided+by+the+yeast+model" target="_new" title="Go to article in PubMed">
+                      PubMed/NCBI
+                    </a></li><li><a href="http://scholar.google.com/scholar_lookup?title=New+insights+into+cancer-related+proteins+provided+by+the+yeast+model&amp;author=Pereira&amp;publication_year=2012" target="_new" title="Go to article in Google Scholar">
+                      Google Scholar
+                    </a></li></ul></li><li id="ref30"><span class="order">30.
+            </span><a name="pone.0115025-Guaragnella1" id="pone.0115025-Guaragnella1" class="link-target"></a>Guaragnella N, Palermo V, Galli A, Moro L, Mazzoni C, et al. (2014) The expanding role of yeast in cancer research and diagnosis: insights into the function of the oncosuppressors p53 and BRCA1/2. FEMS Yeast Research 14:2–16. <ul class="reflinks"><li><a href="#" data-author="Guaragnella" data-cit="GuaragnellaN%2C%20PalermoV%2C%20GalliA%2C%20MoroL%2C%20MazzoniC%2C%20et%20al.%20%282014%29%20The%20expanding%20role%20of%20yeast%20in%20cancer%20research%20and%20diagnosis%3A%20insights%20into%20the%20function%20of%20the%20oncosuppressors%20p53%20and%20BRCA1%2F2.%20FEMS%20Yeast%20Research%2014%3A2%E2%80%9316." data-title="The%20expanding%20role%20of%20yeast%20in%20cancer%20research%20and%20diagnosis%3A%20insights%20into%20the%20function%20of%20the%20oncosuppressors%20p53%20and%20BRCA1%2F2" target="_new" title="Go to article in CrossRef">
+                      View Article
+                    </a></li><li><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?db=PubMed&amp;cmd=Search&amp;doptcmdl=Citation&amp;defaultField=Title+Word&amp;term=Guaragnella%5Bauthor%5D+AND+The+expanding+role+of+yeast+in+cancer+research+and+diagnosis%3A+insights+into+the+function+of+the+oncosuppressors+p53+and+BRCA1%2F2" target="_new" title="Go to article in PubMed">
+                      PubMed/NCBI
+                    </a></li><li><a href="http://scholar.google.com/scholar_lookup?title=The+expanding+role+of+yeast+in+cancer+research+and+diagnosis%3A+insights+into+the+function+of+the+oncosuppressors+p53+and+BRCA1%2F2&amp;author=Guaragnella&amp;publication_year=2014" target="_new" title="Go to article in Google Scholar">
+                      Google Scholar
+                    </a></li></ul></li></ol></div>
+
+
+
+          <div class="ref-tooltip">
+             <div class="ref_tooltip-content">
+
+             </div>
+          </div>
+
+        </div>
+      </div>
+    </div>
+
+    </section>
+    <aside class="article-aside">
+
+
+<!--[if IE 9]>
+<style>
+.dload-xml {margin-top: 38px}
+</style>
+<![endif]-->
+<div class="dload-menu">
+  <div class="dload-pdf">
+    <a href="/plosone/article/file?id=10.1371/journal.pone.0115025&type=printable"
+       id="downloadPdf" target="_blank">Download PDF</a>
+  </div>
+  <div data-js-tooltip-hover="trigger" class="dload-hover">&nbsp;
+    <ul class="dload-xml" data-js-tooltip-hover="target">
+      <li><a href="/plosone/article/citation?id=10.1371/journal.pone.0115025"
+             id="downloadCitation">Citation</a></li>
+      <li><a href="/plosone/article/file?id=10.1371/journal.pone.0115025&type=manuscript"
+             id="downloadXml">XML</a>
+      </li>
+    </ul>
+
+  </div>
+</div>
+
+<div class="aside-container">
+
+<div class="print-article" id="printArticle" data-js-tooltip-hover="trigger">
+
+  Print
+  <ul class="print-options" data-js-tooltip-hover="target">
+    <li>
+        <a href="#" onclick="window.print(); return false;" class="preventDefault" id="printBrowser" title="Print
+        Article">Print article</a>
+    </li>
+
+
+
+
+<li>
+<a title="Odyssey Press" href="https://www.odysseypress.com/onlinehost/reprint_order.php?type=A&amp;page=0&amp;journal=7&amp;doi=10.1371%2Fjournal.pone.0115025&amp;volume=&amp;issue=&amp;title=Single%20Arginine%20Mutation%20in%20Two%20Yeast%20Isocitrate%20Dehydrogenases%3A%20Biochemical%20Characterization%20and%20Functional%20Implication&amp;author_name=Ping%20Song%2C%20Huanhuan%20Wei%2C%20Zhengyu%20Cao%2C%20Peng%20Wang%2C%20Guoping%20Zhu&amp;start_page=1&amp;end_page=17">EzReprint  </a>
+</li>
+
+  </ul>
+</div>
+
+<div class="share-article" id="shareArticle" data-js-tooltip-hover="trigger">
+  Share
+  <ul data-js-tooltip-hover="target" class="share-options">
+
+    <li><a href="http://www.reddit.com/submit?url=http%3A%2F%2Fdx.plos.org%2F10.1371%2Fjournal.pone.0115025" id="shareReddit" target="_blank" title="Submit to Reddit"><img src="/plosone/resource/img/icon.reddit.16.png" width="16" height="16" alt="Reddit">Reddit</a></li>
+
+    <li><a href="https://plus.google.com/share?url=http%3A%2F%2Fdx.plos.org%2F10.1371%2Fjournal.pone.0115025" id="shareGoogle" target="_blank" title="Share on Google+"><img src="/plosone/resource/img/icon.gplus.16.png" width="16" height="16" alt="Google+">Google+</a></li>
+
+    <li><a href="http://www.stumbleupon.com/submit?url=http%3A%2F%2Fdx.plos.org%2F10.1371%2Fjournal.pone.0115025"  id="shareStumble" target="_blank" title="Add to StumbleUpon"><img src="/plosone/resource/img/icon.stumble.16.png" width="16" height="16" alt="StumbleUpon">StumbleUpon</a></li>
+
+    <li><a href="http://www.facebook.com/share.php?u=http%3A%2F%2Fdx.plos.org%2F10.1371%2Fjournal.pone.0115025&t=Single Arginine Mutation in Two Yeast Isocitrate Dehydrogenases: Biochemical Characterization and Functional Implication" id="shareFacebook" target="_blank" title="Share on Facebook"><img src="/plosone/resource/img/icon.fb.16.png" width="16" height="16" alt="Facebook">Facebook</a></li>
+
+
+
+<li><a href="http://www.linkedin.com/shareArticle?url=http%3A%2F%2Fdx.plos.org%2F10.1371%2Fjournal.pone.0115025&title=Single Arginine Mutation in Two Yeast Isocitrate Dehydrogenases: Biochemical Characterization and Functional Implication&summary=Checkout this article I found at PLOS"  id="shareLinkedIn" target="_blank" title="Add to LinkedIn"><img src="/plosone/resource/img/icon.linkedin.16.png" width="16" height="16" alt="LinkedIn">LinkedIn</a></li>
+
+<li><a href="http://www.citeulike.org/posturl?url=http%3A%2F%2Fdx.plos.org%2F10.1371%2Fjournal.pone.0115025&title=Single Arginine Mutation in Two Yeast Isocitrate Dehydrogenases: Biochemical Characterization and Functional Implication"  id="shareCiteULike" target="_blank" title="Add to CiteULike"><img src="/plosone/resource/img/icon.cul.16.png" width="16" height="16" alt="CiteULike">CiteULike</a></li>
+
+<li><a href="http://www.mendeley.com/import/?url=http%3A%2F%2Fdx.plos.org%2F10.1371%2Fjournal.pone.0115025"  id="shareMendeley" target="_blank" title="Add to Mendeley"><img src="/plosone/resource/img/icon.mendeley.16.png" width="16" height="16" alt="Mendeley">Mendeley</a></li>
+
+<li><a href="https://www.pubchase.com/library?add_aid=10.1371/journal.pone.0115025&source=plos"  id="sharePubChase" target="_blank" title="Add to PubChase"><img src="/plosone/resource/img/icon.pc.16.png" width="16" height="16" alt="PubChase">PubChase</a></li>
+
+  <li><a href="http://twitter.com/intent/tweet?url=http%3A%2F%2Fdx.plos.org%2F10.1371%2Fjournal.pone.0115025&text=%23PLOSONE%3A%20Single Arginine Mutation in Two Yeast Isocitrate Dehydrogenases: Biochemical Characterization and Functional Implication" target="_blank" title="share on Twitter" id="twitter-share-link"><img src="/plosone/resource/img/icon.twtr.16.png" width="16" height="16" alt="Twitter">Twitter</a></li>
+
+<li><a href="/plosone/article/email?id=10.1371/journal.pone.0115025" id="shareEmail" title="Email this article"><img src="/plosone/resource/img/icon.email.16.png" width="16" height="16" alt="Email">Email</a></li>
+
+  </ul>
+</div></div>
+
+
+ <!-- Crossmark 2.0 widget -->
+<script src="https://crossmark-cdn.crossref.org/widget/v2.0/widget.js"></script>
+<a data-target="crossmark"><img width="150" src="http://crossmark-cdn.crossref.org/widget/v2.0/logos/CROSSMARK_BW_horizontal.svg"></a>
+<!-- End Crossmark 2.0 widget -->
+
+
+
+
+
+
+
+<div class="skyscraper-container">
+  <div class="title">Advertisement</div>
+<!-- DoubleClick Ad Zone -->
+  <div class='advertisement' id='div-gpt-ad-1458247671871-1' style='width:160px; height:600px;'>
+    <script type='text/javascript'>
+      googletag.cmd.push(function() { googletag.display('div-gpt-ad-1458247671871-1'); });
+    </script>
+  </div>
+</div>
+
+
+
+
+<div class="subject-areas-container">
+  <h3>Subject Areas <div id="subjInfo">?</div>
+    <div id="subjInfoText">
+        <p>For more information about PLOS Subject Areas, click
+          <a href="/plosone/s/help-using-this-site#loc-subject-areas">here</a>.</p>
+      <span class="inline-intro">We want your feedback.</span> Do these Subject Areas make sense for this article? Click the target next to the incorrect Subject Area and let us know. Thanks for your help!
+
+
+    </div>
+  </h3>
+  <ul id="subjectList">
+      <li>
+              <a class="taxo-term" title="Search for articles about Saccharomyces cerevisiae"
+                 href="/plosone/search?filterSubjects=Saccharomyces+cerevisiae&filterJournals=PLoSONE&q=">Saccharomyces cerevisiae</a>
+        <span class="taxo-flag">&nbsp;</span>
+        <div class="taxo-tooltip" data-categoryname="Saccharomyces cerevisiae"><p class="taxo-explain">Is the Subject Area <strong>"Saccharomyces cerevisiae"</strong> applicable to this article?
+          <button id="noFlag" data-action="remove">Yes</button>
+          <button id="flagIt" value="flagno" data-action="add">No</button></p>
+          <p class="taxo-confirm">Thanks for your feedback.</p>
+        </div>
+      </li>
+      <li>
+              <a class="taxo-term" title="Search for articles about Enzymes"
+                 href="/plosone/search?filterSubjects=Enzymes&filterJournals=PLoSONE&q=">Enzymes</a>
+        <span class="taxo-flag">&nbsp;</span>
+        <div class="taxo-tooltip" data-categoryname="Enzymes"><p class="taxo-explain">Is the Subject Area <strong>"Enzymes"</strong> applicable to this article?
+          <button id="noFlag" data-action="remove">Yes</button>
+          <button id="flagIt" value="flagno" data-action="add">No</button></p>
+          <p class="taxo-confirm">Thanks for your feedback.</p>
+        </div>
+      </li>
+      <li>
+              <a class="taxo-term" title="Search for articles about Yeast"
+                 href="/plosone/search?filterSubjects=Yeast&filterJournals=PLoSONE&q=">Yeast</a>
+        <span class="taxo-flag">&nbsp;</span>
+        <div class="taxo-tooltip" data-categoryname="Yeast"><p class="taxo-explain">Is the Subject Area <strong>"Yeast"</strong> applicable to this article?
+          <button id="noFlag" data-action="remove">Yes</button>
+          <button id="flagIt" value="flagno" data-action="add">No</button></p>
+          <p class="taxo-confirm">Thanks for your feedback.</p>
+        </div>
+      </li>
+      <li>
+              <a class="taxo-term" title="Search for articles about Oxidation"
+                 href="/plosone/search?filterSubjects=Oxidation&filterJournals=PLoSONE&q=">Oxidation</a>
+        <span class="taxo-flag">&nbsp;</span>
+        <div class="taxo-tooltip" data-categoryname="Oxidation"><p class="taxo-explain">Is the Subject Area <strong>"Oxidation"</strong> applicable to this article?
+          <button id="noFlag" data-action="remove">Yes</button>
+          <button id="flagIt" value="flagno" data-action="add">No</button></p>
+          <p class="taxo-confirm">Thanks for your feedback.</p>
+        </div>
+      </li>
+      <li>
+              <a class="taxo-term" title="Search for articles about Mitochondria"
+                 href="/plosone/search?filterSubjects=Mitochondria&filterJournals=PLoSONE&q=">Mitochondria</a>
+        <span class="taxo-flag">&nbsp;</span>
+        <div class="taxo-tooltip" data-categoryname="Mitochondria"><p class="taxo-explain">Is the Subject Area <strong>"Mitochondria"</strong> applicable to this article?
+          <button id="noFlag" data-action="remove">Yes</button>
+          <button id="flagIt" value="flagno" data-action="add">No</button></p>
+          <p class="taxo-confirm">Thanks for your feedback.</p>
+        </div>
+      </li>
+      <li>
+              <a class="taxo-term" title="Search for articles about Enzyme structure"
+                 href="/plosone/search?filterSubjects=Enzyme+structure&filterJournals=PLoSONE&q=">Enzyme structure</a>
+        <span class="taxo-flag">&nbsp;</span>
+        <div class="taxo-tooltip" data-categoryname="Enzyme structure"><p class="taxo-explain">Is the Subject Area <strong>"Enzyme structure"</strong> applicable to this article?
+          <button id="noFlag" data-action="remove">Yes</button>
+          <button id="flagIt" value="flagno" data-action="add">No</button></p>
+          <p class="taxo-confirm">Thanks for your feedback.</p>
+        </div>
+      </li>
+      <li>
+              <a class="taxo-term" title="Search for articles about Catalysis"
+                 href="/plosone/search?filterSubjects=Catalysis&filterJournals=PLoSONE&q=">Catalysis</a>
+        <span class="taxo-flag">&nbsp;</span>
+        <div class="taxo-tooltip" data-categoryname="Catalysis"><p class="taxo-explain">Is the Subject Area <strong>"Catalysis"</strong> applicable to this article?
+          <button id="noFlag" data-action="remove">Yes</button>
+          <button id="flagIt" value="flagno" data-action="add">No</button></p>
+          <p class="taxo-confirm">Thanks for your feedback.</p>
+        </div>
+      </li>
+      <li>
+              <a class="taxo-term" title="Search for articles about Enzyme purification"
+                 href="/plosone/search?filterSubjects=Enzyme+purification&filterJournals=PLoSONE&q=">Enzyme purification</a>
+        <span class="taxo-flag">&nbsp;</span>
+        <div class="taxo-tooltip" data-categoryname="Enzyme purification"><p class="taxo-explain">Is the Subject Area <strong>"Enzyme purification"</strong> applicable to this article?
+          <button id="noFlag" data-action="remove">Yes</button>
+          <button id="flagIt" value="flagno" data-action="add">No</button></p>
+          <p class="taxo-confirm">Thanks for your feedback.</p>
+        </div>
+      </li>
+  </ul>
+</div>
+<div id="subjectErrors"></div>
+
+
+<div class="twitter-container">
+  <h3>Archived Tweets</h3>
+  <ul id="tweetList">
+
+  </ul>
+  <div class="load-more">Load more <span></span></div>
+  <div class="view-all"><a href="http://alm.plos.org/works/doi.org/10.1371/journal.pone.0115025?source_id=twitter">View all tweets</a>
+  </div>
+</div>
+
+<script type="text/template" id="twitterModuleItemTemplate">
+  <% _.each(items, function(item) { %>
+    <li>
+      <div class="tweet-info">
+        <a href="http://twitter.com/<%= item.user %>">
+          <span class="imgholder">
+            <img class="imgLoad" src="<%= item.user_profile_image %>">
+          </span>
+          <div class="tweetDate"><%= item.created_at %></div>
+          <div class="tweetUser">
+            <strong><%= item.user_name %></strong>
+            <span>@<%= item.user %></span>
+          </div>
+        </a>
+      </div>
+      <div class="tweetText">
+        <%= item.text %>
+      </div>
+      <div id="tweetActions">
+        <a class="tweet-reply" href="https://twitter.com/intent/tweet?in_reply_to<%= item.id %>&amp;text=@<%= item.user %>">
+          <div>&nbsp;</div> Reply
+        </a>
+        <a class="tweet-retweet" href="https://twitter.com/intent/retweet?tweet_id=<%= item.id %>">
+          <div>&nbsp;</div> Retweet
+        </a>
+        <a class="tweet-favorite" href="https://twitter.com/intent/favorite?tweet_id=<%= item.id %>">
+          <div>&nbsp;</div> Favorite
+        </a>
+      </div>
+    </li>
+  <% }); %>
+</script>
+
+    </aside>
+  </div>
+
+
+
+
+</main>
+
+<footer id="pageftr">
+  <div class="row">
+    <div class="brand-column">
+
+      <img src="/plosone/resource/img/logo-plos-footer.png" alt="PLOS" class="logo-footer"/>
+      <p class="nav-special">
+
+&nbsp;
+<!--
+  Webapp build:  3.3.5 at 20170725 by teamcity, commit: 
+  Service build: 2.2.3 at 20170626 by teamcity, commit: 
+  Enabled dev features: []
+  -->
+      </p>
+
+<ul class="nav-aux">
+  <li><a href="https://www.plos.org/privacy-policy" id="ftr-privacy">Privacy Policy</a></li>
+  <li><a href="https://www.plos.org/terms-of-use" id="ftr-terms">Terms of Use</a></li>
+  <li><a href="https://www.plos.org/advertise/" id="ftr-advertise">Advertise</a></li>
+  <li><a href="https://www.plos.org/media-inquiries" id="ftr-media">Media Inquiries</a></li>
+</ul>
+    </div>
+    <div class="link-column">
+
+<p class="nav-special"><a href="https://www.plos.org/publications/journals/">Publications</a></p>
+
+<div class="nav">
+  <ul>
+    <li><a href="/plosbiology/" id="ftr-bio">PLOS Biology</a></li>
+    <li><a href="/plosmedicine/" id="ftr-med">PLOS Medicine</a></li>
+    <li><a href="/ploscompbiol/" id="ftr-compbio">PLOS Computational Biology</a></li>
+    <li><a href="http://currents.plos.org" id="ftr-cur">PLOS Currents</a></li>
+    <li><a href="/plosgenetics/" id="ftr-gen">PLOS Genetics</a></li>
+    <li><a href="/plospathogens/" id="ftr-path">PLOS Pathogens</a></li>
+    <li><a href="/plosone/" id="ftr-one">PLOS ONE</a></li>
+    <li><a href="/plosntds/" id="ftr-ntds">PLOS Neglected Tropical Diseases</a></li>
+  </ul>
+</div>
+    </div>
+    <div class="link-column">
+
+<div class="nav nav-special">
+  <p><a href="https://www.plos.org" id="ftr-home">plos.org</a></p>
+
+  <p><a href="http://blogs.plos.org" id="ftr-blog">Blogs</a></p>
+
+  <p><a href="http://collections.plos.org" id="ftr-collections">Collections</a></p>
+
+  <p><a href="/plosone/feedback" id="ftr-feedback">Send us feedback</a></p>
+  <p><a href="/plosone/s/help-using-this-site"
+        id="ftr-help">Help using this site</a></p>
+  <p><a href="/plosone/lockss-manifest" id="ftr-lockss">LOCKSS</a></p>
+
+<p class="footer-non-profit-statement">PLOS is a nonprofit 501(c)(3) corporation, #C2354500, and is based in San Francisco, California, US</p></div>    </div>
+  </div>
+
+
+</footer>
+
+
+
+
+<script type="text/javascript">
+  var ArticleData = {
+    doi: '10.1371/journal.pone.0115025',
+    title: '<article-title xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" xmlns:xlink=\"http://www.w3.org/1999/xlink\">Single Arginine Mutation in Two Yeast Isocitrate Dehydrogenases: Biochemical Characterization and Functional Implication<\/article-title>',
+    date: 'Dec 11, 2014'
+  };
+</script>
+
+
+
+
+
+
+
+<script type="text/javascript" async src="//platform.twitter.com/widgets.js"></script>
+
+
+
+
+
+<!-- This file should be loaded before the renderJs, to avoid conflicts with the FigShare, that implements the MathJax also. -->
+
+<!--  mathjax configuration options  -->
+<!-- more can be found at http://docs.mathjax.org/en/latest/ -->
+<script type="text/x-mathjax-config">
+MathJax.Hub.Config({
+  "HTML-CSS": {
+    scale: 100,
+    availableFonts: ["STIX","TeX"],
+    preferredFont: "STIX",
+    webFont: "STIX-Web",
+    linebreaks: { automatic: false }
+  },
+  jax: ["input/MathML", "output/HTML-CSS"]
+});
+</script>
+
+<script type="text/javascript" src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=MML_HTMLorMML"></script>
+
+<script src="/plosone/resource/compiled/asset_V4KEKJMAKU34D33A4HSQGT4JUZQJDCQS.js"></script>
+<div class="reveal-modal-bg"></div>
+</body>
+</html>

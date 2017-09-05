@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+  <body>
+        <div>
+          <h1>Forbidden</h1>
+          <p>Your client does not have permission to get this resource
+            from this server. 
+            Please see our 
+            <a href="https://www.ncbi.nlm.nih.gov/pmc/about/copyright.html">Copyright 
+            Notice</a>.
+          </p>
+        </div>
+  
+
+<!-- F4FC5C2F9AE65681_0216SID /projects/PMC/PMCViewer@4.45 ptpmc202 v4.1.r526566 Fri, Feb 03 2017 14:27:04 -->
+
+</body>
+</html>

@@ -1,0 +1,2040 @@
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml"
+      xmlns:dc="http://purl.org/dc/terms/"
+      xmlns:doi="http://dx.doi.org/"
+      lang="en" xml:lang="en"
+      itemscope itemtype="http://schema.org/Article"
+      class="no-js">
+
+
+
+<head prefix="og: http://ogp.me/ns#">
+  <title>Impact of Chemotherapy Delay on Overall Survival for AML with IDH1/2 Mutations: A Study in Adult Chinese Patients</title>
+
+
+
+
+
+
+
+<link rel="stylesheet" href="/plosone/resource/compiled/asset_V7OLX4LSII2Y4DADFWUTOT572TJ6EECJ.css" />
+
+  <!-- allows for  extra head tags -->
+
+
+<!-- hello -->
+<link rel="stylesheet" type="text/css"
+      href="https://fonts.googleapis.com/css?family=Open+Sans:400,400i,600">
+
+<link media="print" rel="stylesheet" type="text/css"  href="/plosone/resource/css/print.css"/>
+    <script type="text/javascript">
+        var siteUrlPrefix = "/plosone/";
+    </script>
+<script src="/plosone/resource/compiled/asset_SC5JIUGEUPR4P4P6VBUINUVOVUSU3NRY.js"></script>
+
+  <link rel="shortcut icon" href="/plosone/resource/img/favicon.ico" type="image/x-icon"/>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+
+
+
+
+
+
+  <link rel="canonical" href="http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0140622" />
+  <meta name="description" content="The effect of time from diagnosis to treatment (TDT) on overall survival of patients with acute myeloid leukemia (AML) remains obscure. Furthermore, whether chemotherapy delay impacts overall survival (OS) of patients with a special molecular subtype has not been investigated. Here, we enrolled 364 cases of AML to assess the effect of TDT on OS by fractional polynomial regression in the context of clinical parameters and genes of FLT3ITD, NPM1, CEBPA, DNMT3a, and IDH1/2 mutations. Results of the current study show IDH1/2 mutations are associated with older age, M0 morphology, an intermediate cytogenetic risk group, and NPM1 mutations. TDT associates with OS for AML patients in a nonlinear pattern with a J shape. Moreover, adverse effect of delayed treatment on OS was observed in patients with IDH1/2 mutations, but not in those with IDH1/2 wildtype. Therefore, initiating chemotherapy as soon as possible after diagnosis might be a potential strategy to improve OS in AML patients with IDH1/2 mutations." />
+
+  <meta name="keywords" content="Acute myeloid leukemia,Cytogenetics,Mutation,Chemotherapy,Cancer treatment,Multivariate analysis,Survival analysis,White blood cells" />
+
+
+<meta name="citation_doi" content="10.1371/journal.pone.0140622"/>
+<meta name="citation_author" content="Jing-Han Wang"/>
+  <meta name="citation_author_institution" content="Department of Hematology & Institute of Hematology, The First Affiliated Hospital, Zhejiang University, Hangzhou, China"/>
+  <meta name="citation_author_institution" content="Key Laboratory of Hematopoietic Malignancies, Zhejiang Province, Hangzhou, Zhejiang, PR China"/>
+<meta name="citation_author" content="Qi Guo"/>
+  <meta name="citation_author_institution" content="Department of Nephrology, The First Affiliated Hospital, Zhejiang University, Hangzhou, China"/>
+<meta name="citation_author" content="Zhi-Xin Ma"/>
+  <meta name="citation_author_institution" content="Department of Hematology & Institute of Hematology, The First Affiliated Hospital, Zhejiang University, Hangzhou, China"/>
+<meta name="citation_author" content="Qiu-Ling Ma"/>
+  <meta name="citation_author_institution" content="Department of Hematology & Institute of Hematology, The First Affiliated Hospital, Zhejiang University, Hangzhou, China"/>
+  <meta name="citation_author_institution" content="Key Laboratory of Hematopoietic Malignancies, Zhejiang Province, Hangzhou, Zhejiang, PR China"/>
+<meta name="citation_author" content="Meng-Xia Yu"/>
+  <meta name="citation_author_institution" content="Department of Hematology & Institute of Hematology, The First Affiliated Hospital, Zhejiang University, Hangzhou, China"/>
+<meta name="citation_author" content="Xiu-Feng Yin"/>
+  <meta name="citation_author_institution" content="Department of Hematology & Institute of Hematology, The First Affiliated Hospital, Zhejiang University, Hangzhou, China"/>
+<meta name="citation_author" content="Sha-Sha Lu"/>
+  <meta name="citation_author_institution" content="Department of Hematology & Institute of Hematology, The First Affiliated Hospital, Zhejiang University, Hangzhou, China"/>
+<meta name="citation_author" content="Hong-Qiong Xie"/>
+  <meta name="citation_author_institution" content="Department of Hematology & Institute of Hematology, The First Affiliated Hospital, Zhejiang University, Hangzhou, China"/>
+<meta name="citation_author" content="Yue-Hong Jiang"/>
+  <meta name="citation_author_institution" content="Department of Hematology & Institute of Hematology, The First Affiliated Hospital, Zhejiang University, Hangzhou, China"/>
+<meta name="citation_author" content="Dan Shen"/>
+  <meta name="citation_author_institution" content="Department of Hematology & Institute of Hematology, The First Affiliated Hospital, Zhejiang University, Hangzhou, China"/>
+<meta name="citation_author" content="Li-Ya Ma"/>
+  <meta name="citation_author_institution" content="Department of Hematology & Institute of Hematology, The First Affiliated Hospital, Zhejiang University, Hangzhou, China"/>
+<meta name="citation_author" content="Hui Shi"/>
+  <meta name="citation_author_institution" content="Department of Hematology & Institute of Hematology, The First Affiliated Hospital, Zhejiang University, Hangzhou, China"/>
+<meta name="citation_author" content="Wen-Juan Yu"/>
+  <meta name="citation_author_institution" content="Department of Hematology & Institute of Hematology, The First Affiliated Hospital, Zhejiang University, Hangzhou, China"/>
+<meta name="citation_author" content="Ye-Jiang Lou"/>
+  <meta name="citation_author_institution" content="Department of Hematology & Institute of Hematology, The First Affiliated Hospital, Zhejiang University, Hangzhou, China"/>
+<meta name="citation_author" content="Ying Li"/>
+  <meta name="citation_author_institution" content="Department of Hematology & Institute of Hematology, The First Affiliated Hospital, Zhejiang University, Hangzhou, China"/>
+<meta name="citation_author" content="Min Yang"/>
+  <meta name="citation_author_institution" content="Department of Hematology & Institute of Hematology, The First Affiliated Hospital, Zhejiang University, Hangzhou, China"/>
+<meta name="citation_author" content="Gai-Xiang Xu"/>
+  <meta name="citation_author_institution" content="Department of Hematology & Institute of Hematology, The First Affiliated Hospital, Zhejiang University, Hangzhou, China"/>
+<meta name="citation_author" content="Li-Ping Mao"/>
+  <meta name="citation_author_institution" content="Department of Hematology & Institute of Hematology, The First Affiliated Hospital, Zhejiang University, Hangzhou, China"/>
+<meta name="citation_author" content="Jian-Hu Li"/>
+  <meta name="citation_author_institution" content="Department of Hematology & Institute of Hematology, The First Affiliated Hospital, Zhejiang University, Hangzhou, China"/>
+<meta name="citation_author" content="Huan-Ping Wang"/>
+  <meta name="citation_author_institution" content="Department of Hematology & Institute of Hematology, The First Affiliated Hospital, Zhejiang University, Hangzhou, China"/>
+<meta name="citation_author" content="Dong-Mei Wang"/>
+  <meta name="citation_author_institution" content="Department of Hematology & Institute of Hematology, The First Affiliated Hospital, Zhejiang University, Hangzhou, China"/>
+<meta name="citation_author" content="Ju-Ying Wei"/>
+  <meta name="citation_author_institution" content="Department of Hematology & Institute of Hematology, The First Affiliated Hospital, Zhejiang University, Hangzhou, China"/>
+<meta name="citation_author" content="Hong-Yan Tong"/>
+  <meta name="citation_author_institution" content="Department of Hematology & Institute of Hematology, The First Affiliated Hospital, Zhejiang University, Hangzhou, China"/>
+  <meta name="citation_author_institution" content="Key Laboratory of Hematopoietic Malignancies, Zhejiang Province, Hangzhou, Zhejiang, PR China"/>
+<meta name="citation_author" content="Jian Huang"/>
+  <meta name="citation_author_institution" content="Department of Hematology & Institute of Hematology, The First Affiliated Hospital, Zhejiang University, Hangzhou, China"/>
+  <meta name="citation_author_institution" content="Key Laboratory of Hematopoietic Malignancies, Zhejiang Province, Hangzhou, Zhejiang, PR China"/>
+<meta name="citation_author" content="Jie Jin"/>
+  <meta name="citation_author_institution" content="Department of Hematology & Institute of Hematology, The First Affiliated Hospital, Zhejiang University, Hangzhou, China"/>
+  <meta name="citation_author_institution" content="Key Laboratory of Hematopoietic Malignancies, Zhejiang Province, Hangzhou, Zhejiang, PR China"/>
+
+<meta name="citation_title" content="Impact of Chemotherapy Delay on Overall Survival for AML with IDH1/2 Mutations: A Study in Adult Chinese Patients"/>
+<meta itemprop="name" content="Impact of Chemotherapy Delay on Overall Survival for AML with IDH1/2 Mutations: A Study in Adult Chinese Patients"/>
+<meta name="citation_journal_title" content="PLOS ONE"/>
+<meta name="citation_journal_abbrev" content="PLOS ONE"/>
+<meta name="citation_date" content="Oct 14, 2015"/>
+<meta name="citation_firstpage" content="e0140622"/>
+<meta name="citation_issue" content="10"/>
+<meta name="citation_volume" content="10"/>
+<meta name="citation_issn" content="1932-6203"/>
+<meta name="citation_publisher" content="Public Library of Science"/>
+
+  <meta name="citation_pdf_url" content="http://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0140622&type=printable">
+
+
+<meta name="dc.identifier" content="10.1371/journal.pone.0140622" />
+
+
+  <meta name="twitter:card" content="summary" />
+  <meta name="twitter:site" content="@plosone"/>
+    <meta name="twitter:title" content="Impact of Chemotherapy Delay on Overall Survival for AML with IDH1/2 Mutations: A Study in Adult Chinese Patients" />
+    <meta property="twitter:description" content="The effect of time from diagnosis to treatment (TDT) on overall survival of patients with acute myeloid leukemia (AML) remains obscure. Furthermore, whether chemotherapy delay impacts overall survival (OS) of patients with a special molecular subtype has not been investigated. Here, we enrolled 364 cases of AML to assess the effect of TDT on OS by fractional polynomial regression in the context of clinical parameters and genes of FLT3ITD, NPM1, CEBPA, DNMT3a, and IDH1/2 mutations. Results of the current study show IDH1/2 mutations are associated with older age, M0 morphology, an intermediate cytogenetic risk group, and NPM1 mutations. TDT associates with OS for AML patients in a nonlinear pattern with a J shape. Moreover, adverse effect of delayed treatment on OS was observed in patients with IDH1/2 mutations, but not in those with IDH1/2 wildtype. Therefore, initiating chemotherapy as soon as possible after diagnosis might be a potential strategy to improve OS in AML patients with IDH1/2 mutations." />
+    <meta property="twitter:image" content="http://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0140622.g002&size=inline" />
+
+<meta property="og:type" content="article" />
+<meta property="og:url" content="http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0140622"/>
+<meta property="og:title" content="Impact of Chemotherapy Delay on Overall Survival for AML with IDH1/2 Mutations: A Study in Adult Chinese Patients"/>
+<meta property="og:description" content="The effect of time from diagnosis to treatment (TDT) on overall survival of patients with acute myeloid leukemia (AML) remains obscure. Furthermore, whether chemotherapy delay impacts overall survival (OS) of patients with a special molecular subtype has not been investigated. Here, we enrolled 364 cases of AML to assess the effect of TDT on OS by fractional polynomial regression in the context of clinical parameters and genes of FLT3ITD, NPM1, CEBPA, DNMT3a, and IDH1/2 mutations. Results of the current study show IDH1/2 mutations are associated with older age, M0 morphology, an intermediate cytogenetic risk group, and NPM1 mutations. TDT associates with OS for AML patients in a nonlinear pattern with a J shape. Moreover, adverse effect of delayed treatment on OS was observed in patients with IDH1/2 mutations, but not in those with IDH1/2 wildtype. Therefore, initiating chemotherapy as soon as possible after diagnosis might be a potential strategy to improve OS in AML patients with IDH1/2 mutations."/>
+<meta property="og:image" content="http://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0140622.g002&size=inline"/>
+
+<meta name="citation_reference" content="citation_title=Time from diagnosis to treatment initiation predicts survival in younger, but not older, acute myeloid leukemia patients;citation_author=MA Sekeres;citation_author=P Elson;citation_author=ME Kalaycio;citation_author=AS Advani;citation_author=EA Copelan;citation_author=S Faderl;citation_journal_title=Blood;citation_volume=113;citation_number=113;citation_issue=1;citation_first_page=28;citation_last_page=36;citation_publication_date=2009;"/>    
+<meta name="citation_reference" content="citation_title=Time from diagnosis to intensive chemotherapy initiation does not adversely impact the outcome of patients with acute myeloid leukemia;citation_author=S Bertoli;citation_author=E Berard;citation_author=F Huguet;citation_author=A Huynh;citation_author=S Tavitian;citation_author=F Vergez;citation_journal_title=Blood;citation_volume=121;citation_number=121;citation_issue=14;citation_first_page=2618;citation_last_page=26;citation_publication_date=2013;"/>    
+<meta name="citation_reference" content="citation_title=Impact of chemotherapy delay on short- and long-term survival in younger and older AML patients: a Danish population-based cohort study;citation_author=LS Ostgard;citation_author=JM Norgaard;citation_author=H Sengelov;citation_author=MS Holm;citation_author=MK Jensen;citation_author=M Kallenbach;citation_journal_title=Leukemia;citation_volume=28;citation_number=28;citation_issue=9;citation_first_page=1926;citation_last_page=9;citation_publication_date=2014;"/>    
+<meta name="citation_reference" content="citation_title=IDH1 and IDH2 mutations are frequent genetic alterations in acute myeloid leukemia and confer adverse prognosis in cytogenetically normal acute myeloid leukemia with NPM1 mutation without FLT3 internal tandem duplication;citation_author=P Paschka;citation_author=RF Schlenk;citation_author=VI Gaidzik;citation_author=M Habdank;citation_author=J Kronke;citation_author=L Bullinger;citation_journal_title=Journal of clinical oncology: official journal of the American Society of Clinical Oncology;citation_volume=28;citation_number=28;citation_issue=22;citation_first_page=3636;citation_last_page=43;citation_publication_date=2010;"/>    
+<meta name="citation_reference" content="citation_title=Prognostic significance of 2-hydroxyglutarate levels in acute myeloid leukemia in China;citation_author=JH Wang;citation_author=WL Chen;citation_author=JM Li;citation_author=SF Wu;citation_author=TL Chen;citation_author=YM Zhu;citation_journal_title=Proc Natl Acad Sci U S A;citation_volume=110;citation_number=110;citation_issue=42;citation_first_page=17017;citation_last_page=22;citation_publication_date=2013;"/>    
+<meta name="citation_reference" content="citation_title=Acute myeloid leukemia;citation_author=MR O'Donnell;citation_author=CN Abboud;citation_author=J Altman;citation_author=FR Appelbaum;citation_author=DA Arber;citation_author=E Attar;citation_journal_title=J Natl Compr Canc Netw;citation_volume=10;citation_number=10;citation_issue=8;citation_first_page=984;citation_last_page=1021;citation_publication_date=2012;"/>    
+<meta name="citation_reference" content="citation_title=High IDH1 expression is associated with a poor prognosis in cytogenetically normal acute myeloid leukemia;citation_author=QL Ma;citation_author=JH Wang;citation_author=YG Wang;citation_author=C Hu;citation_author=QT Mu;citation_author=MX Yu;citation_journal_title=Int J Cancer;citation_publication_date=2014;"/>    
+<meta name="citation_reference" content="citation_title=Homoharringtonine-based induction regimens for patients with de-novo acute myeloid leukaemia: a multicentre, open-label, randomised, controlled phase 3 trial;citation_author=J Jin;citation_author=JX Wang;citation_author=FF Chen;citation_author=DP Wu;citation_author=J Hu;citation_author=JF Zhou;citation_journal_title=Lancet Oncol;citation_volume=14;citation_number=14;citation_issue=7;citation_first_page=599;citation_last_page=608;citation_publication_date=2013;"/>    
+<meta name="citation_reference" content="citation_title=Nomenclature evolution: Changes in the ISCN from the 2005 to the 2009 edition;citation_author=AR Brothman;citation_author=DL Persons;citation_author=LG Shaffer;citation_journal_title=Cytogenet Genome Res;citation_volume=127;citation_number=127;citation_issue=1;citation_first_page=1;citation_last_page=4;citation_publication_date=2009;"/>    
+<meta name="citation_reference" content="citation_title=A distinct glucose metabolism signature of acute myeloid leukemia with prognostic value;citation_author=WL Chen;citation_author=JH Wang;citation_author=AH Zhao;citation_author=X Xu;citation_author=YH Wang;citation_author=TL Chen;citation_journal_title=Blood;citation_volume=124;citation_number=124;citation_issue=10;citation_first_page=1645;citation_last_page=54;citation_publication_date=2014;"/>    
+<meta name="citation_reference" content="citation_title=Multivariable regression model building by using fractional polynomials: Description of SAS, STATA and R programs;citation_author=W Sauerbrei;citation_author=C M-H;citation_author=A Benner;citation_author=P Royston;citation_journal_title=Computational Statistics &amp; Data Analysis;citation_volume=50;citation_number=50;citation_first_page=464;citation_last_page=3485;citation_publication_date=2006;"/>    
+<meta name="citation_reference" content="citation_title=A new approach to modelling interactions between treatment and continuous covariates in clinical trials by using fractional polynomials;citation_author=P Royston;citation_author=W Sauerbrei;citation_journal_title=Stat Med;citation_volume=23;citation_number=23;citation_issue=16;citation_first_page=2509;citation_last_page=25;citation_publication_date=2004;"/>    
+<meta name="citation_reference" content="citation_title=IDH mutations in acute myeloid leukemia;citation_author=D Rakheja;citation_author=S Konoplev;citation_author=LJ Medeiros;citation_author=W Chen;citation_journal_title=Hum Pathol;citation_volume=43;citation_number=43;citation_issue=10;citation_first_page=1541;citation_last_page=51;citation_publication_date=2012;"/>    
+<meta name="citation_reference" content="citation_title=Prognostic significance of IDH1 mutations in acute myeloid leukemia: a meta-analysis;citation_author=JH Feng;citation_author=XP Guo;citation_author=YY Chen;citation_author=ZJ Wang;citation_author=YP Cheng;citation_author=YM Tang;citation_journal_title=Am J Blood Res;citation_volume=2;citation_number=2;citation_issue=4;citation_first_page=254;citation_last_page=64;citation_publication_date=2012;"/>    
+<meta name="citation_reference" content="citation_title=DNMT3A and IDH mutations in acute myeloid leukemia and other myeloid malignancies: associations with prognosis and potential treatment strategies;citation_author=AP Im;citation_author=AR Sehgal;citation_author=MP Carroll;citation_author=BD Smith;citation_author=A Tefferi;citation_author=DE Johnson;citation_journal_title=Leukemia;citation_volume=28;citation_number=28;citation_issue=9;citation_first_page=1774;citation_last_page=83;citation_publication_date=2014;"/>    
+<meta name="citation_reference" content="citation_title=The common feature of leukemia-associated IDH1 and IDH2 mutations is a neomorphic enzyme activity converting alpha-ketoglutarate to 2-hydroxyglutarate;citation_author=PS Ward;citation_author=J Patel;citation_author=DR Wise;citation_author=O Abdel-Wahab;citation_author=BD Bennett;citation_author=HA Coller;citation_journal_title=Cancer Cell;citation_volume=17;citation_number=17;citation_issue=3;citation_first_page=225;citation_last_page=34;citation_publication_date=2010;"/>    
+
+
+<!-- DoubleClick overall ad setup script -->
+<script type='text/javascript'>
+  var googletag = googletag || {};
+  googletag.cmd = googletag.cmd || [];
+  (function() {
+    var gads = document.createElement('script');
+    gads.async = true;
+    gads.type = 'text/javascript';
+    var useSSL = 'https:' == document.location.protocol;
+    gads.src = (useSSL ? 'https:' : 'http:') +
+        '//www.googletagservices.com/tag/js/gpt.js';
+    var node = document.getElementsByTagName('script')[0];
+    node.parentNode.insertBefore(gads, node);
+  })();
+</script>
+
+<!-- DoubleClick ad slot setup script -->
+
+  <script id="doubleClickSetupScript" type='text/javascript'>
+    googletag.cmd.push(function() {
+  googletag.defineSlot('/75507958/PONE_728x90_ATF', [728, 90], 'div-gpt-ad-1458247671871-0').addService(googletag.pubads());
+  googletag.defineSlot('/75507958/PONE_160x600_BTF', [160, 600], 'div-gpt-ad-1458247671871-1').addService(googletag.pubads());
+      googletag.pubads().enableSingleRequest();
+      googletag.enableServices();
+    });
+  </script>
+
+
+
+<script type="text/javascript">
+    var WombatConfig = WombatConfig || {};
+    WombatConfig.resourcePath = "/plosone/resource/";
+    WombatConfig.imgPath = "/plosone/resource/img/";
+    WombatConfig.journalKey = "PLoSONE";
+    WombatConfig.figurePath = "/plosone/article/figure/image";
+    WombatConfig.figShareInstitutionString = "plos";
+    WombatConfig.doiResolverPrefix = "http://dx.plos.org/";
+</script>
+
+<script type="text/javascript">
+  var WombatConfig = WombatConfig || {};
+  WombatConfig.metrics = WombatConfig.metrics || {};
+  WombatConfig.metrics.referenceUrl      = "http://lagotto.io/plos";
+  WombatConfig.metrics.googleScholarUrl  = "http://scholar.google.com/scholar";
+  WombatConfig.metrics.googleScholarCitationUrl  = WombatConfig.metrics.googleScholarUrl + "?hl=en&lr=&cites=";
+  WombatConfig.metrics.crossrefUrl  = "http://www.crossref.org";
+</script><script src="//code.jquery.com/jquery-2.1.4.min.js" ></script>
+<script>window.jQuery || document.write('<script src="/plosone/resource/js/vendor/jquery-2.1.4.min.js""><\/script>')</script>
+
+          <script type="text/javascript" src="https://widgets.figshare.com/static/figshare.js"></script>
+
+
+
+
+
+
+
+
+
+
+<!--For Google Tag manager to be able to track site information  -->
+<script>
+
+  dataLayer = [{
+    'mobileSite': 'false',
+    'desktopSite': 'true'
+  }];
+
+</script>
+
+</head>
+
+
+
+<body class="article plosone">
+
+
+<!-- Google Tag Manager -->
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-TP26BH"
+                  height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+    new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+    j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+    '//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-TP26BH');</script>
+
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-MQQMGF"
+                  height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+    new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+    j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+    '//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-MQQMGF');</script>
+<!-- End Google Tag Manager -->
+
+<header>
+  <div id="topslot" class="head-top">
+
+<div class="center">
+<div class="title">Advertisement</div>
+<!-- DoubleClick Ad Zone -->
+  <div class='advertisement' id='div-gpt-ad-1458247671871-0' style='width:728px; height:90px;'>
+    <script type='text/javascript'>
+      googletag.cmd.push(function() { googletag.display('div-gpt-ad-1458247671871-0'); });
+    </script>
+  </div>
+</div>
+  </div>
+
+  <div id="user" class="nav">
+    <ul class="nav-user">
+
+
+
+
+      <li ><a href="http://www.plos.org">plos.org</a></li>
+
+
+        <li ><a href="https://community.plos.org/registration/new">create account</a></li>
+
+
+          <li class="highlighted"><a href="/plosone/user/secure/login?page=%2Fplosone%2Farticle%3Fid%3D10.1371%2Fjournal.pone.0140622">sign in</a></li>
+
+    </ul>
+  </div>
+  <div id="pagehdr">
+
+    <nav class="nav-main">
+
+
+
+
+<h1 class="logo">
+  <a href="/plosone/.">PLOS ONE</a>
+</h1>
+
+<section class="top-bar-section"> 
+
+<ul class="nav-elements">
+
+
+    <li class="multi-col-parent menu-section-header has-dropdown" id="publish">
+    Publish
+      <div class="dropdown mega ">
+        <ul class="multi-col" id="publish-dropdown-list">
+
+  <li class="menu-section-header " id="submissions">
+    <span class="menu-section-header-title">  Submissions </span>
+
+    <ul class="menu-section "
+        id="submissions-dropdown-list">
+      <li>
+    <a href="/plosone/s/getting-started" >Getting Started</a>
+  </li>
+
+      <li>
+    <a href="/plosone/s/submission-guidelines" >Submission Guidelines</a>
+  </li>
+
+      <li>
+    <a href="/plosone/s/figures" >Figures</a>
+  </li>
+
+      <li>
+    <a href="/plosone/s/tables" >Tables</a>
+  </li>
+
+      <li>
+    <a href="/plosone/s/supporting-information" >Supporting Information</a>
+  </li>
+
+      <li>
+    <a href="/plosone/s/latex" >LaTeX</a>
+  </li>
+
+      <li>
+    <a href="/plosone/s/revising-your-manuscript" >Revising Your Manuscript</a>
+  </li>
+
+      <li>
+    <a href="/plosone/s/submit-now" >Submit Now</a>
+  </li>
+
+    </ul>
+
+  </li>
+
+
+  <li class="menu-section-header " id="policies">
+    <span class="menu-section-header-title">  Policies </span>
+
+    <ul class="menu-section "
+        id="policies-dropdown-list">
+      <li>
+    <a href="/plosone/s/best-practices-in-research-reporting" >Best Practices in Research Reporting</a>
+  </li>
+
+      <li>
+    <a href="/plosone/s/human-subjects-research" >Human Subjects Research</a>
+  </li>
+
+      <li>
+    <a href="/plosone/s/animal-research" >Animal Research</a>
+  </li>
+
+      <li>
+    <a href="/plosone/s/competing-interests" >Competing Interests</a>
+  </li>
+
+      <li>
+    <a href="/plosone/s/disclosure-of-funding-sources" >Disclosure of Funding Sources</a>
+  </li>
+
+      <li>
+    <a href="/plosone/s/licenses-and-copyright" >Licenses and Copyright</a>
+  </li>
+
+      <li>
+    <a href="/plosone/s/data-availability" >Data Availability</a>
+  </li>
+
+      <li>
+    <a href="/plosone/s/materials-and-software-sharing" >Materials and Software Sharing</a>
+  </li>
+
+      <li>
+    <a href="/plosone/s/ethical-publishing-practice" >Ethical Publishing Practice</a>
+  </li>
+
+      <li>
+    <a href="/plosone/s/authorship" >Authorship</a>
+  </li>
+
+      <li>
+    <a href="/plosone/s/downloads-and-translations" >Downloads and Translations</a>
+  </li>
+
+    </ul>
+
+  </li>
+
+
+  <li class="menu-section-header " id="manuscript-review-and-publication">
+    <span class="menu-section-header-title">  Manuscript Review and Publication </span>
+
+    <ul class="menu-section "
+        id="manuscript-review-and-publication-dropdown-list">
+      <li>
+    <a href="/plosone/s/criteria-for-publication" >Criteria for Publication</a>
+  </li>
+
+      <li>
+    <a href="/plosone/s/editorial-and-peer-review-process" >Editorial and Peer Review Process</a>
+  </li>
+
+      <li>
+    <a href="/plosone/s/reviewer-guidelines" >Reviewer Guidelines</a>
+  </li>
+
+      <li>
+    <a href="/plosone/s/accepted-manuscripts" >Accepted Manuscripts</a>
+  </li>
+
+      <li>
+    <a href="/plosone/s/corrections-and-retractions" >Corrections and Retractions</a>
+  </li>
+
+      <li>
+    <a href="/plosone/s/comments" >Comments</a>
+  </li>
+
+      <li>
+    <a href="/plosone/s/article-level-metrics" >Article-Level Metrics</a>
+  </li>
+
+    </ul>
+
+  </li>
+        </ul>
+          <div class="calloutcontainer">
+
+
+
+  <h3 class="callout-headline">Submit Your Manuscript</h3>
+
+  <div class="action-contain">
+  <p class="callout-content">
+  Discover a faster, simpler path to publishing in a high-quality journal. <em>PLOS ONE</em> promises fair, rigorous peer review,
+  broad scope, and wide readership – a perfect fit for your research every time.
+  </p>
+
+  <p class="button-contain special">
+    <a class="button button-default" href="/plosone/static/publish">
+     Learn More
+    </a>
+    <a class="button-link" href="http://www.editorialmanager.com/pone/default.asp">
+      Submit Now
+    </a>
+  </p>
+  </div>  <!-- opens in siteMenuCalloutDescription -->
+
+
+          </div>
+      </div>
+    </li>
+
+
+
+  <li class="menu-section-header has-dropdown " id="about">
+    <span class="menu-section-header-title">  About </span>
+
+    <ul class="menu-section dropdown "
+        id="about-dropdown-list">
+      <li>
+    <a href="/plosone/static/publish" >Why Publish with PLOS ONE</a>
+  </li>
+
+      <li>
+    <a href="/plosone/s/journal-information" >Journal Information</a>
+  </li>
+
+      <li>
+    <a href="/plosone/s/staff-editors" >Staff Editors</a>
+  </li>
+
+      <li>
+    <a href="/plosone/static/editorial-board" >Editorial Board</a>
+  </li>
+
+      <li>
+    <a href="/plosone/s/section-editors" >Section Editors</a>
+  </li>
+
+      <li>
+    <a href="/plosone/s/advisory-groups" >Advisory Groups</a>
+  </li>
+
+      <li>
+    <a href="/plosone/s/publishing-information" >Publishing Information</a>
+  </li>
+
+      <li>
+    <a href="/plosone/s/publication-fees" >Publication Fees</a>
+  </li>
+
+      <li>
+    <a href="/plosone/s/press-and-media" >Press and Media</a>
+  </li>
+
+      <li>
+    <a href="/plosone/s/contact" >Contact</a>
+  </li>
+
+    </ul>
+
+  </li>
+
+  <li data-js-tooltip-hover="trigger" class="subject-area menu-section-header">
+  Browse
+  </li>
+
+
+
+
+  <li id="navsearch" class="head-search">
+    <form name="searchForm" action="/plosone/search" method="get">
+      <fieldset>
+        <legend>Search</legend>
+        <label for="search">Search</label>
+        <input id="search" type="text" name="q" placeholder="Search" required/>
+        <button id="headerSearchButton" type="submit"><span class="search-icon"></span></button>
+
+      </fieldset>
+      <input type="hidden" name="filterJournals" value="PLoSONE"/>
+    </form>
+
+    <a id="advSearch"
+       href="/plosone/search">
+      advanced search
+    </a>
+
+  </li>
+
+
+
+
+
+      </ul>     
+      </section>  
+    </nav>
+  </div>
+
+</header><section id="taxonomyContainer">
+
+<div id="taxonomy-browser" class="areas" data-search-url="/plosone/browse">
+  <div class="wrapper">
+    <div class="taxonomy-header">
+      Browse Subject Areas
+      <div id="subjInfo">?</div>
+      <div id="subjInfoText">
+        <p>Click through the PLOS taxonomy to find articles in your field.</p>
+        <p>For more information about PLOS Subject Areas, click
+          <a href="/plosone/s/help-using-this-site#loc-subject-areas">here</a>.
+        </p>
+      </div>
+    </div>
+    <div class="levels">
+      <div class="levels-container cf">
+        <div class="levels-position"></div>
+      </div>
+      <a href="#" class="prev"></a>
+      <a href="#" class="next active"></a>
+    </div>
+  </div>
+  <div class="taxonomy-browser-border-bottom"></div>
+</div></section>
+<main> <div class="set-grid">
+
+<header class="title-block">
+
+
+
+
+<ul id="almSignposts" class="signposts">
+  <li id="loadingMetrics">
+    <p>Loading metrics</p>
+  </li>
+</ul>
+
+<script type="text/template" id="signpostsGeneralErrorTemplate">
+  <li id="metricsError">Article metrics are unavailable at this time. Please try again later.</li>
+</script>
+
+<script type="text/template" id="signpostsNewArticleErrorTemplate">
+  <li></li><li></li><li id="tooSoon">Article metrics are unavailable for recently published articles.</li>
+</script>
+
+<script type="text/template" id="signpostsTemplate">
+    <li id="almSaves">
+      <%= s.numberFormat(saveCount, 0) %>
+      <div class="tools" data-js-tooltip-hover="trigger">
+        <a class="metric-term" href="/plosone/article/metrics?id=10.1371/journal.pone.0140622#savedHeader">Save</a>
+        <p class="saves-tip" data-js-tooltip-hover="target"><a href="/plosone/article/metrics?id=10.1371/journal.pone.0140622#savedHeader">Total Mendeley and CiteULike bookmarks.</a></p>
+      </div>
+    </li>
+
+    <li id="almCitations">
+      <%= s.numberFormat(citationCount, 0) %>
+      <div class="tools" data-js-tooltip-hover="trigger">
+        <a class="metric-term" href="/plosone/article/metrics?id=10.1371/journal.pone.0140622#citedHeader">Citation</a>
+        <p class="citations-tip" data-js-tooltip-hover="target"><a href="/plosone/article/metrics?id=10.1371/journal.pone.0140622#citedHeader">Paper's citation count computed by Scopus.</a></p>
+      </div>
+    </li>
+
+    <li id="almViews">
+      <%= s.numberFormat(viewCount, 0) %>
+      <div class="tools" data-js-tooltip-hover="trigger">
+        <a class="metric-term" href="/plosone/article/metrics?id=10.1371/journal.pone.0140622#viewedHeader">View</a>
+        <p class="views-tip" data-js-tooltip-hover="target"><a href="/plosone/article/metrics?id=10.1371/journal.pone.0140622#viewedHeader">Sum of PLOS and PubMed Central page views and downloads.</a></p>
+      </div>
+    </li>
+
+    <li id="almShares">
+      <%= s.numberFormat(shareCount, 0) %>
+      <div class="tools" data-js-tooltip-hover="trigger">
+        <a class="metric-term" href="/plosone/article/metrics?id=10.1371/journal.pone.0140622#discussedHeader">Share</a>
+        <p class="shares-tip" data-js-tooltip-hover="target"><a href="/plosone/article/metrics?id=10.1371/journal.pone.0140622#discussedHeader">Sum of Facebook and Twitter activity.</a></p>
+      </div>
+    </li>
+</script>
+
+    <div class="article-meta">
+
+<div class="classifications">
+  <p class="license-short" id="licenseShort">Open Access</p>
+  <p class="peer-reviewed" id="peerReviewed">Peer-reviewed</p>
+
+<div class="article-type" >
+  <p class="type-article" id="artType">Research Article</p>
+</div>
+
+
+</div>
+
+
+    </div>
+    <div class="article-title-etc">
+
+
+
+<div class="title-authors">
+  <h1 id="artTitle"><?xml version="1.0" encoding="UTF-8"?>Impact of Chemotherapy Delay on Overall Survival for AML with <i>IDH1/2</i> Mutations: A Study in Adult Chinese Patients</h1>
+
+<ul class="author-list clearfix"  data-js-tooltip="tooltip_container" id="author-list">
+
+
+
+<li
+  data-js-tooltip="tooltip_trigger"
+  
+>
+   <a  data-author-id="0" class="author-name" >
+Jing-Han Wang <span class="contribute"> </span>,</a>    <div id="author-meta-0" class="author-info" data-js-tooltip="tooltip_target">
+
+  <p>
+    <span class="contribute"> </span> Contributed equally to this work with:
+    Jing-Han Wang,
+    Qi Guo
+  </p>
+  
+  
+  <p id="authAffiliations-0"><span class="type">Affiliations</span>
+    Department of Hematology & Institute of Hematology, The First Affiliated Hospital, Zhejiang University, Hangzhou, China, 
+    Key Laboratory of Hematopoietic Malignancies, Zhejiang Province, Hangzhou, Zhejiang, PR China
+  </p>
+
+      <a data-js-tooltip="tooltip_close" class="close" id="tooltipClose0"> &#x02A2F; </a>
+    </div>
+</li>
+
+<li
+  data-js-tooltip="tooltip_trigger"
+  
+>
+   <a  data-author-id="1" class="author-name" >
+Qi Guo <span class="contribute"> </span>,</a>    <div id="author-meta-1" class="author-info" data-js-tooltip="tooltip_target">
+
+  <p>
+    <span class="contribute"> </span> Contributed equally to this work with:
+    Jing-Han Wang,
+    Qi Guo
+  </p>
+  
+  
+  <p id="authAffiliations-1"><span class="type">Affiliation</span>
+    Department of Nephrology, The First Affiliated Hospital, Zhejiang University, Hangzhou, China
+  </p>
+
+      <a data-js-tooltip="tooltip_close" class="close" id="tooltipClose1"> &#x02A2F; </a>
+    </div>
+</li>
+
+<li
+  data-js-tooltip="tooltip_trigger"
+  
+>
+   <a  data-author-id="2" class="author-name" >
+Zhi-Xin Ma,</a>    <div id="author-meta-2" class="author-info" data-js-tooltip="tooltip_target">
+
+  
+  
+  <p id="authAffiliations-2"><span class="type">Affiliation</span>
+    Department of Hematology & Institute of Hematology, The First Affiliated Hospital, Zhejiang University, Hangzhou, China
+  </p>
+
+      <a data-js-tooltip="tooltip_close" class="close" id="tooltipClose2"> &#x02A2F; </a>
+    </div>
+</li>
+
+<li
+  data-js-tooltip="tooltip_trigger"
+  
+>
+   <a  data-author-id="3" class="author-name" >
+Qiu-Ling Ma,</a>    <div id="author-meta-3" class="author-info" data-js-tooltip="tooltip_target">
+
+  
+  
+  <p id="authCurrentAddress-3">
+    Current address: Department of Hematology, The Second Affiliated Hospital of Henan College of Traditional Chinese Medicine, Henan, China
+  </p>
+  <p id="authAffiliations-3"><span class="type">Affiliations</span>
+    Department of Hematology & Institute of Hematology, The First Affiliated Hospital, Zhejiang University, Hangzhou, China, 
+    Key Laboratory of Hematopoietic Malignancies, Zhejiang Province, Hangzhou, Zhejiang, PR China
+  </p>
+
+      <a data-js-tooltip="tooltip_close" class="close" id="tooltipClose3"> &#x02A2F; </a>
+    </div>
+</li>
+
+<li
+  data-js-tooltip="tooltip_trigger"
+  
+>
+   <a  data-author-id="4" class="author-name" >
+Meng-Xia Yu,</a>    <div id="author-meta-4" class="author-info" data-js-tooltip="tooltip_target">
+
+  
+  
+  <p id="authAffiliations-4"><span class="type">Affiliation</span>
+    Department of Hematology & Institute of Hematology, The First Affiliated Hospital, Zhejiang University, Hangzhou, China
+  </p>
+
+      <a data-js-tooltip="tooltip_close" class="close" id="tooltipClose4"> &#x02A2F; </a>
+    </div>
+</li>
+
+<li
+  data-js-tooltip="tooltip_trigger"
+  
+>
+   <a  data-author-id="5" class="author-name" >
+Xiu-Feng Yin,</a>    <div id="author-meta-5" class="author-info" data-js-tooltip="tooltip_target">
+
+  
+  
+  <p id="authAffiliations-5"><span class="type">Affiliation</span>
+    Department of Hematology & Institute of Hematology, The First Affiliated Hospital, Zhejiang University, Hangzhou, China
+  </p>
+
+      <a data-js-tooltip="tooltip_close" class="close" id="tooltipClose5"> &#x02A2F; </a>
+    </div>
+</li>
+
+<li
+  data-js-tooltip="tooltip_trigger"
+  
+>
+   <a  data-author-id="6" class="author-name" >
+Sha-Sha Lu,</a>    <div id="author-meta-6" class="author-info" data-js-tooltip="tooltip_target">
+
+  
+  
+  <p id="authAffiliations-6"><span class="type">Affiliation</span>
+    Department of Hematology & Institute of Hematology, The First Affiliated Hospital, Zhejiang University, Hangzhou, China
+  </p>
+
+      <a data-js-tooltip="tooltip_close" class="close" id="tooltipClose6"> &#x02A2F; </a>
+    </div>
+</li>
+
+<li
+  data-js-tooltip="tooltip_trigger"
+  
+>
+   <a  data-author-id="7" class="author-name" >
+Hong-Qiong Xie,</a>    <div id="author-meta-7" class="author-info" data-js-tooltip="tooltip_target">
+
+  
+  
+  <p id="authAffiliations-7"><span class="type">Affiliation</span>
+    Department of Hematology & Institute of Hematology, The First Affiliated Hospital, Zhejiang University, Hangzhou, China
+  </p>
+
+      <a data-js-tooltip="tooltip_close" class="close" id="tooltipClose7"> &#x02A2F; </a>
+    </div>
+</li>
+
+<li
+  data-js-tooltip="tooltip_trigger"
+  
+>
+   <a  data-author-id="8" class="author-name" >
+Yue-Hong Jiang,</a>    <div id="author-meta-8" class="author-info" data-js-tooltip="tooltip_target">
+
+  
+  
+  <p id="authAffiliations-8"><span class="type">Affiliation</span>
+    Department of Hematology & Institute of Hematology, The First Affiliated Hospital, Zhejiang University, Hangzhou, China
+  </p>
+
+      <a data-js-tooltip="tooltip_close" class="close" id="tooltipClose8"> &#x02A2F; </a>
+    </div>
+</li>
+
+<li
+  data-js-tooltip="tooltip_trigger"
+  
+>
+   <a  data-author-id="9" class="author-name" >
+Dan Shen,</a>    <div id="author-meta-9" class="author-info" data-js-tooltip="tooltip_target">
+
+  
+  
+  <p id="authAffiliations-9"><span class="type">Affiliation</span>
+    Department of Hematology & Institute of Hematology, The First Affiliated Hospital, Zhejiang University, Hangzhou, China
+  </p>
+
+      <a data-js-tooltip="tooltip_close" class="close" id="tooltipClose9"> &#x02A2F; </a>
+    </div>
+</li>
+
+<li
+  data-js-tooltip="tooltip_trigger"
+  
+>
+   <a  data-author-id="10" class="author-name" >
+Li-Ya Ma,</a>    <div id="author-meta-10" class="author-info" data-js-tooltip="tooltip_target">
+
+  
+  
+  <p id="authAffiliations-10"><span class="type">Affiliation</span>
+    Department of Hematology & Institute of Hematology, The First Affiliated Hospital, Zhejiang University, Hangzhou, China
+  </p>
+
+      <a data-js-tooltip="tooltip_close" class="close" id="tooltipClose10"> &#x02A2F; </a>
+    </div>
+</li>
+
+<li
+  data-js-tooltip="tooltip_trigger"
+  
+>
+   <a  data-author-id="11" class="author-name" >
+Hui Shi,</a>    <div id="author-meta-11" class="author-info" data-js-tooltip="tooltip_target">
+
+  
+  
+  <p id="authAffiliations-11"><span class="type">Affiliation</span>
+    Department of Hematology & Institute of Hematology, The First Affiliated Hospital, Zhejiang University, Hangzhou, China
+  </p>
+
+      <a data-js-tooltip="tooltip_close" class="close" id="tooltipClose11"> &#x02A2F; </a>
+    </div>
+</li>
+
+<li
+  data-js-tooltip="tooltip_trigger"
+  
+>
+   <a  data-author-id="12" class="author-name" >
+Wen-Juan Yu,</a>    <div id="author-meta-12" class="author-info" data-js-tooltip="tooltip_target">
+
+  
+  
+  <p id="authAffiliations-12"><span class="type">Affiliation</span>
+    Department of Hematology & Institute of Hematology, The First Affiliated Hospital, Zhejiang University, Hangzhou, China
+  </p>
+
+      <a data-js-tooltip="tooltip_close" class="close" id="tooltipClose12"> &#x02A2F; </a>
+    </div>
+</li>
+
+<li
+  data-js-tooltip="tooltip_trigger"
+   data-js-toggle="toggle_target" data-visibility= "none"
+>
+   <a  data-author-id="13" class="author-name" >
+Ye-Jiang Lou,</a>    <div id="author-meta-13" class="author-info" data-js-tooltip="tooltip_target">
+
+  
+  
+  <p id="authAffiliations-13"><span class="type">Affiliation</span>
+    Department of Hematology & Institute of Hematology, The First Affiliated Hospital, Zhejiang University, Hangzhou, China
+  </p>
+
+      <a data-js-tooltip="tooltip_close" class="close" id="tooltipClose13"> &#x02A2F; </a>
+    </div>
+</li>
+
+<li
+  data-js-tooltip="tooltip_trigger"
+   data-js-toggle="toggle_target" data-visibility= "none"
+>
+   <a  data-author-id="14" class="author-name" >
+Ying Li,</a>    <div id="author-meta-14" class="author-info" data-js-tooltip="tooltip_target">
+
+  
+  
+  <p id="authAffiliations-14"><span class="type">Affiliation</span>
+    Department of Hematology & Institute of Hematology, The First Affiliated Hospital, Zhejiang University, Hangzhou, China
+  </p>
+
+      <a data-js-tooltip="tooltip_close" class="close" id="tooltipClose14"> &#x02A2F; </a>
+    </div>
+</li>
+
+<li
+  data-js-tooltip="tooltip_trigger"
+   data-js-toggle="toggle_target" data-visibility= "none"
+>
+   <a  data-author-id="15" class="author-name" >
+Min Yang,</a>    <div id="author-meta-15" class="author-info" data-js-tooltip="tooltip_target">
+
+  
+  
+  <p id="authAffiliations-15"><span class="type">Affiliation</span>
+    Department of Hematology & Institute of Hematology, The First Affiliated Hospital, Zhejiang University, Hangzhou, China
+  </p>
+
+      <a data-js-tooltip="tooltip_close" class="close" id="tooltipClose15"> &#x02A2F; </a>
+    </div>
+</li>
+
+<li
+  data-js-tooltip="tooltip_trigger"
+   data-js-toggle="toggle_target" data-visibility= "none"
+>
+   <a  data-author-id="16" class="author-name" >
+Gai-Xiang Xu,</a>    <div id="author-meta-16" class="author-info" data-js-tooltip="tooltip_target">
+
+  
+  
+  <p id="authAffiliations-16"><span class="type">Affiliation</span>
+    Department of Hematology & Institute of Hematology, The First Affiliated Hospital, Zhejiang University, Hangzhou, China
+  </p>
+
+      <a data-js-tooltip="tooltip_close" class="close" id="tooltipClose16"> &#x02A2F; </a>
+    </div>
+</li>
+
+<li
+  data-js-tooltip="tooltip_trigger"
+   data-js-toggle="toggle_target" data-visibility= "none"
+>
+   <a  data-author-id="17" class="author-name" >
+Li-Ping Mao,</a>    <div id="author-meta-17" class="author-info" data-js-tooltip="tooltip_target">
+
+  
+  
+  <p id="authAffiliations-17"><span class="type">Affiliation</span>
+    Department of Hematology & Institute of Hematology, The First Affiliated Hospital, Zhejiang University, Hangzhou, China
+  </p>
+
+      <a data-js-tooltip="tooltip_close" class="close" id="tooltipClose17"> &#x02A2F; </a>
+    </div>
+</li>
+
+<li
+  data-js-tooltip="tooltip_trigger"
+   data-js-toggle="toggle_target" data-visibility= "none"
+>
+   <a  data-author-id="18" class="author-name" >
+Jian-Hu Li,</a>    <div id="author-meta-18" class="author-info" data-js-tooltip="tooltip_target">
+
+  
+  
+  <p id="authAffiliations-18"><span class="type">Affiliation</span>
+    Department of Hematology & Institute of Hematology, The First Affiliated Hospital, Zhejiang University, Hangzhou, China
+  </p>
+
+      <a data-js-tooltip="tooltip_close" class="close" id="tooltipClose18"> &#x02A2F; </a>
+    </div>
+</li>
+
+<li
+  data-js-tooltip="tooltip_trigger"
+   data-js-toggle="toggle_target" data-visibility= "none"
+>
+   <a  data-author-id="19" class="author-name" >
+Huan-Ping Wang,</a>    <div id="author-meta-19" class="author-info" data-js-tooltip="tooltip_target">
+
+  
+  
+  <p id="authAffiliations-19"><span class="type">Affiliation</span>
+    Department of Hematology & Institute of Hematology, The First Affiliated Hospital, Zhejiang University, Hangzhou, China
+  </p>
+
+      <a data-js-tooltip="tooltip_close" class="close" id="tooltipClose19"> &#x02A2F; </a>
+    </div>
+</li>
+
+<li
+  data-js-tooltip="tooltip_trigger"
+   data-js-toggle="toggle_target" data-visibility= "none"
+>
+   <a  data-author-id="20" class="author-name" >
+Dong-Mei Wang,</a>    <div id="author-meta-20" class="author-info" data-js-tooltip="tooltip_target">
+
+  
+  
+  <p id="authAffiliations-20"><span class="type">Affiliation</span>
+    Department of Hematology & Institute of Hematology, The First Affiliated Hospital, Zhejiang University, Hangzhou, China
+  </p>
+
+      <a data-js-tooltip="tooltip_close" class="close" id="tooltipClose20"> &#x02A2F; </a>
+    </div>
+</li>
+
+<li
+  data-js-tooltip="tooltip_trigger"
+   data-js-toggle="toggle_target" data-visibility= "none"
+>
+   <a  data-author-id="21" class="author-name" >
+Ju-Ying Wei <span class="email">  </span>,</a>    <div id="author-meta-21" class="author-info" data-js-tooltip="tooltip_target">
+
+  
+  <p id="authCorresponding-21"> <span class="email">* E-mail:</span> <a href="mailto:zjuhematology@163.com">zjuhematology@163.com</a> (JJ); <a href="mailto:househuang@hotmail.com">househuang@hotmail.com</a> (JH); <a href="mailto:hongyantong@aliyun.com">hongyantong@aliyun.com</a> (HYT); <a href="mailto:weijuy@hotmail.com">weijuy@hotmail.com</a> (JYW)</p>
+  <p id="authAffiliations-21"><span class="type">Affiliation</span>
+    Department of Hematology & Institute of Hematology, The First Affiliated Hospital, Zhejiang University, Hangzhou, China
+  </p>
+
+      <a data-js-tooltip="tooltip_close" class="close" id="tooltipClose21"> &#x02A2F; </a>
+    </div>
+</li>
+
+<li
+  data-js-tooltip="tooltip_trigger"
+   data-js-toggle="toggle_target" data-visibility= "none"
+>
+   <a  data-author-id="22" class="author-name" >
+Hong-Yan Tong <span class="email">  </span>,</a>    <div id="author-meta-22" class="author-info" data-js-tooltip="tooltip_target">
+
+  
+  <p id="authCorresponding-22"> <span class="email">* E-mail:</span> <a href="mailto:zjuhematology@163.com">zjuhematology@163.com</a> (JJ); <a href="mailto:househuang@hotmail.com">househuang@hotmail.com</a> (JH); <a href="mailto:hongyantong@aliyun.com">hongyantong@aliyun.com</a> (HYT); <a href="mailto:weijuy@hotmail.com">weijuy@hotmail.com</a> (JYW)</p>
+  <p id="authAffiliations-22"><span class="type">Affiliations</span>
+    Department of Hematology & Institute of Hematology, The First Affiliated Hospital, Zhejiang University, Hangzhou, China, 
+    Key Laboratory of Hematopoietic Malignancies, Zhejiang Province, Hangzhou, Zhejiang, PR China
+  </p>
+
+      <a data-js-tooltip="tooltip_close" class="close" id="tooltipClose22"> &#x02A2F; </a>
+    </div>
+</li>
+
+<li
+  data-js-tooltip="tooltip_trigger"
+   data-js-toggle="toggle_target" data-visibility= "none"
+>
+   <a  data-author-id="23" class="author-name" >
+Jian Huang <span class="email">  </span>,</a>    <div id="author-meta-23" class="author-info" data-js-tooltip="tooltip_target">
+
+  
+  <p id="authCorresponding-23"> <span class="email">* E-mail:</span> <a href="mailto:zjuhematology@163.com">zjuhematology@163.com</a> (JJ); <a href="mailto:househuang@hotmail.com">househuang@hotmail.com</a> (JH); <a href="mailto:hongyantong@aliyun.com">hongyantong@aliyun.com</a> (HYT); <a href="mailto:weijuy@hotmail.com">weijuy@hotmail.com</a> (JYW)</p>
+  <p id="authCurrentAddress-23">
+    Current address: Department of Hematology, The Fourth Affiliated Hospital, Zhejiang University, School of Medicine, Hangzhou, China
+  </p>
+  <p id="authAffiliations-23"><span class="type">Affiliations</span>
+    Department of Hematology & Institute of Hematology, The First Affiliated Hospital, Zhejiang University, Hangzhou, China, 
+    Key Laboratory of Hematopoietic Malignancies, Zhejiang Province, Hangzhou, Zhejiang, PR China
+  </p>
+
+      <a data-js-tooltip="tooltip_close" class="close" id="tooltipClose23"> &#x02A2F; </a>
+    </div>
+</li>
+
+
+<li data-js-toggle="toggle_add">&nbsp;[ ... ],</li>
+
+
+<li
+  data-js-tooltip="tooltip_trigger"
+  
+>
+   <a  data-author-id="24" class="author-name" >
+Jie Jin <span class="email">  </span></a>    <div id="author-meta-24" class="author-info" data-js-tooltip="tooltip_target">
+
+  
+  <p id="authCorresponding-24"> <span class="email">* E-mail:</span> <a href="mailto:zjuhematology@163.com">zjuhematology@163.com</a> (JJ); <a href="mailto:househuang@hotmail.com">househuang@hotmail.com</a> (JH); <a href="mailto:hongyantong@aliyun.com">hongyantong@aliyun.com</a> (HYT); <a href="mailto:weijuy@hotmail.com">weijuy@hotmail.com</a> (JYW)</p>
+  <p id="authAffiliations-24"><span class="type">Affiliations</span>
+    Department of Hematology & Institute of Hematology, The First Affiliated Hospital, Zhejiang University, Hangzhou, China, 
+    Key Laboratory of Hematopoietic Malignancies, Zhejiang Province, Hangzhou, Zhejiang, PR China
+  </p>
+
+      <a data-js-tooltip="tooltip_close" class="close" id="tooltipClose24"> &#x02A2F; </a>
+    </div>
+</li>
+  <li data-js-toggle="toggle_trigger" >
+    <a class="more-authors active" id="authors-show">[ view all ]</a>
+    </li>
+  <li data-js-toggle="toggle_trigger" data-visibility="none">
+    <a class="author-less" id="author-hide">[ view less ]</a>
+  </li>
+
+</ul>
+
+</div>
+
+
+<div id="floatTitleTop" data-js-floater="title_author" class="float-title">
+  <div class="set-grid">
+    <div class="float-title-inner">
+      <h1><?xml version="1.0" encoding="UTF-8"?>Impact of Chemotherapy Delay on Overall Survival for AML with <i>IDH1/2</i> Mutations: A Study in Adult Chinese Patients</h1>
+
+<ul id="floatAuthorList" data-js-floater="floated_authors">
+
+  <li data-float-index="1">Jing-Han Wang,&nbsp;
+
+  </li>
+  <li data-float-index="2">Qi Guo,&nbsp;
+
+  </li>
+  <li data-float-index="3">Zhi-Xin Ma,&nbsp;
+
+  </li>
+  <li data-float-index="4">Qiu-Ling Ma,&nbsp;
+
+  </li>
+  <li data-float-index="5">Meng-Xia Yu,&nbsp;
+
+  </li>
+  <li data-float-index="6">Xiu-Feng Yin,&nbsp;
+
+  </li>
+  <li data-float-index="7">Sha-Sha Lu,&nbsp;
+
+  </li>
+  <li data-float-index="8">Hong-Qiong Xie,&nbsp;
+
+  </li>
+  <li data-float-index="9">Yue-Hong Jiang,&nbsp;
+
+  </li>
+  <li data-float-index="10">Dan Shen
+
+</ul>
+
+
+
+    </div>
+    <div class="logo-close" id="titleTopCloser">
+      <img src="/plosone/resource/img/logo.plos.95.png" alt="PLOS" />
+      <div class="close-floater" title="close">x</div>
+    </div>
+  </div>
+</div>
+
+      <ul class="date-doi">
+        <li id="artPubDate">Published: October 14, 2015</li>
+        <li id="artDoi">
+<a   href="https://doi.org/10.1371/journal.pone.0140622">https://doi.org/10.1371/journal.pone.0140622</a>
+            </li>
+      </ul>
+
+    </div>
+  <div>
+
+  </div>
+</header>
+
+  <section class="article-body">
+
+
+
+<ul class="article-tabs">
+
+        <li class="tab-title active" id="tabArticle">
+          <a href="/plosone/article?id=10.1371/journal.pone.0140622" class="article-tab-1">Article</a>
+      </li>
+
+
+            <li class="tab-title " id="tabAuthors">
+          <a href="/plosone/article/authors?id=10.1371/journal.pone.0140622" class="article-tab-2">Authors</a>
+      </li>
+
+
+        <li class="tab-title " id="tabMetrics">
+          <a href="/plosone/article/metrics?id=10.1371/journal.pone.0140622" class="article-tab-3">Metrics</a>
+      </li>
+
+        <li class="tab-title " id="tabComments">
+          <a href="/plosone/article/comments?id=10.1371/journal.pone.0140622" class="article-tab-4">Comments</a>
+      </li>
+
+        <li class="tab-title " id="tabRelated">
+          <a href="/plosone/article/related?id=10.1371/journal.pone.0140622" class="article-tab-5">Related Content</a>
+      </li>
+
+</ul>
+
+    <div class="article-container">
+
+
+<div id="nav-article">
+  <ul class="nav-secondary">
+
+    <li class="nav-comments" id="nav-comments">
+      <a href="article/comments?id=10.1371/journal.pone.0140622">Reader Comments (0)</a>
+    </li>
+
+    <li class="nav-media" id="nav-media" data-doi="10.1371/journal.pone.0140622">
+      <a href="/plosone/article/related?id=10.1371/journal.pone.0140622">
+        Media Coverage <span id="media-coverage-count"></span>
+      </a>
+    </li>
+
+    <li id="nav-figures"><a href="#" data-doi="10.1371/journal.pone.0140622">Figures</a></li>
+  </ul>
+</div>
+
+<div id="figure-lightbox-container"></div>
+
+<script id="figure-lightbox-template" type="text/template">
+  <div id="figure-lightbox" class="reveal-modal full" data-reveal aria-hidden="true"
+       role="dialog">
+    <div class="lb-header">
+      <h1 id="lb-title"><%= articleTitle %></h1>
+
+      <div id="lb-authors">
+        <% authorList.split(',').forEach(function (author) { %>
+        <span><%= author.trim() %></span>
+        <% }) %>
+      </div>
+
+      <div class="lb-close" title="close">&nbsp;</div>
+    </div>
+    <div class="img-container">
+      <div class="loader"> <i class="fa-spinner"></i> </div>
+      <img class="main-lightbox-image" src=""/>
+      <aside id="figures-list">
+        <% figureList.each(function (ix, figure) { %>
+        <div class="change-img" data-doi="<%= figure.getAttribute('data-doi') %>">
+          <img class="aside-figure" src="/plosone/article/figure/image?size=inline&id=<%= figure.getAttribute('data-doi') %>" />
+        </div>
+        <% }) %>
+        <div class="dummy-figure">
+        </div>
+      </aside>
+    </div>
+    <div id="lightbox-footer">
+
+      <div id="btns-container" class="lightbox-row <% if(figureList.length <= 1) { print('one-figure-only') } %>">
+        <div class="fig-btns-container reset-zoom-wrapper left">
+          <span class="fig-btn reset-zoom-btn">Reset zoom</span>
+        </div>
+        <div class="zoom-slider-container">
+          <div class="range-slider-container">
+            <span id="lb-zoom-min"></span>
+            <div class="range-slider round" data-slider data-options="start: 20; end: 200; initial: 20;">
+              <span class="range-slider-handle" role="slider" tabindex="0"></span>
+              <span class="range-slider-active-segment"></span>
+              <input type="hidden">
+            </div>
+            <span id="lb-zoom-max"></span>
+          </div>
+        </div>
+        <% if(figureList.length > 1) { %>
+        <div class="fig-btns-container">
+          <span class="fig-btn all-fig-btn"><i class="icon icon-all"></i> All Figures</span>
+          <span class="fig-btn next-fig-btn"><i class="icon icon-next"></i> Next</span>
+          <span class="fig-btn prev-fig-btn"><i class="icon icon-prev"></i> Previous</span>
+        </div>
+        <% } %>
+      </div>
+      <div id="image-context">
+      </div>
+    </div>
+  </div>
+</script>
+
+<script id="image-context-template" type="text/template">
+  <div class="footer-text">
+    <div id="figure-description-wrapper">
+      <div id="view-more-wrapper" style="<% descriptionExpanded? print('display:none;') : '' %>">
+        <span id="figure-title"><%= title %></span>
+        <p id="figure-description">
+          <%= description %>&nbsp;&nbsp;
+        </p>
+        <span id="view-more">show more<i class="icon-arrow-right"></i></span>
+
+      </div>
+      <div id="view-less-wrapper" style="<% descriptionExpanded? print('display:inline-block;') : '' %>" >
+        <span id="figure-title"><%= title %></span>
+        <p id="full-figure-description">
+          <%= description %>&nbsp;&nbsp;
+          <span id="view-less">show less<i class="icon-arrow-left"></i></span>
+        </p>
+      </div>
+    </div>
+  </div>
+  <div id="show-context-container">
+    <a class="btn show-context" href="<%= showInContext(strippedDoi) %>">Show in Context</a>
+  </div>
+  <div id="download-buttons">
+    <h3>Download:</h3>
+    <div class="item">
+      <a href="/plosone/article/figure/image?size=original&download=&id=<%= doi %>" title="original image">
+        <span class="download-btn">TIFF</span>
+      </a>
+      <span class="file-size"><%= fileSizes.original %></span>
+    </div>
+    <div class="item">
+      <a href="/plosone/article/figure/image?size=large&download=&id=<%= doi %>" title="large image">
+        <span class="download-btn">PNG</span>
+      </a>
+      <span class="file-size"><%= fileSizes.large %></span>
+    </div>
+    <div class="item">
+      <a href="/plosone/article/figure/powerpoint?id=<%= doi %>" title="PowerPoint slide">
+        <span class="download-btn">PPT</span>
+      </a>
+    </div>
+
+  </div>
+</script>
+      <div class="article-content">
+
+
+
+
+
+
+
+
+<div id="figure-carousel-section">
+  <h2>Figures</h2>
+
+  <div id="figure-carousel">
+
+    <div class="carousel-wrapper">
+      <div class="slider">
+
+          <div class="carousel-item lightbox-figure" data-doi="10.1371/journal.pone.0140622.t001">
+
+                <img src="/plosone/article/figure/image?size=inline&amp;id=10.1371/journal.pone.0140622.t001"
+                     alt="Table 1"
+                />
+
+            </div>
+
+          <div class="carousel-item lightbox-figure" data-doi="10.1371/journal.pone.0140622.t002">
+
+                <img src="/plosone/article/figure/image?size=inline&amp;id=10.1371/journal.pone.0140622.t002"
+                     alt="Table 2"
+                />
+
+            </div>
+
+          <div class="carousel-item lightbox-figure" data-doi="10.1371/journal.pone.0140622.g001">
+
+                <img src="/plosone/article/figure/image?size=inline&amp;id=10.1371/journal.pone.0140622.g001"
+                     alt="Fig 1"
+                />
+
+            </div>
+
+          <div class="carousel-item lightbox-figure" data-doi="10.1371/journal.pone.0140622.t003">
+
+                <img src="/plosone/article/figure/image?size=inline&amp;id=10.1371/journal.pone.0140622.t003"
+                     alt="Table 3"
+                />
+
+            </div>
+
+          <div class="carousel-item lightbox-figure" data-doi="10.1371/journal.pone.0140622.g002">
+
+                <img src="/plosone/article/figure/image?size=inline&amp;id=10.1371/journal.pone.0140622.g002"
+                     alt="Fig 2"
+                />
+
+            </div>
+      </div>
+    </div>
+
+    <div class="carousel-control">
+      <span class="button previous"></span>
+      <span class="button next"></span>
+    </div>
+    <div class="carousel-page-buttons">
+
+    </div>
+  </div>
+</div>
+
+
+        <div class="article-text" id="artText">
+        
+
+
+
+<div class="abstract toc-section"><a id="abstract0" name="abstract0" data-toc="abstract0" class="link-target" title="Abstract"></a><h2>Abstract</h2><a id="article1.front1.article-meta1.abstract1.p1" name="article1.front1.article-meta1.abstract1.p1" class="link-target"></a><p>The effect of time from diagnosis to treatment (TDT) on overall survival of patients with acute myeloid leukemia (AML) remains obscure. Furthermore, whether chemotherapy delay impacts overall survival (OS) of patients with a special molecular subtype has not been investigated. Here, we enrolled 364 cases of AML to assess the effect of TDT on OS by fractional polynomial regression in the context of clinical parameters and genes of <em>FLT3</em>ITD, <em>NPM1</em>, <em>CEBPA</em>, <em>DNMT3a</em>, and <em>IDH1</em>/<em>2</em> mutations. Results of the current study show <em>IDH1/2</em> mutations are associated with older age, M0 morphology, an intermediate cytogenetic risk group, and <em>NPM1</em> mutations. TDT associates with OS for AML patients in a nonlinear pattern with a J shape. Moreover, adverse effect of delayed treatment on OS was observed in patients with <em>IDH1/2</em> mutations, but not in those with <em>IDH1/2</em> wildtype. Therefore, initiating chemotherapy as soon as possible after diagnosis might be a potential strategy to improve OS in AML patients with <em>IDH1/2</em> mutations.</p>
+</div>
+
+
+<div class="articleinfo"><p><strong>Citation: </strong>Wang J-H, Guo Q, Ma Z-X, Ma Q-L, Yu M-X, Yin X-F, et al.  (2015) Impact of Chemotherapy Delay on Overall Survival for AML with <em>IDH1/2</em> Mutations: A Study in Adult Chinese Patients. PLoS ONE 10(10):
+        e0140622.
+        https://doi.org/10.1371/journal.pone.0140622</p><p><strong>Editor: </strong>Wolfgang Wagner, RWTH Aachen University Medical School, GERMANY</p><p><strong>Received: </strong>June 12, 2015; <strong>Accepted: </strong>September 2, 2015; <strong>Published: </strong> October 14, 2015</p><p><strong>Copyright: </strong> © 2015 Wang et al. This is an open access article distributed under the terms of the <a href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution License</a>, which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited</p><p><strong>Data Availability: </strong>All relevant data are within the paper and its Supporting Information files.</p><p><strong>Funding: </strong>This work was supported by National Natural Science Foundation of China grants (81470305), National Public Health Grant Research Foundation (201202017) and the Foundation of Innovation Team for Basic and Clinical Research of Zhejiang Province (2011R50015). The funders had no role in study design, data collection and analysis, decision to publish, or preparation of the manuscript.</p><p><strong>Competing interests: </strong> The authors have declared that no competing interests exist.</p></div>
+
+
+
+
+
+<div id="section1" class="section toc-section"><a id="sec001" name="sec001" data-toc="sec001" class="link-target" title="Introduction"></a><h2>Introduction</h2><a id="article1.body1.sec1.p1" name="article1.body1.sec1.p1" class="link-target"></a><p>Acute myeloid leukemia (AML) is a heterogeneous group of hematologic malignancies characterized by the rapid growth of leukemia cells requiring immediate therapeutic intervention. Currently, the clinical of outcome of patients is poor after treatment with conventional chemotherapy. However, recent progression in AML treatment is focused, in part, on the development of targeting therapies. Therefore, there is a need to evaluate AML using cytogenetic and molecular analyses accurately and extensively immediately after diagnosis to utilize targeted therapies earlier. It is well known the morphologic diagnosis of AML can be easily detected after only a few hours, but cytogenetic and/or molecular analyses results can require one week or longer. Thus, waiting on laboratory test results delays treatment. It is worth noting that it will, more often than not, take time to transfer patients from first suspicion of leukemia to final diagnosis at an experienced hematologic center. Therefore, whether the time from diagnosis to treatment (TDT) impacts overall survival is becoming one of the most important clinical issues. To the best of our knowledge, there are three retrospective studies in western populations which demonstrate this question. In the first study, clinical outcome was worsened after a chemotherapy delay of 5 days for younger AML patients, but not older patients[<a href="#pone.0140622.ref001" class="ref-tip">1</a>]. In contrast, the second report suggests TDT has no impact on the outcome of patients with AML[<a href="#pone.0140622.ref002" class="ref-tip">2</a>]. The third study suggests delaying intensive treatment has an adverse impact on the prognosis in both younger and older AML patients in a Danish population-based cohort[<a href="#pone.0140622.ref003" class="ref-tip">3</a>]. In summary, the prognostic significance of TDT in AML patients remains controversial. It is worth noting several gene mutations such as <em>IDH1/2</em> mutations are closely correlated to older age[<a href="#pone.0140622.ref004" class="ref-tip">4</a>], and age was regarded as an interactive factor for the prognosis of TDT in a previous report[<a href="#pone.0140622.ref001" class="ref-tip">1</a>]. However, these studies did not take into account the effect of gene mutations when investigating the prognostic impact of TDT on overall survival. So we hypothesized that TDT can be modified by well-established predictors such as gene mutations, and correspondingly designed a retrospective study to address this issue. We found that delayed TDT was an adverse predictor for overall survival occurring in patients with <em>IDH1/2</em> mutations but not in those with <em>IDH1/2</em> wild type. This result introduces a new way for clinicians to improve outcomes by the tailored therapy as soon as diagnosis occurs for <em>IDH1/2</em> mutant cases.</p>
+</div>
+
+<div id="section2" class="section toc-section"><a id="sec002" name="sec002" data-toc="sec002" class="link-target" title="Materials and Methods"></a><h2>Materials and Methods</h2>
+<div id="section1" class="section toc-section"><a id="sec003" name="sec003" class="link-target" title="Patients"></a>
+<h3>Patients</h3>
+<a id="article1.body1.sec2.sec1.p1" name="article1.body1.sec2.sec1.p1" class="link-target"></a><p>Clinical data were abstracted from medical records of AML patients in Zhejiang Institute of Hematology (ZIH), which is one of the hematologic centers in China. Between March 2008 and June 2013, 364 patients with detailed diagnoses and treatment information were enrolled in this study. WHO classification, conventional cytogenetic banding assay, and molecular analyses were performed as previously described in AML diagnosis[<a href="#pone.0140622.ref005" class="ref-tip">5</a>]. Cytogenetic groups of patients were classified as favorable, intermediate, and unfavorable risk according to the NCCN guideline[<a href="#pone.0140622.ref006" class="ref-tip">6</a>]. Favorable subgroups included t(8;21)/<em>AML1-ETO</em> and inv16/<em>CBFβ-MYH11</em>; adverse consisted of t(9;22), inv(3)/t(3;3), -5, -7, del(5q), del(7p), 11q23 and complex translocations; intermediate subtype contained cytogenetically normal and AML with other cytogenetic abnormalities. Patients were treated with standard anthracycline and cytarabine or HAA (homoharringtonine combined with cytarabine and aclarubicin) protocol for induction chemotherapy as previous reported[<a href="#pone.0140622.ref007" class="ref-tip">7</a>, <a href="#pone.0140622.ref008" class="ref-tip">8</a>]. In the consolidation therapy, younger patients were treated with a high-dose cytarabine-based chemotherapy[<a href="#pone.0140622.ref007" class="ref-tip">7</a>]. The chemotherapy consolidation for elderly patients was decided by the physicians in an individualized manner, as described previously[<a href="#pone.0140622.ref007" class="ref-tip">7</a>]. No patient in our study received allogeneic transplantation. Patients with secondary AML or acute promyelocytic leukemia were excluded. We also excluded patients who did not receive chemotherapy beyond 45 days after disease diagnosis. All of the subjects were well-informed about the study and provided written informed consent to participate in the study. The study was approved by the Institutional Review boards of the First Affiliated Hospital of Zhejiang University.</p>
+</div>
+
+<div id="section2" class="section toc-section"><a id="sec004" name="sec004" class="link-target" title="Cytogenetic and Gene mutation analysis"></a>
+<h3>Cytogenetic and Gene mutation analysis</h3>
+<a id="article1.body1.sec2.sec2.p1" name="article1.body1.sec2.sec2.p1" class="link-target"></a><p>The BM samples of de novo AML patients were studied mostly by R-banding analysis. Chromosomal abnormalities were described according to the International System for Human Cytogenetic Nomenclature [<a href="#pone.0140622.ref009" class="ref-tip">9</a>]. DNA and RNA samples of AML patients were obtained from mononuclear cells isolated by Ficoll gradient centrifugation from bone marrow samples at primary diagnosis. Gene mutations of <em>NPM1</em>, <em>FLT3</em>ITD, <em>CEBPA</em>, and <em>DNMT3a</em> were analyzed by whole-gene sequencing as previously described [<a href="#pone.0140622.ref010" class="ref-tip">10</a>]. RNA samples were used to determine <em>PMLRARA</em>, <em>AML1ETO</em>, and <em>CBFβMYH11</em> fusion genes by reverse transcription polymerase chain reaction (RT-PCR). <em>IDH1</em> and <em>IDH2</em> mutations were determined by cDNA amplifications. The PCR primers used were forward, <span class="monospace">5'-TCCCTACGTGGAATTGGATCTAC-3'</span> and reverse, <span class="monospace">5'-TCACCTTTTGGGTTCCGTCA-3'</span> for <em>IDH1</em> and forward, <span class="monospace">5'-TGGCCACCCAGAAGTACAGTG-3'</span> and reverse, <span class="monospace">5'-TGGCATACTGGAAGCAGCTG-3'</span> for <em>IDH2</em>. PCR reactions were performed in a total volume of 25μl containing of 1μl of 100 ng/μl sample cDNA, 12.5μl of 2×PCR Mix, 1μl of 0.5μM of each primer, and 10.5μl of ddH2O. All PCR products were directly sequenced with both forward and reverse primers to ensure quality. All sequence data were read using Chromas version 2.22 software.</p>
+</div>
+
+<div id="section3" class="section toc-section"><a id="sec005" name="sec005" class="link-target" title="Definition of clinical end points and statistical analysis"></a>
+<h3>Definition of clinical end points and statistical analysis</h3>
+<a id="article1.body1.sec2.sec3.p1" name="article1.body1.sec2.sec3.p1" class="link-target"></a><p>Patient characteristics were summarized using descriptive statistics, which included frequency counts, median, and inter-quartile. TDT was defined as the number of days between the first bone marrow aspirate and chemotherapy initiation. The relationship between TDT and patient characteristics was evaluated by the nonparametric test. The primary end point of the study was overall survival (OS). OS was measured as time from disease diagnosis to death from any cause, or censoring for patients alive at their last known date of contact.</p>
+<a id="article1.body1.sec2.sec3.p2" name="article1.body1.sec2.sec3.p2" class="link-target"></a><p>Initially, the effect of TDT on OS was evaluated as a categorical variable using the log-rank test in the Kaplan-Meier (KM) survival model. Survival curves suggested the relationship between TDT and OS was nonlinear. To avoid loss of information and a reduction in power introduced by the categorical variable of TDT, we further investigated the nonlinear relationship between TDT and OS using fractional polynomial (FP) algorithm, of which kept TDT as a continuous variable in Cox regression model. FP models have been proposed for investigating main effects of predictors for possible non-linearity[<a href="#pone.0140622.ref011" class="ref-tip">11</a>]. The proportional-hazards assumption was checked for each variable before fitting Cox models. For the binary or categorical predictors, the effects on OS were evaluated by log-rank test in Kaplan–Meier (KM) survival analysis. Variables with a p-value less than 0.2 were selected as adjustment covariates into the multivariable analyses. To evaluate the interaction between TDT and covariates, multivariate fractional polynomial (MFP) interaction analysis including MFPIgen and MFPI were conducted. MFPI firstly used MFP to conduct multivariate analysis and then tested for significant interaction terms using a deviance difference test[<a href="#pone.0140622.ref004" class="ref-tip">4</a>, <a href="#pone.0140622.ref012" class="ref-tip">12</a>]. MFPIgen was an extension to MFPI for modeling continuous-by-continuous interactions in a multivariable context[<a href="#pone.0140622.ref012" class="ref-tip">12</a>]. The interaction was also validated by log-rank test in KM survival analysis. Finally, we performed the sensitivity analysis of interactions to adjustment models with different covariates. All statistical analyses were conducted with STATA Statistical Software (Version 11; College Station, TX) and R statistic packages, version 2.15.0 (<a href="http://www.r-project.org">www.r-project.org</a>). The two-sided level of significance was set at p-value less than 0.05.</p>
+</div>
+</div>
+
+<div id="section3" class="section toc-section"><a id="sec006" name="sec006" data-toc="sec006" class="link-target" title="Results"></a><h2>Results</h2>
+<div id="section1" class="section toc-section"><a id="sec007" name="sec007" class="link-target" title="Characteristics of patients with IDH1/2 mutations"></a>
+<h3>Characteristics of patients with <em>IDH1/2</em> mutations</h3>
+<a id="article1.body1.sec3.sec1.p1" name="article1.body1.sec3.sec1.p1" class="link-target"></a><p>Of 364 patients, 85 (23%) had <em>IDH1/2</em> mutations. <em>IDH1</em> mutations were detected in 39 (11%) patients and <em>IDH2</em> mutations were detected in 48 (13%) patients. Only 2 patients had both <em>IDH1</em> and <em>IDH2</em> mutations. As <em>IDH1</em> and <em>IDH2</em> mutations were mutually exclusive and appeared to have same biologic functions, we examined the clinical features of <em>IDH1</em> and <em>IDH2</em> mutations as a collective group. Clinical characteristics of patients with <em>IDH1/2</em> mutations are described in <a href="#pone-0140622-t001">Table 1</a>. <em>IDH1/2</em> mutations were associated with older age (median, 57 years vs. 47 years, P&lt;0.001), more frequent in M0 morphology (P&lt;0.001), cytogenetic intermediate risk group (P = 0.04), and higher in the frequency of <em>NPM1</em> mutations (P = 0.02). We also found patients with <em>IDH1/2</em> mutations tended to show higher frequency of <em>DNMT3a</em> mutations (18% vs. 10%, P = 0.07). However, <em>IDH1/2</em> mutations were mutually exclusive with double allele <em>CEBPA</em> mutations (2% vs. 9%, P = 0.04). There was no statistically significant correlation between <em>IDH1/2</em> mutations and other variables including percent blast, white blood cell counts, sex, and <em>FLT3</em>ITD (<a href="#pone-0140622-t001">Table 1</a>).</p>
+<a class="link-target" id="pone-0140622-t001" name="pone-0140622-t001"></a><div class="figure" data-doi="10.1371/journal.pone.0140622.t001"><div class="img-box"><a title="Click for larger image" href="article/figure/image?size=medium&amp;id=info:doi/10.1371/journal.pone.0140622.t001" data-doi="info:doi/10.1371/journal.pone.0140622" data-uri="info:doi/10.1371/journal.pone.0140622.t001"><img src="article/figure/image?size=inline&amp;id=info:doi/10.1371/journal.pone.0140622.t001" alt="thumbnail" class="thumbnail"></a><div class="expand"></div></div><div class="figure-inline-download">
+          Download:
+          <ul><li><div class="definition-label"><a href="article/figure/powerpoint?id=info:doi/10.1371/journal.pone.0140622.t001">
+                  PPT
+                </a></div><a href="article/figure/powerpoint?id=info:doi/10.1371/journal.pone.0140622.t001">
+                PowerPoint slide
+              </a></li><li><div class="definition-label"><a href="article/figure/image?download&amp;size=large&amp;id=info:doi/10.1371/journal.pone.0140622.t001">
+                  PNG
+                </a></div><a href="article/figure/image?download&amp;size=large&amp;id=info:doi/10.1371/journal.pone.0140622.t001">
+                larger image
+              </a></li><li><div class="definition-label"><a href="article/figure/image?download&amp;size=original&amp;id=info:doi/10.1371/journal.pone.0140622.t001">
+                  TIFF
+                </a></div><a href="article/figure/image?download&amp;size=original&amp;id=info:doi/10.1371/journal.pone.0140622.t001">
+                original image
+              </a></li></ul></div><div class="figcaption"><span>Table 1. </span> Comparisons of clinical and molecular features in AML patients with and without <em>IDH1/2</em> mutations.</div><p class="caption_target"></p><p class="caption_object"><a href="https://doi.org/10.1371/journal.pone.0140622.t001">
+              https://doi.org/10.1371/journal.pone.0140622.t001</a></p></div></div>
+
+<div id="section2" class="section toc-section"><a id="sec008" name="sec008" class="link-target" title="Association of TDT with clinical characteristics"></a>
+<h3>Association of TDT with clinical characteristics</h3>
+<a id="article1.body1.sec3.sec2.p1" name="article1.body1.sec3.sec2.p1" class="link-target"></a><p>In our cohort of AML patients, we found that patients had a median TDT of 5 days, inter-quartile of 3 to 9 days, and the range of 1 to 45 days, respectively. Interestingly, we found the variables significantly associated with longer TDT were older age (P = 0.001), FAB M0 classification (P = 0.009), <em>IDH1/2</em> mutation (P = 0.002), below median of blast (P = 0.001), and lower levels of white blood cell counts (P = 0.001) (<a href="#pone-0140622-t002">Table 2</a>). There was no significant correlation of TDT and variables including sex, cytogenetic risk group, and genes of <em>FLT3</em>ITD, <em>NPM1</em>, <em>CEBPA</em>, and <em>DNMT3a</em> mutations.</p>
+<a class="link-target" id="pone-0140622-t002" name="pone-0140622-t002"></a><div class="figure" data-doi="10.1371/journal.pone.0140622.t002"><div class="img-box"><a title="Click for larger image" href="article/figure/image?size=medium&amp;id=info:doi/10.1371/journal.pone.0140622.t002" data-doi="info:doi/10.1371/journal.pone.0140622" data-uri="info:doi/10.1371/journal.pone.0140622.t002"><img src="article/figure/image?size=inline&amp;id=info:doi/10.1371/journal.pone.0140622.t002" alt="thumbnail" class="thumbnail"></a><div class="expand"></div></div><div class="figure-inline-download">
+          Download:
+          <ul><li><div class="definition-label"><a href="article/figure/powerpoint?id=info:doi/10.1371/journal.pone.0140622.t002">
+                  PPT
+                </a></div><a href="article/figure/powerpoint?id=info:doi/10.1371/journal.pone.0140622.t002">
+                PowerPoint slide
+              </a></li><li><div class="definition-label"><a href="article/figure/image?download&amp;size=large&amp;id=info:doi/10.1371/journal.pone.0140622.t002">
+                  PNG
+                </a></div><a href="article/figure/image?download&amp;size=large&amp;id=info:doi/10.1371/journal.pone.0140622.t002">
+                larger image
+              </a></li><li><div class="definition-label"><a href="article/figure/image?download&amp;size=original&amp;id=info:doi/10.1371/journal.pone.0140622.t002">
+                  TIFF
+                </a></div><a href="article/figure/image?download&amp;size=original&amp;id=info:doi/10.1371/journal.pone.0140622.t002">
+                original image
+              </a></li></ul></div><div class="figcaption"><span>Table 2. </span> Comparisons of TDT according to patients’ characteristics.</div><p class="caption_target"></p><p class="caption_object"><a href="https://doi.org/10.1371/journal.pone.0140622.t002">
+              https://doi.org/10.1371/journal.pone.0140622.t002</a></p></div></div>
+
+<div id="section3" class="section toc-section"><a id="sec009" name="sec009" class="link-target" title="TDT associated with overall survival in AML patients"></a>
+<h3>TDT associated with overall survival in AML patients</h3>
+<a id="article1.body1.sec3.sec3.p1" name="article1.body1.sec3.sec3.p1" class="link-target"></a><p>In order to better understand the relationship between TDT and OS, we define the TDT categories according to the workflow of our clinical laboratory test. Generally, the results of morphologic, immunologic, cytogenetic, and/or molecular (MICM) diagnosis are required and available to AML-diagnosis in 5 or 6 days. In fact, MICM diagnosis of AML will be made for all patients within 12 days in our clinical center. Therefore, we divided patients into two groups: the first group consisted of 303 (83%) patients with TDT less than 13 days, and the second group included 61 (17%) patients with TDT beyond 13 days. We further classified patients into six subgroups based on the adjacent TDT interval: days 1–2 group (78 cases), days 3–4 group (72 cases), days 5–6 group (71 cases), days 7–8 group (49 cases), days 9–10 group (21 cases), and days 11–12 group (12 cases), respectively. We then conducted survival analysis using group 13–45 days as a reference, because the majority of this group characterized poor performance status and severe infection and was unfit for chemotherapy after disease diagnosis. As a result, days 3–4 group (P = 0.02), and days 5–6 group (P = 0.048) had favorable OS, whereas, the survival of the other subgroups (days 1–2 group, days 7–8 group, days 9–10 group, days 11–12 group) was similar to the reference group (<a href="#pone.0140622.s004">S1 Table</a> and <a href="#pone.0140622.s001">S1 Fig</a>). Therefore, we refine patients into three groups according to the similar p-values: days 1–2 group, days 3–6 group, and days 7–45 group, respectively. The non-linear relationship between TDT and OS is more apparent: days 1–2 group (P = 0.03, HR = 1.52) and days 7–45 group (P = 0.01, HR = 1.55) had an adverse overall survival respectively compared to days 3–6 group (<a href="#pone-0140622-g001">Fig 1A</a>).</p>
+<a class="link-target" id="pone-0140622-g001" name="pone-0140622-g001"></a><div class="figure" data-doi="10.1371/journal.pone.0140622.g001"><div class="img-box"><a title="Click for larger image" href="article/figure/image?size=medium&amp;id=info:doi/10.1371/journal.pone.0140622.g001" data-doi="info:doi/10.1371/journal.pone.0140622" data-uri="info:doi/10.1371/journal.pone.0140622.g001"><img src="article/figure/image?size=inline&amp;id=info:doi/10.1371/journal.pone.0140622.g001" alt="thumbnail" class="thumbnail"></a><div class="expand"></div></div><div class="figure-inline-download">
+          Download:
+          <ul><li><div class="definition-label"><a href="article/figure/powerpoint?id=info:doi/10.1371/journal.pone.0140622.g001">
+                  PPT
+                </a></div><a href="article/figure/powerpoint?id=info:doi/10.1371/journal.pone.0140622.g001">
+                PowerPoint slide
+              </a></li><li><div class="definition-label"><a href="article/figure/image?download&amp;size=large&amp;id=info:doi/10.1371/journal.pone.0140622.g001">
+                  PNG
+                </a></div><a href="article/figure/image?download&amp;size=large&amp;id=info:doi/10.1371/journal.pone.0140622.g001">
+                larger image
+              </a></li><li><div class="definition-label"><a href="article/figure/image?download&amp;size=original&amp;id=info:doi/10.1371/journal.pone.0140622.g001">
+                  TIFF
+                </a></div><a href="article/figure/image?download&amp;size=original&amp;id=info:doi/10.1371/journal.pone.0140622.g001">
+                original image
+              </a></li></ul></div><div class="figcaption"><span>Fig 1. </span> The plots illustrating the nonlinear relationship between TDT and overall survival.</div><p class="caption_target"><a id="article1.body1.sec3.sec3.fig1.caption1.p1" name="article1.body1.sec3.sec3.fig1.caption1.p1" class="link-target"></a><p>Kaplan–Meier survival curves illustrating the effect of TDT as a categorical variable on overall survival (A). The plot of the estimated log hazard in mortality using fractional polynomial algorithm together with its 95% confidence (B).</p>
+</p><p class="caption_object"><a href="https://doi.org/10.1371/journal.pone.0140622.g001">
+              https://doi.org/10.1371/journal.pone.0140622.g001</a></p></div><a id="article1.body1.sec3.sec3.p2" name="article1.body1.sec3.sec3.p2" class="link-target"></a><p>To demonstrate the detailed nonlinear pattern between OS and TDT, we further conducted the FP regression in the Cox model. The best FP fitting function for TDT included the terms TDTI<sup>-2</sup> and TDTI<sup>0.5</sup>, where TDTI = TDT/10, which was significantly associated with overall survival (P = 0.001). As shown in <a href="#pone-0140622-g001">Fig 1B</a>, the estimated survival curves of TDT for OS were a J shape, with a nadir from approximately day 2 to day 7, and the fall of TDT from 0 to 3 days and then increase again with the increase of the TDT from 8 days or more. We also found age, white blood cell count, cytogenetic subtypes, genes mutations of <em>FLT3</em>ITD, <em>CEBPA</em>, <em>DNMT3a</em>, and <em>IDH1/2</em> were significantly associated with OS (<a href="#pone.0140622.s004">S1 Table</a>). In addition, we found that FP terms of TDT (TDTI<sup>-2</sup> and TDTI<sup>0.5</sup>, where TDTI = TDT/10) were the independent predictive factors after adjusting for WBC (continuous), age (continuous), cytogenetic subtypes, genes of <em>FLT3</em>ITD, <em>NPM1</em>, <em>CEBPA</em> double allele, <em>DNMT3a</em>, and <em>IDH1/2</em> mutations (<a href="#pone.0140622.s005">S2 Table</a>).</p>
+</div>
+
+<div id="section4" class="section toc-section"><a id="sec010" name="sec010" class="link-target" title="Chemotherapy delay confers poor overall survival in AML patients with IDH1/2 mutations"></a>
+<h3>Chemotherapy delay confers poor overall survival in AML patients with <em>IDH1/2</em> mutations</h3>
+<a id="article1.body1.sec3.sec4.p1" name="article1.body1.sec3.sec4.p1" class="link-target"></a><p>In order to further explore whether the relationship between OS and TDT was modified by the clinical and molecular factors, we considered the interactive effects between TDT and covariates using MFPIgen models. As shown in <a href="#pone-0140622-g002">Fig 2A</a>, we found there was an interaction between TDT and <em>IDH1/2</em> mutations in survival analysis (p-value of interaction = 0.003 in MFPIgen algorithm). As shown in <a href="#pone-0140622-g002">Fig 2B</a>, based on the difference of log hazard ratio in MFPI algorithm, those with a TDT of 7 days or more do not seem to benefit in survival rates from <em>IDH1/2</em> mutations (P = 0.003). The survival curves of <a href="#pone-0140622-g002">Fig 2C</a> further illustrates there are no significance difference in the three groups among patients with <em>IDH1/2</em> wildtype (days 1–2 group vs. days 3–6 group: P = 0.051; days 7–45 vs. days 3–6 group: P = 0.408). However, for patients with <em>IDH1/2</em> mutations (<a href="#pone-0140622-g002">Fig 2D</a>), days 7–45 group had a significant adverse OS compared to days 3–6 group (P = 0.008, HR = 2.57), and no significant survival difference was observed between days 1–2 group and days 3–6 group (P = 0.318, HR = 1.57). In patients with <em>IDH1/2</em> mutations, FAB subgroups between patients with and without delayed treatment beyond 7 days are randomly distributed (<a href="#pone.0140622.s006">S3 Table</a>). Furthermore, the adverse effect of chemotherapy delay beyond 7 days remains significant in the multivariate analysis after adjusting the most well-established predictors such as age, WBC, cytogenetic risk groups, and genes of <em>FLT3</em>ITD, <em>NPM1</em>, <em>CEBPA</em>, and <em>DNMT3a</em> mutations (<a href="#pone-0140622-t003">Table 3</a>). In addition, these interactions were also observed by sensitivity analyses using different adjusted confounding factors such as clinical variables including age (continuous), WBC (continuous), and/or molecular variables like cytogenetic risk group and genes of <em>FLT3</em>ITD, <em>NPM1</em>, <em>CEBPA</em>, <em>DNMT3a</em>, and <em>IDH1/2</em> mutations in different adjusted models, respectively (<a href="#pone.0140622.s002">S2 Fig</a>). It is worth noting that TDT also remains significant in the context of clinical and molecular factors (<a href="#pone.0140622.s007">S4 Table</a>). However, we did not found other interaction between TDT and the other potential predictors including age, WBC, percent blast, cytogenetic subtypes, and genes of <em>FLT3</em>ITD, <em>CEBPA</em>, <em>NPM1</em> and <em>DNMT3a</em> mutations (<a href="#pone.0140622.s003">S3 Fig</a>).</p>
+<a class="link-target" id="pone-0140622-t003" name="pone-0140622-t003"></a><div class="figure" data-doi="10.1371/journal.pone.0140622.t003"><div class="img-box"><a title="Click for larger image" href="article/figure/image?size=medium&amp;id=info:doi/10.1371/journal.pone.0140622.t003" data-doi="info:doi/10.1371/journal.pone.0140622" data-uri="info:doi/10.1371/journal.pone.0140622.t003"><img src="article/figure/image?size=inline&amp;id=info:doi/10.1371/journal.pone.0140622.t003" alt="thumbnail" class="thumbnail"></a><div class="expand"></div></div><div class="figure-inline-download">
+          Download:
+          <ul><li><div class="definition-label"><a href="article/figure/powerpoint?id=info:doi/10.1371/journal.pone.0140622.t003">
+                  PPT
+                </a></div><a href="article/figure/powerpoint?id=info:doi/10.1371/journal.pone.0140622.t003">
+                PowerPoint slide
+              </a></li><li><div class="definition-label"><a href="article/figure/image?download&amp;size=large&amp;id=info:doi/10.1371/journal.pone.0140622.t003">
+                  PNG
+                </a></div><a href="article/figure/image?download&amp;size=large&amp;id=info:doi/10.1371/journal.pone.0140622.t003">
+                larger image
+              </a></li><li><div class="definition-label"><a href="article/figure/image?download&amp;size=original&amp;id=info:doi/10.1371/journal.pone.0140622.t003">
+                  TIFF
+                </a></div><a href="article/figure/image?download&amp;size=original&amp;id=info:doi/10.1371/journal.pone.0140622.t003">
+                original image
+              </a></li></ul></div><div class="figcaption"><span>Table 3. </span> Impact of chemotherapy delay beyond 7 days by <em>IDH1/2</em> mutations status in Cox multivariate regression analysis.</div><p class="caption_target"></p><p class="caption_object"><a href="https://doi.org/10.1371/journal.pone.0140622.t003">
+              https://doi.org/10.1371/journal.pone.0140622.t003</a></p></div><a class="link-target" id="pone-0140622-g002" name="pone-0140622-g002"></a><div class="figure" data-doi="10.1371/journal.pone.0140622.g002"><div class="img-box"><a title="Click for larger image" href="article/figure/image?size=medium&amp;id=info:doi/10.1371/journal.pone.0140622.g002" data-doi="info:doi/10.1371/journal.pone.0140622" data-uri="info:doi/10.1371/journal.pone.0140622.g002"><img src="article/figure/image?size=inline&amp;id=info:doi/10.1371/journal.pone.0140622.g002" alt="thumbnail" class="thumbnail"></a><div class="expand"></div></div><div class="figure-inline-download">
+          Download:
+          <ul><li><div class="definition-label"><a href="article/figure/powerpoint?id=info:doi/10.1371/journal.pone.0140622.g002">
+                  PPT
+                </a></div><a href="article/figure/powerpoint?id=info:doi/10.1371/journal.pone.0140622.g002">
+                PowerPoint slide
+              </a></li><li><div class="definition-label"><a href="article/figure/image?download&amp;size=large&amp;id=info:doi/10.1371/journal.pone.0140622.g002">
+                  PNG
+                </a></div><a href="article/figure/image?download&amp;size=large&amp;id=info:doi/10.1371/journal.pone.0140622.g002">
+                larger image
+              </a></li><li><div class="definition-label"><a href="article/figure/image?download&amp;size=original&amp;id=info:doi/10.1371/journal.pone.0140622.g002">
+                  TIFF
+                </a></div><a href="article/figure/image?download&amp;size=original&amp;id=info:doi/10.1371/journal.pone.0140622.g002">
+                original image
+              </a></li></ul></div><div class="figcaption"><span>Fig 2. </span> The plots illustrating the interaction between <em>IDH1/2</em> mutations status and TDT.</div><p class="caption_target"><a id="article1.body1.sec3.sec4.fig1.caption1.p1" name="article1.body1.sec3.sec4.fig1.caption1.p1" class="link-target"></a><p>Log hazard in mortality for AML patients by <em>IDH1/2</em> mutation status (A), and estimated difference of log hazard in mortality between <em>IDH1/2</em> mutations and wildtype together with its 95% confidence band (B). Figure C shows that for patients with <em>IDH1/2</em> wildtype the survival rates decrease in a similar fashion, whereas Figure D shows <em>IDH1/2</em> mutant patients with a TDT of 7 days or more have a lower survival rate. MFPIgen function (A) and MFPI function (B) were respectively estimated the interaction effects. Kaplan–Meier survival curves (C and D) illustrating the interaction between TDT and <em>IDH1/2</em> mutations.</p>
+</p><p class="caption_object"><a href="https://doi.org/10.1371/journal.pone.0140622.g002">
+              https://doi.org/10.1371/journal.pone.0140622.g002</a></p></div></div>
+</div>
+
+<div id="section4" class="section toc-section"><a id="sec011" name="sec011" data-toc="sec011" class="link-target" title="Discussion"></a><h2>Discussion</h2><a id="article1.body1.sec4.p1" name="article1.body1.sec4.p1" class="link-target"></a><p>In this study, we found the frequency of <em>IDH1/2</em> mutations of AML patients was 23%, which is similar to most previous reports[<a href="#pone.0140622.ref013" class="ref-tip">13</a>, <a href="#pone.0140622.ref014" class="ref-tip">14</a>]. In the relationship with clinical characteristics, <em>IDH1/2</em> mutations were associated with older age, intermediate risk of cytogenetic groups, and <em>NPM1</em> mutations, whereas <em>IDH1/2</em> mutations were mutually exclusive with <em>CEBPA</em> mutations. These results are also consistent with previous reports[<a href="#pone.0140622.ref015" class="ref-tip">15</a>]. Because <em>IDH1</em> and <em>IDH2</em> mutations were mutually exclusive and appear to have identical functions[<a href="#pone.0140622.ref016" class="ref-tip">16</a>], we examined the clinical impact of <em>IDH1</em>and <em>IDH2</em> mutations as a whole group. Interestingly, patients with <em>IDH1/2</em> mutations had longer TDT. The reason could be that <em>IDH1/2</em> mutations occur more common in FAB M0, which is required to distinguish from acute lymphoblast leukemia in morphologic diagnosis. As a result, it will take time to transfer patients with suspicion of M0 to the experienced hematologic center and wait for explicit molecular diagnosis before chemotherapy. Additionally, <em>IDH1/2</em> mutations occurred more common in elderly patients. Most of the elderly patients were chosen to be transferred to the experienced hematologic center in fear of complication after chemotherapy. Thus, these factors contribute to treatment delay.</p>
+<a id="article1.body1.sec4.p2" name="article1.body1.sec4.p2" class="link-target"></a><p>Notably, whether treatment delay impacts overall survival in AML patients is still under investigated. A report from a Danish population indicated treatment can probably be delayed for up to 10 days without affecting the prognosis in de novo AML[<a href="#pone.0140622.ref003" class="ref-tip">3</a>]. However, another report from a US study of 1,317 AML patients suggested delaying treatment beyond 5 days resulted in inferior survival in younger patients[<a href="#pone.0140622.ref001" class="ref-tip">1</a>]. According to the above reports, the prognosis of TDT might be affected by the different cut-off values. To our knowledge, there is no consensus for TDT categories in survival analysis. Even though unexpected delay in the laboratory test may occur, MICM diagnosis of AML will be available for all patients within 12 days in our clinical center. If patients obtained chemotherapy after 13 days, the reason cannot be simply explained by waiting for laboratory results. The major reason patients are unfit for chemotherapy after disease diagnosis may be either severe infection or poor performance status in our routine AML management. Unfortunately, we cannot obtain all detailed information of chemotherapy delay after 13 days due to the retrospective study design. However, we can infer patients who obtained chemotherapy delay beyond 13 days must have poor survival. Therefore, we divide patients into seven groups according to the adjacent TDT intervals and took patients with chemotherapy delay 13 days or more as a reference group when we conduct KM survival analysis. The results show patients with chemotherapy delay 3 to 6 days have favorable outcomes and other patients have similar poor survival rates (<a href="#pone.0140622.s001">S1 Fig</a>).We further refine these patients into 3 groups according to the similar p-values. The nonlinear relationship between TDT and OS is more apparent in patients classified into the 3 subgroups (<a href="#pone-0140622-g001">Fig 1A</a>). Secondly, we further validated this result by survival analysis using fractional polynomial model whereas TDT was considered as a continuous variable with the power (-2, 0.5) transformation (<a href="#pone-0140622-g001">Fig 1B</a>). Finally, we analyzed whether the relationship between OS and TDT was confounded by others factors. In multivariate analysis, we found treatment delay was an independent predictor for overall survival in AML patients (<a href="#pone.0140622.s005">S2 Table</a>). This result is similar to the Danish study that TDT was a strong predictor for AML patients[<a href="#pone.0140622.ref003" class="ref-tip">3</a>]. In contrast, a French single-center study indicated that there was no association between TDT and survival[<a href="#pone.0140622.ref002" class="ref-tip">2</a>]. These discordant results may be due to differences in the patient populations or difference in statistical methodologies for adjusting the confounders.</p>
+<a id="article1.body1.sec4.p3" name="article1.body1.sec4.p3" class="link-target"></a><p>In order to better understand the effect of TDT on OS in patients with the special molecular subtype, we respectively explored the interactive effect between TDT and covariates. Notably, we found there was a statistically significant interaction between TDT and <em>IDH1/2</em> mutation status (<a href="#pone-0140622-g002">Fig 2A and 2B</a>, P = 0.003). In <a href="#pone-0140622-g002">Fig 2C and 2D</a> among patients with <em>IDH1/2</em> wildtype, the survival rates decrease in a similar fashion, whereas patients with <em>IDH1/2</em> mutations appear to have a poor survival rate in those with a TDT of 7 days or more. This independent adverse effect of a chemotherapy delay of 7 days in patients with <em>IDH1/2</em> mutations was also confirmed by the multivariate analysis (<a href="#pone-0140622-t003">Table 3</a>). This result indicated TDT was a factor predicting for poor OS in patients with <em>IDH1/2</em> mutations but not in those with <em>IDH1/2</em> wild type. To reduce the chance of over-fitting and of incorrectly identifying interactions, we performed the sensitivity analyses by selecting different confounding factors into different adjusted models. Interestingly, when we performed the multivariate analysis in the context of clinical and molecular factors but not the interaction terms, a significantly statistical association between TDT and OS was observed (<a href="#pone.0140622.s005">S2 Table</a>). Furthermore, when we added the interaction terms into the above models, we found the interaction terms and TDT still remained in the different complex models adjusting clinical, molecular, and clinical and molecular factors, respectively (<a href="#pone.0140622.s002">S2 Fig</a> and <a href="#pone.0140622.s007">S4 Table</a>). These results indicated that TDT is not a poor predictor, and the interaction between TDT and <em>IDH1/2</em> mutations should not be artificial. In addition, we did not find a significant interaction between TDT and other covariates including age, WBC, percent blast, cytogenetic risk group, genes of <em>FLT3</em>ITD, <em>NPM1</em>, double allele <em>CEBPA</em>, and <em>DNMT3a</em> mutations (<a href="#pone.0140622.s003">S3 Fig</a>). However, Bertoli reported that there was an interaction between TDT and age as well as WBC[<a href="#pone.0140622.ref002" class="ref-tip">2</a>].The discrepancy may be partly explained by the different included and excluded criteria and population in the different study. We also found that several well-established factors including age, WBC, cytogenetic subtypes and gene mutations of <em>CEBPA</em>, <em>DNMT3a</em>, <em>FLT3</em>ITD, and <em>IDH1/2</em> are associated with OS in a univariate analysis (<a href="#pone.0140622.s004">S1 Table</a>). In multivariate analysis, several well-established prognostic factors such as age, WBC, cytogenetic subtypes and gene mutations of <em>CEBPA</em> as well as <em>DNMT3a</em> were still significantly associated with OS (<a href="#pone-0140622-t003">Table 3</a>). However, <em>FLT3</em>ITD and <em>NPM1</em> mutations were not associated with OS in the multivariate models. The possible reason may be that the lower prevalence of these genes mutations in Chinese AML patients[<a href="#pone.0140622.ref005" class="ref-tip">5</a>]. These results are similar to previous reports in Chinese AML patients using a large sample size[<a href="#pone.0140622.ref005" class="ref-tip">5</a>, <a href="#pone.0140622.ref007" class="ref-tip">7</a>].</p>
+<a id="article1.body1.sec4.p4" name="article1.body1.sec4.p4" class="link-target"></a><p>However, caution needs to be practiced in interpreting our results. Firstly, our results were based on the data from the single center and were not validated by another cohort of patients. Secondly, because the study was a retrospective design, the absence of explicit data was limiting in determining the exact reason why some patients received chemotherapy delay. Finally, the sample size of our patients was not large enough to evaluate the prognosis of TDT in each subgroup of patients with each special gene mutations, so additional results are required for further validation using a larger population.</p>
+<a id="article1.body1.sec4.p5" name="article1.body1.sec4.p5" class="link-target"></a><p>Taken together, chemotherapy delay would cause an adverse effect in AML patients. We demonstrate for the first time chemotherapy delay in AML patients with <em>IDH1/2</em> mutations beyond 7 days may have an adverse effect on overall survival. However, our results are based on a retrospective cohort in a single center and required further validation by studying an independent cohort in the future.</p>
+</div>
+
+<div id="section5" class="section toc-section"><a id="sec012" name="sec012" data-toc="sec012" class="link-target" title="Supporting Information"></a><h2>Supporting Information</h2><div class="figshare_widget" doi="10.1371/journal.pone.0140622"></div><div class="supplementary-material"><a name="pone.0140622.s001" id="pone.0140622.s001" class="link-target"></a><h3 class="siTitle title-small"><a href="article/file?type=supplementary&amp;id=info:doi/10.1371/journal.pone.0140622.s001">S1 Fig. </a>Kaplan-Meier curves for patients with TDT as a multiple categorical variable.</h3><p class="siDoi"><a href="https://doi.org/10.1371/journal.pone.0140622.s001">https://doi.org/10.1371/journal.pone.0140622.s001</a></p><a id="article1.body1.sec5.supplementary-material1.caption1.p1" name="article1.body1.sec5.supplementary-material1.caption1.p1" class="link-target"></a><p class="postSiDOI">(PDF)</p>
+</div><div class="supplementary-material"><a name="pone.0140622.s002" id="pone.0140622.s002" class="link-target"></a><h3 class="siTitle title-small"><a href="article/file?type=supplementary&amp;id=info:doi/10.1371/journal.pone.0140622.s002">S2 Fig. </a>The plots illustrating the interaction between <em>IDH1/2</em> mutations status and TDT after adjusting clinical and/or molecular features.</h3><a id="article1.body1.sec5.supplementary-material2.caption1.p1" name="article1.body1.sec5.supplementary-material2.caption1.p1" class="link-target"></a><p class="preSiDOI">Log hazard in mortality for AML patients by <em>IDH1/2</em> mutation status after adjusting clinical variables such as age (continuous), WBC (continuous) (A). Log hazard in mortality for AML patients by <em>IDH1/2</em> mutation status after adjusting molecular variables like cytogenetic subtypes and genes mutations of <em>FLT3</em>ITD, <em>CEBPA</em>, <em>DNMT3a</em>, <em>NPM1</em> and <em>IDH1/2</em> in MFPIgen models(B). Log hazard in mortality for AML patients by <em>IDH1/2</em> mutation status after adjusting clinical and molecular variables(C).</p>
+<p class="siDoi"><a href="https://doi.org/10.1371/journal.pone.0140622.s002">https://doi.org/10.1371/journal.pone.0140622.s002</a></p><a id="article1.body1.sec5.supplementary-material2.caption1.p2" name="article1.body1.sec5.supplementary-material2.caption1.p2" class="link-target"></a><p class="postSiDOI">(PDF)</p>
+</div><div class="supplementary-material"><a name="pone.0140622.s003" id="pone.0140622.s003" class="link-target"></a><h3 class="siTitle title-small"><a href="article/file?type=supplementary&amp;id=info:doi/10.1371/journal.pone.0140622.s003">S3 Fig. </a>The plots illustrating the interactive effect between the predictors and TDT on overall survival.</h3><a id="article1.body1.sec5.supplementary-material3.caption1.p1" name="article1.body1.sec5.supplementary-material3.caption1.p1" class="link-target"></a><p class="preSiDOI">There were no interactive effect between TDT and covariates including age (A), WBC (B), percent blast (C), cytogenetic subtypes (D), and genes mutation of <em>FLT3</em>ITD (E), <em>NPM1</em> (F), <em>CEBPA</em> (G) and <em>DNMT3a</em> (H). MFPIgen functions were used to estimate the significance of interaction between the predictors and TDT using fractional polynomial transformation with the powers (-2,0.5).</p>
+<p class="siDoi"><a href="https://doi.org/10.1371/journal.pone.0140622.s003">https://doi.org/10.1371/journal.pone.0140622.s003</a></p><a id="article1.body1.sec5.supplementary-material3.caption1.p2" name="article1.body1.sec5.supplementary-material3.caption1.p2" class="link-target"></a><p class="postSiDOI">(PDF)</p>
+</div><div class="supplementary-material"><a name="pone.0140622.s004" id="pone.0140622.s004" class="link-target"></a><h3 class="siTitle title-small"><a href="article/file?type=supplementary&amp;id=info:doi/10.1371/journal.pone.0140622.s004">S1 Table. </a>Univariate analysis for overall survival in AML patients.</h3><p class="siDoi"><a href="https://doi.org/10.1371/journal.pone.0140622.s004">https://doi.org/10.1371/journal.pone.0140622.s004</a></p><a id="article1.body1.sec5.supplementary-material4.caption1.p1" name="article1.body1.sec5.supplementary-material4.caption1.p1" class="link-target"></a><p class="postSiDOI">(DOCX)</p>
+</div><div class="supplementary-material"><a name="pone.0140622.s005" id="pone.0140622.s005" class="link-target"></a><h3 class="siTitle title-small"><a href="article/file?type=supplementary&amp;id=info:doi/10.1371/journal.pone.0140622.s005">S2 Table. </a>Multivariate analysis for overall survival in AML patients.</h3><p class="siDoi"><a href="https://doi.org/10.1371/journal.pone.0140622.s005">https://doi.org/10.1371/journal.pone.0140622.s005</a></p><a id="article1.body1.sec5.supplementary-material5.caption1.p1" name="article1.body1.sec5.supplementary-material5.caption1.p1" class="link-target"></a><p class="postSiDOI">(DOCX)</p>
+</div><div class="supplementary-material"><a name="pone.0140622.s006" id="pone.0140622.s006" class="link-target"></a><h3 class="siTitle title-small"><a href="article/file?type=supplementary&amp;id=info:doi/10.1371/journal.pone.0140622.s006">S3 Table. </a>The distribution of FAB subgroups in patients with <em>IDH1/2</em> mutations by 7 days of delayed treatment.</h3><p class="siDoi"><a href="https://doi.org/10.1371/journal.pone.0140622.s006">https://doi.org/10.1371/journal.pone.0140622.s006</a></p><a id="article1.body1.sec5.supplementary-material6.caption1.p1" name="article1.body1.sec5.supplementary-material6.caption1.p1" class="link-target"></a><p class="postSiDOI">(DOCX)</p>
+</div><div class="supplementary-material"><a name="pone.0140622.s007" id="pone.0140622.s007" class="link-target"></a><h3 class="siTitle title-small"><a href="article/file?type=supplementary&amp;id=info:doi/10.1371/journal.pone.0140622.s007">S4 Table. </a>Results of multivariate analysis comparing the interaction between TDT and <em>IDH1/2</em> mutations on overall survival.</h3><p class="siDoi"><a href="https://doi.org/10.1371/journal.pone.0140622.s007">https://doi.org/10.1371/journal.pone.0140622.s007</a></p><a id="article1.body1.sec5.supplementary-material7.caption1.p1" name="article1.body1.sec5.supplementary-material7.caption1.p1" class="link-target"></a><p class="postSiDOI">(DOCX)</p>
+</div><div class="supplementary-material"><a name="pone.0140622.s008" id="pone.0140622.s008" class="link-target"></a><h3 class="siTitle title-small"><a href="article/file?type=supplementary&amp;id=info:doi/10.1371/journal.pone.0140622.s008">S1 Dataset. </a>The individual patient data.</h3><a id="article1.body1.sec5.supplementary-material8.caption1.p1" name="article1.body1.sec5.supplementary-material8.caption1.p1" class="link-target"></a><p class="preSiDOI">OS, overall survival; Status, 0 = alive, 1 = dead; TDT, times from diagnosis to treatment (days); TDTmc, 1 = days 1–2, 2 = days 3–4, 3 = days 5–6; 4 = days 7–8, 5 = days 9–10, 6 = days 11–12, 7 = days 13–45; TDT3C, 0 = days 2–6, 1 = days 1–2, 2 = days 7–45; WBC: white blood cell counts; IDHm&amp;Day6,0 = <em>IDH1/2</em> mutations and treatment within 6 days,1 = <em>IDH1/2</em> mutations and treatment delay 7 days or more, 2 = <em>IDH1/2</em> wildtype and treatment within 6 days, 3 = <em>IDH1/2</em> wildtype and treatment delay 7 days or more; diagnosis,1 = M1, 2 = M2, 4 = M4, 5 = M5, 6 = M6; Cytogenetics, 1 = favorable, 2 = intermediate, 3 = poor; IDH1/2, <em>IDH1</em> and <em>IDH2</em> mutations status; DNMT3A, <em>DNMT3A</em> mutations status; NPM1, <em>NPM1</em> mutations status; <em>FLT3</em>ITD, 1 = postive, 0 = negative; CEBPMDM, double allele <em>CEBPA</em> mutations status.</p>
+<p class="siDoi"><a href="https://doi.org/10.1371/journal.pone.0140622.s008">https://doi.org/10.1371/journal.pone.0140622.s008</a></p><a id="article1.body1.sec5.supplementary-material8.caption1.p2" name="article1.body1.sec5.supplementary-material8.caption1.p2" class="link-target"></a><p class="postSiDOI">(TXT)</p>
+</div></div>
+
+
+
+
+
+<div class="section toc-section"><a id="ack" name="ack" data-toc="ack" title="Acknowledgments" class="link-target"></a><h2>Acknowledgments</h2>
+<a id="article1.back1.ack1.p1" name="article1.back1.ack1.p1" class="link-target"></a><p>We are very thankful to Dr. Strong Jennifer and Dr. Jiang Xi from University of Cincinnati College of Medicine for carefully reading and polishing the manuscript.</p>
+</div><div class="contributions toc-section"><a id="authcontrib" name="authcontrib" data-toc="authcontrib" title="Author Contributions"></a><h2>Author Contributions</h2><p>Conceived and designed the experiments: JHW QG JJ. Performed the experiments: ZXM QLM MXY XFY SSL HQX YHJ DS LYM HS WJY YJL YL MY GXX LPM JHL HPW DMW. Analyzed the data: JHW QG. Contributed reagents/materials/analysis tools: JHW JYW HYT JH JJ. Wrote the paper: JHW QG. Reviewed the manuscript and explained the significance of these results: JJ JYW HYT JH.</p></div><div class="toc-section"><a id="references" name="references" class="link-target" data-toc="references" title="References"></a><h2>References</h2><ol class="references"><li id="ref1"><span class="order">1.
+            </span><a name="pone.0140622.ref001" id="pone.0140622.ref001" class="link-target"></a>Sekeres MA, Elson P, Kalaycio ME, Advani AS, Copelan EA, Faderl S, et al. Time from diagnosis to treatment initiation predicts survival in younger, but not older, acute myeloid leukemia patients. Blood. 2009;113(1):28–36. Epub 2008/10/02.  blood-2008-05-157065 [pii]. pmid:18827183; PubMed Central PMCID: PMC2614639. <ul class="reflinks" data-doi="10.1182/blood-2008-05-157065"><li><a href="https://doi.org/10.1182/blood-2008-05-157065" data-author="doi-provided" data-cit="doi-provided" data-title="doi-provided" target="_new" title="Go to article">
+                      View Article
+                    </a></li><li><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?db=PubMed&amp;cmd=Search&amp;doptcmdl=Citation&amp;defaultField=Title+Word&amp;term=Sekeres%5Bauthor%5D+AND+Time+from+diagnosis+to+treatment+initiation+predicts+survival+in+younger%2C+but+not+older%2C+acute+myeloid+leukemia+patients" target="_new" title="Go to article in PubMed">
+                      PubMed/NCBI
+                    </a></li><li><a href="http://scholar.google.com/scholar_lookup?title=Time+from+diagnosis+to+treatment+initiation+predicts+survival+in+younger%2C+but+not+older%2C+acute+myeloid+leukemia+patients&amp;author=Sekeres&amp;publication_year=2009" target="_new" title="Go to article in Google Scholar">
+                      Google Scholar
+                    </a></li></ul></li><li id="ref2"><span class="order">2.
+            </span><a name="pone.0140622.ref002" id="pone.0140622.ref002" class="link-target"></a>Bertoli S, Berard E, Huguet F, Huynh A, Tavitian S, Vergez F, et al. Time from diagnosis to intensive chemotherapy initiation does not adversely impact the outcome of patients with acute myeloid leukemia. Blood. 2013;121(14):2618–26. Epub 2013/02/01.  blood-2012-09-454553 [pii]. pmid:23365464. <ul class="reflinks" data-doi="10.1182/blood-2012-09-454553"><li><a href="https://doi.org/10.1182/blood-2012-09-454553" data-author="doi-provided" data-cit="doi-provided" data-title="doi-provided" target="_new" title="Go to article">
+                      View Article
+                    </a></li><li><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?db=PubMed&amp;cmd=Search&amp;doptcmdl=Citation&amp;defaultField=Title+Word&amp;term=Bertoli%5Bauthor%5D+AND+Time+from+diagnosis+to+intensive+chemotherapy+initiation+does+not+adversely+impact+the+outcome+of+patients+with+acute+myeloid+leukemia" target="_new" title="Go to article in PubMed">
+                      PubMed/NCBI
+                    </a></li><li><a href="http://scholar.google.com/scholar_lookup?title=Time+from+diagnosis+to+intensive+chemotherapy+initiation+does+not+adversely+impact+the+outcome+of+patients+with+acute+myeloid+leukemia&amp;author=Bertoli&amp;publication_year=2013" target="_new" title="Go to article in Google Scholar">
+                      Google Scholar
+                    </a></li></ul></li><li id="ref3"><span class="order">3.
+            </span><a name="pone.0140622.ref003" id="pone.0140622.ref003" class="link-target"></a>Ostgard LS, Norgaard JM, Sengelov H, Holm MS, Jensen MK, Kallenbach M, et al. Impact of chemotherapy delay on short- and long-term survival in younger and older AML patients: a Danish population-based cohort study. Leukemia. 2014;28(9):1926–9. Epub 2014/05/13.  leu2014157 [pii]. pmid:24813919. <ul class="reflinks" data-doi="10.1038/leu.2014.157"><li><a href="https://doi.org/10.1038/leu.2014.157" data-author="doi-provided" data-cit="doi-provided" data-title="doi-provided" target="_new" title="Go to article">
+                      View Article
+                    </a></li><li><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?db=PubMed&amp;cmd=Search&amp;doptcmdl=Citation&amp;defaultField=Title+Word&amp;term=Ostgard%5Bauthor%5D+AND+Impact+of+chemotherapy+delay+on+short-+and+long-term+survival+in+younger+and+older+AML+patients%3A+a+Danish+population-based+cohort+study" target="_new" title="Go to article in PubMed">
+                      PubMed/NCBI
+                    </a></li><li><a href="http://scholar.google.com/scholar_lookup?title=Impact+of+chemotherapy+delay+on+short-+and+long-term+survival+in+younger+and+older+AML+patients%3A+a+Danish+population-based+cohort+study&amp;author=Ostgard&amp;publication_year=2014" target="_new" title="Go to article in Google Scholar">
+                      Google Scholar
+                    </a></li></ul></li><li id="ref4"><span class="order">4.
+            </span><a name="pone.0140622.ref004" id="pone.0140622.ref004" class="link-target"></a>Paschka P, Schlenk RF, Gaidzik VI, Habdank M, Kronke J, Bullinger L, et al. IDH1 and IDH2 mutations are frequent genetic alterations in acute myeloid leukemia and confer adverse prognosis in cytogenetically normal acute myeloid leukemia with NPM1 mutation without FLT3 internal tandem duplication. Journal of clinical oncology: official journal of the American Society of Clinical Oncology. 2010;28(22):3636–43.  pmid:20567020. <ul class="reflinks" data-doi="10.1200/JCO.2010.28.3762"><li><a href="https://doi.org/10.1200/JCO.2010.28.3762" data-author="doi-provided" data-cit="doi-provided" data-title="doi-provided" target="_new" title="Go to article">
+                      View Article
+                    </a></li><li><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?db=PubMed&amp;cmd=Search&amp;doptcmdl=Citation&amp;defaultField=Title+Word&amp;term=Paschka%5Bauthor%5D+AND+IDH1+and+IDH2+mutations+are+frequent+genetic+alterations+in+acute+myeloid+leukemia+and+confer+adverse+prognosis+in+cytogenetically+normal+acute+myeloid+leukemia+with+NPM1+mutation+without+FLT3+internal+tandem+duplication" target="_new" title="Go to article in PubMed">
+                      PubMed/NCBI
+                    </a></li><li><a href="http://scholar.google.com/scholar_lookup?title=IDH1+and+IDH2+mutations+are+frequent+genetic+alterations+in+acute+myeloid+leukemia+and+confer+adverse+prognosis+in+cytogenetically+normal+acute+myeloid+leukemia+with+NPM1+mutation+without+FLT3+internal+tandem+duplication&amp;author=Paschka&amp;publication_year=2010" target="_new" title="Go to article in Google Scholar">
+                      Google Scholar
+                    </a></li></ul></li><li id="ref5"><span class="order">5.
+            </span><a name="pone.0140622.ref005" id="pone.0140622.ref005" class="link-target"></a>Wang JH, Chen WL, Li JM, Wu SF, Chen TL, Zhu YM, et al. Prognostic significance of 2-hydroxyglutarate levels in acute myeloid leukemia in China. Proc Natl Acad Sci U S A. 2013;110(42):17017–22. Epub 2013/10/02.  1315558110 [pii]. pmid:24082129; PubMed Central PMCID: PMC3801077. <ul class="reflinks" data-doi="10.1073/pnas.1315558110"><li><a href="https://doi.org/10.1073/pnas.1315558110" data-author="doi-provided" data-cit="doi-provided" data-title="doi-provided" target="_new" title="Go to article">
+                      View Article
+                    </a></li><li><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?db=PubMed&amp;cmd=Search&amp;doptcmdl=Citation&amp;defaultField=Title+Word&amp;term=Wang%5Bauthor%5D+AND+Prognostic+significance+of+2-hydroxyglutarate+levels+in+acute+myeloid+leukemia+in+China" target="_new" title="Go to article in PubMed">
+                      PubMed/NCBI
+                    </a></li><li><a href="http://scholar.google.com/scholar_lookup?title=Prognostic+significance+of+2-hydroxyglutarate+levels+in+acute+myeloid+leukemia+in+China&amp;author=Wang&amp;publication_year=2013" target="_new" title="Go to article in Google Scholar">
+                      Google Scholar
+                    </a></li></ul></li><li id="ref6"><span class="order">6.
+            </span><a name="pone.0140622.ref006" id="pone.0140622.ref006" class="link-target"></a>O'Donnell MR, Abboud CN, Altman J, Appelbaum FR, Arber DA, Attar E, et al. Acute myeloid leukemia. J Natl Compr Canc Netw. 2012;10(8):984–1021. Epub 2012/08/11. 10/8/984 [pii]. pmid:22878824. <ul class="reflinks"><li><a href="#" data-author="O%27Donnell" data-cit="O%27DonnellMR%2C%20AbboudCN%2C%20AltmanJ%2C%20AppelbaumFR%2C%20ArberDA%2C%20AttarE%2C%20et%20al.%20Acute%20myeloid%20leukemia.%20J%20Natl%20Compr%20Canc%20Netw.%202012%3B10%288%29%3A984%E2%80%931021.%20Epub%202012%2F08%2F11.%2010%2F8%2F984%20%5Bpii%5D.%2022878824." data-title="Acute%20myeloid%20leukemia" target="_new" title="Go to article in CrossRef">
+                      View Article
+                    </a></li><li><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?db=PubMed&amp;cmd=Search&amp;doptcmdl=Citation&amp;defaultField=Title+Word&amp;term=O%27Donnell%5Bauthor%5D+AND+Acute+myeloid+leukemia" target="_new" title="Go to article in PubMed">
+                      PubMed/NCBI
+                    </a></li><li><a href="http://scholar.google.com/scholar_lookup?title=Acute+myeloid+leukemia&amp;author=O%27Donnell&amp;publication_year=2012" target="_new" title="Go to article in Google Scholar">
+                      Google Scholar
+                    </a></li></ul></li><li id="ref7"><span class="order">7.
+            </span><a name="pone.0140622.ref007" id="pone.0140622.ref007" class="link-target"></a>Ma QL, Wang JH, Wang YG, Hu C, Mu QT, Yu MX, et al. High IDH1 expression is associated with a poor prognosis in cytogenetically normal acute myeloid leukemia. Int J Cancer. 2014. Epub 2014/12/20.  pmid:25523507. <ul class="reflinks" data-doi="10.1002/ijc.29395"><li><a href="https://doi.org/10.1002/ijc.29395" data-author="doi-provided" data-cit="doi-provided" data-title="doi-provided" target="_new" title="Go to article">
+                      View Article
+                    </a></li><li><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?db=PubMed&amp;cmd=Search&amp;doptcmdl=Citation&amp;defaultField=Title+Word&amp;term=Ma%5Bauthor%5D+AND+High+IDH1+expression+is+associated+with+a+poor+prognosis+in+cytogenetically+normal+acute+myeloid+leukemia" target="_new" title="Go to article in PubMed">
+                      PubMed/NCBI
+                    </a></li><li><a href="http://scholar.google.com/scholar_lookup?title=High+IDH1+expression+is+associated+with+a+poor+prognosis+in+cytogenetically+normal+acute+myeloid+leukemia&amp;author=Ma&amp;publication_year=2014" target="_new" title="Go to article in Google Scholar">
+                      Google Scholar
+                    </a></li></ul></li><li id="ref8"><span class="order">8.
+            </span><a name="pone.0140622.ref008" id="pone.0140622.ref008" class="link-target"></a>Jin J, Wang JX, Chen FF, Wu DP, Hu J, Zhou JF, et al. Homoharringtonine-based induction regimens for patients with de-novo acute myeloid leukaemia: a multicentre, open-label, randomised, controlled phase 3 trial. Lancet Oncol. 2013;14(7):599–608. Epub 2013/05/15.  S1470-2045(13)70152-9 [pii]. pmid:23664707. <ul class="reflinks" data-doi="10.1016/S1470-2045(13)70152-9"><li><a href="https://doi.org/10.1016/S1470-2045(13)70152-9" data-author="doi-provided" data-cit="doi-provided" data-title="doi-provided" target="_new" title="Go to article">
+                      View Article
+                    </a></li><li><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?db=PubMed&amp;cmd=Search&amp;doptcmdl=Citation&amp;defaultField=Title+Word&amp;term=Jin%5Bauthor%5D+AND+Homoharringtonine-based+induction+regimens+for+patients+with+de-novo+acute+myeloid+leukaemia%3A+a+multicentre%2C+open-label%2C+randomised%2C+controlled+phase+3+trial" target="_new" title="Go to article in PubMed">
+                      PubMed/NCBI
+                    </a></li><li><a href="http://scholar.google.com/scholar_lookup?title=Homoharringtonine-based+induction+regimens+for+patients+with+de-novo+acute+myeloid+leukaemia%3A+a+multicentre%2C+open-label%2C+randomised%2C+controlled+phase+3+trial&amp;author=Jin&amp;publication_year=2013" target="_new" title="Go to article in Google Scholar">
+                      Google Scholar
+                    </a></li></ul></li><li id="ref9"><span class="order">9.
+            </span><a name="pone.0140622.ref009" id="pone.0140622.ref009" class="link-target"></a>Brothman AR, Persons DL, Shaffer LG. Nomenclature evolution: Changes in the ISCN from the 2005 to the 2009 edition. Cytogenet Genome Res. 2009;127(1):1–4. Epub 2010/01/30.  000279442 [pii]. pmid:20110655. <ul class="reflinks" data-doi="10.1159/000279442"><li><a href="https://doi.org/10.1159/000279442" data-author="doi-provided" data-cit="doi-provided" data-title="doi-provided" target="_new" title="Go to article">
+                      View Article
+                    </a></li><li><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?db=PubMed&amp;cmd=Search&amp;doptcmdl=Citation&amp;defaultField=Title+Word&amp;term=Brothman%5Bauthor%5D+AND+Nomenclature+evolution%3A+Changes+in+the+ISCN+from+the+2005+to+the+2009+edition" target="_new" title="Go to article in PubMed">
+                      PubMed/NCBI
+                    </a></li><li><a href="http://scholar.google.com/scholar_lookup?title=Nomenclature+evolution%3A+Changes+in+the+ISCN+from+the+2005+to+the+2009+edition&amp;author=Brothman&amp;publication_year=2009" target="_new" title="Go to article in Google Scholar">
+                      Google Scholar
+                    </a></li></ul></li><li id="ref10"><span class="order">10.
+            </span><a name="pone.0140622.ref010" id="pone.0140622.ref010" class="link-target"></a>Chen WL, Wang JH, Zhao AH, Xu X, Wang YH, Chen TL, et al. A distinct glucose metabolism signature of acute myeloid leukemia with prognostic value. Blood. 2014;124(10):1645–54. Epub 2014/07/10.  blood-2014-02-554204 [pii]. pmid:25006128. <ul class="reflinks" data-doi="10.1182/blood-2014-02-554204"><li><a href="https://doi.org/10.1182/blood-2014-02-554204" data-author="doi-provided" data-cit="doi-provided" data-title="doi-provided" target="_new" title="Go to article">
+                      View Article
+                    </a></li><li><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?db=PubMed&amp;cmd=Search&amp;doptcmdl=Citation&amp;defaultField=Title+Word&amp;term=Chen%5Bauthor%5D+AND+A+distinct+glucose+metabolism+signature+of+acute+myeloid+leukemia+with+prognostic+value" target="_new" title="Go to article in PubMed">
+                      PubMed/NCBI
+                    </a></li><li><a href="http://scholar.google.com/scholar_lookup?title=A+distinct+glucose+metabolism+signature+of+acute+myeloid+leukemia+with+prognostic+value&amp;author=Chen&amp;publication_year=2014" target="_new" title="Go to article in Google Scholar">
+                      Google Scholar
+                    </a></li></ul></li><li id="ref11"><span class="order">11.
+            </span><a name="pone.0140622.ref011" id="pone.0140622.ref011" class="link-target"></a>Sauerbrei W M-H C, Benner A, Royston P. Multivariable regression model building by using fractional polynomials: Description of SAS, STATA and R programs. Computational Statistics &amp; Data Analysis. 2006;50:464–3485. <ul class="reflinks"><li><a href="#" data-author="Sauerbrei" data-cit="SauerbreiW%20M-HC%2C%20BennerA%2C%20RoystonP.%20Multivariable%20regression%20model%20building%20by%20using%20fractional%20polynomials%3A%20Description%20of%20SAS%2C%20STATA%20and%20R%20programs.%20Computational%20Statistics%20%26%20Data%20Analysis.%202006%3B50%3A464%E2%80%933485." data-title="Multivariable%20regression%20model%20building%20by%20using%20fractional%20polynomials%3A%20Description%20of%20SAS%2C%20STATA%20and%20R%20programs" target="_new" title="Go to article in CrossRef">
+                      View Article
+                    </a></li><li><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?db=PubMed&amp;cmd=Search&amp;doptcmdl=Citation&amp;defaultField=Title+Word&amp;term=Sauerbrei%5Bauthor%5D+AND+Multivariable+regression+model+building+by+using+fractional+polynomials%3A+Description+of+SAS%2C+STATA+and+R+programs" target="_new" title="Go to article in PubMed">
+                      PubMed/NCBI
+                    </a></li><li><a href="http://scholar.google.com/scholar_lookup?title=Multivariable+regression+model+building+by+using+fractional+polynomials%3A+Description+of+SAS%2C+STATA+and+R+programs&amp;author=Sauerbrei&amp;publication_year=2006" target="_new" title="Go to article in Google Scholar">
+                      Google Scholar
+                    </a></li></ul></li><li id="ref12"><span class="order">12.
+            </span><a name="pone.0140622.ref012" id="pone.0140622.ref012" class="link-target"></a>Royston P, Sauerbrei W. A new approach to modelling interactions between treatment and continuous covariates in clinical trials by using fractional polynomials. Stat Med. 2004;23(16):2509–25. Epub 2004/08/03.  pmid:15287081. <ul class="reflinks" data-doi="10.1002/sim.1815"><li><a href="https://doi.org/10.1002/sim.1815" data-author="doi-provided" data-cit="doi-provided" data-title="doi-provided" target="_new" title="Go to article">
+                      View Article
+                    </a></li><li><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?db=PubMed&amp;cmd=Search&amp;doptcmdl=Citation&amp;defaultField=Title+Word&amp;term=Royston%5Bauthor%5D+AND+A+new+approach+to+modelling+interactions+between+treatment+and+continuous+covariates+in+clinical+trials+by+using+fractional+polynomials" target="_new" title="Go to article in PubMed">
+                      PubMed/NCBI
+                    </a></li><li><a href="http://scholar.google.com/scholar_lookup?title=A+new+approach+to+modelling+interactions+between+treatment+and+continuous+covariates+in+clinical+trials+by+using+fractional+polynomials&amp;author=Royston&amp;publication_year=2004" target="_new" title="Go to article in Google Scholar">
+                      Google Scholar
+                    </a></li></ul></li><li id="ref13"><span class="order">13.
+            </span><a name="pone.0140622.ref013" id="pone.0140622.ref013" class="link-target"></a>Rakheja D, Konoplev S, Medeiros LJ, Chen W. IDH mutations in acute myeloid leukemia. Hum Pathol. 2012;43(10):1541–51. Epub 2012/08/25.  S0046-8177(12)00165-7 [pii]. pmid:22917530. <ul class="reflinks" data-doi="10.1016/j.humpath.2012.05.003"><li><a href="https://doi.org/10.1016/j.humpath.2012.05.003" data-author="doi-provided" data-cit="doi-provided" data-title="doi-provided" target="_new" title="Go to article">
+                      View Article
+                    </a></li><li><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?db=PubMed&amp;cmd=Search&amp;doptcmdl=Citation&amp;defaultField=Title+Word&amp;term=Rakheja%5Bauthor%5D+AND+IDH+mutations+in+acute+myeloid+leukemia" target="_new" title="Go to article in PubMed">
+                      PubMed/NCBI
+                    </a></li><li><a href="http://scholar.google.com/scholar_lookup?title=IDH+mutations+in+acute+myeloid+leukemia&amp;author=Rakheja&amp;publication_year=2012" target="_new" title="Go to article in Google Scholar">
+                      Google Scholar
+                    </a></li></ul></li><li id="ref14"><span class="order">14.
+            </span><a name="pone.0140622.ref014" id="pone.0140622.ref014" class="link-target"></a>Feng JH, Guo XP, Chen YY, Wang ZJ, Cheng YP, Tang YM. Prognostic significance of IDH1 mutations in acute myeloid leukemia: a meta-analysis. Am J Blood Res. 2012;2(4):254–64. Epub 2012/12/12. pmid:23226625; PubMed Central PMCID: PMC3512179. <ul class="reflinks"><li><a href="#" data-author="Feng" data-cit="FengJH%2C%20GuoXP%2C%20ChenYY%2C%20WangZJ%2C%20ChengYP%2C%20TangYM.%20Prognostic%20significance%20of%20IDH1%20mutations%20in%20acute%20myeloid%20leukemia%3A%20a%20meta-analysis.%20Am%20J%20Blood%20Res.%202012%3B2%284%29%3A254%E2%80%9364.%20Epub%202012%2F12%2F12.%2023226625%3B%20PubMed%20Central%20PMCID%3A%20PMC3512179." data-title="Prognostic%20significance%20of%20IDH1%20mutations%20in%20acute%20myeloid%20leukemia%3A%20a%20meta-analysis" target="_new" title="Go to article in CrossRef">
+                      View Article
+                    </a></li><li><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?db=PubMed&amp;cmd=Search&amp;doptcmdl=Citation&amp;defaultField=Title+Word&amp;term=Feng%5Bauthor%5D+AND+Prognostic+significance+of+IDH1+mutations+in+acute+myeloid+leukemia%3A+a+meta-analysis" target="_new" title="Go to article in PubMed">
+                      PubMed/NCBI
+                    </a></li><li><a href="http://scholar.google.com/scholar_lookup?title=Prognostic+significance+of+IDH1+mutations+in+acute+myeloid+leukemia%3A+a+meta-analysis&amp;author=Feng&amp;publication_year=2012" target="_new" title="Go to article in Google Scholar">
+                      Google Scholar
+                    </a></li></ul></li><li id="ref15"><span class="order">15.
+            </span><a name="pone.0140622.ref015" id="pone.0140622.ref015" class="link-target"></a>Im AP, Sehgal AR, Carroll MP, Smith BD, Tefferi A, Johnson DE, et al. DNMT3A and IDH mutations in acute myeloid leukemia and other myeloid malignancies: associations with prognosis and potential treatment strategies. Leukemia. 2014;28(9):1774–83. Epub 2014/04/05.  leu2014124 [pii]. pmid:24699305; PubMed Central PMCID: PMC4234093. <ul class="reflinks" data-doi="10.1038/leu.2014.124"><li><a href="https://doi.org/10.1038/leu.2014.124" data-author="doi-provided" data-cit="doi-provided" data-title="doi-provided" target="_new" title="Go to article">
+                      View Article
+                    </a></li><li><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?db=PubMed&amp;cmd=Search&amp;doptcmdl=Citation&amp;defaultField=Title+Word&amp;term=Im%5Bauthor%5D+AND+DNMT3A+and+IDH+mutations+in+acute+myeloid+leukemia+and+other+myeloid+malignancies%3A+associations+with+prognosis+and+potential+treatment+strategies" target="_new" title="Go to article in PubMed">
+                      PubMed/NCBI
+                    </a></li><li><a href="http://scholar.google.com/scholar_lookup?title=DNMT3A+and+IDH+mutations+in+acute+myeloid+leukemia+and+other+myeloid+malignancies%3A+associations+with+prognosis+and+potential+treatment+strategies&amp;author=Im&amp;publication_year=2014" target="_new" title="Go to article in Google Scholar">
+                      Google Scholar
+                    </a></li></ul></li><li id="ref16"><span class="order">16.
+            </span><a name="pone.0140622.ref016" id="pone.0140622.ref016" class="link-target"></a>Ward PS, Patel J, Wise DR, Abdel-Wahab O, Bennett BD, Coller HA, et al. The common feature of leukemia-associated IDH1 and IDH2 mutations is a neomorphic enzyme activity converting alpha-ketoglutarate to 2-hydroxyglutarate. Cancer Cell. 2010;17(3):225–34. Epub 2010/02/23.  S1535-6108(10)00036-X [pii]. pmid:20171147; PubMed Central PMCID: PMC2849316. <ul class="reflinks" data-doi="10.1016/j.ccr.2010.01.020"><li><a href="https://doi.org/10.1016/j.ccr.2010.01.020" data-author="doi-provided" data-cit="doi-provided" data-title="doi-provided" target="_new" title="Go to article">
+                      View Article
+                    </a></li><li><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?db=PubMed&amp;cmd=Search&amp;doptcmdl=Citation&amp;defaultField=Title+Word&amp;term=Ward%5Bauthor%5D+AND+The+common+feature+of+leukemia-associated+IDH1+and+IDH2+mutations+is+a+neomorphic+enzyme+activity+converting+alpha-ketoglutarate+to+2-hydroxyglutarate" target="_new" title="Go to article in PubMed">
+                      PubMed/NCBI
+                    </a></li><li><a href="http://scholar.google.com/scholar_lookup?title=The+common+feature+of+leukemia-associated+IDH1+and+IDH2+mutations+is+a+neomorphic+enzyme+activity+converting+alpha-ketoglutarate+to+2-hydroxyglutarate&amp;author=Ward&amp;publication_year=2010" target="_new" title="Go to article in Google Scholar">
+                      Google Scholar
+                    </a></li></ul></li></ol></div>
+
+
+
+          <div class="ref-tooltip">
+             <div class="ref_tooltip-content">
+
+             </div>
+          </div>
+
+        </div>
+      </div>
+    </div>
+
+    </section>
+    <aside class="article-aside">
+
+
+<!--[if IE 9]>
+<style>
+.dload-xml {margin-top: 38px}
+</style>
+<![endif]-->
+<div class="dload-menu">
+  <div class="dload-pdf">
+    <a href="/plosone/article/file?id=10.1371/journal.pone.0140622&type=printable"
+       id="downloadPdf" target="_blank">Download PDF</a>
+  </div>
+  <div data-js-tooltip-hover="trigger" class="dload-hover">&nbsp;
+    <ul class="dload-xml" data-js-tooltip-hover="target">
+      <li><a href="/plosone/article/citation?id=10.1371/journal.pone.0140622"
+             id="downloadCitation">Citation</a></li>
+      <li><a href="/plosone/article/file?id=10.1371/journal.pone.0140622&type=manuscript"
+             id="downloadXml">XML</a>
+      </li>
+    </ul>
+
+  </div>
+</div>
+
+<div class="aside-container">
+
+<div class="print-article" id="printArticle" data-js-tooltip-hover="trigger">
+
+  Print
+  <ul class="print-options" data-js-tooltip-hover="target">
+    <li>
+        <a href="#" onclick="window.print(); return false;" class="preventDefault" id="printBrowser" title="Print
+        Article">Print article</a>
+    </li>
+
+
+
+
+<li>
+<a title="Odyssey Press" href="https://www.odysseypress.com/onlinehost/reprint_order.php?type=A&amp;page=0&amp;journal=7&amp;doi=10.1371%2Fjournal.pone.0140622&amp;volume=&amp;issue=&amp;title=Impact%20of%20Chemotherapy%20Delay%20on%20Overall%20Survival%20for%20AML%20with%20IDH1%2F2%20Mutations%3A%20A%20Study%20in%20Adult%20Chinese%20Patients&amp;author_name=Jing-Han%20Wang%2C%20Qi%20Guo%2C%20Zhi-Xin%20Ma%2C%20Qiu-Ling%20Ma%2C%20Meng-Xia%20Yu%2C%20Xiu-Feng%20Yin%2C%20Sha-Sha%20Lu%2C%20Hong-Qiong%20Xie%2C%20Yue-Hong%20Jiang%2C%20Dan%20Shen%2C%20Li-Ya%20Ma%2C%20Hui%20Shi%2C%20Wen-Juan%20Yu%2C%20Ye-Jiang%20Lou%2C%20Ying%20Li%2C%20Min%20Yang%2C%20Gai-Xiang%20Xu%2C%20Li-Ping%20Mao%2C%20Jian-Hu%20Li%2C%20Huan-Ping%20Wang%2C%20Dong-Mei%20Wang%2C%20Ju-Ying%20Wei%2C%20Hong-Yan%20Tong%2C%20Jian%20Huang%2C%20Jie%20Jin&amp;start_page=1&amp;end_page=12">EzReprint  </a>
+</li>
+
+  </ul>
+</div>
+
+<div class="share-article" id="shareArticle" data-js-tooltip-hover="trigger">
+  Share
+  <ul data-js-tooltip-hover="target" class="share-options">
+
+    <li><a href="http://www.reddit.com/submit?url=http%3A%2F%2Fdx.plos.org%2F10.1371%2Fjournal.pone.0140622" id="shareReddit" target="_blank" title="Submit to Reddit"><img src="/plosone/resource/img/icon.reddit.16.png" width="16" height="16" alt="Reddit">Reddit</a></li>
+
+    <li><a href="https://plus.google.com/share?url=http%3A%2F%2Fdx.plos.org%2F10.1371%2Fjournal.pone.0140622" id="shareGoogle" target="_blank" title="Share on Google+"><img src="/plosone/resource/img/icon.gplus.16.png" width="16" height="16" alt="Google+">Google+</a></li>
+
+    <li><a href="http://www.stumbleupon.com/submit?url=http%3A%2F%2Fdx.plos.org%2F10.1371%2Fjournal.pone.0140622"  id="shareStumble" target="_blank" title="Add to StumbleUpon"><img src="/plosone/resource/img/icon.stumble.16.png" width="16" height="16" alt="StumbleUpon">StumbleUpon</a></li>
+
+    <li><a href="http://www.facebook.com/share.php?u=http%3A%2F%2Fdx.plos.org%2F10.1371%2Fjournal.pone.0140622&t=Impact of Chemotherapy Delay on Overall Survival for AML with IDH1/2 Mutations: A Study in Adult Chinese Patients" id="shareFacebook" target="_blank" title="Share on Facebook"><img src="/plosone/resource/img/icon.fb.16.png" width="16" height="16" alt="Facebook">Facebook</a></li>
+
+
+
+<li><a href="http://www.linkedin.com/shareArticle?url=http%3A%2F%2Fdx.plos.org%2F10.1371%2Fjournal.pone.0140622&title=Impact of Chemotherapy Delay on Overall Survival for AML with IDH1/2 Mutations: A Study in Adult Chinese Patients&summary=Checkout this article I found at PLOS"  id="shareLinkedIn" target="_blank" title="Add to LinkedIn"><img src="/plosone/resource/img/icon.linkedin.16.png" width="16" height="16" alt="LinkedIn">LinkedIn</a></li>
+
+<li><a href="http://www.citeulike.org/posturl?url=http%3A%2F%2Fdx.plos.org%2F10.1371%2Fjournal.pone.0140622&title=Impact of Chemotherapy Delay on Overall Survival for AML with IDH1/2 Mutations: A Study in Adult Chinese Patients"  id="shareCiteULike" target="_blank" title="Add to CiteULike"><img src="/plosone/resource/img/icon.cul.16.png" width="16" height="16" alt="CiteULike">CiteULike</a></li>
+
+<li><a href="http://www.mendeley.com/import/?url=http%3A%2F%2Fdx.plos.org%2F10.1371%2Fjournal.pone.0140622"  id="shareMendeley" target="_blank" title="Add to Mendeley"><img src="/plosone/resource/img/icon.mendeley.16.png" width="16" height="16" alt="Mendeley">Mendeley</a></li>
+
+<li><a href="https://www.pubchase.com/library?add_aid=10.1371/journal.pone.0140622&source=plos"  id="sharePubChase" target="_blank" title="Add to PubChase"><img src="/plosone/resource/img/icon.pc.16.png" width="16" height="16" alt="PubChase">PubChase</a></li>
+
+  <li><a href="http://twitter.com/intent/tweet?url=http%3A%2F%2Fdx.plos.org%2F10.1371%2Fjournal.pone.0140622&text=%23PLOSONE%3A%20Impact of Chemotherapy Delay on Overall Survival for AML with IDH1/2 Mutations: A Study in Adult Chinese Patients" target="_blank" title="share on Twitter" id="twitter-share-link"><img src="/plosone/resource/img/icon.twtr.16.png" width="16" height="16" alt="Twitter">Twitter</a></li>
+
+<li><a href="/plosone/article/email?id=10.1371/journal.pone.0140622" id="shareEmail" title="Email this article"><img src="/plosone/resource/img/icon.email.16.png" width="16" height="16" alt="Email">Email</a></li>
+
+  </ul>
+</div></div>
+
+
+ <!-- Crossmark 2.0 widget -->
+<script src="https://crossmark-cdn.crossref.org/widget/v2.0/widget.js"></script>
+<a data-target="crossmark"><img width="150" src="http://crossmark-cdn.crossref.org/widget/v2.0/logos/CROSSMARK_BW_horizontal.svg"></a>
+<!-- End Crossmark 2.0 widget -->
+
+
+
+
+
+
+
+<div class="skyscraper-container">
+  <div class="title">Advertisement</div>
+<!-- DoubleClick Ad Zone -->
+  <div class='advertisement' id='div-gpt-ad-1458247671871-1' style='width:160px; height:600px;'>
+    <script type='text/javascript'>
+      googletag.cmd.push(function() { googletag.display('div-gpt-ad-1458247671871-1'); });
+    </script>
+  </div>
+</div>
+
+
+
+
+<div class="subject-areas-container">
+  <h3>Subject Areas <div id="subjInfo">?</div>
+    <div id="subjInfoText">
+        <p>For more information about PLOS Subject Areas, click
+          <a href="/plosone/s/help-using-this-site#loc-subject-areas">here</a>.</p>
+      <span class="inline-intro">We want your feedback.</span> Do these Subject Areas make sense for this article? Click the target next to the incorrect Subject Area and let us know. Thanks for your help!
+
+
+    </div>
+  </h3>
+  <ul id="subjectList">
+      <li>
+              <a class="taxo-term" title="Search for articles about Acute myeloid leukemia"
+                 href="/plosone/search?filterSubjects=Acute+myeloid+leukemia&filterJournals=PLoSONE&q=">Acute myeloid leukemia</a>
+        <span class="taxo-flag">&nbsp;</span>
+        <div class="taxo-tooltip" data-categoryname="Acute myeloid leukemia"><p class="taxo-explain">Is the Subject Area <strong>"Acute myeloid leukemia"</strong> applicable to this article?
+          <button id="noFlag" data-action="remove">Yes</button>
+          <button id="flagIt" value="flagno" data-action="add">No</button></p>
+          <p class="taxo-confirm">Thanks for your feedback.</p>
+        </div>
+      </li>
+      <li>
+              <a class="taxo-term" title="Search for articles about Cytogenetics"
+                 href="/plosone/search?filterSubjects=Cytogenetics&filterJournals=PLoSONE&q=">Cytogenetics</a>
+        <span class="taxo-flag">&nbsp;</span>
+        <div class="taxo-tooltip" data-categoryname="Cytogenetics"><p class="taxo-explain">Is the Subject Area <strong>"Cytogenetics"</strong> applicable to this article?
+          <button id="noFlag" data-action="remove">Yes</button>
+          <button id="flagIt" value="flagno" data-action="add">No</button></p>
+          <p class="taxo-confirm">Thanks for your feedback.</p>
+        </div>
+      </li>
+      <li>
+              <a class="taxo-term" title="Search for articles about Mutation"
+                 href="/plosone/search?filterSubjects=Mutation&filterJournals=PLoSONE&q=">Mutation</a>
+        <span class="taxo-flag">&nbsp;</span>
+        <div class="taxo-tooltip" data-categoryname="Mutation"><p class="taxo-explain">Is the Subject Area <strong>"Mutation"</strong> applicable to this article?
+          <button id="noFlag" data-action="remove">Yes</button>
+          <button id="flagIt" value="flagno" data-action="add">No</button></p>
+          <p class="taxo-confirm">Thanks for your feedback.</p>
+        </div>
+      </li>
+      <li>
+              <a class="taxo-term" title="Search for articles about Chemotherapy"
+                 href="/plosone/search?filterSubjects=Chemotherapy&filterJournals=PLoSONE&q=">Chemotherapy</a>
+        <span class="taxo-flag">&nbsp;</span>
+        <div class="taxo-tooltip" data-categoryname="Chemotherapy"><p class="taxo-explain">Is the Subject Area <strong>"Chemotherapy"</strong> applicable to this article?
+          <button id="noFlag" data-action="remove">Yes</button>
+          <button id="flagIt" value="flagno" data-action="add">No</button></p>
+          <p class="taxo-confirm">Thanks for your feedback.</p>
+        </div>
+      </li>
+      <li>
+              <a class="taxo-term" title="Search for articles about Cancer treatment"
+                 href="/plosone/search?filterSubjects=Cancer+treatment&filterJournals=PLoSONE&q=">Cancer treatment</a>
+        <span class="taxo-flag">&nbsp;</span>
+        <div class="taxo-tooltip" data-categoryname="Cancer treatment"><p class="taxo-explain">Is the Subject Area <strong>"Cancer treatment"</strong> applicable to this article?
+          <button id="noFlag" data-action="remove">Yes</button>
+          <button id="flagIt" value="flagno" data-action="add">No</button></p>
+          <p class="taxo-confirm">Thanks for your feedback.</p>
+        </div>
+      </li>
+      <li>
+              <a class="taxo-term" title="Search for articles about Multivariate analysis"
+                 href="/plosone/search?filterSubjects=Multivariate+analysis&filterJournals=PLoSONE&q=">Multivariate analysis</a>
+        <span class="taxo-flag">&nbsp;</span>
+        <div class="taxo-tooltip" data-categoryname="Multivariate analysis"><p class="taxo-explain">Is the Subject Area <strong>"Multivariate analysis"</strong> applicable to this article?
+          <button id="noFlag" data-action="remove">Yes</button>
+          <button id="flagIt" value="flagno" data-action="add">No</button></p>
+          <p class="taxo-confirm">Thanks for your feedback.</p>
+        </div>
+      </li>
+      <li>
+              <a class="taxo-term" title="Search for articles about Survival analysis"
+                 href="/plosone/search?filterSubjects=Survival+analysis&filterJournals=PLoSONE&q=">Survival analysis</a>
+        <span class="taxo-flag">&nbsp;</span>
+        <div class="taxo-tooltip" data-categoryname="Survival analysis"><p class="taxo-explain">Is the Subject Area <strong>"Survival analysis"</strong> applicable to this article?
+          <button id="noFlag" data-action="remove">Yes</button>
+          <button id="flagIt" value="flagno" data-action="add">No</button></p>
+          <p class="taxo-confirm">Thanks for your feedback.</p>
+        </div>
+      </li>
+      <li>
+              <a class="taxo-term" title="Search for articles about White blood cells"
+                 href="/plosone/search?filterSubjects=White+blood+cells&filterJournals=PLoSONE&q=">White blood cells</a>
+        <span class="taxo-flag">&nbsp;</span>
+        <div class="taxo-tooltip" data-categoryname="White blood cells"><p class="taxo-explain">Is the Subject Area <strong>"White blood cells"</strong> applicable to this article?
+          <button id="noFlag" data-action="remove">Yes</button>
+          <button id="flagIt" value="flagno" data-action="add">No</button></p>
+          <p class="taxo-confirm">Thanks for your feedback.</p>
+        </div>
+      </li>
+  </ul>
+</div>
+<div id="subjectErrors"></div>
+
+
+<div class="twitter-container">
+  <h3>Archived Tweets</h3>
+  <ul id="tweetList">
+
+  </ul>
+  <div class="load-more">Load more <span></span></div>
+  <div class="view-all"><a href="http://alm.plos.org/works/doi.org/10.1371/journal.pone.0140622?source_id=twitter">View all tweets</a>
+  </div>
+</div>
+
+<script type="text/template" id="twitterModuleItemTemplate">
+  <% _.each(items, function(item) { %>
+    <li>
+      <div class="tweet-info">
+        <a href="http://twitter.com/<%= item.user %>">
+          <span class="imgholder">
+            <img class="imgLoad" src="<%= item.user_profile_image %>">
+          </span>
+          <div class="tweetDate"><%= item.created_at %></div>
+          <div class="tweetUser">
+            <strong><%= item.user_name %></strong>
+            <span>@<%= item.user %></span>
+          </div>
+        </a>
+      </div>
+      <div class="tweetText">
+        <%= item.text %>
+      </div>
+      <div id="tweetActions">
+        <a class="tweet-reply" href="https://twitter.com/intent/tweet?in_reply_to<%= item.id %>&amp;text=@<%= item.user %>">
+          <div>&nbsp;</div> Reply
+        </a>
+        <a class="tweet-retweet" href="https://twitter.com/intent/retweet?tweet_id=<%= item.id %>">
+          <div>&nbsp;</div> Retweet
+        </a>
+        <a class="tweet-favorite" href="https://twitter.com/intent/favorite?tweet_id=<%= item.id %>">
+          <div>&nbsp;</div> Favorite
+        </a>
+      </div>
+    </li>
+  <% }); %>
+</script>
+
+    </aside>
+  </div>
+
+
+
+
+</main>
+
+<footer id="pageftr">
+  <div class="row">
+    <div class="brand-column">
+
+      <img src="/plosone/resource/img/logo-plos-footer.png" alt="PLOS" class="logo-footer"/>
+      <p class="nav-special">
+
+&nbsp;
+<!--
+  Webapp build:  3.3.5 at 20170725 by teamcity, commit: 
+  Service build: 2.2.3 at 20170626 by teamcity, commit: 
+  Enabled dev features: []
+  -->
+      </p>
+
+<ul class="nav-aux">
+  <li><a href="https://www.plos.org/privacy-policy" id="ftr-privacy">Privacy Policy</a></li>
+  <li><a href="https://www.plos.org/terms-of-use" id="ftr-terms">Terms of Use</a></li>
+  <li><a href="https://www.plos.org/advertise/" id="ftr-advertise">Advertise</a></li>
+  <li><a href="https://www.plos.org/media-inquiries" id="ftr-media">Media Inquiries</a></li>
+</ul>
+    </div>
+    <div class="link-column">
+
+<p class="nav-special"><a href="https://www.plos.org/publications/journals/">Publications</a></p>
+
+<div class="nav">
+  <ul>
+    <li><a href="/plosbiology/" id="ftr-bio">PLOS Biology</a></li>
+    <li><a href="/plosmedicine/" id="ftr-med">PLOS Medicine</a></li>
+    <li><a href="/ploscompbiol/" id="ftr-compbio">PLOS Computational Biology</a></li>
+    <li><a href="http://currents.plos.org" id="ftr-cur">PLOS Currents</a></li>
+    <li><a href="/plosgenetics/" id="ftr-gen">PLOS Genetics</a></li>
+    <li><a href="/plospathogens/" id="ftr-path">PLOS Pathogens</a></li>
+    <li><a href="/plosone/" id="ftr-one">PLOS ONE</a></li>
+    <li><a href="/plosntds/" id="ftr-ntds">PLOS Neglected Tropical Diseases</a></li>
+  </ul>
+</div>
+    </div>
+    <div class="link-column">
+
+<div class="nav nav-special">
+  <p><a href="https://www.plos.org" id="ftr-home">plos.org</a></p>
+
+  <p><a href="http://blogs.plos.org" id="ftr-blog">Blogs</a></p>
+
+  <p><a href="http://collections.plos.org" id="ftr-collections">Collections</a></p>
+
+  <p><a href="/plosone/feedback" id="ftr-feedback">Send us feedback</a></p>
+  <p><a href="/plosone/s/help-using-this-site"
+        id="ftr-help">Help using this site</a></p>
+  <p><a href="/plosone/lockss-manifest" id="ftr-lockss">LOCKSS</a></p>
+
+<p class="footer-non-profit-statement">PLOS is a nonprofit 501(c)(3) corporation, #C2354500, and is based in San Francisco, California, US</p></div>    </div>
+  </div>
+
+
+</footer>
+
+
+
+
+<script type="text/javascript">
+  var ArticleData = {
+    doi: '10.1371/journal.pone.0140622',
+    title: '<article-title xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" xmlns:xlink=\"http://www.w3.org/1999/xlink\">Impact of Chemotherapy Delay on Overall Survival for AML with <italic>IDH1/2<\/italic> Mutations: A Study in Adult Chinese Patients<\/article-title>',
+    date: 'Oct 14, 2015'
+  };
+</script>
+
+
+
+
+
+
+
+<script type="text/javascript" async src="//platform.twitter.com/widgets.js"></script>
+
+
+
+
+
+<!-- This file should be loaded before the renderJs, to avoid conflicts with the FigShare, that implements the MathJax also. -->
+
+<!--  mathjax configuration options  -->
+<!-- more can be found at http://docs.mathjax.org/en/latest/ -->
+<script type="text/x-mathjax-config">
+MathJax.Hub.Config({
+  "HTML-CSS": {
+    scale: 100,
+    availableFonts: ["STIX","TeX"],
+    preferredFont: "STIX",
+    webFont: "STIX-Web",
+    linebreaks: { automatic: false }
+  },
+  jax: ["input/MathML", "output/HTML-CSS"]
+});
+</script>
+
+<script type="text/javascript" src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=MML_HTMLorMML"></script>
+
+<script src="/plosone/resource/compiled/asset_V4KEKJMAKU34D33A4HSQGT4JUZQJDCQS.js"></script>
+<div class="reveal-modal-bg"></div>
+</body>
+</html>

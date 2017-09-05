@@ -1,0 +1,9590 @@
+<!DOCTYPE html>
+<html lang="en" class="pb-page"  data-request-id="1e0edaf0-aaab-4e0d-a0e7-79902e10eca1"  
+><head data-pb-dropzone="head">
+
+
+
+
+
+
+    
+        <!-- Google Tag Manager -->
+        
+        
+            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<script>
+    var dataLayer = dataLayer ||[];
+    dataLayer.push({"site":{"environment":"live","platform":"responsive-web"},"page":{"title":"","type":"cookie-absent"},"user":{"action":"","id":"","type":[],"loginStatus":"","authentication":"","subscriptions":[],"institution":[]}});
+</script>
+        
+
+        <script>(function (w, d, s, l, i) {
+            w[l] = w[l] || [];
+            w[l].push(
+                    {'gtm.start': new Date().getTime(), event: 'gtm.js'}
+            );
+            var f = d.getElementsByTagName(s)[0],
+                    j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : '';
+            j.async = true;
+            j.src =
+                    '//www.googletagmanager.com/gtm.js?id=' + i + dl;
+            f.parentNode.insertBefore(j, f);
+        })(window, document, 'script', 'dataLayer', 'GTM-5M58KS');</script>
+        <!-- End Google Tag Manager -->
+    
+<meta name="pbContext" content=";website:website:sage;wgroup:string:SAGE Publication Websites;page:string:Cookie Absent"/><meta data-pb-head="head-widgets-start"/>
+
+
+
+
+
+
+
+
+
+
+<meta charset="UTF-8">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<title>SAGE Journals: Your gateway to world-class journal research</title>
+
+
+
+    <meta name="description" content="Subscription and open access journals from SAGE Publishing, the world&#039;s leading independent academic publisher.">
+
+
+<meta data-pb-head="head-widgets-end"/>
+<link rel="stylesheet" type="text/css" href="/wro/product.css"><link rel="stylesheet" type="text/css" href="/pb/css/t1501064493240-v1500753834000/head_1_6_7.css" id="pb-css" data-pb-css-id="t1501064493240-v1500753834000/head_1_6_7.css"/>
+
+
+<script type="text/javascript">
+    if (window.location.hash && window.location.hash == '#_=_') {
+        window.location.hash = '';
+    }
+</script>
+<script type="text/javascript" src="/wro/product.js"></script>
+
+
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+
+
+
+
+
+
+
+    
+        
+    
+
+
+
+
+
+
+
+
+    
+
+    <script>var _prum=[['id','5847762c1e20722da47b23c6'],['mark','firstbyte',(new Date()).getTime()]];(function(){var s=document.getElementsByTagName('script')[0],p=document.createElement('script');p.async='async';p.src='//rum-static.pingdom.net/prum.min.js';s.parentNode.insertBefore(p,s);})();</script>
+
+</head>
+<body class="pb-ui">
+
+
+<noscript>
+    <iframe src="//www.googletagmanager.com/ns.html?id=GTM-5M58KS"
+            height="0" width="0" style="display:none;visibility:hidden"></iframe>
+</noscript>    <div id="pb-page-content" data-ng-non-bindable>
+        <div data-pb-dropzone="main" data-pb-dropzone-name="Main">
+
+
+
+    
+    
+    
+    
+    
+    
+        
+    
+        
+            
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+    
+        
+    
+        
+            
+            
+            
+        
+    
+        
+    
+        
+    
+        
+    
+        
+            
+            
+                
+            
+            
+                
+                
+                
+            
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+    
+    
+
+    
+    <div class="widget general-html-asset none  widget-none  widget-compact-all" id="fea8c074-1beb-4d72-8dcf-463805b3fd15"  >
+        
+        
+            
+        
+
+        <div class="wrapped " id='ee'>
+            
+            <div class="widget-body body body-none  body-compact-all"><meta name="viewport" content="width=device-width, initial-scale=1">
+<style type="text/css">
+
+html, body {
+	font-family:arial;
+	overflow-x: hidden;
+}
+
+.col-md-1-1 {
+    margin: 0;
+    width: 100%;
+}
+
+.pb-wrap::before, .pb-wrap::after {
+    display: none;
+}
+
+form input[type="checkbox"] {
+    transform: scale(1.4);
+}
+
+input:focus::-webkit-input-placeholder {
+	color:transparent;
+}
+input:focus:-moz-placeholder {
+	color:transparent;
+} /* FF 4-18 */
+input:focus::-moz-placeholder {
+	color:transparent;
+} /* FF 19+ */
+input:focus:-ms-input-placeholder {
+	color:transparent;
+} /* IE 10+ */
+
+a {
+	color: #006acc;
+	text-decoration:none;
+}
+a:hover, a:focus, a:active {
+	text-decoration:underline; 
+}
+
+:focus {
+	outline-color: transparent;
+	outline-style: none;
+	box-shadow: none; 
+}
+
+a:focus img {
+    outline: 1px dotted blue;
+}
+input[type="checkbox"]:focus, input[type="radio"]:focus {
+	box-shadow: 0px 0px 4px 1px rgba(140,140,180,0.8);
+}
+select:focus, select:active {
+    BORDER: 1px dotted black !important;
+}
+/*
+#rufous-sandbox + div, #rufous-sandbox ~ div, .usabilla_live_button_container + div, .usabilla_live_button_container ~ div  {
+    z-index: 38999 !important;
+}*/
+.usabilla_live_button_container {
+	z-index: 38300 !important;
+}
+.balloon-wrap {
+	z-index: 38120 !important;
+}
+.usabilla_live_button_container:focus {
+	border: 1px dotted blue !important;
+}
+
+h1, .articleMeta h1 {
+	font-size: 25px;
+	color:#555555;
+	font-weight:normal;
+	margin: 0;
+}
+h2 {
+	font-size: 22px;
+	color:#555555;
+	font-weight:normal;
+}
+h3 {
+	font-size: 18px;
+	color:#555555;
+	font-weight:normal;
+}
+h4 {
+	font-size: 16px;
+	color:#333333;
+	font-weight:bold;
+	margin: 0;
+}
+
+p {
+	font-size: 16px;
+	line-height:26px;
+}
+
+.width_1_1 {
+    margin: 0;
+    width: 100%;
+}
+
+.smallFont {
+	font-size: 14px;
+	color: #333333;
+}
+
+.head-b {
+    color: #333333;
+    font-size: 16px;
+    font-weight: normal;
+	margin-left:20px;
+}
+
+.head-c {
+	margin-left:20px;
+	font-weight: bold;
+}
+
+.page-footer {
+    border-top: none;
+}
+
+.tabs-widget {
+	padding: 0;
+}
+
+.page-footer-divider, .page-header-divider {
+    border-top: 2px solid #eeeeee;
+}
+
+.page-footer-divider {
+	margin-bottom: 40px;
+	margin-top: 20px;
+}
+
+.articleJournalButtons {
+	background: white;
+}
+
+.smallButton, .mediumButton, .largeButton {
+	text-align:center;
+	margin-left:auto;
+	margin-right:auto;
+}
+
+.smallButton a, .mediumButton a, .largeButton a {
+	border-radius: 5px;
+	-webkit-border-radius:5px;
+	-webkit-appearance:none;
+	display:inline-block;
+	padding-left: 30px;
+	padding-right: 30px;
+}
+
+.smallButton {
+	font-size:14px;
+}
+
+.smallButton a {
+	height: 34px;
+	line-height: 34px;
+}
+
+
+.mediumButton {
+	font-size:16px;
+}
+
+.mediumButton a {
+	height: 45px;
+	line-height: 45px;
+	font-weight:bold;
+}
+
+.largeButton {
+	font-size:16px;
+}
+
+.largeButton a {
+	height: 54px;
+	line-height: 54px;
+	font-weight:bold;
+}
+
+.redButton a{
+	color:#FFFFFF;
+	background-color:#AC2226;
+	font-weight: bold;
+}
+
+.redButton a:hover, .redButton a:focus, .redButton a:active{
+	background-color:#990000;
+	text-decoration: underline; 
+}
+
+.blueGrayButton a{
+	color:#FFFFFF;
+	background-color:#796c83;
+}
+
+.blueGrayButton a:hover, .blueGrayButton a:focus, .blueGrayButton a:active {
+	background-color:#5F4D6D;
+	text-decoration: underline; 
+}
+
+.grayButton a{
+	color:#333333;
+	background-color:#EEEEEE;
+	border: 1px solid #CCCCCC;
+}
+
+.grayButton a:hover, .grayButton a:focus , .grayButton a:active  {
+	background-color:#CCCCCC;
+	text-decoration: underline; 
+}
+
+.pageBody {
+    max-width: 1100px !important;
+	margin-top:12px; 
+	width:95%;
+}
+
+.widget-header {
+	font-family:arial;
+}
+
+.row-fluid {
+    width: 100%;
+	margin: 0;
+}
+
+.doNotShow {
+	display: none;
+}
+
+.accessIcon {
+	width:38px;
+}
+a#footerAbstractLink{
+    font-size: 14px;
+}
+input.registrationSubmit:hover, input.registrationSubmit:focus, input.registrationSubmit:active,
+input.shareSubmitButton:hover, input.shareSubmitButton:focus, input.shareSubmitButton:active,
+input.formbutton:hover, input.formbutton:focus, input.formbutton:active {
+    text-decoration: underline !important;
+	cursor: pointer;
+}
+.journalHeaderOuterContainer  {
+    margin: initial;
+    width: 100%;
+}
+
+.headerContainer {
+	position:relative;
+	max-width:1600px;
+	margin-left:auto;
+	margin-right:auto;
+	height: 85px;
+	background-position: right center;
+}
+
+.headerImage {
+	height:auto;
+	width:100%;
+	vertical-align: bottom;
+}
+
+.upperHeaderContainer {
+	display:none;
+}
+
+.lowerHeaderContainer {
+    height: 100%;
+	width: 100%;
+	display:inline-flex;
+	max-width: 1100px;
+	left: 0;
+	right: 0;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.lowerHeaderContainer, .headerContainer .shadeImage {
+	position: absolute;
+	bottom: 0;
+	left: 0;
+}
+
+.impactFactorContainer, .societyNameOuterContainer {
+	height:100%;
+	right:0;
+	background-color: rgba(0, 0, 0, 0.2);
+	display: none;
+}
+
+.societyNameOuterContainer {
+    background-color: #ffffff;
+    border-right: 1px solid #cccccc;
+    border-left: 1px solid #cccccc;
+    height: initial;
+}
+
+.societyNameInnerContainer {
+    color: #555555;
+    font-size: 11px;
+	line-height: 11px;
+    left: 0;
+    right: 0;
+    text-align: center;
+    top: 50%;
+    transform: translateY(-50%);
+    padding: 5px;
+    position: absolute;
+}
+
+.impact-factor-container, .societyNameContainer {
+    position: relative;
+	height:100%;
+	width: 160px;
+}
+
+.impactFactorInnerContainer, .impactFactorInnerContainerNoFactor {
+    padding: 5px;
+    position: absolute;
+	top: 50%;
+	transform: translateY(-50%);
+}
+
+.impactFactorInnerContainerNoFactor {
+    left: 20px;
+}
+
+.impact-factor-left {
+    border-bottom: 1px solid;
+    border-top: 1px solid;
+    color: #ffffff;
+    font-size: 16px;
+	display: inline;
+	vertical-align: top;
+}
+
+.impact-factor-right {
+    color: #ffffff;
+    font-size: 10.9px;
+	display: inline-block;
+}
+
+.impactFactorContainer:focus .impact-factor-link a, .impactFactorContainer:active .impact-factor-link a{
+    text-decoration: underline; 
+}
+	
+.impact-factor-right:hover, .impact-factor-right:focus, .impact-factor-right:active {
+    text-decoration: underline; 
+}
+.impact-factor-small {
+    display: block;
+}
+
+.impactFactorBackground, .societyNameBackground {
+    opacity: 0;
+    width: auto;
+}
+
+
+.impact-factor-more {
+    font-style: italic;
+    text-align: right;
+}
+
+.headerContainer .shadeImage {
+	opacity:0.2;
+	width:100%;
+	height: 100%;
+}
+
+.headerContainer .societyLogo {
+	height: 100%;
+	width:160px;
+	display:none;
+}
+
+#headerTitleContainer {
+    align-items: center;
+    display: flex;
+    height: 100%;
+	width: 100%;
+}
+
+#headerTitle, #headerTitle h1 {
+	color: #FFFFFF;
+}
+
+#headerTitle, #headerTitle h1 {
+    margin: auto 0;
+	font-size: 0px; /* A hack to prevent the text from showing before the text is resized*/
+}
+
+/*********** NK: CSS classes needed for SAGE-1412 ***********/
+/* The Modal (background) */
+.allPublicationPartnersModal {
+    display: none; /* Hidden by default */
+    position: absolute;
+    z-index: 38999;
+    right: 0px;
+    top: 80px;
+}
+.allPublicationPartnersOutterContainer {
+  height: 100%;
+  color: #fff;
+  width: 40em;/**/
+  background-color: rgba(0, 0, 0, 0.1);
+}
+.allPublicationPartnersInnerContainer {
+  text-align: center;
+  padding-top: 30px;
+  /*width: inherit;*/
+  font-size: 14px;
+}
+.dropdownArrow {
+    color: #fff;
+    float: right;
+	padding-right: 5px;
+    font-size: 26px;
+    font-family: monospace;
+}
+/* Modal Content */
+.allPublicationPartnersContent {
+    background-color: rgba(255, 255, 255, 1);
+    padding: 5px;
+    border: 1px solid #888;
+    max-height: 172px;
+    max-width: 920px;
+	overflow-y: auto;
+	overflow-x: hidden;
+}
+.allPublicationPartnersContentRow {
+	display: inline-flex;
+}
+/* Image Alt text*/
+.societyLogo {
+	display: flex;
+	justify-content: center; /* align horizontal */
+	align-items: center; /* align vertical */
+}
+img.societyLogo {
+	color: #555555;
+	font-size: 11px;
+	line-height: 11px;
+	text-align: center;
+}
+/* The Close Button */ 
+.closeModalButton {
+    color: #aaa;
+    float: right;
+    font-size: 22px;
+    font-family: monospace;
+    font-weight: bold;
+    padding-left: 5px;
+	display: none;
+}
+.closeModalButton:hover, .closeModalButton:focus, .closeModalButton:active {
+    color: #000;
+    text-decoration: none;
+    cursor: pointer;
+}
+/*********** NK: CSS classes needed for SAGE-1412 ***********/
+
+.quickSearchForm {
+    background: white none repeat scroll 0 0;
+    border: 1px solid #cccccc;
+    border-radius: 5px;
+	-webkit-border-radius:5px;
+	-webkit-appearance:none;
+    outline: medium none;
+    padding-top:2px;
+	padding-bottom:2px;
+	padding-left:10px;
+	padding-right:0px;
+}
+
+.quickSearchWidget .mainSearchButton {
+    background: rgba(0, 0, 0, 0) url("/pb-assets/Icons/search-icon.png") no-repeat scroll 0 0;
+    box-shadow: none;
+    float: right;
+    height: 20px;
+    margin-right: 8px;
+    margin-top: 3px;
+    text-indent: 100%;
+    width: 20px;
+}
+
+.quickSearchWidget input[type="search"] {
+    border: none;
+	box-shadow:none;
+    color: #888888;
+    font-size: 14px;
+	width:225px;
+}
+
+.quickSearchWidget input[type="search"]:focus {
+	border:none;
+	box-shadow:none;
+}
+
+.regContHelp {
+	height:30px;
+	width:305px;
+	float:right;
+}
+
+.loginBar {
+    margin: 0;
+}
+
+.sageContactUs, .sageHelp {
+    margin-left:35px;
+}
+.tellUsImage {
+	display: inline;
+}
+.tellUsImage img {
+    width: 20%;
+    max-width: 80px;
+}
+
+.stick-it-wrapper {
+	position: relative;
+	z-index:38125;
+}
+
+#SAGERightColumnStickIt .stick-it-wrapper, .stick-it-wrapper #SAGERightColumnStickIt, .articleRightColumn .stick-it-wrapper{
+	z-index:38115 !important;
+}
+
+p, .literatumPublicationContentWidget .references {
+	color:#333333;
+	font-weight:normal;
+}
+
+.literatumPublicationContentWidget .references {
+	font-size: 14px;
+	line-height:20px;
+}
+
+.literatumPublicationContentWidget table.references tbody {
+    vertical-align: top;
+}
+
+.widget.literatumPublicationContentWidget table.references td {
+    padding-bottom: 15px;
+}
+
+.literatumPublicationContentWidget .references .sfxLink img {
+    vertical-align: middle;
+}
+
+#accessOptionsTop, #accessOptionsBottom  {
+	display: none;
+}
+
+.accessOptionsBar {
+    background: #f7f7f7 none repeat scroll 0 0;
+    border: 2px solid #ac2226;
+    display: block;
+    padding-bottom: 2px; 
+    padding-top: 6px; 
+	text-align: center;
+}
+
+.accessOptionsBar img {
+	vertical-align: middle;
+	width: 31px;
+	margin-top: -4px;
+}
+
+.accessOptionsBar span {
+    font-size: 16px;
+	margin-left: 8px;
+}
+
+.leftAccessOptionsContainer, .centerAccessOptionsContainer, .rightAccessOptionsContainer  {
+    border: 1px solid #cccccc;
+    border-radius: 5px;
+	-webkit-border-radius:5px;
+	-webkit-appearance:none;
+    height: 350px;
+    padding: 0 20px 20px;
+	position: relative;
+}
+
+.accessOptionsContainer .leftAccessOptionsContainer, .accessOptionsContainer .centerAccessOptionsContainer, .accessOptionsContainer .rightAccessOptionsContainer {
+
+    padding: 0 17px 20px;
+}
+
+.loginPageLowerContainer  {
+    border: 1px solid #cccccc;
+    border-radius: 5px;
+	-webkit-border-radius:5px;
+	-webkit-appearance:none;
+    min-height: 200px;
+    padding: 0 20px 20px;
+}
+
+.loginPageUpperContainer {
+	margin-bottom: 20px;
+}
+
+.shibbolethButton a, .athensButton a, .buyAccessButton a, .societyMembershipButton a, .institutionalSubscriptionButton a {
+    height: auto;
+    margin-bottom: 10px;
+    max-width: 225px;
+    min-height: 34px;
+    width: 75%;
+}
+
+.accessOptionsContainer  .shibbolethButton a, .accessOptionsContainer .athensButton a, .accessOptionsContainer .buyAccessButton a {
+    margin-bottom: 10px;
+	padding-left: 10px;
+    padding-right: 10px;
+}
+
+.shibbolethButton, .societyMembershipButton {
+	margin-top: 3px;
+}
+
+.registerSubscribe {
+    margin-top: -20px;
+}
+
+.buyAccessButton {
+    margin-top: 17px;
+	margin-bottom: 50px;
+}
+
+.addOffer {
+    margin-top: 10px;
+}
+
+.articleAccessOptionsContainer {
+    margin-top: 5px;
+}
+
+.sage-navbar{
+	background-color:#f0f0f0;
+}
+
+.articleCover .journalNavTitle {
+    display: none;
+}
+
+.journalCover img, .articleCover img {
+    min-width: 195px;
+	max-width:225px;
+}
+
+.articleCover img, .loiJournalCover img{
+    display: block;
+	margin-top:10%;
+	margin-bottom:10%;
+	margin-left:auto;
+	margin-right:auto;
+
+}
+
+.article-header-padding {
+    margin-top: 5px;
+}
+
+.literatumPublicationContentWidget  .publicationContentTitle h1, .literatumPublicationContentWidget  .publicationContentSubTitle h1, .accessDenialWidget  .publicationContentTitle h1, .accessDenialWidget  .publicationContentSubTitle h1 {
+    color: #555555;
+    padding: 0;
+}
+.literatumPublicationContentWidget  .publicationContentTitle h1, .accessDenialWidget  .publicationContentTitle h1{
+    font-size: 19px;
+	font-weight: bold;
+    line-height: 24px;
+}
+.literatumPublicationContentWidget  .publicationContentSubTitle h1, .accessDenialWidget   .publicationContentSubTitle h1{
+    font-size: 18px;
+	font-style: italic;
+}
+.literatumPublicationContentWidget .publicationContentTitle .publicationContentLongTitle h1, .accessDenialWidget  .publicationContentLongTitle h1{
+    font-size: 16px;
+    font-weight: bold;
+}
+.articleTabContainer, .articleToolsContainer, .TOCToolsContainer  {
+    width: 100%;
+}
+
+.articleToolsContainer, .TOCToolsContainer {
+	border-top: none;
+}
+
+.alertsWidget a{
+    color: #555555;
+    font-size: 16px;
+}
+
+#openAccessSideMenu .showFullText {
+	position: relative;
+}
+
+#openAccessSideMenu .showFullText .article-section-controller{
+    display: none;
+}
+
+#openAccessSideMenu .showFullText.collapsible-container .article-section-controller {
+    color: transparent;
+}
+
+.articleContentsTitle h2 {
+    padding-top: 0px;
+	border-bottom: 1px solid #cccccc;
+	padding-bottom:12px;
+	margin-bottom: 0px;
+	font-size: 18px;
+	color:#555555;
+	font-weight:normal;
+}
+
+.articleContentsTitle  {
+	text-align:center;
+    padding-left: 20px;
+    padding-right: 20px;
+	margin-bottom: 5px;
+}
+
+.rightslinkButton a {
+    background-color: #796c83;
+    border: medium none;
+    border-radius: 5px;
+	-webkit-border-radius:5px;
+	-webkit-appearance:none;
+    color: #ffffff;
+    font-size: 14px;
+    height: 34px;
+    padding: 10px 50px;
+}
+
+.rightslinkButton a:hover {
+	background-color:#5F4D6D;
+}
+
+#articleShareContainer h4 {
+    margin-top: 0;
+}
+
+.mailToLabel, .mailFromLabel, .nameLabel, .subjectLabel {
+	font-size: 14px;
+	color: #333333;
+}
+
+.mailToLabel::before, .mailFromLabel::before, .nameLabel::before, .subjectLabel::before {
+    color: #e13345;
+    content: "*";
+}
+
+.bookmarkAndShare {
+    border-bottom: 1px solid #cccccc;
+	padding-bottom: 15px;
+}
+
+.addthis_toolbox a {
+    margin-right: 5px;
+}
+
+.addthis_toolbox a:focus {
+    outline: 1px dotted blue;
+}
+
+#emailColleague .pageTitleArea  h4 {
+	margin-bottom:0;
+}
+
+#emailColleague .pageTitleArea {
+    margin-top: 15px;
+}
+
+#articleShareContainer .at-icon-wrapper {
+    visibility: hidden;
+}
+
+.addthis_button_twitter {
+    background: rgba(0, 0, 0, 0) url("/pb-assets/Icons/Twitter-icon.png") no-repeat scroll 0 0;
+	margin-left: 10px;
+}
+
+.addthis_button_facebook {
+    background: rgba(0, 0, 0, 0) url("/pb-assets/Icons/Facebook-icon.png") no-repeat scroll 0 0;
+}
+
+.addthis_button_linkedin {
+    background: rgba(0, 0, 0, 0) url("/pb-assets/Icons/Linkedin-icon.png") no-repeat scroll 0 0;
+}
+
+.addthis_button_google_plusone_share {
+	background: rgba(0, 0, 0, 0) url("/pb-assets/Icons/Google-plus-icon.png") no-repeat scroll 0 0;
+}
+
+.addthis_button_compact {
+	background: rgba(0, 0, 0, 0) url("/pb-assets/Icons/addthis.png") no-repeat scroll 0 0;
+}
+
+.mailPage form input[type="checkbox"] {
+    margin-right: 10px;
+}
+
+#sendCopy:focus {
+    box-shadow: 0px 0px 4px 1px rgba(140,140,180,0.8);
+}
+.checkBox:hover {
+    text-decoration: underline;
+}
+.shareSubmitButton {
+	text-decoration:none;
+	border-radius:5px;
+	-webkit-border-radius:5px;
+	-webkit-appearance:none;
+	padding-bottom:8px;
+	padding-top:8px;
+	padding-left: 30px;
+	padding-right: 30px;
+	color:#FFFFFF;
+	background-color:#796c83;
+	font-size: 14px;
+	border: none;
+	width:115px;
+	float:left;
+	height: 34px;
+	width:100px;
+}
+
+.shareSubmitButton:hover {
+	background-color:#5F4D6D;
+}
+
+.shareCancelButton a {
+    float: right;
+	padding-left: 20px;
+	padding-right: 20px;
+	width: 55px;
+}
+
+.permissionsToolContainer {
+    display: none;
+}
+
+.permissionsTool {
+    text-align: center;
+}
+
+.articleToolsLinks .width_1_1 > div {
+    display: flex;
+    justify-content: space-around;
+}
+
+.articleCitationDownloadMenu #slct_format {
+    border: 2px solid #cccccc;
+    border-radius: 5px;
+	-webkit-border-radius:5px;
+    color: #555555;
+    font-size: 14px;
+    padding: 5px;
+    width: 220px;
+}
+
+.articleCitationDownloadText p {
+    font-size: 14px;
+}
+
+.articleCitationDownloadMenu .formats th, .articleCitationDownloadMenu .helpLink {
+    display: none;
+}
+
+.articleCitationDownloadMenu .formbutton { /* redButton smallButton */
+	text-decoration:none;
+	border-radius:5px;
+	-webkit-border-radius:5px;
+	-webkit-appearance:none;
+	height:34px;
+	color:#FFFFFF;
+	background-color:#AC2226;
+	font-size: 14px;
+	font-weight: bold;
+	border: none;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+.articleCitationDownloadMenu .submit input:nth-child(2) {
+    float: right;
+}
+
+.articleCitationDownloadMenu .formbutton:hover {
+	background-color:#990000;
+}
+
+.articleCitationDownloadMenu .format-select, .articleCitationDownloadMenu .formats td {
+    margin: 0;
+    padding: 0;
+}
+
+.refWorksCitationWidget textarea {
+    font-size: 100% !important;
+}
+
+.refWorksCitationWidget input {
+	text-decoration:none;
+	border-radius:5px;
+	-webkit-border-radius:5px;
+	-webkit-appearance:none;
+	height:34px;
+	color:#FFFFFF;
+	background-color:#AC2226;
+	font-size: 14px;
+	font-weight: bold;
+	border: none;
+    padding-left: 10px;
+    padding-right: 10px;
+	margin-left: 20px;
+}
+
+.recommendCitationTitle p {
+    margin-top: 0;
+}
+
+.citationsTool, .permissionsTool, .shareTool {
+	cursor: pointer;
+}
+
+.articleToolPanelClose {
+    cursor: pointer;
+    position: absolute;
+    right: 15px;
+    top: 15px;
+}
+
+.articleToolPanelClose:hover, .articleToolPanelClose:focus, .articleToolPanelClose:active {
+	box-shadow: 0px 0px 4px 1px rgba(140,140,180,0.8);
+}
+.articleToolsLinks p {
+    font-size: 16px;
+    text-align: center;
+	margin-top:0px;
+}
+
+.articleToolsLinks h3 {
+    color: #AC2226;
+    font-size: 16px;
+    line-height: 26px;
+    margin-top: 0;
+    text-align: center;
+}
+
+.PDFTool img {
+		margin-left: 7px;
+	  position: relative;
+	  top: 5px;
+}
+
+.PDFTool a {
+    padding-right: 50px;
+    padding-left: 60px;
+}
+
+.badge-bar {
+    padding-top: 10px;
+    padding-bottom: 2px;
+}
+
+.badge-bar-mobile {
+	display: none;
+}
+.badge-bar .PDFTool a {
+    padding-right: 20px;
+    padding-left: 20px;
+}
+.badge-bar .articleInfoLink a {
+	font-size:14px;
+	cursor:pointer;
+	margin-left: 35px;
+}
+
+.articleToolsLinks .PDFTool a {
+	width: 175px;
+}
+
+.PDFText {
+    float: left;
+    width: 100px;
+}
+
+.articleCitationDownloadMenu p, .articleCitationDownloadMenu .articleList {
+    display: none;
+}
+
+#articleCitationDownloadContainer, #articleShareContainer, #articlePermissionsContainer {
+    background: #ffffff none repeat scroll 0 0;
+    border: 2px solid #796c83;
+    display: none;
+    margin-left: auto;
+	margin-right: auto;
+	left: 0;
+	right: 0;
+    position: fixed;
+    z-index: 38150; 
+	width:225px;
+	padding: 15px;
+	top: 60px;
+}
+
+.articleCitationDownloadText .authorList p, .articleCitationDownloadText .recommendCitationJournalTitle p{
+    line-height: 18px;
+}
+
+.requestPermissions {
+    text-align: center;
+}
+
+.clearingCentreButton a {
+    width: 145px;
+}
+
+.authorList contrib-id, .authorList aff, .authorList xref, .authorList p:not(:first-child) { /*To get rid of the author bio in the citation panel*/
+    display: none;
+}
+
+.emailShareTool #mailTo, .emailShareTool #mailFrom, .emailShareTool #name, .emailShareTool #subject, .emailShareTool #message {
+    border-color: #cccccc;
+    border-radius: 5px;
+	-webkit-border-radius:5px;
+	-webkit-appearance:none;
+    border-style: solid;
+    border-width: 1px;
+    width: 100%;
+}
+
+.emailShareTool #mailTo, .emailShareTool #mailFrom, .emailShareTool #name, .emailShareTool #subject {
+    height: 30px;
+}
+
+.emailShareTool #message {
+    height: 60px;
+}
+
+.articleContent .tabs .tab-nav li {
+    display: none;
+}
+
+.articleContentsLinks li {
+    list-style: outside none none;
+}
+
+.articleContentsLinks .showFullText .noAccess, .articleToc li.noAccess {
+    color: lightgray;
+}
+
+.articleToc ul li.noAccess {
+    background: rgba(0, 0, 0, 0) none repeat scroll 0 0;
+}
+
+.articleToc li.showFigure h3, .articleToc li.showFigure span,  .articleToc li.articleMetrics h3{
+    display: none;
+}
+.articleToc li.showFigure a:after, .articleToc li.articleMetrics a:after {
+	font-size: 15px;
+	color: #AC2226;
+	line-height: 47px;
+	font-weight: bold;
+}
+.articleToc li.showFigure span:after {
+	font-size: 16px;
+	color: lightgrey;
+}
+.articleToc li.showFigure a:after, .articleToc li.showFigure span:after {
+	content:"Figures";
+	margin: 0 15px;
+}
+.articleToc li.articleMetrics a:after {
+	content:"Metrics";
+	margin: 0 15px;
+}
+.articleToc .toc-list-title {
+	display:none;
+}
+
+.articleContentsLinks  .comments { /* Comments are out of scope for the first release*/
+	display: none;
+}
+
+.articleToc ul li {
+    background: none;
+	display: inline-flex;
+}
+
+.toc-quick-links ul li {
+	border-bottom:2px solid #EEEEEE;
+}
+
+.articleToc ul li:last-child, .toc-quick-links   ul li:last-child, .articleToc ul li:nth-last-child(2) { /*last child is comments which is out of scope, so removing the border form 2nd to last child  */
+	border-bottom:none;
+}
+
+.articleToc li.showFullText ul li a, .articleToc li.showFullText ul li span{
+	border-bottom:none;
+	padding-left: 70px;
+	width:inherit;
+}
+
+.articleToc ul li.selected h3 , .toc-quick-links ul li.selected > a, .articleToc ul li.selected > a{
+    background-color: #796c83;
+	color:#FFFFFF;
+}
+
+.articleToc ul ul a  {
+    padding: 7px 5px 7px 40px;
+}
+
+.articleToc ul ul li, .toc-quick-links ul ul li {
+    border-bottom: none;
+}
+
+.articleToc ul li.selected h3, .toc-quick-links ul li.selected > a {
+    font-weight: normal;
+}
+
+.articleToc ul, .toc-quick-links ul {
+    margin-bottom: 0;
+}
+
+.toc-quick-links ul {
+    max-height: 170px;
+    overflow-y: auto;
+    padding-left: 0;
+}
+
+.toc-quick-links ul a, .toc-quick-links ul span {
+    display: block;
+    padding: 7px 5px 7px 20px;
+}
+
+.toc-quick-links ul a:hover {
+    background: #d7d7d7 none repeat scroll 0 0;
+}
+
+.articleJournalTOCButton a, .articleAllArticlesButton a{
+	width: 175px;
+}
+
+.articleJournalTOCButton a{
+	margin-bottom:20px;
+	margin-top: 20px;
+}
+
+.articleToolsLinks {
+    padding-top: 20px;
+}
+
+.articleAlerts .alertsWidget h3, .articleAlerts .alertsWidget #rssAlert {
+    display: none;
+}
+
+.articleContentsLinks a, .articleContentsLinks span {
+    line-height:25px;
+}
+
+.articleLinkList {
+	padding:0;
+}
+
+.ecommAbs .tabs-widget .tab-content, .ecommAbs .tabs-widget .tab-nav {
+	border: none;
+}
+
+.articleTabContainer .articleToc ul h3 {
+    padding: 0;
+}
+
+.articleToc ul a, .articleToc ul span {
+    padding: 0;
+}
+
+.articleContentsLinks  li.showFullText h3, .articleContentsLinks  li.showFullText a {
+    background-image: none;
+}
+.articleContentsLinks li.showSuppl h3, .articleContentsLinks li.showSuppl a {
+    background-image: none;
+}
+.articleContentsLinks li.showFigure h3, .articleContentsLinks li.showFigure a {
+    background-image: none;
+}
+.articleContentsLinks li.articleMetrics h3, .articleContentsLinks li.articleMetrics a {
+    background-image: none;
+}
+.articleContentsLinks li.RelatedArticles h3, .articleContentsLinks li.RelatedArticles a {
+    background-image: none;
+}
+.articleContentsLinks li.comments h3, .articleContentsLinks li.comments a {
+    background-image: none;
+}
+
+.articleContentsLinks .showFullText li {
+    color: #555555;
+    font-size: 16px;
+	line-height: 30px;
+}
+
+.articleContentsLinks .showFullText ul li a {
+    line-height: 30px;
+    margin-bottom: 0;
+}
+
+.denial-page-divider, .society-denial-login-link {
+    border-top: 1px solid #cccccc;
+    padding-top: 0;
+    margin-top: 15px;
+}
+
+.denial-page-divider .widget-body, .society-denial-login-link .widget-body {
+    padding-top: 0;
+}
+.smallButton.blueGrayButton.patientAccess a {
+    padding-left: 56px;
+    padding-right: 56px;
+}
+
+.patientAccess ul {
+    padding: 0;
+}
+
+.accessOptionsContainer h3 {
+    margin-bottom: 3px;
+}
+
+.accessDenialWidget .accessOptionsContainer {
+    margin-top: 0px;
+}
+
+.accessDenialWidget .transplant {
+    margin: 0;
+}
+
+.accessDenialWidget .transplant .widget-body {
+    padding: 0;
+}
+
+input.defButton[name="addToCart"] {
+    text-decoration: none;
+    border-radius: 5px;
+	-webkit-border-radius:5px;
+	-webkit-appearance:none;
+    height: 34px;
+    padding-left: 10px;
+    padding-right: 10px;
+    color: #FFFFFF;
+    background-color: #796c83;
+    font-size: 14px;
+    border: none;
+	width: 100%;
+	max-width: 225px;
+	margin-bottom: 10px;
+}
+
+.accessDenialWidget .loginWidget .formbutton {
+    margin-top: 10px;
+}
+
+.accessDenialWidget .registerSubscribe {
+    font-style: italic;
+}
+
+input.defButton[name="addToCart"]:hover {
+	background-color: #5F4D6D;
+}
+
+.articleContent .ArticleType strong, .accessDenialWidget .ArticleType strong {
+    display: none;
+}
+
+.articleEntry .ArticleType {
+    display: none;
+}
+
+.accessDenialWidget .tab-nav {
+	display: none;
+}
+
+.accessDenialWidget .sectionInfo, .accessDenialWidget .references {
+	display: none;
+}
+
+.accessDenialWidget .hlFld-Abstract .sectionInfo {
+	display: block;
+}
+
+.articleContent .ArticleType {
+    color: #555555;
+    font-size: 14px;
+    border-left: 1px solid #cccccc;
+    padding-left: 10px;
+    margin-left: 5px;
+}
+
+.sectionJumpTo {
+    display: none;
+}
+
+.articleContent .showFiguresEEvent img {
+    max-width: 100%;
+}
+
+.NLM_bio {
+    display: block;
+    margin-top: 35px;
+}
+
+.NLM_bio .title {
+    font-size: 18px;
+    color: #555555;
+    font-weight: bold;
+}
+
+.NLM_contrib-group .NLM_bio {
+    display: none;
+}
+
+.expandable-author .NLM_bio {
+	display: none;
+}
+
+.author-container > .expandable-author {
+	font-size: 14px;
+}
+
+/* NK 20170612 [SAGE-204] Commented because even after focus, link doesn't respond to <Enter> press
+.author-container:focus > .expandable-author, .author-container:active > .expandable-author,*/
+.author-container:hover > .expandable-author {
+	text-decoration: underline;
+}
+
+#expandableAuthorArrow {
+	display: inline-block;
+	float: right;
+	transform: translateY(-2px);
+}
+
+.more-than {
+	font-size: 14px;
+	color: #555555;
+}
+.publicationContentAuthors span.more-than:before {
+    content: "more";
+}
+
+#articleInfo {
+	display:none;
+	border-bottom: 1px solid #CCCCCC;
+	font-size:14px;
+	color: #333333;
+	padding-bottom: 15px;
+}
+
+#articleInfo b {
+    font-weight: normal;
+}
+
+#articleInfo .copyRight {
+    margin-bottom: 20px;
+    margin-top: 20px;
+}
+
+.articleInfoBadge, .pdfBadge {
+    text-align: center;
+}
+
+.articleInfoBadge img, .pdfBadge img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.pdfBadge a {
+	text-decoration:none;
+	font-size:14px;
+	color:#555555;
+}
+
+.badgeBar .articleBadges img {
+    margin-right: 2px !important;
+    vertical-align: middle;
+	max-height: 31px;
+	width: auto;
+}
+
+.articleBadges .altmetric-embed a {
+    vertical-align: middle;
+}
+.altmetric-embed a:focus, .altmetric-embed a:active {
+	border: 1px dotted blue;
+}
+
+.badgeBar .articleBadges {
+    float: right;
+    margin-top: 15px;
+}
+
+.abstractSectionHeading h2 {
+    margin: 0;
+}
+
+.articleInfoBadge span {
+	font-size:14px;
+	color:#555555;
+}
+
+.articleInfoBadge  {
+    width: 55px;
+	cursor:pointer;
+}
+
+.articleMeta {
+	margin-top:0;
+}
+
+.retracted-publication {
+	display: none;
+}
+
+.publicationContentTitle {
+    margin-bottom: 0;
+	width:100%;
+}
+
+.publicationContentDoi {
+    display: none;
+}
+
+.publicationContentEpubDate , .publicationContentAuthors a  {
+	font-size: 14px; 
+}
+.publicationContentAuthors {
+    margin-bottom: 10px; 
+}
+
+.publicationContentAuthors .authorLayer a {
+    font-size: 12px;
+}
+
+.publicationContentAuthors .authorLayer .header a {
+    font-size: 16px;
+}
+.publicationContentAuthors .authorLayer .header a:hover, .publicationContentAuthors .authorLayer .header a:focus, .publicationContentAuthors .authorLayer .header a:active {
+	text-decoration: underline !important;
+}
+
+.publicationContentAuthors .NLM_xref-aff, .tocAuthors sup, .publicationContentAuthors .authorLayer sup {
+    display: none;
+}
+
+.articleContent .contribDegrees {
+    padding-right: 0;
+}
+
+.contribDegrees .authorLayer, .contribDegrees .authorLayer .header a {
+    color: #333333;
+}
+.contribDegrees .authorLayer .header a:hover, .contribDegrees .authorLayer .header a:focus, .contribDegrees .authorLayer .header a:active {
+    text-decoration: underline; 
+}
+
+.contribDegrees .authorLayer {
+    border: 1px solid #cccccc;
+    border-radius: 5px;
+	-webkit-border-radius:5px;
+	-webkit-appearance:none;
+	top:-5px;
+	left: 0;
+}
+
+.publicationContentEpubDate b {
+    font-weight: normal;
+}
+
+.publicationContentEpubDate {
+	color:#555555;
+	font-size:14px;
+	margin-bottom:10px;
+}
+
+.literatumPublicationContentWidget p, .literatumPublicationContentWidget .references, .articleContent .sub-article-product {
+	margin-left:20px;
+}
+
+.literatumPublicationContentWidget .quote p {
+    font-size: 15px;
+    line-height: 24px;
+    margin-left: 40px;
+}
+
+.sectionInfo .sectionHeading {
+    font-size: 18px;
+    color: #555555;
+	font-weight:bold;
+	float: none; 
+}
+.sectionInfo .fn-label { 
+    font-size: inherit;
+    font-weight:normal;
+	margin-left: 0px;
+	margin-right: 10px;
+}
+.sectionInfo .fn-group br { 
+	display: none;
+}
+.fn-label {
+    font-size: 18px; /* Same as h3 */
+    color: #555555;
+    font-weight:bold;
+	margin-left: -20px; 
+}
+/* To mimic section headings */
+span.NLM_fn p span.NLM_fn {
+    margin-left: -20px;
+    font-size: 18px;
+    font-weight: bold;
+    color: #555;
+    padding-bottom: 1em;
+    display: block;
+}
+
+/* To mimic section headings */
+.NLM_bio p.bioTitle {
+    font-size: 18px;
+    margin-left: 0;
+    color: #555;
+    margin-bottom: 25px;
+}
+
+.citedBySection .sectionInfo .sectionHeading {
+	display: none;
+}
+
+
+
+.hlFld-KeywordText b {
+    display:inline;
+	line-height:2.8;
+	margin-left: -20px;
+}
+
+.hlFld-KeywordText b:after {
+    content:"\a";
+    white-space: pre;
+}
+
+.hlFld-KeywordText {
+    color: #555555;
+    font-size: 18px;
+	margin-bottom:30px;
+	margin-left: 20px;
+}
+
+.hlFld-KeywordText a {
+    font-size: 16px;
+}
+
+.abstractKeywords {
+    border-bottom: 1px solid #CCCCCC;
+    margin-bottom: 10px;
+}
+.articleContent sig-block {
+    text-align: right;
+    width: 100%;
+}
+.articleContent sig-block i, .articleContent sig-block sig {
+    display: block;
+}
+.articleContent .sub-article-product-source {
+    font-weight: bold;
+    margin-top: 30px;
+}
+
+.articleContent .sub-article-product-authors {
+    list-style: outside none none;
+    padding: 0;
+	margin: 0;
+}
+
+#figureViewer-wrap, #figureViewer-wrap, .tableWrapper {
+	z-index:38120 !important;
+}
+
+.figure {
+    margin-left: 20px;
+}
+
+.media .player-container {
+    margin-left: 20px;
+}
+
+.single_highlight_class {
+    background-color: #ffffb3;
+}
+
+.cme-highlight {
+    background-color: #FFD800;
+}
+
+.literatumPublicationContentWidget li p, .caption p, .figure.refFigure {
+    margin-left: 0;
+}
+
+.articleJournalNavTitle {
+    border-bottom: 1px solid #CCCCCC;
+    padding-bottom: 10px;
+    text-align: center;
+}
+
+.PDFTool {
+    margin-bottom: 15px;
+    margin-top: 15px;
+}
+
+.articleJournal {
+    padding-left: 20px;
+    padding-right: 20px;
+	margin-bottom: 0;
+}
+
+#OFIssue {
+	display: none;
+}
+
+.articleTOCOuterContainer, .TOCTOCOuterContainer {
+	border-top-left-radius:5px;
+	border-top-right-radius:5px;
+}
+
+.contentsToolsContainer {
+	border-bottom-left-radius:5px;
+	border-bottom-right-radius:5px;
+	position: relative;
+	z-index: 2;
+}
+
+.articleTOCContainer, .articleTabContainer, .articleToolsContainer, .TOCToolsContainer  {
+	background-color: #FFFFFF;
+}
+
+.articleTabContainer {
+	border-top-left-radius: 5px;
+	border-top-right-radius: 5px;
+	margin-bottom: 3px;
+}
+
+.articleTOCContainer, .articleToolsContainer, .TOCToolsContainer {
+	border-radius: 5px;
+	-webkit-border-radius:5px;
+	-webkit-appearance:none;
+}
+
+
+.articleMetricsContainer h2 {
+    display: none;
+}
+
+.no-bottom-margin h2 {
+	margin-bottom: 0;
+}
+
+
+.literatumArticleMetricsWidget {
+    float: none;
+    width: 100%;
+}
+
+.literatumArticleMetricsWidget .articleMetricsContainer .title {
+	font-size: 16px;
+	color: #333333;
+	margin-bottom: 20px;
+}
+.literatumArticleMetricsWidget .metricsAbout {
+	display:none;
+}
+
+.literatumArticleMetricsWidget .altmetric-container {
+    float: none;
+    width: 100%;
+}
+.metricsDescription p {
+	margin-left: 0;
+}
+
+.articleMetricPanel .publicationContentLicenseTagging {
+    display: none;
+}
+
+#bookshelf-container .slide-opener:focus {
+	text-decoration: underline;
+}
+
+#bookshelf-container .slide-opener.open {
+    background: #ac2226 none repeat scroll 0 0 !important; 
+}
+
+#bookshelf-container .slide-opener.open:hover {
+    background: #990000 none repeat scroll 0 0 !important; 
+}
+
+#bookshelf-container .result-content p {
+    font-size: 13px;
+	line-height: 1.2;
+}
+#bookshelf-container .side-slide {
+    width: 355px !important;
+	z-index: 38999 !important;
+}
+.figuresContent .holder, .figuresContent .holder img {
+    border: 1px solid #cccccc;
+    border-radius: 5px;
+	-webkit-border-radius:5px;
+	-webkit-appearance:none;
+    position: relative;
+}
+
+.figuresContent .holder {
+	margin-bottom: 25px;
+
+}
+
+.figuresContent .holder img {
+	display: block;
+	margin-right:auto;
+	margin-left:auto;
+	margin-top: 40px;
+	padding: 20px;
+}
+a.thumbnail.showFiguresEEvent:focus img, .figuresContent .holder img:hover, .figuresContent .holder img:active {
+    box-shadow: 0px 0px 10px 5px rgba(140,140,180,0.8); 
+}
+.figuresContent .captionLabel {
+    left: 10px;
+    position: absolute;
+    top: 10px;
+}
+
+.NLM_sec_level_1 .downLoadOptions, .hlFld-Fulltext  .downLoadOptions{
+	display: none;
+}
+
+/*This is in place as a band-aid for SAGE-540*/
+.NLM_sec_level_1 {
+    font-size: 16px;
+    line-height: 26px;
+	color: #333333;
+}
+
+#figureViewer-footer, #refViewer-footer {
+    display: none;
+}
+
+.balloon .close:focus, .balloon .close:active {
+	box-shadow: 0px 0px 4px 1px rgba(140,140,180,0.8);  
+}
+.figuresContent .balloon .refLink {
+	display:none;
+}
+
+.pdfSlide a, .largImage a, .powePointSlide a { /* bluegraybutton mediumbutton */
+	font-size:15px;
+	padding-bottom:13px;
+	padding-top:13px;
+	font-weight:bold;
+	color:#FFFFFF;
+	background-color:#796c83;
+	border-radius: 5px;
+	-webkit-border-radius:5px;
+	-webkit-appearance:none;
+	display:inline-block;
+	width: 100%;
+}
+
+.pdfSlide , .largImage , .powePointSlide {
+	width:185px;
+}
+
+.pdfSlide {
+	float:left;
+	margin-left: 10px;
+}
+
+.powePointSlide {
+	float: right;
+	margin-right: 10px;
+}
+
+.largImage {
+    display: inline-block;
+}
+
+.pdfSlide a:hover, .largImage a:hover, .powePointSlide a:hover { /* bluegraybutton mediumbutton */
+	background-color:#5F4D6D;
+}
+
+.figuresContent .holder .downLoadOptions {
+    margin-bottom: 25px;
+	margin-top: 35px;
+	text-align: center;
+}
+
+.pdfSlide .thumbnail {
+    display: none;
+}
+
+.figuresContent .holder .caption{
+	padding: 10px;
+}
+
+.figuresContent .holder .caption:before {
+	content:"Description";
+    color: #333333;
+    font-size: 16px;
+    font-weight: bold;
+    line-height: 26px;
+}
+
+.citedByEntry {
+    margin-bottom: 10px;
+}
+
+.citedbySubHeader h4, .similarContentHeading  h4 {
+	margin-top: 40px;
+}
+
+.articleUsage {
+    font-size: 16px;
+}
+
+/* Journals */
+
+.references .sfxLink {
+	margin-left: 10px;
+}
+
+.articleEntry .sfxLink {
+    display: none;
+}
+
+.journalHomeFourRight {
+	width:300px;
+	margin-left:auto;
+	margin-right:auto;
+}
+.journalHomeFourLeft {
+	width: 100%;
+}
+
+.JournalRightInsideContainer {
+	background-color: #FFFFFF;
+	border-radius: 5px;
+	-webkit-border-radius:5px;
+	-webkit-appearance:none;
+}
+
+.JournalRightOutsideContainer {
+    background-color: #eeeeee;
+    border-radius: 5px;
+	-webkit-border-radius:5px;
+	-webkit-appearance:none;
+    padding: 10px;
+	width: 280px;
+	margin: auto;
+}
+
+.journalCarousel .slideshowWidget .slides .journalCarouselContainer {
+    margin: 0 0.5%;
+    position: relative;
+    border: 1px solid #cccccc;
+}
+
+.journalCarousel .slideshowWidget .slide {
+    position: inherit;
+}
+
+.journalHomeCarousel  {
+	margin-bottom: 40px;
+	display: none;
+}
+
+#pb-editor .journalHomeCarousel  {
+	display: block;
+}
+
+.journalCarousel .slideshowWidget {
+    margin-left: 0 !important;
+    width: 100% !important;
+}
+
+.journalCarousel .slidePort {
+    height: auto !important;
+    width: 100% !important;
+}
+
+.slideshowWidget .slides .slide > div {
+    height: auto !important;
+    width: 100% !important;
+}
+
+.journalCarouselBackgroundImage, .journalCarouselOverlay  {
+    display: none;
+}
+
+.journalCarouselContainer {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+}
+
+.journalCarouselText {
+	width: 100%;
+}
+
+.backgroundJournalCarousel .journalCarouselText p{
+	color:#333333;
+    margin-left: 35px;
+    margin-right: 45px;
+}
+.nobackgroundJournalCarousel .journalCarouselText {
+    display: flex;
+    flex-direction: column;
+    height: 314px;
+}
+.nobackgroundJournalCarousel .journalCarouselText p{
+	color:#555555;
+    margin-left: 35px;
+    margin-right: 45px;
+}
+
+.backgroundJournalCarousel .journalCarouselTextButton a {
+    border: 1px solid #333333;
+    border-radius: 5px;
+	-webkit-border-radius:5px;
+	-webkit-appearance:none;
+    margin-left: auto;
+    margin-right: auto;
+    padding-bottom: 6px;
+    padding-top: 6px;
+	padding-left: 30px;
+	padding-right: 30px;
+    text-align: center;
+    width: 100px;
+	color: #333333;
+	font-size: 16px;
+}
+
+.nobackgroundJournalCarousel .journalCarouselTextButton a {
+    border-radius: 5px;
+	-webkit-border-radius:5px;
+	-webkit-appearance:none;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    width: 100px;
+	color: #ffffff;
+}
+
+.journalCarouselTextButton {
+    margin-bottom: 20px;
+	margin-top: auto;
+}
+
+.journalCarousel  .nobackgroundJournalCarousel .journalCarouselTextButton a, .journalCarousel  .backgroundJournalCarousel .journalCarouselTextButton a {
+	display: block;
+}
+
+.slideshowWidget .slide a {
+    display: inline;
+}
+
+.slideshowWidget .slide a:hover, .slideshowWidget .slide a:focus, .slideshowWidget .slide a:active {
+    text-decoration: underline !important; 
+}
+.slideshowWidget .navIndicator li {
+    height: 13px;
+    width: 13px;
+}
+
+.slideshowWidget .navIndicator {
+    height: 20px;
+    margin: 15px 0;
+}
+
+.slideshowWidget .navIndicator .active, .navIndicator .active:hover {
+    background-color: #ac2226;
+}
+
+.slideshowWidget .navIndicator li {
+    margin: 5px 8px 0;
+}
+
+.slideshowWidget .navIndicator li:focus{
+	background-color: #369;
+}
+
+.currentIssueCover .cover {
+	display:table-footer-group;
+	float:none;
+}
+
+.currentIssueCover .journal {
+    background: none;
+    display: table;
+    margin-bottom: 0;
+    margin-left: auto;
+    margin-right: auto;
+    width: 90%;
+}
+
+.currentIssueCover .journal .info br{
+	display:none;
+}
+
+.currentIssueCover img {
+    border: 2px solid #eeeeee;
+    height: 170px;
+    margin-left: auto;
+    margin-right: auto;
+    width: auto;
+}
+
+.currentIssueCover .journal h2 {
+	font-size:18px;
+	color:#555555;
+}
+
+.currentIssueContainer {
+    background-color: #ffffff;
+    border-radius: 5px;
+	-webkit-border-radius:5px;
+	-webkit-appearance:none;
+	padding-bottom: 10px;
+}
+
+.TOCTopButton {
+	margin-top: 7px;
+}
+
+.TOCMiddleButton {
+	margin-top: 10px;
+}
+
+.journalHomeLoiButton {
+    margin-bottom: 18px;
+}
+
+.journalHomeTOCButton a, .journalHomeLoiButton a {
+    padding-left: 50px;
+    padding-right: 50px;
+	width:140px;
+}
+
+.publicationCoverImage {
+    text-align: center;
+	padding: 10px;
+}
+
+.journalQuickSearch {
+    width: 100%;
+	padding-top: 2px; 
+}
+.journalQuickSearch .textIndent {
+    text-indent: 0;
+}
+
+.searchDropDownDivLeft {
+    display: none;
+}
+
+.journalAdvancedSearch a {
+    color: #333333;
+    font-size: 14px;
+	float: right;
+}
+
+.journalNavInnerContainer .journalAdvancedSearch a {
+	float: none;
+	position: relative;
+	top: -30px;
+	left: -70px;
+}
+
+.journalAdvancedSearch .widget-body.body.body-none.body-compact-all {
+    height: 0;
+}
+
+.mobile-adv-search-link {
+    margin: 0;
+}
+
+.mobile-adv-search-link a {
+    color: #555555;
+    font-size: 16px;
+    font-weight: normal;
+    padding: 10px 20px;
+    display: block;
+}
+
+.mobile-adv-search-link a:hover {
+    background-color: #888888;
+	color: white;
+}
+
+.journalMenus .primaryNav li a {
+    border-left: 1px solid #bababa;
+}
+
+.journalSearchContainer {
+    float: right;
+    width: 300px;
+}
+
+.journalNavContainer .journalMenus nav > ul > li:first-child a {
+    border-left: 0 none;
+    margin-left: -10px;
+}
+
+.journalMenus .primaryNav li ul li:first-child a {
+    padding-left: 20px;
+}
+
+.journalMenus .primaryNav {
+    border-top: medium none;
+	list-style: outside none none;
+    filter: none;
+    height: auto;
+    margin: 0;
+    padding: 0;
+    position: relative;
+    width: 100%;
+/*    z-index: 38050;*/
+}
+
+.journalNavContainer, #portalMobileMenus {
+    background-color: #f7f7f7;
+    border-bottom: 1px solid #cccccc;
+}
+
+.journalNavContainer  .journalMenus .primaryNav li a, .portalHeader  .portalMenus .primaryNav li a{
+    color: #555555;
+    font-size: 16px;
+    font-weight: normal;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+.journalNavContainer  .journalMenus .primaryNav li a:hover, .portalHeader  .portalMenus .primaryNav li a:hover, #portalMobileMenus  .journalMenus .primaryNav li a:hover, #portalMobileMenus  .portalMenus .primaryNav li a:hover,
+.journalNavContainer  .journalMenus .primaryNav li a:focus, .portalHeader  .portalMenus .primaryNav li a:focus, #portalMobileMenus  .journalMenus .primaryNav li a:focus, #portalMobileMenus  .portalMenus .primaryNav li a:focus,
+.journalNavContainer  .journalMenus .primaryNav li a:active, .portalHeader  .portalMenus .primaryNav li a:active, #portalMobileMenus  .journalMenus .primaryNav li a:active, #portalMobileMenus  .portalMenus .primaryNav li a:active {
+    color: #ffffff;
+	text-decoration: underline; 
+}
+
+.journalNavInnerContainer .journalMenus {
+    font-size: 20px;
+	height: 33px;
+	margin-top: 2px; 
+}
+
+.journalNavInnerContainer .menuXml .primaryNav li {
+    background-color: #f7f7f7;
+}
+
+.journalNavInnerContainer .menuXml .primaryNav li li a, .portalHeader .menuXml .primaryNav li li a {
+    background-color: #a9a9a9 !important;
+	width:auto;
+	white-space: nowrap;
+	min-width: 100px;
+}
+.journalNavInnerContainer .menuXml .primaryNav li li a:hover, .portalHeader .menuXml .primaryNav li li a:hover, #portalMobileMenus  .menuXml .primaryNav li li a:hover, 
+.journalNavInnerContainer .menuXml .primaryNav li li a:focus, .portalHeader .menuXml .primaryNav li li a:focus, #portalMobileMenus  .menuXml .primaryNav li li a:focus, 
+.journalNavInnerContainer .menuXml .primaryNav li li a:active, .portalHeader .menuXml .primaryNav li li a:active, #portalMobileMenus  .menuXml .primaryNav li li a:active {
+    background-color: #d3d3d3 !important;
+	color:#333333 !important;
+}
+.menuXml .primaryNav a:focus {
+    background-color: #a9a9a9;
+    color: #ffffff;
+}
+.journalNavInnerContainer .menuXml .primaryNav li:hover ul, .portalHeader .menuXml .primaryNav li:hover ul{
+	display: flex;
+	flex-direction: column;
+	width:auto;
+}
+
+#portalMobileMenus .menuXml .primaryNav li:hover ul {
+	display:none;
+}
+#portalMobileMenus .menuXml .primaryNav li:hover .active {
+	display:block;
+}
+
+.journalNavInnerContainer {
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 1100px;
+	padding-left: 30px;
+	padding-right: 30px;
+}
+
+.mostReadCited {
+    padding-bottom: 50px;
+}
+
+.mostReadCited .mostRead > ul {
+    border-bottom: 2px solid #eeeeee;
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: 0;
+    width: 95%;
+}
+
+.mostRead ul ul {
+    position: relative;
+	padding-left: 0;
+}
+
+.mostReadCited .altmetric-embed {
+    bottom: 0;  
+    position: absolute;
+	margin-left: -30px;
+	margin-bottom: 20px;
+}
+
+.mr-mc-explanation {
+	margin-bottom: -20px;
+}
+
+@media (-ms-high-contrast: active), (-ms-high-contrast: none) { /*Target only IE11! NK 20170524 [SAGE-1244, SAGE-16]*/
+	.mostReadCited .altmetric-embed {
+		margin-left: 110px;
+	}
+}
+
+@-ms-viewport { /* Disable overlay scrollbar in IE11 NK 20170524 [SAGE-995]*/
+	width: auto !important; 
+}
+
+.altmetric-embed {
+	z-index: auto;
+}
+
+div#_altmetric_popover_el.altmetric-embed { /* Workaround for Altmetrics bug */
+    z-index: 1;
+}
+
+.journalHomeThree  {
+	margin-top: 30px;
+	margin-bottom: 60px;
+	position: relative;
+	padding-bottom: 35px;
+}
+
+.journalHomeThree h2 {
+    border-bottom: 2px solid #eeeeee;
+    margin-bottom: 25px;
+    padding-bottom: 13px;
+}
+
+.journalHomeThree p {
+	line-height: initial;
+	margin-top: 0;
+}
+
+.journalHomeThree ul {
+    padding-left: 25px;
+}
+
+.journalHomeThree .alertsContainer {
+    margin-left: 0;
+}
+
+.journalHomeThree li {
+    color: #e13345;
+}
+
+.journalHomeThree .col-md-1-1 {
+    position: inherit;
+}
+
+.alertsList {
+	padding-left: 15px;
+}
+
+.journalHomeLeftColumn, .journalHomeMiddleColumn, .journalHomeRightColumn {
+	width: 100%;
+}
+
+.journalHomeFooterAd {
+	display: none;
+}
+
+.journalHomeSideAd {
+	margin-top:15px;
+	margin-bottom: 10px;
+}
+
+.tellUsText {
+    float: right;
+    width: 80%;
+}
+
+.sectionThreeBulletSchool {
+	font-style: italic;
+}
+
+.upperPublishWithUs {
+    background-color: white;
+    padding: 15px;
+}
+
+.upperPublishWithUs h2 {
+    margin-top: 0;
+}
+.sectionInfo h2 {  
+    margin-bottom: 0;
+}
+.upperPublishWithUs  p {
+	line-height: 17.5px;
+}
+
+.upperPublishWithUs .journalPublishViewAllButton {
+    position: inherit;
+    width: inherit; 
+}
+
+.journalNewsViewAllButton, .journalBoardViewAllButton, .journalPublishViewAllButton, .journalHomeRightColumn .alertSignUpButton {
+    width: 100%;
+	text-align: right;
+}
+
+.editorialBoard .sectionThreeBulletText {
+    margin-bottom: 4px;
+}
+
+.journalNewsText {
+    margin-bottom: 10px;
+    margin-top: 10px;
+}
+
+.moreFromThisJournal {
+    margin-right: 30px;
+}
+
+.moreFromThisJournal, .otherSociety {
+    border-top: 2px solid #EEEEEE;
+}
+
+.moreFromThisJournal h2 {
+    margin-top: 35px;
+}
+
+.moreFromThisJournal h3 {
+	padding-bottom:10px;
+	margin-bottom: 10px;
+	color: #333333;
+}
+
+.moreFromThisJournalModules {
+    margin-left: 25px;
+}
+
+.alertsSignupButtonOuter, .twitterFollowButtonOuter {
+	margin-top:0px;
+	padding-bottom:20px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.allIssuesButton, .currentIssueButton {
+	margin-left:auto;
+	margin-right:auto;
+	margin-top:120px;
+	width:200px;
+}
+
+.allIssuesButton ul, .currentIssueButton ul {
+    margin: 0;
+	padding:0;
+}
+
+.moreFromButton, .onlineFirstViewMoreButton  {
+	float:right;
+}
+
+.onlineFirst .more { /* smalButton greyButton */
+	border-radius: 5px;
+	-webkit-border-radius:5px;
+	-webkit-appearance:none;
+	display:inline-block;
+	text-decoration:none;
+	width:15%;
+	font-size:14px;
+	padding-bottom:7px;
+	padding-top:7px;
+	color:#333333;
+	background-color:#EEEEEE;
+	border: 1px solid #CCCCCC;
+	text-align: center;
+	float: right;
+}
+
+.onlineFirst .more:hover, .onlineFirst .more:focus, .onlineFirst .more:active {
+	background-color:#CCCCCC;
+	text-decoration: underline; 
+}
+
+.onlineFirst .access-icon {
+    left: -40px;
+    position: absolute;
+}
+
+.journalCoverContainer {
+    margin-bottom: 25px;
+    margin-left: 20px;
+    margin-right: 20px;
+    min-height: 303px;
+}
+
+.mostTabs {
+    margin-top: 40px;
+}
+
+.mostTabs h2 {
+    font-size: 18px;
+    margin: 0;
+}
+
+.mostTabs .tabs-widget .tab-nav li.active a h2 {
+    color: #ffffff;
+}
+
+.mostTabs .tabs-widget .tab-nav li a {
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+    border-bottom-left-radius: 0;
+	border-bottom-right-radius: 0;
+    font-size: 12px;
+    padding-top: 13px;
+    padding-bottom: 13px;
+	background:#EEEEEE;
+	border: 1px solid #CCCCCC;
+	color: #555555;
+	border-bottom:none;
+}
+
+.tabs-widget .tab-nav li a:hover, .tabs-widget .tab-nav li a:focus, .tabs-widget .tab-nav li a:active {
+	text-decoration: underline;
+}
+
+.mostTabs .tabs-widget .tab-nav li  {
+	margin-right:1px;
+	width: 32%;
+	text-align: center;
+}
+
+.mostReadCited li:nth-child(2), .mostReadCited li:nth-child(3), .mostReadCited li:nth-child(5), .mostReadCited li:nth-child(6) {
+    display: none;
+}
+
+.mostReadCited li {
+    display: inline-table;
+    float: none;
+	width:100%;
+	max-width:100%;
+	text-align: center;
+    margin-bottom: 110px;
+}
+
+.mostReadCited li .title {
+	text-align: left;
+}
+
+.mostReadCited a {
+    line-height: 1.7;
+}
+
+.mostTabs .tabs-widget .tab-nav li.active a {
+	background: #796c83;
+	color: #ffffff;
+}
+
+.mostTabs .tabs-widget .tab-nav {
+    border-bottom: none;
+    padding: 0;
+}
+
+.mostTabs .tab-content {
+	border:1px solid #CCCCCC;
+    border-bottom-left-radius: 5px;
+    border-bottom-right-radius: 5px;
+    border-top-right-radius: 5px;
+}
+
+.centerContainers {
+    margin-top: 75px;
+	min-height:300px;
+}
+
+.editorialContainer  {
+    border-left: 2px solid lightgrey;
+    border-right: 2px solid lightgrey;
+    padding-left: 20px;
+}
+
+.editorialBoard .editorName {
+    font-weight: bold;
+}
+
+.editorialBoard .editorAffiliation {
+    margin-bottom: 30px;
+}
+
+.centerContainers  p, .centerContainers li {
+	font-size:18px;
+}
+
+.alertsContainer, .twitterFeedContainer {
+    margin-left: 8%;
+}
+
+.alertsContainer p {
+    line-height: 15px;
+}
+
+#journalHomeAlerts {
+	display:none;
+    position: absolute;
+}
+
+.journalHomeAlertsContainerIB #journalHomeAlerts {
+    left: -15px;
+}
+
+.journalHomeAlertsContainerCP #journalHomeAlerts {
+    left: 469px;
+	top: 400px;
+}
+
+.add-alerts-dialog {
+    font-family: arial;
+	color:#555555;
+	width:300px !important;
+}
+
+.add-alerts-dialog a {
+    background: rgba(0, 0, 0, 0) url("/pb-assets/Icons/Cross-no-outline.png") no-repeat scroll 0 0;
+    font-size: 0;
+    padding: 15px;
+    position: absolute;
+    right: 0;
+    top: 15px;
+}
+
+.add-alerts-dialog h3 {
+	font-size: 22px;
+	padding-left: 30px;
+}
+
+.add-alerts-dialog p {
+	padding-left: 30px;
+}
+
+.add-alerts-dialog table {
+	border-collapse: collapse;
+	table-layout: fixed;
+}
+
+.add-alerts-dialog td {
+    font-size: 16px;
+    padding-bottom: 17px;
+	padding-left: 10px;
+	margin-left: 35px;
+}
+
+.add-alerts-dialog td:first-child {
+	margin-left: 10px;
+}
+
+.add-alerts-dialog th {
+    font-size: 14px;
+    font-weight: bold;
+	padding-top:10px;
+	padding-bottom:10px;
+	padding-left: 10px;
+}
+
+.add-alerts-dialog th, .add-alerts-dialog td {
+	width:235px;
+}
+
+.add-alerts-dialog th:first-of-type {
+    color: transparent;
+}
+
+.add-alerts-dialog td:first-of-type {
+	padding-left: 30px;
+	text-align: left;
+	padding-top: 15px;
+	font-weight: bold;
+}
+
+.add-alerts-dialog th:last-of-type, .add-alerts-dialog td:last-of-type {
+    padding-right: 20px;
+}
+
+.add-alerts-dialog tr:nth-child(2n), .add-alerts-dialog thead {
+    background: #f7f7f7 none repeat scroll 0 0;
+}
+
+.add-alerts-dialog tbody {
+    border-bottom: 1px solid #cccccc;
+    border-top: 1px solid #cccccc;
+}
+
+.add-alerts-dialog form input[type="checkbox"] {
+    margin-left: 8px;
+    margin-top: 8px;
+}
+
+.add-alerts-dialog form td input[type="checkbox"] {
+    margin-left: 25px;
+	margin-right: 10px;
+}
+
+.add-alerts-dialog form input[type="submit"] {
+    background-color: #ac2226;
+    border: medium none;
+    border-radius: 5px;
+	-webkit-border-radius:5px;
+	-webkit-appearance:none;
+    color: #ffffff;
+    font-size: 14px;
+    height: 43px;
+	margin-top: 20px;
+	margin-bottom: 20px;
+	cursor: pointer;
+	width:90%;
+	margin-left: 15px;
+}
+
+.add-alerts-dialog form input[type="button"] {
+    border-radius: 5px;
+	-webkit-border-radius:5px;
+	-webkit-appearance:none;
+    font-size: 14px;
+    height: 43px;
+	color:#333333;
+	background-color:#EEEEEE;
+	border: 1px solid #CCCCCC;
+    margin-left: 15px;
+	cursor: pointer;
+	text-transform: capitalize;
+	width:90%;
+	margin-bottom: 20px;
+}
+
+
+.add-alerts-dialog form input:hover, .add-alerts-dialog form input:focus, .add-alerts-dialog form input:active {
+	text-decoration: underline;
+}
+
+.add-alerts-dialog .journal-row td:nth-child(2)::after {
+    content: "New Content";
+}
+
+.add-alerts-dialog .journal-row td:nth-child(3)::after {
+    content: "Announcements";
+}
+
+.podcasts td a, .videos  a, .editorsChoice  td a, .otherJournals a, .onlineFirst a, .otherSociety a{
+    font-size:16px;
+}
+
+.journalVideoContainerRight p {
+    line-height: 24px;
+}
+
+.journalVideoSection {
+    margin-top: 30px;
+}
+
+.podcasts td p {
+	margin-top:0;
+}
+
+.podcasts img, .editorsChoice  img {
+    margin-right: 10px;
+}
+
+.videos .spacer, .podcasts .spacer, .editorsChoice  .spacer {
+	height:30px;
+}
+
+.moreFromThisJournal h3, .otherJournalsContainer h2 {
+    border-bottom: 1px solid lightgrey;
+}
+
+.moreFromTheJournalContainers {
+    margin-bottom: 30px;
+}
+
+.otherSocietyButton {
+	margin-top: 30px;
+}
+
+.otherSociety td {
+    text-align: center;
+    width: 20%;
+}
+
+.relatedJournalsContainer li {
+    list-style: outside none none;
+	display: inline;
+}
+
+.relatedJournalsImageContainer img {
+    height: 113px;
+}
+
+.relatedJournalsColumn {
+	display: block;
+	text-align: center;
+	vertical-align: top;
+	width: 100%;
+	margin-bottom: 25px;
+}
+
+#viewFewerText, #relatedJournalsLowerSection {
+	display: none;
+}
+
+#viewFewerText, #viewMoreText {
+	cursor: pointer;
+}
+
+.relatedJournalsContainer {
+    text-align: center;
+}
+
+.relatedJournalsRow {
+    padding-left: 0;
+}
+
+.otherSociety {
+    margin-top: 40px;
+	padding-top: 15px;
+	margin-bottom: 50px;
+}
+
+.onlineFirst .authors {
+    font-size: 13px;
+    margin-bottom: 25px;
+    margin-top: 10px;
+}
+
+.onlineFirst .mostRead li {
+    list-style: outside none none;
+}
+
+.mostReadCited .mostRead, .mostReadCited .mostCited {
+    display: initial;
+}
+
+.mostReadCited .more, .mostReadCited .less {
+    left: 0;
+    margin-left: auto;
+    margin-right: auto;
+	margin-top: 10px;
+    padding-left: 30px;
+    padding-right: 30px;
+    position: absolute;
+    right: 0;
+    width: 100px;
+}
+.mostReadCited .more a:hover, .mostReadCited .less a:hover, 
+.mostReadCited .more a:focus, .mostReadCited .less a:focus,
+.mostReadCited .more a:active, .mostReadCited .less a:active {
+	text-decoration: underline; 
+}
+.mostReadCited .more:hover, .mostReadCited .less:hover, 
+.mostReadCited .more:focus, .mostReadCited .less:focus,
+.mostReadCited .more:active, .mostReadCited .less:active {
+	text-decoration: underline; 
+}
+.journalRightColumn {
+	margin-left: auto;
+	margin-right: auto;
+	width: 300px;
+}
+
+.journalRightColumnTitle  h3, .connectWithUs {
+	text-align: center;
+}
+
+.journalRightColumnTitle h3 {
+    border-bottom: 1px solid #cccccc;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 0;
+    padding-bottom: 10px;
+    padding-top: 20px;
+    width: 85%;
+}
+
+.socialIconsContainer {
+    padding-bottom: 20px;
+}
+
+.journalCurrentIssue h2, .homeSlideshow  h2, .journalRightColumnTitle p{
+    color: #555555;
+    font-size: 22px;
+    font-weight: bold;
+    margin-left: 30px;
+    padding-top: 10px;
+}
+
+.alertSignUpButton, .tweetFollowButton  {
+    width: 48%;
+}
+
+.loiAccessIconSpan img {
+    max-width: 16px;
+}
+
+/* Journal TOC */
+.tocListHeader {
+    color: #333333;
+    font-size: 16px;
+    margin: 0;
+}
+
+.tocPdfLinks {
+	display: none;
+}
+
+.currentIssue, .tocListHeader {
+    display: inline-block;
+}
+
+.toc-quick-links h3 {
+	display:none;
+}
+
+.tocListWidgetContainer {
+    margin: 0;
+	padding: 0;
+	width: 100%;
+}
+.tocListWidget h1 {
+    font-size: 22px;
+}
+.tocListWidget h2 {
+    font-size: 18px;
+}
+
+.tocListWidget h2 {
+    margin-top: 0;
+}
+
+.sageTOCList .tocListWidgetContainer h2 {
+    border-bottom: 1px solid #cccccc;
+}
+
+.sageTOCList .accessIcon {
+    margin-top: 17px;
+}
+
+.sageOnlineFirstList .accessIcon {
+	margin-top: 17px;
+}
+
+
+.tocTools {
+    margin: 0;
+    padding: 0;
+}
+
+.tocTools > div > a {
+    color: #006acc;
+    font-size: 13px;
+    padding-left: 3px;
+}
+
+.tocTools h1, .sageOnlineFirstList h1 {
+	margin-top: 0;
+}
+
+.sageOnlineFirstList .tocTools {
+    display: none;
+}
+
+.onlineFirstSnippet {
+    margin-bottom: 20px;
+}
+
+.tocHeading {
+    color: #555555;
+}
+
+.articleEntry {
+    color: #333333;
+    font-size: 14px;
+}
+
+.articleEntry .art_title {
+    margin-top: 20px;
+}
+
+.articleEntry .art_title .ref div {
+    font-style: italic;
+}
+
+.sageOnlineFirstList  .ArticleType {
+	display: none;
+}
+
+.art_title {
+    font-size: 16px;
+}
+
+.art_title h3 {
+    color: inherit;
+	margin: 0;
+}
+
+.hlFld-Title {
+	line-height: 1.5;
+	font-weight: bold;
+}
+.art_title .ref div {
+	margin-top:12px;
+}
+
+.tocAuthors a, .tocEPubDate {
+    font-size: 14px;
+	color:#333333;
+}
+
+.tocAuthors {
+    margin-top: 15px;
+	margin-bottom: 15px;
+}
+
+.tocAuthors a {
+	font-weight:bold;
+}
+
+.tocAuthors .degreesComma, .tocAuthors .NLM_degrees {
+    display: none;
+}
+
+.tocAuthors .contribDegrees {
+	padding-right: 0;
+}
+
+.articleEntry {
+    margin-bottom: 25px;
+}
+
+.citedByEntry .articleEntry a:first-of-type {
+    font-size: 16px;
+	font-weight: bold;
+}
+
+.citedByEntry .accessIconContainer {
+    vertical-align: top;
+    width: 50px;
+}
+
+.noCitedBy {
+    color: #838080;
+    font-weight: normal;
+    margin-top: 30px;
+    margin-left: 30px;
+}
+
+.tocDeliverFormatsLinks .abs, .CbLinks .abs {
+    display: none;
+}
+
+.tocDeliverFormatsLinks, .CbLinks {
+    color: transparent;
+	margin-top: 15px;
+}
+
+.tocDeliverFormatsLinks .full, .tocDeliverFormatsLinks .pdf, .tocDeliverFormatsLinks .rightslink, .tocDeliverFormatsLinks .suppl, .CbLinks .full, .CbLinks .pdf, .CbLinks .rightslink, .CbLinks .suppl {
+    padding-top: 45px;
+}
+
+.CbLinks .full, .CbLinks .pdf, .CbLinks .rightslink, .CbLinks .suppl, .CbLinks .abstract { 
+	position: relative;
+	top: 10px;
+}
+
+.tocDeliverFormatsLinks .openData, .tocDeliverFormatsLinks .openMaterial, .tocDeliverFormatsLinks .preregistration, .tocDeliverFormatsLinks .translated-abstract-badge, .CbLinks .openData, .CbLinks .openMaterial, .CbLinks .preregistration, .CbLinks .translated-abstract-badge {
+    margin-left: 12px;
+}
+
+.tocDeliverFormatsLinks img, .CbLinks img {
+	vertical-align: middle;
+}
+
+.search-results .translated-abstract-badge {
+	margin-top: -29px;
+}
+
+.tocJournalCover img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+	margin-top:50px;
+	margin-bottom:50px;
+}
+
+.tocCoverButton {
+    margin-top: 20px;
+	margin-bottom:20px;
+	width:250px;
+	background-color:#7a6c86;
+}
+
+.issueSupplement .article a {
+    font-size: 13px;
+}
+
+.issueSupplement  {
+	float: left;
+	max-width: 50%;
+}
+
+.issueSupplement  .publicationContentDropZone{
+	margin-top: 0;
+}
+
+.issueSupplement h2 {
+	margin:0;
+}
+
+.tocCoverContainer, .loiCurrentIssueContainer {
+    border: 1px solid #bbbbbb;
+}
+
+.tocArticleDoi:before {
+    content: "DOI: ";
+    display: block;
+	float:left;
+}
+
+.tocArticleDoi:before, .tocArticleDoi a {
+	color:#333333;
+	font-size:14px;
+}
+
+.badgeBar {
+    border-bottom: 1px solid #cccccc;
+}
+
+.publicationContentDropZone {
+	margin-top: 2px; 
+}
+
+.accessDenialWidget .publicationContentDropZone {
+    margin-bottom: 7px;
+}
+
+.tocListWidgetContainer .showAbstract .previewContainer {
+    margin-bottom: 25px;
+    margin-top: 25px;
+}
+
+.tocListWidgetContainer .showAbstract .articlePreviewLink {
+    color: #333333;
+    font-size: 16px;
+}
+
+.tocListWidgetContainer .showAbstract a {
+	cursor: pointer;
+}
+
+.tocListWidgetContainer .showAbstract .abstractParagraph p {
+	font-size: 14px;
+}
+
+.tocListWidgetContainer .abstract-heading {
+    display: none;
+}
+
+.tocListWidgetContainer .abstractSection {
+    background-color: #f7f7f7;
+    margin-top: 10px;
+    padding: 30px;
+}
+
+.tocListWidgetContainer .tocListHeader {
+    margin-top: 15px;
+	margin-bottom: 10px;
+}
+
+/* Journal LOI */
+.loiTitle, .allissues-aop {
+    display: none;
+}
+
+.loiHeader .journalHeader h1 {
+    margin-bottom: 3px;
+	font-size: 22px;
+}
+
+.loiHeader .journalHeader h2 {
+    margin-bottom: 3px;
+}
+
+.loiHeader h2 {
+    margin-top: 0;
+}
+
+.loiHeader.ojs .journalHeader:before {
+    content: "All Issues - Orthopaedic Journal of Sports Medicine";
+    margin-bottom: 3px;
+    color: #555555;
+    font-size: 22px;
+}
+
+.loiHeader.fao .journalHeader:before {
+    content: "All Issues - Foot & Ankle Orthopaedics";
+    margin-bottom: 3px;
+    color: #555555;
+    font-size: 22px;
+}
+
+.loiHeader.fao h1,
+.loiHeader.ojs h1 {
+    display: none;
+}
+
+.dateRange {
+    color: #555555;
+    font-size: 16px;
+	font-weight:normal;
+}
+
+.date-range {
+	display:none;
+}
+
+.literatumListOfIssuesWidget {
+    font-size: 16px;
+}
+
+.literatumListOfIssuesWidget .decade {
+    margin-bottom: 15px;
+}
+
+.literatumListOfIssuesWidget .volume-list {
+    padding: 0;
+}
+
+.literatumListOfIssuesWidget .years h3 {
+    font-size: 16px;
+    font-weight: bold;
+}
+
+.literatumListOfIssuesWidget .years h4 {
+}
+
+.literatumListOfIssuesWidget .years h5, .literatumListOfIssuesWidget .years h6 {
+	font-size: 16px;
+	margin: 0;
+	font-weight: normal;
+}
+
+.literatumListOfIssuesWidget br {
+    display: none;
+}
+
+.literatumListOfIssuesWidget .slider .row {
+    padding-top: 5px;
+}
+
+.browseByYearHeading  h4 {
+	margin-bottom:0;
+	margin-top: 35px;
+}
+
+.decade-list .years {
+    margin-top: 15px;
+}
+
+.loiIssueSelectorContainer {
+    border-top: 1px solid #CCCCCC;
+	margin-top: 30px;
+}
+
+.issue-selector-footer a { /* GrayButton smallButton */
+	border-radius:5px;
+	-webkit-border-radius:5px;
+	-webkit-appearance:none;
+	height: 34px;
+	padding-bottom:10px;
+	padding-top:10px;
+	padding-left: 30px;
+	padding-right: 30px;
+	color:#FFFFFF;
+	background-color:#796c83;
+	font-size: 14px;
+}
+
+.issue-selector-footer a:hover {
+	background-color:#5F4D6D;
+}
+
+.issue-selector-form .decades, .issue-selector-form .volumes, .issue-selector-form .issues {
+    font-size: 16px;
+    height: 30px;
+    margin-left: 15px;
+	border-radius:5px;
+	-webkit-border-radius:5px;
+	color:#555555;
+	width: 150px;
+	margin-bottom: 10px;
+	border: 1px solid #cccccc;
+}
+
+.issue-selector-form {
+	display: flex;
+	flex-direction: column;
+}
+
+.loiIssueSelectorUpper, .loiIssueSelector {
+    text-align: center;
+	margin-top:15px;
+}
+
+.issue-selector-footer .normal-link {
+	display:none;
+}
+
+.issue-selector-footer  {
+    margin-left: 15px;
+    margin-top: 10px;
+}
+
+.slider .opener, .title.expander, .expandedDiv .expander, .volume-list {
+	color:#555555;
+}
+
+.decade-list .expander {
+    background: rgba(0, 0, 0, 0) url("/pb-assets/Icons/Plus-icon.png") no-repeat scroll 0 0;
+    height: 20px;
+	padding-left: 30px;
+}
+
+.decade-list .expander.open {
+    background: rgba(0, 0, 0, 0) url("/pb-assets/Icons/Minus-icon.png") no-repeat scroll 0 0;
+    height: 20px;
+}
+
+a.expander:focus, a.expander:active {
+    text-decoration: underline !important;
+}
+
+.coverTest .cover img {
+    height: 100px;
+    width: auto;
+}
+
+#pb-page-content {
+	width:auto;
+	min-width:320px;
+}
+
+.sageCoverImages {
+    text-align: center;
+}
+
+.widget .widget-header, .widget .widget-body {
+    text-align: unset;
+}
+
+.articleContent .tabs-widget .tab-nav, .articleContent .tabs-widget .tab-content {
+	border:none;
+	margin-top: -12px;
+}
+
+.abstractInFull .NLM_sec_level_1 {
+    margin-top: -15px;
+}
+
+/** Styled for the phone resolution **/
+.articleLeftColumn, .journalLeftColumn, .bottomArticleAccess  {
+	width: 100%;
+	max-width:641px;
+}
+.accessOptionsContainer .leftAccessOptionsContainer, .accessOptionsContainer .centerAccessOptionsContainer, .accessOptionsContainer .rightAccessOptionsContainer {
+	width: auto;
+}
+
+.journalLeftColumn  {
+	width: 100%;
+	max-width:641px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+/** Elements Removed at the phone level **/
+.journalNavContainer   {
+	display:none;
+}
+
+.TOCRightColumn {
+	display: none;
+}
+
+.articleTOCOuterContainer, .articleToolsButton, .articleContentsTitle, .article-section-controller {
+    display: none;
+}
+
+.article-section-controller.collapsible-controller:focus { /*SAGE-1186*/
+	-ms-transform: scale(1.5, 1.5) translate(2px, 2px); /* IE 9 */
+    -webkit-transform: scale(1.5, 1.5) translate(2px, 2px); /* Safari */
+    transform: scale(1.5, 1.5) translate(2px, 2px);
+}
+
+.articleToc li.showFullText a, .articleToc ul li {
+    border-bottom: none;
+}
+.articleToc li.showFullText h3, .articleToc li.showFullText > span,  .articleToc li.RelatedArticles, .articleContentsLinks li.showSuppl, .articleContentsLinks ul .translated-abstract-menu {
+    display: none;
+}
+.collapsible-container.collapsible-collapsed .collapsible-body, .articleToolsLinks {
+    display: block;
+	position: fixed;
+	bottom:-2000px;
+	left:0px;
+	transition: bottom 0.3s ease 0s;
+	border-top: 2px solid #796c83;
+	width:100%;
+	background-color: #FFFFFF;
+	overflow-y: auto;
+    max-height: 72%;
+}
+.collapsible-container.collapsible-collapsed .collapsible-body li {
+    width: 100%;
+}
+.mobileContentLinks {
+    display: block;
+	position: fixed;
+	bottom:0px;
+	left:0px;
+	background-color: #f7f7f7;
+	width: 100%;
+	z-index: 100;
+}
+.mobileContentLinks > div > div > div {
+	display: flex;
+	justify-content: space-around;
+}
+
+.mobileContentLinks a:hover, .mobileContentLinks a:focus, .mobileContentLinks a:active {
+	text-decoration:underline; 
+}
+
+.mobileContentLinks .general-html {
+    padding: 0 10px;
+}
+
+.mobileContentLinks .general-html:hover {
+    background-color: white;
+}
+
+.mobileContentLinks .articleToc li.showFullText ul li a {
+    padding-left: 42px;
+}
+
+.articleToolsLinks img {
+    display: none;
+}
+
+.mobileToolLink p {
+    cursor: pointer;
+	  color: #AC2226;
+		font-weight: bold;
+		font-size: 15px;
+		line-height: 15px;
+}
+
+.articleToc ul {
+    padding: 0;
+}
+
+.articleRightColumn {
+	float: right;
+	position: relative;
+/*	z-index: 38100;*/
+}
+
+@media (min-width: 340px) {
+	.pageBody {
+		max-width: 1100px !important;
+		margin-left: auto;
+		margin-right: auto;
+		margin-top: 12px; 
+		width:unset;
+		padding-left: 10px;
+		padding-right: 10px;
+	}
+}
+
+@media (min-width: 480px) {
+	.mostTabs .tabs-widget .tab-nav li a {
+		font-size: 18px;
+	}
+	.pageBody {
+		padding-left: 30px;
+		padding-right: 30px;
+	}
+}
+
+@media (min-width: 640px) {
+
+	.mostReadCited li:nth-child(2), .mostReadCited li:nth-child(5) {
+		display: inline-table;
+	}
+	.mostReadCited li {
+		width:42%;
+	}
+
+	.relatedJournalsColumn {
+		display: inline-block;
+		width: 24%;
+	}
+}
+
+@media (max-width: 767px) {
+	.stick-it-wrapper {
+		height: auto !important;
+	}
+	.browseDescription {
+		display: none;
+	}
+	.subjectsHeader {
+	    display: block !important;
+			width: 290px;
+      margin-left: auto;
+      margin-right: auto;
+			padding-left: 10px;
+	}
+	.filter-publications input {
+	    width: 290px;
+	    margin-left: 0px !important;
+	    margin-top: 5px;
+	    margin-bottom: 20px;
+	}
+	.allPublicationPartnersOutterContainer, .dropdownArrow { 
+		display: none;
+	}
+	.badge-bar {
+		display: none;
+	}		
+	.badge-bar-mobile {
+		display: block;
+	}	
+	.articleTOCContainer, .articleTabContainer, .articleToolsContainer, .TOCToolsContainer  {
+		background-color: inherit; 
+	}	
+}
+
+@media (min-width: 768px) {
+	.leftAccessOptionsContainer, .centerAccessOptionsContainer, .rightAccessOptionsContainer {
+		width: 28%;
+	}
+
+	.loginOptionsContainer > div > div > div {
+		display: flex;
+		justify-content: space-between;
+	}
+	.sageRecommends {
+		display:block;
+	}
+	.headerContainer {
+		height: 120px;
+	}
+	.headerContainer .shadeImage {
+		height:50%;
+	}
+	.headerContainer .societyLogo, .impactFactorContainer, .societyNameOuterContainer  {
+		display:block;
+	}
+	.lowerHeaderContainer {
+		height: 50%;
+	}
+	.upperHeaderContainer {
+		height: 50%;
+		width: 100%;
+		display:inline-flex;
+		flex-direction: row-reverse;
+		max-width: 1100px;
+		left: 0;
+		right: 0;
+		margin-left: auto;
+		margin-right: auto;
+		position: absolute;
+		top: 0;
+	}
+
+	h1, .articleMeta h1 {
+		font-size: 32px;
+	}
+	.articleLeftColumn  {
+		width: 50%;
+		max-width:none;
+	}
+	.articleTOCOuterContainer, .articleToolsButton, .articleContentsTitle, .article-section-controller {
+		display: block;
+	}
+	.articleToc li.showFigure h3, .articleToc li.showFigure span,  .articleToc li.articleMetrics h3{
+		display: block;
+	}
+	.articleToc ul li {
+		border-bottom:2px solid #EEEEEE;
+	}
+	.articleToc li.showFullText h3, .articleToc li.showFullText > span,  .articleToc li.RelatedArticles, .articleContentsLinks li.showSuppl, .articleContentsLinks ul .translated-abstract-menu {
+		display: block;
+	}
+	.articleToc ul li {
+		display: block;
+	}
+	.articleToc li.showFigure h3, .articleToc li.showFigure span,  .articleToc li.articleMetrics h3 {
+		font-size: initial;
+	}
+	.articleToc li.showFigure a:after, .articleToc li.showFigure span:after, .articleToc li.articleMetrics a:after {
+		content:none;
+	}
+	#openAccessSideMenu .showFullText .article-section-controller{
+		position: absolute;
+		right: 0px;
+		top: 15px;
+		display: block;
+	}
+	.collapsible-container.collapsible-collapsed .collapsible-body {
+		display: none;
+		position: initial;
+		border: none;
+	}
+	.mobileContentLinks {
+		position: inherit;
+		border: none;
+		background:none;
+	}
+	.mobileContentLinks > div > div > div {
+		display: initial;
+	}
+	.articleToolsLinks {
+		position: inherit;
+		border-top: 1px solid #cccccc;
+		border-bottom: none;
+		border-left: none;
+		border-right: none;
+	}
+
+	.articleToolsLinks img {
+		display: block;
+		margin-left: auto;
+		margin-right: auto;
+	}
+	.articleToolsLinks p {
+		font-size: 13px;
+	}
+	.mobileToolLink {
+		display: none;
+	}
+	.articleToc ul {
+		padding: initial;
+	}
+	.articleContentsLinks  li.showFullText h3, .articleContentsLinks li.showSuppl  h3, .articleContentsLinks li.showFigure h3, .articleContentsLinks li.articleMetrics h3, .articleContentsLinks li.RelatedArticles h3, .articleContentsLinks li.comments h3 , .articleContentsLinks li.translated-abstract-menu h3 {
+		background-position: 10px 10px;
+		background-repeat: no-repeat;
+		background-size: 29px auto;
+	}
+	.articleContentsLinks  li.showFullText h3 {
+		background-image: url("/pb-assets/Icons/full-text-icon.png");
+	}
+	.articleContentsLinks li.showFigure h3 {
+		background-image: url("/pb-assets/Icons/figures-tables-icon.png");
+	}
+
+	.articleContentsLinks li.showSuppl  h3 {
+		background-image: url("/pb-assets/Icons/supplementary-data-icon.png");
+	}
+	.articleContentsLinks li.articleMetrics h3 {
+		background-image: url("/pb-assets/Icons/article-metrics-icon.png");
+	}
+	.articleContentsLinks li.RelatedArticles h3 {
+		background-image: url("/pb-assets/Icons/similar-content-icon.png");
+	}
+	.articleContentsLinks li.comments h3 {
+		background-image: url("/pb-assets/Icons/comments-icon.png");
+	}
+	.articleContentsLinks li.translated-abstract-menu h3 {
+		background-image: url("/pb-assets/Icons/Translate-icon.png");
+	}
+
+	.articleTabContainer .articleToc ul h3 {
+		padding: 7px 5px 7px 75px;
+	}
+
+	.articleContentsLinks h3, .articleContentsLinks a {
+		color: #555555;
+		font-size: 16px;
+		margin: 0;
+	}
+
+	.articleToc li.noAccess h3 {
+		color: #c1c1c1;
+	}
+	.articleTabContainer .articleContentsLinks .showFullText ul li a {
+		line-height: 15px;
+	}
+	.articleLeftColumn, .bottomArticleAccess  {
+		float:left;
+	}
+	.articleRightColumn    {
+		width: 300px;
+		display:block;
+		position: inherit;
+	}
+	.articleTabContainer .articleContentsLinks .showFullText a, .articleTabContainer .articleContentsLinks .showFullText span {
+		font-size: 14px;
+		width: initial;
+		line-height: 25px;
+	}
+	.articleContentsLinks  li.showFullText h3, .articleContentsLinks li.showSuppl  h3, .articleContentsLinks li.showFigure h3, .articleContentsLinks li.articleMetrics h3, .articleContentsLinks li.RelatedArticles h3, .articleContentsLinks li.comments h3 , .articleContentsLinks li.translated-abstract-menu h3 {
+		background-position: 30px 6px;
+	}
+	.contentsToolsContainer, .articleTOCOuterContainer, .TOCTOCOuterContainer {
+		background-color: #eeeeee;
+		padding: 10px;
+	}
+	#articleCitationDownloadContainer, #articleShareContainer, #articlePermissionsContainer {
+		left: auto;
+		right: auto;
+		margin-right: auto;
+		margin-left: -260px;
+		top: 75px;
+	}
+
+	.tocListWidgetContainer {
+		width: 56%;
+	}
+	.mostTabs .tabs-widget .tab-nav li  {
+		width: 24%;
+	}
+	.mostReadCited li:nth-child(3), .mostReadCited li:nth-child(6) {
+		display: inline-table;
+	}
+	.mostReadCited li {
+		width:28%;
+	}
+	.journalHomeLeftColumn, .journalHomeMiddleColumn, .journalHomeRightColumn {
+		width: 29%;
+	}
+
+	.journalHomeLeftColumn {
+		float: left;
+	}
+
+	.journalHomeMiddleColumn {
+		float: left;
+		margin-left: 8%;
+	}
+
+	.journalHomeRightColumn {
+		float: right;
+	}
+	.journalHomeFourRight {
+		width:300px;
+		float:right;
+	}
+	.journalHomeFourLeft {
+		width: 56%;
+		float:left;
+	}
+	.journalHomeCarousel  {
+		margin-bottom: 0px;
+		display: block;
+	}
+	.tellUsText {
+		width: 70%;
+	}
+	.tellUsImage img { 
+		width: 30%;
+		position: relative;
+	}
+	.backgroundJournalCarousel .journalCarouselTextButton a {
+		border: 1px solid white;
+		color: #ffffff;
+	}
+	.backgroundJournalCarousel .journalCarouselText p{
+		color:#FFFFFF;
+	}
+	.journalCarouselBackgroundImage, .journalCarouselOverlay  {
+		display: inherit;
+	}
+	.journalCarouselOverlay, .backgroundJournalCarousel .journalCarouselText {
+		bottom: 0;
+		position: absolute;
+	}
+
+	.TOCRightColumn {
+		display: block;
+		float: right;
+		width: 300px;
+	}
+	.journalHomeAlertsContainerIB #journalHomeAlerts {
+		left: -325px;
+	}
+}
+
+@media (min-width: 1024px) {
+	.loiRightColumn {
+		width:300px;
+		float:right;
+	}
+	.loiLeftColumn {
+		width: 66%;
+		float: left;
+	}
+	.issue-selector-footer {
+		margin-left: auto;
+		margin-top: 5px;
+	}
+
+	.loiIssueSelectorUpper, .loiIssueSelector {
+		text-align: inherit;
+	}
+
+	.literatumListOfIssuesWidget {
+		margin-top: 0;
+	}
+	.issue-selector-form {
+		flex-direction: row;
+	}
+}
+
+@media (max-width: 1024px) {
+	.add-alerts-dialog table, .add-alerts-dialog tr, .add-alerts-dialog td {
+		display: block;
+	}
+	.add-alerts-dialog thead {
+		display: none;
+	}
+
+	.figuresContent .holder img {
+		max-width: 280px;
+	}
+	
+	.pdfSlide, .largImage, .powePointSlide {
+		width: 96px;
+	}
+	
+	.pdfSlide a, .largImage a, .powePointSlide a {
+		font-size: 13px;
+	}
+}
+
+@media (min-width: 1025px) {
+	.articleToc ul li.selected h3 , .toc-quick-links ul li.selected > a, .articleToc ul li.selected > a{
+		background-color: #796c83;
+	}
+	.page-footer-divider {
+		margin-bottom: 30px;
+		margin-top: 10px;
+	}
+	.articleLeftColumn  {
+		width: 65%;
+	}
+	.journalNavContainer, .publicationContentDropZone {
+		display:block;
+	}
+	.journalCarousel .slideshowWidget .slides .journalCarouselContainer {
+		height:329px; 
+	}
+	.journalRightColumn {
+		float: right;
+	}
+	.journalLeftColumn {
+		float:left;
+	}
+	.journalHomeFourLeft {
+		width: 66%;
+	}
+	.journalHomeFooterAd {
+		display: block;
+		margin-bottom: 40px;
+	}
+	.journalLeftColumn  {
+		width: 67%;
+	}
+	.sageCoverImages img {
+		max-width: 75%;
+	}
+	.journalVideoContainerLeft {
+		width: 42%;
+		margin-right: 20px;
+	}
+	.journalVideoContainerRight {
+		width: 60%;
+	}
+	.journalVideoContainer {
+		display:flex;
+	}
+	.add-alerts-dialog {
+		min-width: 625px;
+	}
+	.add-alerts-dialog th:first-of-type, .add-alerts-dialog td:first-of-type {
+		width: 350px;
+	}
+	.add-alerts-dialog th, .add-alerts-dialog td {
+		width: 115px;
+		text-align: center;
+	}
+	.add-alerts-dialog .journal-row td:nth-child(2)::after {
+		content: none;
+	}
+
+	.add-alerts-dialog .journal-row td:nth-child(3)::after {
+		content: none;
+	}
+	.add-alerts-dialog td {
+		margin-left: initial;
+		padding-bottom: 17px;
+	}
+	.add-alerts-dialog td:first-of-type {
+		padding-top: 15px;
+		font-weight: initial;
+	}
+	.add-alerts-dialog form td input[type="checkbox"] {
+		margin-right: initial;
+		margin-left: 22px;
+		margin-top: 21px;
+	}
+	.add-alerts-dialog form input[type="button"] {
+		height: 34px;
+		width: 90px;
+		margin-bottom: initial;
+	}
+	.add-alerts-dialog form input[type="submit"] {
+		height: 34px;
+		width:auto;
+		margin-left: 400px;
+	}
+	.accessOptionsContainer > div > div > div > div > div {
+		display: flex;
+		justify-content: space-between;
+	}
+	.accessOptionsContainer .leftAccessOptionsContainer, .accessOptionsContainer .centerAccessOptionsContainer, .accessOptionsContainer .rightAccessOptionsContainer {
+		width: 28%;
+	}
+	.articleToolsLinks h3 {
+		color: #333333;
+		font-size: 13px;
+	}
+}
+
+.sageTopicDisplayWidget ul.collection-display {
+    color: #333333;
+    font-size: 16px;
+    line-height: 26px;
+    list-style: none;
+}
+
+.sageTopicDisplayWidget ul.subtopics {
+    margin-bottom: 20px;
+		margin-top: 12px;
+}
+
+li.topic {
+    font-size: 18px;
+    color: #555;
+}
+
+.subtopics li {
+    font-size: 16px;
+    line-height: 26px;
+    color: #AC2226;
+    list-style: disc;
+}
+
+@media (min-width: 1280px) {
+	.headerContainer {
+		height: 170px; 
+	}
+	.headerContainer .societyLogo, .impact-factor-container, .societyNameContainer {
+		width:227px;
+	}
+	.societyNameInnerContainer {
+		font-size: 14px;
+		line-height: 16px;
+	}
+	img.societyLogo { 
+		font-size: 14px;
+		line-height: 16px;
+	}
+	.impact-factor-left {
+		font-size: 23px;
+	}
+
+	.impact-factor-right {
+		font-size: 12.9px;
+	}
+}
+
+@media (max-width: 1279px) { 
+	.allPublicationPartnersContent {
+		max-width: 670px;
+		max-height: 135px;
+	}
+	.allPublicationPartnersModal {
+		top: 60px;
+	}
+	.allPublicationPartnersOutterContainer {
+		width: 24em;
+	}
+	.allPublicationPartnersInnerContainer {
+		padding-top: 20px;
+		font-size: 12px;
+	}
+	.dropdownArrow {
+		font-size: 20px;
+	}
+}
+
+@media (max-width: 1096px) { 
+	.portalHeader  .portalMenus .primaryNav li a {
+		padding-left: 15px !important;
+		padding-right: 15px !important;
+	}
+}
+
+@media (max-width: 360px) {
+	.pdfSlide, .largImage, .powePointSlide {
+		width: 84px;
+	}
+	
+	.figuresContent .holder img {
+		max-width: 230px;
+	}
+}</style></div>
+        </div>
+    </div>
+    
+
+
+
+    
+    
+    
+    
+    
+    
+        
+    
+        
+            
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+    
+        
+    
+        
+            
+            
+            
+        
+    
+        
+    
+        
+    
+        
+    
+        
+            
+            
+                
+            
+            
+                
+                
+                
+            
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+    
+    
+
+    
+    <div class="widget general-html-asset none  widget-none  widget-compact-all" id="fa2c0adf-ae45-40c5-84ed-9d89477f548c"  >
+        
+        
+
+        <div class="wrapped " >
+            
+            <div class="widget-body body body-none  body-compact-all"><meta name="viewport" content="width=device-width, initial-scale=1">
+<style type="text/css">
+/*Header */
+.sageLogoContainer, .sageLogo, .portalHeader .portalMenus, .portalSearchContainer, #myAccountLoginPanel,
+#portalAccountPanel, #portalInstitutionalLogin, .headerLeaderBoard {
+	display: none;
+}
+.mobileHeader {
+    display: flex;
+    justify-content: space-between;
+    padding-left: 20px;
+    padding-right: 20px;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	background-color: #F7F7F7;
+}
+
+.portalHeaderMobile {
+    position: fixed;
+    top: 0;
+    width: 100%;
+    z-index: 39000;
+	height:48px;
+}
+.portalHeaderMobile .quickSearchWidget .mainSearchButton {
+    background: rgba(0, 0, 0, 0) url("/pb-assets/Images/search.svg") no-repeat scroll 0 0;
+	width:25px;
+	height:25px;
+}
+
+#portalMobileLogin {
+    height: 100%;
+    left: -320px;
+    padding-left: 20px;
+	margin-left: 0;
+    position: fixed;
+    transition: left 0.3s ease 0s;
+    width: 300px;
+	font-size: 14px;
+    z-index: 38200; /* NK 20170607 [SAGE-340] */
+	background-color: #f7f7f7;
+	overflow-y: scroll;
+}
+.portalInstitutionalBanner .welcome span, .portalInsitutionalButton a {
+    left: 70px;
+    position: absolute;
+    top: 110px;
+}
+.portalInstitutionalBanner img {
+	max-height: 35px;
+}
+.ui-autocomplete {
+    z-index: 39999!important;
+}
+.portalLoginBar .loginBar {
+	visibility: hidden;
+	white-space: nowrap;
+	margin-left: 0px;
+}
+.portalLoginBar .loginBar .individualUser {
+	white-space: normal;
+}
+.portalLoginBar .loginBar .individualUser {
+	visibility: visible;
+}
+.individualUser > a {
+	text-decoration: underline;
+}
+.portalLoginBar .loginBar > a {
+	color: #555555;
+	font-size: 14px;
+/*	text-decoration: none; /* NK 20170524 [SAGE-204] */
+	visibility: visible;
+}
+.portalLoginBar .loginBar .register-link {
+	display: none;
+}
+.portalLoginBar .loginBar > a:first-child::after, .portalInsitutionalButton a {
+	content: "My Account";
+	background: #ffffff none repeat scroll 0 0;
+	border: 1px solid #796c83;
+	border-radius: 5px;
+	-webkit-border-radius:5px;
+	-webkit-appearance:none;
+	color: #796c83;
+	margin-left: -4px;
+/*	text-decoration: none; /* NK 20170524 [SAGE-204] */
+}
+.portalLoginBar .loginBar > a:first-child::after {
+	padding: 7px 70px;
+}
+.portalInsitutionalButton a {
+	padding: 7px 77px;
+	margin-left:-11px;
+}
+.portalInsitutionalButton {
+    text-align: center;
+}
+.portalLoginBar .loginBar .individualUser {
+	z-index: 1;
+	height:35px;
+	background-color:#F7F7F7;
+}
+
+.individualLoginContainer {
+    left: 0px;
+    position: absolute;
+    top: 70px;
+	width:100%;
+	text-align: center;
+}
+
+
+#portalAccountPanel, #myAccountLoginPanel, #portalInstitutionalLogin {
+	display: none;
+	background-color: #f7f7f7;
+	border: 1px solid #CCCCCC;
+	border-radius: 5px;
+	-webkit-border-radius:5px;
+	-webkit-appearance:none;
+	padding: 20px;
+	position: absolute;
+	width: 260px;
+	z-index: 3;
+}
+
+#portalInstitutionalLogin {
+    left: 0;
+    margin-left: auto;
+    margin-right: auto;
+    right: 0;
+    top: 150px;
+}
+
+#portalInstitutionalLogin .shibbolethButton {
+	margin-top: 0;
+}
+#portalInstitutionalLogin h3 {
+	margin-top: 5px;
+	text-align: center;
+}
+#myAccountLoginPanel #login_left br {
+	display: none;
+}
+#myAccountLoginPanel {
+    left: 0;
+    margin-left: auto;
+    margin-right: auto;
+    right: 0;
+    top: 80px;
+	padding-bottom: 50px;
+	z-index: 38200; /* NK 20170607 [SAGE-340] */
+}
+#myAccountLoginPanel .loginForm {
+	margin-left: auto;
+	margin-right: auto;
+}
+#myAccountLoginPanel .loginForm tr, #myAccountLoginPanel .loginForm th {
+	display: block;
+	text-align: left;
+}
+
+#myAccountLoginPanel h3 {
+	margin-top: 0;
+}
+
+.loginWidget #login_left {
+    float: none;
+    height: auto;
+    padding-left: 0;
+    padding-top: 0;
+    width: auto;
+}
+
+.loginWidget #login_right {
+    display: none;
+}
+
+.loginWidget h1 {
+	display:none;
+}
+
+.loginWidget .textInput {
+    width: 90%;
+	height: 30px;
+    border-radius: 5px;
+	-webkit-border-radius:5px;
+	-webkit-appearance:none;
+    border-style: solid;
+	border-color: #cccccc;
+	border-width: 1px;
+	margin-bottom: 7px;
+}
+
+.loginWidget .loginDropZone1 p {
+    color: #333333;
+    font-size: 14px;
+    line-height: 18px;
+    margin: 0 0 10px;
+}
+
+#login_left p {
+    margin: 0;
+}
+
+.leftAccessOptionsContainer .loginForm {
+    /*margin-top: 22px;*/
+    margin-top: 0;
+	text-align: left;
+	width: 100%
+}
+
+.leftAccessOptionsContainer .needHelpLink, .centerAccessOptionsContainer .needHelpLink, .rightAccessOptionsContainer .needHelpLink {
+    bottom: 20px;
+    position: absolute;
+}
+#myAccountLoginPanel .loginForm label, #myAccountLoginPanel .loginWidget a, #myAccountLoginPanel .loginHelpLink a, #portalInstitutionalLogin .needHelpLink a{
+	font-size: 14px;
+}
+#myAccountLoginPanel .loginWidget a, #myAccountLoginPanel .loginHelpLink a, #portalInstitutionalLogin .needHelpLink a{
+	color: #006ACC;
+}
+#myAccountLoginPanel .loginForm label {
+	color: #555555;
+}
+
+/* SAGE-487 reducing space between headings and login options */
+.articleMetaDrop form#ecommerceForm br {
+    display: none;
+}
+.articleMetaDrop .institutionalSubscriber {
+    margin-top: 7px;
+}
+.articleMetaDrop .loginWidget {
+    margin-top: 7px;
+}
+/* SAGE-487 end */
+
+.loginForm tr:first-of-type label::after {
+    content: ":";
+}
+
+.loginForm input[type="checkbox"] {
+    margin-top: 15px;
+	margin-bottom: 15px;
+	margin-right: 10px;
+}
+
+.loginForm input[type="checkbox"]:focus {
+	box-shadow: 0px 0px 4px 1px rgba(140,140,180,0.8);
+}
+
+.loginForm label {
+	color:#555555;
+	font-size: 14px;
+}
+
+#myAccountLoginPanel .loginWidget .textInput {
+	height: 30px;
+	width: 225px;
+}
+
+.loginWidget .formbutton {
+	display: block;
+	width: 100%;
+	max-width: 225px;
+	height: 35px;
+	cursor: pointer;
+	color:#FFFFFF;
+	background-color:#AC2226;
+	font-size: 14px;
+	font-weight: bold;
+	text-decoration:none;
+	border-radius:5px;
+	-webkit-border-radius:5px;
+	-webkit-appearance:none;
+	padding-left: 10px;
+	padding-right: 10px;
+	border: none;
+	margin-left: auto;
+	margin-right: auto;
+}
+.loginWidget .formbutton:hover {
+	background-color:#990000;
+	text-decoration: underline; /* NK 20170612 [SAGE-204] */ 
+}
+
+.loginRegister  p {
+	margin: 0;
+	line-height: unset;
+}
+
+.loginRegister p:not(:first-child) {
+    display: inline;
+}
+
+.registerButton {
+    margin-top: 40px;
+}
+
+.registerButton a{
+    width: 225px;
+}
+
+#portalAccountPanel .portalAccountDetailsLink a, #portalAccountPanel .portalLogoutLink a {
+	width: 200px;
+}
+#portalAccountPanel .portalAccountDetailsLink {
+	margin-bottom: 20px;
+}
+#myAccountLoginPanel #passwordReminder {
+	margin-top: 10px;
+}
+.portalRegistrationLink {
+	margin-top: 20px;
+}
+
+/* EE 12/12: temporarily hiding this until we get OpenAthens working
+.smallButton.blueGrayButton.athensButton {
+    display: none;
+}
+ */
+
+.portalRegistrationLink a, #portalInstitutionalLogin .shibbolethButton a, #portalInstitutionalLogin .athensButton a {
+	padding: 0;
+	width: 225px;
+}
+.page-main-content {
+    margin-top: 48px;
+}
+
+#portalMobileMenus .menuXml .primaryNav li {
+    float: none;
+}
+
+#portalMobileMenus .menuXml .primaryNav li:hover a {
+	background-color:#888888;
+}
+
+#portalMobileMenus .menuXml .primaryNav .expander::after {
+    content: "+";
+	float: right;
+	color: #796C83;
+}
+
+#portalMobileMenus .menuXml .primaryNav .expander.expanded::after {
+    content: "-";
+}
+
+#mobileQuickSearch {
+    display: none;
+}
+#portalMobileMenus {
+	height: 85%;
+    position: fixed;
+    width: 300px;
+    z-index: 10;
+	padding-left: 20px;
+	padding-bottom: 15%;
+	transition: left 0.3s ease 0s;
+	left:-320px;
+	overflow-y: scroll;
+}
+
+#portalMobileMenus .journalMenus, #portalMobileMenus .portalMenus{
+	min-height: 180px;
+}
+
+#mobileQuickSearch .quickSearchForm {
+    left: 0;
+    margin-left: auto;
+    margin-right: auto;
+    position: absolute;
+    right: 0;
+    top: 48px;
+	width: 85%;
+    max-width: 300px;
+}
+
+#portalMobileMenus .menuXml .primaryNav {
+    background-image: none;
+	background-color: #F7F7F7;
+    background-repeat: no-repeat;
+    border-top: medium none;
+    height: initial;
+    position: relative;
+    width: initial;
+}
+
+#portalMobileMenus .menuXml .primaryNav ul {
+    padding-left: 20px;
+    position: relative;
+    top: 0;
+}
+
+#portalMobileMenus h4 {
+    margin-bottom: 0;
+    margin-top: 0;
+    padding-top: 20px;
+    position: relative;
+}
+
+#portalMobileMenus .menuXml .primaryNav li li a {
+	background-color: #F7F7F7 !important;
+	color: #555555 !important;
+}
+
+#portalMobileMenus  .journalMenus .primaryNav li a, #portalMobileMenus  .portalMenus .primaryNav li a{
+    color: #555555;
+    font-size: 16px;
+    font-weight: normal;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+#portalMobileMenus .journalMenus .primaryNav li a {
+	border: none;
+}
+#portalMobileMenus .portalMenus .primaryNav li a {
+    border-left: none;
+}
+
+#portalMobileMenusOverlay, #portalMobileLoginOverlay {
+    background: rgba(255, 255, 255, 0.8) none repeat scroll 0 0;
+    cursor: pointer;
+    display: none;
+    height: 100%;
+    left: 0;
+    position: fixed;
+    width: 100%;
+    z-index: 0;
+}
+
+.page-header {
+    margin-top: 0;
+}
+
+.page-header img {
+    vertical-align: inherit;
+}
+
+.burgerContainer img {
+	width: 25px;
+	min-height: 25px;
+}
+
+.smallSAGELogoContainer img {
+	width: 175px;
+	max-width: 100%;
+}
+
+.profileContainerMobile img {
+	width: 30px;
+	min-height: 30px;
+}
+
+.profileContainerMobile .loggedInArrow {
+    display: none;
+    width: inherit;
+	margin-bottom: 3px;
+	min-height: auto;
+}
+
+.searchContainerMobile img {
+	width: 30px;
+	min-height: 30px;
+}
+
+.smallSAGELogoContainer {
+	text-align: center;
+}
+
+.searchContainerMobile {
+	text-align: right;
+}
+
+.portalMenus .primaryNav li a {
+    border-left: 1px solid #e9e8eb;
+}
+
+.portalMenus .primaryNav li:first-child a {
+    border-left: 0 none;
+}
+
+.portalMenus .primaryNav li ul li:first-child a {
+    padding-left: 21px;
+}
+
+.portalMenus .primaryNav {
+	background: none;
+    border-top: medium none;
+	list-style: outside none none;
+    filter: none;
+    height: 40px;
+    margin: 0;
+    padding: 0;
+    position: relative;
+    z-index: 38050;
+}
+
+.portalHeader  .portalMenus .primaryNav li a {
+    color: #555555;
+    font-size: 16px;
+    font-weight: normal;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+.portalHeader .portalMenus {
+    font-size: 20px;
+    margin-left: 5%;
+    vertical-align: top;
+}
+
+.portalSearchContainer {
+    vertical-align: top;
+    width: 230px;
+}
+
+.portalSearchContainer  .quickSearchWidget input[type="search"] {
+	width:188px;
+}
+
+/* Portal Home */
+
+
+.portalResourcesContainer h2, .newsContainer h2, .openAccessContainer h2, .mySAGEContainer h2 {
+    font-size: 22px;
+}
+
+.portalHomeGraphicContainer {
+	max-width:1600px;
+	margin-left: auto;
+	margin-right: auto;
+	position: relative;
+    background: rgba(0, 0, 0, 0) url("/pb-assets/Images/Portal-image-mobile.png") no-repeat scroll center center;
+    height: 257px;
+	text-align: center;
+}
+
+.portalHomeGraphic {
+    margin-bottom: 10px;
+    margin-top: 20px;
+}
+
+.portalHomeGraphic p {
+    color: #ffffff;
+	font-size: 24px;
+	margin: 0;
+	line-height: 1.3;
+}
+
+.portalHomeGraphicSearchContainer {
+    margin-left: auto;
+    margin-right: auto;
+    width: 80%;
+}
+
+.portalHomeGraphicSearchContainer .advancedSearchLink {
+    color: #ffffff;
+    margin-top: 5px;
+	font-size: 18px;
+}
+
+.portalHomeGraphicSearchContainer .quickSearchWidget input[type="search"] {
+    height: 38px;
+    width: 84%;
+}
+
+.portalHomeGraphicSearchContainer .quickSearchForm {
+	border-radius: 6px;
+	-webkit-border-radius:6px;
+	-webkit-appearance:none;
+}
+
+.portalHomeGraphicSearchContainer .quickSearchWidget .mainSearchButton {
+    background: rgba(0, 0, 0, 0) url("/pb-assets/Icons/search-icon-large.png") no-repeat scroll 0 0;
+	width:28px;
+	height:26px;
+	margin-top: 5px;
+}
+
+.browseDisciplineButton, .browseAZButton {
+    position: relative;
+    width: 300px;
+}
+
+.browseAZButton, .browseAll {
+	margin-left: auto;
+	margin-right: auto;
+    width: 300px;
+}
+
+.browseAZButton {
+    margin-bottom: 10px;
+}
+
+.browseDisciplineButton {
+    margin-left: auto;
+	margin-right: auto;
+}
+
+.browseDisciplineButton h2, .browseAZButton h2 {
+    color: #ffffff;
+    font-size: 18px;
+    font-weight: bold;
+    left: 0;
+    position: absolute;
+    right: 0;
+    text-align: center;
+    top: 12px;
+}
+
+.topLeftDiscipline, .bottomLeftDiscipline, .topRightDiscipline, .bottomRightDiscipline, .browseAll {
+    background-color: #f7f7f7;
+    border: 1px solid #cccccc;
+    border-radius: 5px;
+	-webkit-border-radius:5px;
+	-webkit-appearance:none;
+}
+
+.topLeftDiscipline, .bottomLeftDiscipline, .topRightDiscipline, .bottomRightDiscipline {
+	display: block;
+	margin-bottom: 10px;
+	max-width: 300px;
+}
+
+.topLeftDiscipline a, .bottomLeftDiscipline a, .topRightDiscipline a, .bottomRightDiscipline a {
+    color: #555555;
+	width: 300px;
+	padding: 0;
+}
+
+.browseAll a {
+    color: #555555;
+	width: 300px;
+	padding: 0;
+}
+
+.browseAZContainer {
+    display: flex;
+    flex-direction: column;
+}
+
+.portalBrowseLeft, .portalBrowseRight {
+    display: block;
+    width: 100%;
+}
+
+.portalBrowseRight {
+	margin-top: 20px;
+}
+
+.portalBrowseContainer {
+    margin-bottom: 50px;
+}
+
+.pageBody .portalBrowseContainer h2 {
+    text-align: center;
+	margin-bottom: 30px;
+	margin-top: 0;
+}
+
+.authorsColumn, .librariansColumn, .researchersColumn, .societiesColumn {
+    display: inline-block;
+	width: 270px;
+}
+
+.portalResourcesContainer {
+    background: #f7f7f7 none repeat scroll 0 0;
+    margin: 0 -100%;
+    padding: 30px 100% 40px;
+    text-align: center;
+}
+
+.resourcesColumnTitle {
+    color: #333333;
+    font-size: 18px;
+    margin-bottom: 20px;
+    margin-top: 10px;
+}
+
+.resourcesColumnText {
+	display: none;
+}
+
+.resourcesColumnText, .openAccessContainer, .mySAGEContainer, .requestResetPassword label, .fogottenPasswordContainer label, .fogottenPasswordContainer span { /*Style Guide paragraph text*/
+    color: #333333;
+    font-size: 16px;
+    line-height: 26px;
+}
+.mySAGEContainer li a {
+    font-size: 16px; /* NK 20170524 [SAGE-204] */
+}
+.newsContainer {
+    padding-left: 15px;
+	padding-bottom: 25px;
+	padding-right: 30px;
+}
+
+.openAccessContainer {
+    padding-left: 30px;
+	padding-right: 30px;
+	padding-bottom: 10px;
+}
+
+.newsContainer li {
+    color: #e13345;
+    padding-left: 15px;
+}
+
+.newsContainer li a {
+    font-size: 16px;
+    line-height: 1.9;
+}
+
+.newsContainer h2 {
+    margin-left: 10px;
+}
+
+.newsOuterContainer, .openAccessOuterContainer {
+    border: 2px solid #eeeeee;
+    margin-top: 30px;
+}
+
+.mySAGEList {
+    line-height: 1.9;
+    margin-top: 15px;
+	margin-bottom: 5px;
+}
+
+.mySAGEList ul {
+	list-style-image:url("/pb-assets/Icons/Tick-icon.png");
+}
+
+.mySAGEListLeft {
+	margin-bottom: 0;
+}
+
+.mySAGEListRight {
+	margin-top: 0;
+}
+
+.mySAGEContainer {
+    background-color: #f7f7f7;
+    padding-left: 30px;
+    padding-right: 30px;
+	padding-top: 10px;
+	padding-bottom: 20px;
+}
+
+.mySAGEOuterContainer, .portalHomeAd {
+    margin-top: 30px;
+}
+
+.registerSignInButton a {
+    width: 150px;
+}
+
+.portalHomeAd {
+	text-align: center;
+}
+
+/* Footer */
+
+.SAGEProduct {
+    border: 1px solid #d0d0d0;
+    font-size: 14px;
+    margin-bottom: 15px;
+    margin-left: 20px;
+	margin-right: 20px;
+    padding-left: 15px;
+    padding-top: 20px;
+	color: #333333;
+	height: 60px;
+}
+
+.moreSAGEProducts .SAGEVideo {
+    border-top: 2px solid #e13345;
+}
+
+.moreSAGEProducts .SAGEVideoTitle {
+	color: #e13345;
+}
+
+.moreSAGEProducts .SAGEKnowledge {
+    border-top: 2px solid #640260;
+}
+
+.moreSAGEProducts .SAGEKnowledgeTitle {
+	color: #640260;
+}
+
+.moreSAGEProducts .SAGEResearch {
+    border-top: 2px solid #499e37;
+}
+
+.moreSAGEProducts .SAGEResearchTitle {
+	color: #499e37;
+}
+
+.moreSAGEProducts .SAGEStats {
+    border-top: 2px solid #867fbb;
+}
+
+.moreSAGEProducts .SAGEStatsTitle {
+	color: #867fbb;
+}
+
+.moreSAGEProducts .CQLibrary {
+    border-top: 2px solid #fbae16;
+}
+
+.moreSAGEProducts .CQLibraryTitle {
+	color: #fbae16;
+}
+
+.moreSAGEProducts a {
+    text-decoration: none;
+	width: 100%;
+}
+.moreSAGEProducts a:hover, .moreSAGEProducts a:focus, .moreSAGEProducts a:active {
+    text-decoration: underline; /* NK 20170524 [SAGE-204] */	
+}
+.moreSAGEProductsOuterContainer {
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 1100px;
+}
+
+.SAGEFooterContainer a {
+    color: #333333;
+}
+
+.SAGEFooterContainer .SAGECopyright a {
+    color: #006acc;
+}
+
+.SAGEFooterContainer {
+    margin-left: 20px;
+    margin-right: 20px;
+    max-width: 1100px;
+	padding-bottom: 50px;
+	position: relative;
+}
+
+.topLeftFooter, .topRightFooter, .bottomLeftFooter, .bottomRightFooter, .issnFooter {
+    display: inline-block;
+    vertical-align: top;
+    width: 125px;
+}
+
+.issnFooter {
+    min-width: 155px;
+}
+
+.SAGEFooterContainer .topLeftFooter{
+	margin-left: 0;
+}
+
+.SAGEFooterContainer span {
+    line-height: 2.2;
+}
+
+.SAGECopyright {
+	margin-top: 10px;
+}
+
+.SAGECopyright span{
+    font-size: 10px;
+	line-height: 1;
+}
+
+.SAGEFooterOuterContainer {
+    background-color: #f7f7f7;
+    margin-bottom: 30px;
+    padding-bottom: 30px;
+}
+
+.requestResetPassword input[type="text"], .fogottenPasswordContainer input[type="password"] {
+    background: transparent none repeat scroll 0 0;
+    border: 1px solid #d4d4d4;
+    border-radius: 5px;
+    color: #333333;
+    font-size: 14px;
+    height: 26px;
+    padding: 5px 10px;
+    width: 379px;
+}
+.requestResetPassword .defButton, .fogottenPasswordContainer .defButton { /* bluegraybutton mediumbutton */
+    background-color: #AC2226;
+    border: none;
+    border-radius: 5px;
+	-webkit-border-radius:5px;
+	-webkit-appearance:none;
+    color: #ffffff;
+    cursor: pointer;
+    font-size: 16px;
+    padding-bottom: 7px;
+    padding-top: 7px;
+    text-decoration: none;
+}
+.requestResetPassword .defButton:hover, .fogottenPasswordContainer .defButton:hover {
+	background-color:#990000;
+}
+
+.literatumResetPasswordWidget p.error {
+    display: block;
+    margin-top: 0;
+}
+
+.literatumResetPasswordWidget span.inputMessage {
+    display: none;
+}
+
+.requestResetPassword .defButton, .fogottenPasswordContainer .defButton {
+    padding: 10px 15px;
+}
+
+.literatumResetPasswordWidget td {
+    padding: 0 10px 10px 0;
+}
+
+.literatumPasswordValidationResult {
+    font-size: 16px;
+    line-height: 26px;
+}
+
+@media (max-width: 650px) {
+	.fogottenPasswordContainer td {
+    		display: block;
+	}
+}
+
+.literatumSsoStartWidget .pageTitleArea {
+	display: none;
+}
+
+@media (min-width: 350px) {
+	.portalHomeGraphicContainer {
+		background: rgba(0, 0, 0, 0) url("/pb-assets/Images/Portal-image-tablet.png") no-repeat scroll center center;
+		height: 280px;
+	}
+	.portalHomeGraphic {
+		margin-bottom: 15px;
+		margin-top: 20px;
+	}
+	.portalHomeGraphic p {
+		font-size: 26px;
+	}
+}
+
+@media (min-width: 640px) {
+	.portalHomeGraphicSearchContainer {
+		width: 470px;
+	}
+
+	.resourcesColumnText {
+		display:block;
+	}
+}
+
+@media (min-width: 675px) {
+	.portalHomeGraphic p {
+		font-size: 28px;
+	}
+	.portalHomeGraphic {
+		margin-top: 25px;
+	}
+}
+
+@media (min-width: 768px) {
+
+	.portalHomeGraphicContainer {
+		background: rgba(0, 0, 0, 0) url("/pb-assets/Images/Portal-image.png") no-repeat scroll center center;
+		height: 330px;
+	}
+	.portalHomeGraphic {
+		margin-bottom: 15px;
+		margin-top: 40px;
+	}
+	.portalHomeGraphic p {
+		font-size: 35px;
+	}
+	.topLeftFooter, .topRightFooter, .bottomLeftFooter, .bottomRightFooter, .issnFooter {
+		width: 17%;
+		margin-left: 20px;
+	}
+
+	.newsOuterContainer, .openAccessOuterContainer {
+		border: 2px solid #eeeeee;
+		margin-top: 30px;
+	}
+
+	.newsOpenAccessContainer {
+		border-collapse: separate;
+		border-spacing: 20px 0;
+		display: table;
+		margin-left: -40px;
+		margin-right: -40px;
+		margin-top: 50px;
+	}
+
+	.newsOuterContainer, .openAccessOuterContainer {
+		border: 2px solid #eeeeee;
+		display: table-cell;
+		width: 50%;
+	}
+	.portalBrowseLeft {
+		display: inline-block;
+		width: 50%;
+		border-right: 1px solid #cccccc;
+	}
+
+	.portalBrowseRight {
+		display: inline-block;
+		width: 49%;
+		vertical-align: top;
+		margin-top:0;
+	}
+
+	.mySAGEOuterContainer {
+		width: 55%;
+		display: inline-block;
+		margin-top: 50px;
+	}
+
+	.portalHomeAd {
+		margin-top: 50px;
+		float: right;
+	}
+	.SAGECopyright {
+		position: absolute;
+		right: 0;
+		bottom: 0;
+	}
+}
+
+@media (min-width: 1025px) {
+	.page-main-content {
+		margin-top: 0px;
+	}
+	.portalHeader {
+		display: block;
+		background-color: #FFFFFF;
+		max-width:1100px;
+		margin-left: auto;
+		margin-right: auto;
+		margin-bottom: 2px; /* NK 20170612 [SAGE-1411] */	
+		left: 0;
+		right: 0;
+	}
+	.portalHeaderContainer {
+		background-color: #FFFFFF;
+		padding-top: 4px;  /* NK 20170612 [SAGE-1411] */	
+		display: block;
+	}
+	.headerLeaderBoard  {
+		display: block;
+	}
+	.portalHeaderMobile {
+		display: none;
+	}
+	.portalHeader .portalMenus, .portalSearchContainer, .portalLoginContainer, .sageLogo, .sageLogoContainer {
+		display:inline-block;
+	}
+	.institutionalLoginContainer {
+		max-height: 35px;
+		position: relative;
+	}
+	.portalLoginBar .loginBar .individualUser {
+		background-color:#FFFFFF;
+	}
+/* NK 20170524 [SAGE-204] */	
+/*	.individualUser > a {
+		text-decoration: none;
+	}
+*/	
+	.portalInstitutionalBanner .welcome span, .portalInsitutionalButton a {
+		left: 37px;
+		position: absolute;
+		top: -11px;
+		width: 85px;
+		text-align: center;
+	}
+	.portalLoginBar .loginBar > a:first-child::after {
+		padding: 7px 10px;;
+	}
+	.portalInsitutionalButton a {
+		padding: 7px 10px 7px;
+		margin-left:0px;
+	}
+	.advancedSearchPortal {
+		display: none;
+	}
+	#portalMobileMenus {
+		overflow-y: scroll;
+	}
+	#portalMobileLogin {
+		height:35px;
+		display: inline-block;
+	    padding-left: 0;
+		margin-left: 1%;
+		position: relative;
+		width: 238px;
+		font-size: 14px;
+		vertical-align: middle;
+		z-index: initial;
+		background: none;
+		left: 0;
+		transition: none;
+		overflow-y: visible;
+	}
+
+	#portalMobileLogin > div > div  {
+		align-items: center;
+		display: flex;
+		justify-content: center;
+	}
+	#myAccountLoginPanel, #portalInstitutionalLogin {
+		top: 40px;
+	}
+	#myAccountLoginPanel {
+		left: -100px;
+	}
+	#portalInstitutionalLogin {
+		left: -160px;
+		top: 28px;
+	    padding-bottom: 30px;
+	}
+	.individualLoginContainer {
+		display: flex;
+		flex-direction: column;
+		height: 35px;
+		justify-content: space-around;
+		left: 0;
+		position: absolute;
+		top: -12px;
+		width: 145px;
+	}
+	.topLeftFooter, .topRightFooter, .bottomLeftFooter, .bottomRightFooter, .issnFooter {
+		width: 18%;
+	}
+	.SAGEProduct {
+		width: 188px;
+		margin-right: 0;
+		margin-left: 0;
+	}
+	.moreSAGEProducts {
+		display: inline-flex;
+		width: 100%;
+	}
+	.moreSAGEProducts .SAGEVideo {
+		margin-left: 0;
+	}
+	.SAGEFooterContainer {
+		margin-left: auto;
+		margin-right: auto;
+	}
+	.portalBrowseLeft {
+		display: inline-block;
+		width: 64%;
+		border-right: 1px solid #cccccc;
+	}
+
+	.portalBrowseRight {
+		display: inline-block;
+		width: 35%;
+		vertical-align: top;
+	}
+
+	.topLeftDiscipline, .bottomLeftDiscipline {
+		margin-right: 7px;
+	}
+
+	.topLeftDiscipline, .bottomLeftDiscipline, .topRightDiscipline, .bottomRightDiscipline {
+		display: inline-block;
+	}
+	.browseDisciplineButton {
+		margin-left: 157px;
+		margin-bottom: -5px;
+	}
+	.browseAZButton, .browseAll {
+		margin-left: auto;
+		margin-right: inherit;
+	}
+
+	.mySAGEList ul {
+		display: inline-block;
+	}
+
+	.mySAGEListRight {
+		margin-left: 2%;
+	}
+	.mySAGEOuterContainer {
+		width: 67%;
+	}
+}
+
+@media (min-width: 1100px) {
+	.mySAGEListRight {
+		margin-left: 6%;
+	}
+}
+
+@media (max-width: 1096px) { /*NK for SAGE-1411 (SEO)*/
+	.portalHeader .portalMenus {
+		margin-left: 1% !important;
+	}
+}
+
+/* --- Shibboleth /action/ssostart --- */
+.literatumSsoStartWidget .selectMenuLabel label {
+    font-size: 16px;
+    color: #333;
+}
+.literatumSsoStartWidget select#federationSelect {
+    margin-right: 10px;
+    padding: 5px 10px;
+    font-size: 14px;
+    background: white;
+    color: #888888;
+    border: 1px solid #cccccc;
+    border-radius: 5px;
+	-webkit-border-radius:5px;
+	-webkit-appearance:none;
+    height: 34px;
+    -webkit-appearance: menulist;
+}
+
+.literatumSsoStartWidget input.formbutton {
+    display: none;
+}
+
+.literatumSsoStartWidget .federation {
+    font-size: 18px;
+    color: #555;
+}
+
+.literatumSsoStartWidget li {
+    font-size: 16px;
+    line-height: 26px;
+    color: #AC2226;
+}
+
+/* --- Reset Password --- */
+p.note.resetPasswordNote,
+.literatumResetPasswordWidget .pageTitleArea,
+.literatumResetPasswordWidget p {
+    display: none;
+}
+
+.test_fe {
+	display:none;
+}
+
+</style></div>
+        </div>
+    </div>
+    
+
+
+
+    
+    
+    
+    
+    
+    
+        
+    
+        
+            
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+    
+        
+    
+        
+            
+            
+            
+        
+    
+        
+    
+        
+    
+        
+    
+        
+            
+            
+                
+            
+            
+                
+                
+                
+            
+        
+    
+        
+    
+        
+    
+        
+    
+    
+    
+
+    
+    <div class="widget page-main-content none  widget-none  widget-compact-all" id="dea397f8-1087-4823-917e-a9dd6b971630"  >
+        
+        
+
+        <div class="wrapped " >
+            
+            <div class="widget-body body body-none  body-compact-all"><main role="main" data-pb-dropzone="contents">
+    
+
+
+    
+    
+    
+    
+    
+    
+        
+    
+        
+            
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+    
+        
+    
+        
+            
+            
+            
+        
+    
+        
+    
+        
+    
+        
+    
+        
+            
+            
+                
+            
+            
+                
+                
+                
+            
+        
+    
+        
+    
+        
+    
+        
+    
+    
+    
+
+    
+    <div class="widget pageHeader none  widget-none  widget-compact-all" id="c44c1c4b-af27-4df5-9ca6-c88cc63f1286"  >
+        
+        
+
+        <div class="wrapped " >
+            
+            <div class="widget-body body body-none  body-compact-all"><header class="page-header">
+    <div data-pb-dropzone="main">
+    
+
+
+
+
+    
+    
+    
+    
+    
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+            
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+    
+        
+    
+        
+    
+        
+    
+        
+            
+            
+                
+            
+            
+                
+                
+                
+            
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+            
+            
+            
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+    
+    
+
+    
+    <div class="widget responsive-layout none portalHeaderMobile stick-it-mobile widget-none  widget-compact-all" id="919864a0-5dfa-48e3-b495-8a34f8caf8d6"  >
+        
+        
+            
+        
+
+        <div class="wrapped " id='portalHeaderMobileID'>
+            
+            <div class="widget-body body body-none  body-compact-all"><div class="container-fluid">
+    <div class="row row-md  ">
+        
+            <div class="col-md-1-1 ">
+                <div class="contents" data-pb-dropzone="contents0">
+                    
+                    
+                        
+                            
+
+
+    
+    
+    
+    
+    
+    
+        
+    
+        
+            
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+    
+        
+    
+        
+            
+            
+            
+        
+    
+        
+    
+        
+    
+        
+    
+        
+            
+            
+                
+            
+            
+                
+                
+                
+            
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+    
+    
+
+    
+    <div class="widget general-html-asset none  widget-none  widget-compact-all" id="74dc980e-de8a-4463-9a84-61f907f1e1ab"  >
+        
+        
+
+        <div class="wrapped " >
+            
+            <div class="widget-body body body-none  body-compact-all"><div class="mobileHeader">
+	<div class="burgerContainer" onclick="portalMobileMenusDisplay(); return false;">
+		<a href="#" >
+			<img src="/pb-assets/Images/hamburger-menu.svg" alt="Menus" title="Menus">
+		</a>
+	</div>
+	<div class="smallSAGELogoContainer">
+		<a href="/" >
+			<img href="/" src="/pb-assets/Images/SJ-logo.svg">
+		</a>
+	</div>
+	<div class="profileContainerMobile" onclick="portalMobileLoginDisplay(); return false;">
+		<a href="#" ><img src="/pb-assets/Images/profile.svg" alt="Profile" title="Profile"><img class="loggedInArrow" src="/pb-assets/Images/Arrow-down-red-small.png" alt="logged-in"></a>
+	</div>
+	<div class="searchContainerMobile" onclick="portalMobileSearchDisplay(); return false;">
+		<a href="#" >
+			<img src="/pb-assets/Images/search.svg" alt="Search" title="Search">
+		</a>
+	</div>
+</div>
+<div id="portalMobileMenusOverlay" onclick="portalMobileMenusDisplay(); return false;"></div>
+
+<script type="text/javascript">
+$(document).ready(function () {
+	if ($('#indivLogin').length){ <!-- User is logged in -->
+		$('.profileContainerMobile .loggedInArrow').css('display', 'initial');
+	} else {
+		$('.profileContainerMobile .loggedInArrow').css('display', 'none');
+	}
+});
+</script></div>
+        </div>
+    </div>
+    
+
+                        
+                            
+
+
+    
+    
+    
+    
+    
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+            
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+    
+        
+    
+        
+    
+        
+    
+        
+            
+            
+                
+            
+            
+                
+                
+                
+            
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+            
+            
+            
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+    
+    
+
+    
+    <div class="widget quickSearchWidget none portalQuickSearch widget-none  widget-compact-all" id="96111d90-062a-4570-8460-1eacc51a7815"  >
+        
+        
+            
+        
+
+        <div class="wrapped " id='mobileQuickSearch'>
+            
+            <div class="widget-body body body-none  body-compact-all"><util:actionContext/>
+
+
+
+
+
+
+
+
+
+
+
+        
+    
+
+
+
+<div class="quickSearchFormContainer">
+    
+
+    <form action="/action/doSearch" id="quickSearch" name="quickSearch" class="quickSearchForm " style="padding-left: 0px" title="Quick Search" method="get"><span class="simpleSearchBoxContainer" id="meme">
+                    
+                    
+
+                    
+                     
+                             <input name="AllField" class="searchText main-search-field autocomplete" value=""
+                                    type="search" id="searchText" title="Type search term here" placeholder="Search all SAGE Journals" autocomplete="off"
+                                    data-history-items-conf="3"
+                                    data-publication-titles-conf="0"
+                                    data-topics-conf="0"
+                                    data-contributors-conf="0">
+                         
+                </span>
+                
+                    
+
+
+
+
+    
+
+<span class="citationSearchBoxContainer hidden">
+    <input name="quickLinkJournal" autoPopulate="true" data-auto-complete-target="Title" autoComplete="off" type="search" title="Journal"
+           class="journalName mediumTextInput textIndent autocomplete" placeholder="Journal"/>
+
+        
+
+    <input type="hidden" name="quickLink" value="true" />
+    <input class="year smallTextInput" title="Year" type="search" name="quickLinkYear" value="" autocomplete="false" placeholder="Year" />
+    <input class="volume smallTextInput" title="Volume" type="search" name="quickLinkVolume" value="" autocomplete="false" placeholder="Volume" />
+    <input class="issue smallTextInput" title="Issue" type="search" name="quickLinkIssue" value="" autocomplete="false" placeholder="Issue" />
+    <input class="page smallTextInput" title="Page" type="search" name="quickLinkPage" value="" autocomplete="false" placeholder="Page" />
+</span>
+
+                
+            
+        
+
+        
+            
+
+
+
+
+<input class="mainSearchButton searchButtons pointer" title="search" type="submit" value="Search" /></form>
+</div>
+
+
+
+
+<div class="advancedSearchLinkDropZone" data-pb-dropzone="advancedSearchLinkDropZone">
+    
+</div>
+
+<script>
+    if (false) {
+        $(document).ready(function () {
+
+            /* For Minimize  the Screen and Mobile Support */
+            $(window).resize(function() {
+                $('input[name=AllField]').autocomplete( "search" );
+            });
+
+
+            $('input[name=AllField]').autocomplete({
+                minLength: 0,
+                source: [],
+                select: AutoCompleteSelectHandler,
+                open: function (event, ui) {
+
+                    var currentWidth = $(this).outerWidth();
+                    var iconSpan = 30;
+                    if (currentWidth < 200) {
+                        $(this).autocomplete("widget").css({
+                            "width": (currentWidth+4) + iconSpan
+
+                        });
+                    } else {
+                        $(this).autocomplete("widget").css({
+                            "width": (currentWidth+40) + iconSpan
+
+                        });
+                    }
+                    $("ul.ui-autocomplete li a").each(function () {
+                        var currentValue = $(this).html();
+                        if(currentValue) {
+                            var lastIndex = currentValue.lastIndexOf(",")
+                            var currentInput = currentValue.substring(0, lastIndex);
+                            var ourOptions = currentValue.substring(lastIndex + 1);
+                            $(this).html("<span style=\"position: relative;top: 5px\"><img src=\"/templates/jsp/_style2/_sage/images/quick-search-icon.png\" /></span>" + "<b>" + " " + currentInput + "</b>" + ourOptions);
+                        }
+                    });
+                },
+                focus: function (event, ui) {
+                    event.preventDefault();
+                },
+                response: function (event, ui) {
+
+
+                    var value = $(this).val();
+
+                    if (value.length != 0)
+                    {
+                        ui.content.push({
+                            'label': value+ ', in This journal',
+                            'value': 'This journal'
+                        });
+                        ui.content.push({
+                            'label': value + ', in All SAGE journals',
+                            'value': 'All SAGE journals'
+                        });
+                    }
+                }
+            });
+
+
+
+            /* Get slected Option from autoComplete*/
+            function AutoCompleteSelectHandler(event, ui) {
+                event.preventDefault();
+                var selectedObj = ui.item;
+                var value = selectedObj.value;
+                var currentValue = $(this).val();
+                $("input[name=AllField]").val(currentValue);
+
+                if (value == 'This journal') {
+                    $(this).closest('#quickSearch').append("<input type='hidden' name='SeriesKey' value=''>").submit();
+                } else {
+                    $(this).closest('#quickSearch').submit();
+                }
+
+            }
+
+
+            /* when click Enter */
+            $(".searchText").on("keydown", function (event) {
+                if (event.which == 13){
+                    var selectedValue = $(this).val();
+                    if (selectedValue == 'This journal') {
+                        $(this).closest('#quickSearch').append("<input type='hidden' name='SeriesKey' value=''>").submit();
+                    } else if(selectedValue =='All SAGE journals'){
+                        $(this).closest('#quickSearch').submit();
+                    }
+                }
+
+            });
+
+
+
+            $(document).on('click', '.mainSearchButton', function () {
+                $("input[name=SeriesKey]").remove();
+                $(this).closest('#quickSearch').append("<input type='hidden' name='SeriesKey' value=''>").submit();
+            });
+
+        })
+    }
+
+</script></div>
+        </div>
+    </div>
+    
+
+                        
+                            
+
+
+    
+    
+    
+    
+    
+    
+        
+    
+        
+            
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+    
+        
+    
+        
+            
+            
+            
+        
+    
+        
+    
+        
+    
+        
+    
+        
+            
+            
+                
+            
+            
+                
+                
+                
+            
+        
+    
+        
+    
+        
+    
+        
+    
+    
+    
+
+    
+    <div class="widget layout-frame none  widget-none  widget-compact-all" id="c1522079-3ecc-4088-be29-67e60b4693d6"  >
+        
+        
+            
+        
+
+        <div class="wrapped " id='portalMobileMenus'>
+            
+            <div class="widget-body body body-none  body-compact-all"><div data-pb-dropzone="contents">
+    
+
+
+    
+    
+    
+    
+    
+    
+        
+    
+        
+            
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+    
+        
+    
+        
+            
+            
+            
+        
+    
+        
+    
+        
+    
+        
+    
+        
+            
+            
+                
+            
+            
+                
+                
+                
+            
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+    
+    
+
+    
+    <div class="widget general-html-asset none portalMenus widget-none  widget-compact-all" id="6e98bd07-3ab6-4563-b1ba-857cc8a7ddfc"  >
+        
+        
+
+        <div class="wrapped " >
+            <h4 class="widget-header header-none  header-compact-all">SAGE Journals</h4>
+            <div class="widget-body body body-none  body-compact-all"><div  class="menuXml">
+	<nav>
+		<ul class="shadow primaryNav">
+			<li class="">
+				<a id="portalBrowseLink" href="/action/showPublications">Browse</a>
+			</li>
+			<li class="">
+				<a class="expander" href="#">Resources</a>
+				<ul>
+					<li class="">
+						<a href="/page/resources/authors">Authors</a>
+					</li>
+					<li class="">
+						<a href="/page/resources/librarians">Librarians</a>
+					</li>
+					<li class="">
+						<a href="/page/resources/editors">Editors</a>
+					</li>
+					<li class="">
+						<a href="/page/resources/societies">Societies</a>
+					</li>
+				</ul>
+			</li>
+			<li>
+<!--
+				<a class="expander" href="/action/showPreferences">My Tools</a>
+-->
+				<a class="expander">My Tools</a>
+				<ul>
+					<li class="">
+						<a href="/action/showPreferences?menuTab=Alerts">My Alerts</a>
+					</li>
+					<li class="">
+						<a href="/search/saved">My Saved Searches</a>
+					</li>
+					<li class="">
+						<a href="/action/showPreferences?menuTab=favorites">My Favorite Journals</a>
+					</li>
+					<li class="">
+						<a href="/action/showPreferences?menuTab=AccountInfo">My Account</a>
+					</li>
+				</ul>
+			</li>
+			<li class="advancedSearchPortal">
+				<a href="/search/advanced">Advanced Search</a>
+			</li>
+		</ul>
+	</nav>
+</div></div>
+        </div>
+    </div>
+    
+</div></div>
+        </div>
+    </div>
+    
+
+                        
+                    
+                </div>
+            </div>
+        
+    </div>
+</div></div>
+        </div>
+    </div>
+    
+
+
+
+    
+    
+    
+    
+    
+    
+        
+    
+        
+            
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+    
+        
+    
+        
+            
+            
+            
+        
+    
+        
+    
+        
+    
+        
+    
+        
+            
+            
+                
+            
+            
+                
+                
+                
+            
+        
+    
+        
+    
+        
+    
+        
+    
+    
+    
+
+    
+    <div class="widget layout-frame none portalHeaderContainer  stick-it-header widget-none  widget-compact-all" id="da2dfa63-a90d-4940-a652-36aa0f55e2b5"  >
+        
+        
+
+        <div class="wrapped " >
+            
+            <div class="widget-body body body-none  body-compact-all"><div data-pb-dropzone="contents">
+    
+
+
+    
+    
+    
+    
+    
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+            
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+    
+        
+    
+        
+    
+        
+    
+        
+            
+            
+                
+            
+            
+                
+                
+                
+            
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+            
+            
+            
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+    
+    
+
+    
+    <div class="widget responsive-layout none portalHeader widget-none  widget-compact-all" id="e00da0da-a7b9-4046-ac29-04b0a9b67218"  >
+        
+        
+
+        <div class="wrapped " >
+            
+            <div class="widget-body body body-none  body-compact-all"><div class="container-fluid">
+    <div class="row row-md  ">
+        
+            <div class="col-md-1-1 ">
+                <div class="contents" data-pb-dropzone="contents0">
+                    
+                    
+                        
+                            
+
+
+    
+    
+    
+    
+    
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+            
+        
+    
+        
+    
+        
+    
+        
+    
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+            
+            
+                
+            
+            
+                
+                
+                
+            
+        
+    
+        
+    
+        
+    
+        
+            
+            
+            
+        
+    
+        
+    
+        
+    
+        
+    
+    
+    
+
+    
+    <div class="widget general-image none sageLogo widget-none  widget-compact-all" id="26d3e1a0-8c43-4c47-9c58-988e63152cc8"  >
+        
+        
+
+        <div class="wrapped " >
+            
+            <div class="widget-body body body-none  body-compact-all"><a href="/"
+title="SAGE Journals"
+>
+<img src="/pb-assets/Images/SJ -LOGO.png"
+alt="SAGE Journals"
+/>
+</a></div>
+        </div>
+    </div>
+    
+
+                        
+                            
+
+
+    
+    
+    
+    
+    
+    
+        
+    
+        
+            
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+    
+        
+    
+        
+            
+            
+            
+        
+    
+        
+    
+        
+    
+        
+    
+        
+            
+            
+                
+            
+            
+                
+                
+                
+            
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+    
+    
+
+    
+    <div class="widget general-html-asset none portalMenus widget-none  widget-compact-all" id="342dde64-c493-4c7d-b859-3597e6f52c86"  >
+        
+        
+
+        <div class="wrapped " >
+            
+            <div class="widget-body body body-none  body-compact-all"><div  class="menuXml">
+	<nav>
+		<ul class="shadow primaryNav">
+			<li class="">
+				<a id="portalBrowseLink" href="/action/showPublications">Browse</a>
+			</li>
+			<li class="">
+				<a class="expander" href="#">Resources</a>
+				<ul>
+					<li class="">
+						<a href="/page/resources/authors">Authors</a>
+					</li>
+					<li class="">
+						<a href="/page/resources/librarians">Librarians</a>
+					</li>
+					<li class="">
+						<a href="/page/resources/editors">Editors</a>
+					</li>
+					<li class="">
+						<a href="/page/resources/societies">Societies</a>
+					</li>
+				</ul>
+			</li>
+			<li>
+<!--
+				<a class="expander" href="/action/showPreferences">My Tools</a>
+-->
+				<a class="expander">My Tools</a>
+				<ul>
+					<li class="">
+						<a href="/action/showPreferences?menuTab=Alerts">My Alerts</a>
+					</li>
+					<li class="">
+						<a href="/search/saved">My Saved Searches</a>
+					</li>
+					<li class="">
+						<a href="/action/showPreferences?menuTab=favorites">My Favorite Journals</a>
+					</li>
+					<li class="">
+						<a href="/action/showPreferences?menuTab=AccountInfo">My Account</a>
+					</li>
+				</ul>
+			</li>
+			<li class="advancedSearchPortal">
+				<a href="/search/advanced">Advanced Search</a>
+			</li>
+		</ul>
+	</nav>
+</div></div>
+        </div>
+    </div>
+    
+
+                        
+                            
+
+
+    
+    
+    
+    
+    
+    
+        
+    
+        
+            
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+    
+        
+    
+        
+            
+            
+            
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+            
+            
+                
+            
+            
+                
+                
+                
+            
+        
+    
+        
+    
+        
+    
+        
+    
+    
+    
+
+    
+    <div class="widget layout-one-column none portalSearchContainer widget-none  widget-compact-all" id="c7ffdd46-b89e-452a-be51-7ae6962f356a"  >
+        
+        
+
+        <div class="wrapped " >
+            
+            <div class="widget-body body body-none  body-compact-all"><div class="pb-columns row-fluid">
+    <div class="width_1_1">
+        <div data-pb-dropzone="center">
+
+
+
+    
+    
+    
+    
+    
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+            
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+    
+        
+    
+        
+    
+        
+    
+        
+            
+            
+                
+            
+            
+                
+                
+                
+            
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+            
+            
+            
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+    
+    
+
+    
+    <div class="widget quickSearchWidget none portalQuickSearch widget-none  widget-compact-all" id="5573063c-7c0f-4d97-af3b-1384af2da1b6"  >
+        
+        
+            
+        
+
+        <div class="wrapped " id='portalQuickSearch'>
+            
+            <div class="widget-body body body-none  body-compact-all"><util:actionContext/>
+
+
+
+
+
+
+
+
+
+
+
+        
+    
+
+
+
+<div class="quickSearchFormContainer">
+    
+
+    <form action="/action/doSearch" id="quickSearch" name="quickSearch" class="quickSearchForm " style="padding-left: 0px" title="Quick Search" method="get"><span class="simpleSearchBoxContainer" id="meme">
+                    
+                    
+
+                    
+                     
+                             <input name="AllField" class="searchText main-search-field autocomplete" value=""
+                                    type="search" id="searchText" title="Type search term here" placeholder="Search all SAGE Journals" autocomplete="off"
+                                    data-history-items-conf="3"
+                                    data-publication-titles-conf="0"
+                                    data-topics-conf="0"
+                                    data-contributors-conf="0">
+                         
+                </span>
+                
+                    
+
+
+
+
+    
+
+<span class="citationSearchBoxContainer hidden">
+    <input name="quickLinkJournal" autoPopulate="true" data-auto-complete-target="Title" autoComplete="off" type="search" title="Journal"
+           class="journalName mediumTextInput textIndent autocomplete" placeholder="Journal"/>
+
+        
+
+    <input type="hidden" name="quickLink" value="true" />
+    <input class="year smallTextInput" title="Year" type="search" name="quickLinkYear" value="" autocomplete="false" placeholder="Year" />
+    <input class="volume smallTextInput" title="Volume" type="search" name="quickLinkVolume" value="" autocomplete="false" placeholder="Volume" />
+    <input class="issue smallTextInput" title="Issue" type="search" name="quickLinkIssue" value="" autocomplete="false" placeholder="Issue" />
+    <input class="page smallTextInput" title="Page" type="search" name="quickLinkPage" value="" autocomplete="false" placeholder="Page" />
+</span>
+
+                
+            
+        
+
+        
+            
+
+
+
+
+<input class="mainSearchButton searchButtons pointer" title="search" type="submit" value="Search" /></form>
+</div>
+
+
+
+
+<div class="advancedSearchLinkDropZone" data-pb-dropzone="advancedSearchLinkDropZone">
+    
+</div>
+
+<script>
+    if (false) {
+        $(document).ready(function () {
+
+            /* For Minimize  the Screen and Mobile Support */
+            $(window).resize(function() {
+                $('input[name=AllField]').autocomplete( "search" );
+            });
+
+
+            $('input[name=AllField]').autocomplete({
+                minLength: 0,
+                source: [],
+                select: AutoCompleteSelectHandler,
+                open: function (event, ui) {
+
+                    var currentWidth = $(this).outerWidth();
+                    var iconSpan = 30;
+                    if (currentWidth < 200) {
+                        $(this).autocomplete("widget").css({
+                            "width": (currentWidth+4) + iconSpan
+
+                        });
+                    } else {
+                        $(this).autocomplete("widget").css({
+                            "width": (currentWidth+40) + iconSpan
+
+                        });
+                    }
+                    $("ul.ui-autocomplete li a").each(function () {
+                        var currentValue = $(this).html();
+                        if(currentValue) {
+                            var lastIndex = currentValue.lastIndexOf(",")
+                            var currentInput = currentValue.substring(0, lastIndex);
+                            var ourOptions = currentValue.substring(lastIndex + 1);
+                            $(this).html("<span style=\"position: relative;top: 5px\"><img src=\"/templates/jsp/_style2/_sage/images/quick-search-icon.png\" /></span>" + "<b>" + " " + currentInput + "</b>" + ourOptions);
+                        }
+                    });
+                },
+                focus: function (event, ui) {
+                    event.preventDefault();
+                },
+                response: function (event, ui) {
+
+
+                    var value = $(this).val();
+
+                    if (value.length != 0)
+                    {
+                        ui.content.push({
+                            'label': value+ ', in This journal',
+                            'value': 'This journal'
+                        });
+                        ui.content.push({
+                            'label': value + ', in All SAGE journals',
+                            'value': 'All SAGE journals'
+                        });
+                    }
+                }
+            });
+
+
+
+            /* Get slected Option from autoComplete*/
+            function AutoCompleteSelectHandler(event, ui) {
+                event.preventDefault();
+                var selectedObj = ui.item;
+                var value = selectedObj.value;
+                var currentValue = $(this).val();
+                $("input[name=AllField]").val(currentValue);
+
+                if (value == 'This journal') {
+                    $(this).closest('#quickSearch').append("<input type='hidden' name='SeriesKey' value=''>").submit();
+                } else {
+                    $(this).closest('#quickSearch').submit();
+                }
+
+            }
+
+
+            /* when click Enter */
+            $(".searchText").on("keydown", function (event) {
+                if (event.which == 13){
+                    var selectedValue = $(this).val();
+                    if (selectedValue == 'This journal') {
+                        $(this).closest('#quickSearch').append("<input type='hidden' name='SeriesKey' value=''>").submit();
+                    } else if(selectedValue =='All SAGE journals'){
+                        $(this).closest('#quickSearch').submit();
+                    }
+                }
+
+            });
+
+
+
+            $(document).on('click', '.mainSearchButton', function () {
+                $("input[name=SeriesKey]").remove();
+                $(this).closest('#quickSearch').append("<input type='hidden' name='SeriesKey' value=''>").submit();
+            });
+
+        })
+    }
+
+</script></div>
+        </div>
+    </div>
+    
+
+
+
+    
+    
+    
+    
+    
+    
+        
+    
+        
+            
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+    
+        
+    
+        
+            
+            
+            
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+            
+            
+                
+            
+            
+                
+                
+                
+            
+        
+    
+        
+    
+        
+    
+        
+    
+    
+    
+
+    
+    <div class="widget general-html none journalAdvancedSearch widget-none  widget-compact-all" id="dd21475d-152b-4053-a3e5-fe5e60f09fee"  >
+        
+        
+
+        <div class="wrapped " >
+            
+            <div class="widget-body body body-none  body-compact-all"><a class="advancedSearchLink" href ="/search/advanced">Advanced</a></div>
+        </div>
+    </div>
+    
+        </div>
+    </div>
+</div></div>
+        </div>
+    </div>
+    
+
+                        
+                            
+
+
+    
+    
+    
+    
+    
+    
+        
+    
+        
+            
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+    
+        
+    
+        
+            
+            
+            
+        
+    
+        
+    
+        
+    
+        
+    
+        
+            
+            
+                
+            
+            
+                
+                
+                
+            
+        
+    
+        
+    
+        
+    
+        
+    
+    
+    
+
+    
+    <div class="widget layout-frame none portalLoginContainer widget-none  widget-compact-all" id="921d6e4c-dde7-4a4a-940e-e61bceec84b0"  >
+        
+        
+            
+        
+
+        <div class="wrapped " id='portalMobileLogin'>
+            
+            <div class="widget-body body body-none  body-compact-all"><div data-pb-dropzone="contents">
+    
+
+
+    
+    
+    
+    
+    
+    
+        
+    
+        
+            
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+    
+        
+    
+        
+            
+            
+            
+        
+    
+        
+    
+        
+    
+        
+    
+        
+            
+            
+                
+            
+            
+                
+                
+                
+            
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+    
+    
+
+    
+    <div class="widget general-html-asset none  widget-none  widget-compact-all" id="66fe8e60-9b5c-42dc-b5da-3aff92108756"  >
+        
+        
+
+        <div class="wrapped " >
+            
+            <div class="widget-body body body-none  body-compact-all"><script>
+
+function panelToggle(panelIdString, closePanel1String, closePanel2String) {
+	
+	if (panelIdString) {	
+		var panelId = document.getElementById(panelIdString);
+		var panelDisplay = window.getComputedStyle(panelId, null).getPropertyValue('display');
+
+		if (panelDisplay === 'none' || panelDisplay === '') {
+			panelId.style.display = 'block';
+		} else {
+			panelId.style.display = 'none';
+		}
+	}
+  
+	if (closePanel1String) {
+		var closePanel1Id = document.getElementById(closePanel1String);
+
+		closePanel1Id.style.display = 'none';
+	}
+
+	if (closePanel2String) {
+		var closePanel2Id = document.getElementById(closePanel2String);
+
+		closePanel2Id.style.display = 'none';
+	}
+}
+
+function closeSlidePanel (closePanelString) {
+		var closePanelId = document.getElementById(closePanelString);
+		var panelLeft = window.getComputedStyle(closePanelId, null).getPropertyValue('left');
+		var panelWidth = parseInt(window.getComputedStyle(closePanelId, null).getPropertyValue('width'));
+		var panelPaddingLeft = parseInt(window.getComputedStyle(closePanelId, null).getPropertyValue('padding-left'));
+		var panelOffset = panelWidth + panelPaddingLeft;
+
+		closePanelId.style.left = "-"+String(panelOffset)+"px";
+}
+
+/* Toggle the opening or closing of a slider panel, and closes additional panels*/
+function panelSlide(panelIdString, closePanel1String, closePanel2String) {
+	
+	if (panelIdString) {
+		var panelId = document.getElementById(panelIdString);
+		var panelLeft = window.getComputedStyle(panelId, null).getPropertyValue('left');
+
+		if (panelLeft === "0px" || panelLeft === "") {
+			closeSlidePanel (panelIdString);
+		} else {
+			panelId.style.left = "0";
+		}
+	}
+  
+	if (closePanel1String) {
+		closeSlidePanel (closePanel1String);
+	}
+  
+	if (closePanel2String) {
+		closeSlidePanel (closePanel2String);
+	}
+}
+
+function portalInstitutionalLoginToggle() {
+  var myInstitutionalLoginId = document.getElementById('portalInstitutionalLogin');
+
+  if (myInstitutionalLoginId.style.display === 'none' || myInstitutionalLoginId.style.display === '') {
+    myInstitutionalLoginId.style.display = 'block';
+  } else {
+    myInstitutionalLoginId.style.display = 'none';
+  }
+}
+
+function mobileMenuSlide(menuIdString, closeMenuIdString) {
+
+  var menuBottom = $(menuIdString).css("bottom");
+ 
+   if (menuBottom === "-1000px" || menuBottom === "") {
+
+	var menuHeight = $(menuIdString).height();
+	var menuPaddingBottom = 47;
+	var menuOffset = menuHeight + menuPaddingBottom;
+ 
+	$(menuIdString).css({"bottom":"47px"});
+  } else {
+	closeMobileMenu (menuIdString);
+  }
+  if (closeMenuIdString) {
+	closeMobileMenu (closeMenuIdString);
+  }
+}
+
+function closeMobileMenu (closeMenuIdString) {
+	$(closeMenuIdString).css({"bottom":"-1000px"});
+}
+
+function portalLoginSetup() {
+	$("#portalLoginBar .loginBar > a:first-child").attr("href", "#");
+//	$("#portalLoginBar .loginBar > a:first-child").attr("onclick", "panelToggle('myAccountLoginPanel', 'portalInstitutionalLogin'); return false;");
+	$("#indivLogin").attr("href", "#");
+//	$("#indivLogin").attr("onclick", "panelToggle('portalAccountPanel', 'portalInstitutionalLogin'); return false;");
+
+	if ($("#myAccountLoginPanel .loginForm td").hasClass("error")) {
+		if ($(".portalHeaderMobile").css("display")!="none") {
+			portalMobileLoginDisplay();
+		}
+		panelToggle('myAccountLoginPanel');
+	} 
+}
+
+function portalMobileMenusDisplay() {
+	panelSlide("portalMobileMenus", "portalMobileLogin");
+	panelToggle("portalMobileMenusOverlay", "mobileQuickSearch", "portalMobileLoginOverlay");
+}
+
+function portalMobileLoginDisplay() {
+	panelSlide("portalMobileLogin", "portalMobileMenus");
+	panelToggle("portalMobileLoginOverlay", "mobileQuickSearch", "portalMobileMenusOverlay");
+}
+
+function portalMobileSearchDisplay() {
+	panelSlide("", "portalMobileLogin", "portalMobileMenus");
+	panelToggle("mobileQuickSearch", "portalMobileMenusOverlay", "portalMobileLoginOverlay");
+}
+
+var panelOpenning=false; // Flag for omitting click event while openning the panel
+
+$(document).ready(function () {
+	portalLoginSetup ();
+
+	$(document).click(function(event) { 
+		if (!panelOpenning) {
+			if($(event.target).closest('#portalAccountPanel').length==0 && $('#portalAccountPanel').is(":visible")) {
+				$('#portalAccountPanel').fadeOut('fast'); // user clicked outside of panel --> close panel
+			}
+			if($(event.target).closest('#myAccountLoginPanel').length==0 && $('#myAccountLoginPanel').is(":visible")) {
+				$('#myAccountLoginPanel').fadeOut('fast'); // user clicked outside of panel --> close panel
+			}
+		}
+		else {
+			panelOpenning = false;
+		}
+	});
+	
+	$(document).keyup(function(event) {
+		if (event.keyCode == 27) { // escape key maps to keycode `27`
+			if($('#portalAccountPanel').is(":visible")) {
+				$('#portalAccountPanel').fadeOut('fast'); 
+			}
+			if($('#myAccountLoginPanel').is(":visible")) {
+				$('#myAccountLoginPanel').fadeOut('fast');
+			}
+		}
+	});
+
+	$("#portalLoginBar .loginBar > a:first-child").click(function(event) { 
+		panelToggle('myAccountLoginPanel', 'portalInstitutionalLogin');
+		panelOpenning = true;
+		event.preventDefault();
+	});
+
+	$("#indivLogin").click(function(event) {
+		panelToggle('portalAccountPanel', 'portalInstitutionalLogin');
+		panelOpenning = true;
+		event.preventDefault();
+	});
+
+	$("#portalMobileLoginOverlay").click(function(event) { 
+		portalMobileLoginDisplay();
+		panelOpenning = false; // this should trigger closing of panel, as well.
+		event.preventDefault();
+	});
+});
+
+</script>
+<div id="portalMobileLoginOverlay"></div></div>
+        </div>
+    </div>
+    
+
+
+
+    
+    
+    
+    
+    
+    
+        
+    
+        
+            
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+    
+        
+    
+        
+            
+            
+            
+        
+    
+        
+    
+        
+    
+        
+    
+        
+            
+            
+                
+            
+            
+                
+                
+                
+            
+        
+    
+        
+    
+        
+    
+        
+    
+    
+    
+
+    
+    <div class="widget layout-frame none individualLoginContainer widget-none  widget-compact-all" id="8d34d6ab-387d-46cb-a6f8-54b88fb03a37"  >
+        
+        
+
+        <div class="wrapped " >
+            
+            <div class="widget-body body body-none  body-compact-all"><div data-pb-dropzone="contents">
+    
+
+
+    
+    
+    
+    
+    
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+            
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+    
+        
+    
+        
+    
+        
+            
+            
+                
+            
+            
+                
+                
+                
+            
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+            
+            
+            
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+    
+    
+
+    
+    <div class="widget literatumNavigationLoginBar none portalLoginBar widget-none  widget-compact-all" id="25793432-627d-46a1-8b30-1007ede2e8c2"  >
+        
+        
+            
+        
+
+        <div class="wrapped " id='portalLoginBar'>
+            
+            <div class="widget-body body body-none  body-compact-all"><div class="loginBar">
+
+    
+
+    
+            
+            
+
+
+
+
+
+
+    
+
+
+
+<a href="https://journals.sagepub.com/action/showLogin?uri=%2Faction%2FcookieAbsent">
+    Sign in:
+</a>
+
+
+            &nbsp;|&nbsp;
+            
+
+
+
+
+
+    
+
+
+
+        <a href="https://journals.sagepub.com/action/registration?redirectUri=%2Faction%2FcookieAbsent" class="register-link">
+            Register
+        </a>
+    
+        
+
+    
+
+</div></div>
+        </div>
+    </div>
+    
+
+
+
+    
+    
+    
+    
+    
+    
+        
+    
+        
+            
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+    
+        
+    
+        
+            
+            
+            
+        
+    
+        
+    
+        
+    
+        
+    
+        
+            
+            
+                
+            
+            
+                
+                
+                
+            
+        
+    
+        
+    
+        
+    
+        
+    
+    
+    
+
+    
+    <div class="widget layout-frame none  widget-none  widget-compact-all" id="bdee8e4f-e79b-4bf9-93f5-89da213f0954"  >
+        
+        
+            
+        
+
+        <div class="wrapped " id='myAccountLoginPanel'>
+            
+            <div class="widget-body body body-none  body-compact-all"><div data-pb-dropzone="contents">
+    
+
+
+    
+    
+    
+    
+    
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+            
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+    
+        
+    
+        
+    
+        
+    
+        
+            
+            
+                
+            
+            
+                
+                
+                
+            
+        
+    
+        
+    
+        
+    
+        
+            
+            
+            
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+    
+    
+
+    
+    <div class="widget literatumLoginWidget none  widget-none  widget-compact-all" id="53bdac9c-abf8-4fa6-8e2a-8b09cf31a248"  >
+        
+        
+
+        <div class="wrapped " >
+            <h3 class="widget-header header-none  header-compact-all">Sign in to my Account</h3>
+            <div class="widget-body body body-none  body-compact-all"><div class="loginWidget">
+    <div class="loginDropZone1" data-pb-dropzone="loginDropZone1">
+        
+            
+                
+
+
+    
+    
+    
+    
+    
+    
+        
+    
+        
+            
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+    
+        
+    
+        
+            
+            
+            
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+            
+            
+                
+            
+            
+                
+                
+                
+            
+        
+    
+        
+    
+        
+    
+        
+    
+    
+    
+
+    
+    <div class="widget general-html none  widget-none  widget-compact-all" id="59bc99a2-0b5e-4527-a2dc-619114f629c0"  >
+        
+        
+
+        <div class="wrapped " >
+            
+            <div class="widget-body body body-none  body-compact-all"><p>On your first visit to SAGE Journals please  <a href="/action/requestResetPassword">set a new password</a></p></div>
+        </div>
+    </div>
+    
+
+            
+        
+    </div>
+    <div id="login_left">
+        <form action="https://journals.sagepub.com/action/doLogin" id="frmLogin" name="frmLogin" method="post"><input type="hidden" name="loginFormId" value="53bdac9c-abf8-4fa6-8e2a-8b09cf31a248" /><input type="hidden" name="redirectUri" value="/action/cookieAbsent" /><input type="hidden" name="loginUri" value="/action/cookieAbsent" />
+    <p>
+    </p>
+    
+    <table class="loginForm" summary="">
+        
+        <tr>
+            <th><label for="login" class="Heading4">Email</label></th>
+            <td><input id="login" class="textInput" type="text" name="login" value="" size="15" /></td>
+        </tr>
+
+        
+        <tr>
+            <th><label for="password" class="Heading4">Password:</label></th>
+            <td><input id="password" class="textInput" type="password" name="password" value="" autocomplete="off" /></td>
+        </tr>
+        
+            <tr>
+                <td colspan="2"><input id="savePassword" type="checkbox" name="savePassword" value="1" checked="checked" /><label for="savePassword">Remember me</label></td>
+            </tr>
+        
+    </table>
+    <input class="formbutton defButton" type="submit" name="submit" value="Sign in" /><br />
+    <br />
+    
+
+
+<div id="passwordReminder"><a href="/action/requestResetPassword?redirectUri=">Forgotten your password?</a></div></form>
+<script type="text/javascript"><!-- //
+function runSearchSetup(){_tmp=document.forms['frmLogin'];if(_tmp){_tmp=_tmp['login'];}};window.onload = runSearchSetup; 
+// -->
+</script>
+    </div>
+    <div id="login_right">
+        
+
+        <div class="loginDropZone" data-pb-dropzone="loginDropZone">
+              
+        </div>
+
+        
+    </div>
+    <div style="clear:both"></div>
+</div></div>
+        </div>
+    </div>
+    
+
+
+
+    
+    
+    
+    
+    
+    
+        
+    
+        
+            
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+    
+        
+    
+        
+            
+            
+            
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+            
+            
+                
+            
+            
+                
+                
+                
+            
+        
+    
+        
+    
+        
+    
+        
+    
+    
+    
+
+    
+    <div class="widget general-html none  widget-none  widget-compact-all" id="1083f423-c621-43e0-8241-50d3b2c60a91"  >
+        
+        
+
+        <div class="wrapped " >
+            
+            <div class="widget-body body body-none  body-compact-all"><div class="loginHelpLink">
+<a href="/action/requestResetPassword">Set new password</a><br>
+    <a href="/page/help/home">Need Help?</a>
+</div>
+
+<hr>
+<h3>Register for an Account</h3>
+<div class="portalRegistrationLink blueGrayButton smallButton">
+    <a class="register-link" href="/action/registration"> Register </a>    
+</div></div>
+        </div>
+    </div>
+    
+</div></div>
+        </div>
+    </div>
+    
+
+
+
+    
+    
+    
+    
+    
+    
+        
+    
+        
+            
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+    
+        
+    
+        
+            
+            
+            
+        
+    
+        
+    
+        
+    
+        
+    
+        
+            
+            
+                
+            
+            
+                
+                
+                
+            
+        
+    
+        
+    
+        
+    
+        
+    
+    
+    
+
+    
+    <div class="widget layout-frame none  widget-none  widget-compact-all" id="d9b58dd9-3b17-4317-8d45-f8730b7999b8"  >
+        
+        
+            
+        
+
+        <div class="wrapped " id='portalAccountPanel'>
+            
+            <div class="widget-body body body-none  body-compact-all"><div data-pb-dropzone="contents">
+    
+
+
+    
+    
+    
+    
+    
+    
+        
+    
+        
+            
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+    
+        
+    
+        
+            
+            
+            
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+            
+            
+                
+            
+            
+                
+                
+                
+            
+        
+    
+        
+    
+        
+    
+        
+    
+    
+    
+
+    
+    <div class="widget general-html none  widget-none  widget-compact-all" id="ca436b22-edc2-4aab-9824-f1a44c417ccc"  >
+        
+        
+
+        <div class="wrapped " >
+            
+            <div class="widget-body body body-none  body-compact-all"><div class="portalAccountDetailsLink blueGrayButton smallButton">
+    <a class="register-link" href="/action/showPreferences?menuTab=AccountInfo"> Account Details </a>    
+</div>
+
+<div class="portalLogoutLink grayButton smallButton">
+    <a class="register-link" href="" id="returnLink"> Sign Out </a>    
+</div>
+<script>
+var href = window.location;
+
+document.getElementById('returnLink').href="/action/doLogout?redirectUri="+href;
+</script></div>
+        </div>
+    </div>
+    
+</div></div>
+        </div>
+    </div>
+    
+</div></div>
+        </div>
+    </div>
+    
+
+
+
+    
+    
+    
+    
+    
+    
+        
+    
+        
+            
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+    
+        
+    
+        
+            
+            
+            
+        
+    
+        
+    
+        
+    
+        
+    
+        
+            
+            
+                
+            
+            
+                
+                
+                
+            
+        
+    
+        
+    
+        
+    
+        
+    
+    
+    
+
+    
+    <div class="widget layout-frame none institutionalLoginContainer widget-none  widget-compact-all" id="f3a2490a-705f-46fc-8ea7-f1705a7c0131"  >
+        
+        
+
+        <div class="wrapped " >
+            
+            <div class="widget-body body body-none  body-compact-all"><div data-pb-dropzone="contents">
+    
+
+
+    
+    
+    
+    
+    
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+            
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+    
+        
+    
+        
+    
+        
+            
+            
+                
+            
+            
+                
+                
+                
+            
+        
+    
+        
+    
+        
+    
+        
+    
+        
+            
+            
+            
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+    
+    
+
+    
+    <div class="widget literatumInstitutionBanner none portalInstitutionalBanner widget-none  widget-compact-all" id="a70d7372-2e8f-48f8-b7e7-f6af58731851"  >
+        
+        
+
+        <div class="wrapped " >
+            
+            <div class="widget-body body body-none  body-compact-all"><div class="welcome">
+    
+    
+    
+        <div class="portalInsitutionalButton"><a href="#" onclick="panelToggle('portalInstitutionalLogin', 'myAccountLoginPanel'); return false;">Institution</a></div>
+    
+</div></div>
+        </div>
+    </div>
+    
+
+
+
+    
+    
+    
+    
+    
+    
+        
+    
+        
+            
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+    
+        
+    
+        
+            
+            
+            
+        
+    
+        
+    
+        
+    
+        
+    
+        
+            
+            
+                
+            
+            
+                
+                
+                
+            
+        
+    
+        
+    
+        
+    
+        
+    
+    
+    
+
+    
+    <div class="widget layout-frame none  widget-none  widget-compact-all" id="1d96d7e8-539b-476b-b032-75953b7c7d57"  >
+        
+        
+            
+        
+
+        <div class="wrapped " id='portalInstitutionalLogin'>
+            <h3 class="widget-header header-none  header-compact-all">Institutional Access</h3>
+            <div class="widget-body body body-none  body-compact-all"><div data-pb-dropzone="contents">
+    
+
+
+    
+    
+    
+    
+    
+    
+        
+    
+        
+            
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+    
+        
+    
+        
+            
+            
+            
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+            
+            
+                
+            
+            
+                
+                
+                
+            
+        
+    
+        
+    
+        
+    
+        
+    
+    
+    
+
+    
+    <div class="widget general-html none institutionalSubscriber widget-none  widget-compact-all" id="680b9795-0887-4811-a63a-2284215c2b07"  >
+        
+        
+
+        <div class="wrapped " >
+            
+            <div class="widget-body body body-none  body-compact-all"><div class="smallButton blueGrayButton shibbolethButton">
+    <a href="/action/ssostart?redirectUri=" class='Shibboleth'>Shibboleth</a>
+</div>
+<div class="smallButton blueGrayButton athensButton">
+    <a href="/action/ssostart?idp=https%3A%2F%2Fidp.eduserv.org.uk%2Fopenathens&amp;redirectUri=" class='OpenAthens'>Open Athens</a>
+</div>
+<div class="needHelpLink">
+    <a href="/page/help/home">Need Help?</a>
+</div>
+
+<script>
+    var currentUrl = window.location.pathname;
+
+    $('.Shibboleth').attr("href", $('.Shibboleth').attr('href') + currentUrl);
+    $('.OpenAthens').attr("href", $('.OpenAthens').attr('href') + currentUrl);
+
+</script></div>
+        </div>
+    </div>
+    
+</div></div>
+        </div>
+    </div>
+    
+</div></div>
+        </div>
+    </div>
+    
+</div></div>
+        </div>
+    </div>
+    
+
+                        
+                    
+                </div>
+            </div>
+        
+    </div>
+</div></div>
+        </div>
+    </div>
+    
+
+
+
+    
+    
+    
+    
+    
+    
+        
+    
+        
+            
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+    
+        
+    
+        
+            
+            
+            
+        
+    
+        
+    
+        
+    
+        
+    
+        
+            
+            
+                
+            
+            
+                
+                
+                
+            
+        
+    
+        
+    
+        
+    
+        
+    
+    
+    
+
+    
+    <div class="widget layout-frame none page-header-divider widget-none  widget-compact-all" id="acde3693-b9e2-455b-9e33-b0c307a98fad"  >
+        
+        
+
+        <div class="wrapped " >
+            
+            <div class="widget-body body body-none  body-compact-all"><div data-pb-dropzone="contents">
+    </div></div>
+        </div>
+    </div>
+    
+</div></div>
+        </div>
+    </div>
+    
+    </div>
+</header></div>
+        </div>
+    </div>
+    
+
+
+
+    
+    
+    
+    
+    
+    
+        
+    
+        
+            
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+    
+        
+    
+        
+            
+            
+            
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+            
+            
+                
+            
+            
+                
+                
+                
+            
+        
+    
+        
+    
+        
+    
+        
+    
+    
+    
+
+    
+    <div class="widget layout-one-column none  widget-none  widget-compact-all" id="d0f0cfab-b768-49e6-aa02-545c2f1aafb2"  >
+        
+        
+
+        <div class="wrapped " >
+            
+            <div class="widget-body body body-none  body-compact-all"><div class="pb-columns row-fluid">
+    <div class="width_1_1">
+        <div data-pb-dropzone="center">
+        </div>
+    </div>
+</div></div>
+        </div>
+    </div>
+    
+
+
+
+    
+    
+    
+    
+    
+    
+        
+    
+        
+            
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+    
+        
+    
+        
+            
+            
+            
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+            
+            
+                
+            
+            
+                
+                
+                
+            
+        
+    
+        
+    
+        
+    
+        
+    
+    
+    
+
+    
+    <div class="widget pageBody none  widget-none  widget-compact-all" id="b90442ed-bd15-483c-9c3d-448b7c0604f7"  >
+        
+        
+
+        <div class="wrapped " >
+            
+            <div class="widget-body body body-none  body-compact-all"><!--begin pagefulltext-->
+<div class="page-body pagefulltext">
+    <div data-pb-dropzone="main">
+        </div>
+</div><!--end pagefulltext--></div>
+        </div>
+    </div>
+    
+
+
+
+    
+    
+    
+    
+    
+    
+        
+    
+        
+            
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+    
+        
+    
+        
+            
+            
+            
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+            
+            
+                
+            
+            
+                
+                
+                
+            
+        
+    
+        
+    
+        
+    
+        
+    
+    
+    
+
+    
+    <div class="widget layout-one-column none page-footer-divider widget-none  widget-compact-all" id="02555f61-8272-46aa-928d-70d0a3542f35"  >
+        
+        
+            
+        
+
+        <div class="wrapped " id='SAGEPageFooterDivider'>
+            
+            <div class="widget-body body body-none  body-compact-all"><div class="pb-columns row-fluid">
+    <div class="width_1_1">
+        <div data-pb-dropzone="center">
+        </div>
+    </div>
+</div></div>
+        </div>
+    </div>
+    
+
+
+
+    
+    
+    
+    
+    
+    
+        
+    
+        
+            
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+    
+        
+    
+        
+            
+            
+            
+        
+    
+        
+    
+        
+    
+        
+    
+        
+            
+            
+                
+            
+            
+                
+                
+                
+            
+        
+    
+        
+    
+        
+    
+        
+    
+    
+    
+
+    
+    <div class="widget pageFooter none  widget-none  widget-compact-all" id="6fb92b62-7dea-47a0-9cc8-47eb89502f6b"  >
+        
+        
+
+        <div class="wrapped " >
+            
+            <div class="widget-body body body-none  body-compact-all"><footer class="page-footer">
+    <div data-pb-dropzone="main">
+    
+
+
+    
+    
+    
+    
+    
+    
+        
+    
+        
+            
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+    
+        
+    
+        
+            
+            
+            
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+            
+            
+                
+            
+            
+                
+                
+                
+            
+        
+    
+        
+    
+        
+    
+        
+    
+    
+    
+
+    
+    <div class="widget general-html none  widget-none  widget-compact-all" id="d499dcb4-f205-463e-92d8-6c1a08f35fd4"  >
+        
+        
+
+        <div class="wrapped " >
+            
+            <div class="widget-body body body-none  body-compact-all"><div class="moreSAGEProductsOuterContainer">
+    <div class="moreSAGEProducts">
+    	<a href="http://SK.sagepub.com/video">
+    		<div class="SAGEProduct SAGEVideo">
+    			<span class="SAGEVideoTitle">SAGE Video</span><br>
+    			<span class="SAGEVideoText">Streaming video collections</span>
+    		</div>
+    	</a>
+    	<a href="http://sk.sagepub.com/">
+    		<div class="SAGEProduct SAGEKnowledge">
+    			<span class="SAGEKnowledgeTitle">SAGE Knowledge</span><br>
+    			<span class="SAGEKnowledgeText">The ultimate social sciences library</span>
+    		</div>
+    	</a>
+    	<a href="http://methods.sagepub.com">
+    		<div class="SAGEProduct SAGEResearch">
+    			<span class="SAGEResearchTitle">SAGE Research Methods</span><br>
+    			<span class="SAGEResearchText">The ultimate methods library</span>
+    		</div>
+    	</a>
+    	<a href="http://data.sagepub.com/sagestats/">
+    		<div class="SAGEProduct SAGEStats">
+    			<span class="SAGEStatsTitle">SAGE Stats</span><br>
+    			<span class="SAGEStatsText">Data on Demand</span>
+    		</div>
+    	</a>
+    	<a href="http://library.cqpress.com/index.php">
+    		<div class="SAGEProduct CQLibrary">
+    			<span class="CQLibraryTitle">CQ Library</span><br>
+    			<span class="CQLibraryText">American political resources</span>
+    		</div>
+    	</a>
+    </div>
+</div></div>
+        </div>
+    </div>
+    
+
+
+
+    
+    
+    
+    
+    
+    
+        
+    
+        
+            
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+    
+        
+    
+        
+            
+            
+            
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+            
+            
+                
+            
+            
+                
+                
+                
+            
+        
+    
+        
+    
+        
+    
+        
+    
+    
+    
+
+    
+    <div class="widget general-html none  widget-none  widget-compact-all" id="4c8a6b02-2938-4d47-8324-a3ffe9c0abdd"  >
+        
+        
+
+        <div class="wrapped " >
+            
+            <div class="widget-body body body-none  body-compact-all"><div class="SAGEFooterOuterContainer">
+    <div class="SAGEFooterContainer smallFont">
+		<div class="topLeftFooter">
+			<h2>SAGE Journals</h2>
+			<a href="http://www.sagepub.com/journals.nav">
+				<span>About</span><br>
+			</a>
+			<a href="https://us.sagepub.com/en-us/nam/privacy-policy">
+				<span>Privacy Policy</span><br>
+			</a>
+			<a href="/page/policies/terms-of-use">
+				<span>Terms of Use</span><br>
+			</a>
+			<a href="/page/contact/home">
+				<span>Contact Us</span><br>
+			</a>
+			<a href="/page/help/home">
+				<span>Help</span><br>
+			</a>
+		</div>
+		<div class="topRightFooter">
+			<h2>Browse</h2>
+			<a href="/action/showPublications?category=10.1177%2Fhealth-sciences">
+				<span>Health Sciences</span><br>
+			</a>
+			<a href="/action/showPublications?category=10.1177%2Flife-and-biomedical-sciences">
+				<span>Life Sciences</span><br>
+			</a>
+			<a href="/action/showPublications?category=10.1177%2Fmaterials-science-and-engineering">
+				<span>Materials Science & Engineering</span><br>
+			</a>
+			<a href="/action/showPublications?category=10.1177%2Fsocial-sciences-and-humanities">
+				<span>Social Sciences & Humanities</span><br>
+			</a>
+			<a href="/action/showPublications?alphabetRange=A">
+				<span>Journals A-Z</span><br>
+			</a>
+		</div>
+		<div class="bottomLeftFooter">
+			<h2>Resources</h2>
+			<a href="/page/resources/authors">
+				<span>Authors</span><br>
+			</a>
+			<a href="/page/resources/editors">
+				<span>Editors</span><br>
+			</a>
+			<a href="/page/resources/reviewers">
+				<span>Reviewers</span><br>
+			</a>
+			<a href="/page/resources/librarians">
+				<span>Librarians</span><br>
+			</a>
+			<a href="/page/resources/researchers">
+				<span>Researchers</span><br>
+			</a>
+			<a href="/page/resources/societies">
+				<span>Societies</span><br>
+			</a>
+		</div>
+		<div class="bottomRightFooter">
+			<h2>Opportunities</h2>
+			<a href="https://us.sagepub.com/en-us/nam/ratecards">
+				<span>Advertising</span><br>
+			</a>
+			<a href="http://www.uk.sagepub.com/rate-reprints.cp">
+				<span>Reprints</span><br>
+			</a>
+			<a href="https://us.sagepub.com/en-us/nam/content-sponsorship">
+				<span>Content Sponsorships</span><br>
+			</a>
+			<a href="http://www.sagepub.com/journalsPermissions.nav">
+				<span>Permissions</span><br>
+			</a>
+		</div>
+		<div class="issnFooter">
+			
+			 <br>
+			 <br>
+		</div>
+        <div class="SAGECopyright">
+            <span class="copyrightText">Copyright © 2017 by </span>
+				
+				
+					<span class="copyrightSAGELink">SAGE Publications</span>
+				
+        </div>
+    </div>
+</div></div>
+        </div>
+    </div>
+    
+
+
+
+    
+    
+    
+    
+    
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+            
+            
+            
+        
+    
+        
+    
+        
+    
+        
+    
+    
+    
+
+    
+    <div class="widget general-html none  widget-none" id="798f72a5-e450-40e2-b84a-fd5ea1120779"  >
+        
+        
+
+        <div class="wrapped " >
+            
+            <div class="widget-body body body-none "><!-- Bot analytics test -->
+<script src="https://api.b2c.com/api/init-260u9k3l7hxtcferh76.js" data-cfasync="false" async></script>
+<noscript><img src="https://api.b2c.com/api/noscript-260u9k3l7hxtcferh76.gif"></noscript></div>
+        </div>
+    </div>
+    
+    </div>
+</footer></div>
+        </div>
+    </div>
+    
+</main></div>
+        </div>
+    </div>
+    
+
+
+        </div>
+    </div>
+</body>
+</html>

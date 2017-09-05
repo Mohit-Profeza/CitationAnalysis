@@ -1,0 +1,1700 @@
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml"
+      xmlns:dc="http://purl.org/dc/terms/"
+      xmlns:doi="http://dx.doi.org/"
+      lang="en" xml:lang="en"
+      itemscope itemtype="http://schema.org/Article"
+      class="no-js">
+
+
+
+<head prefix="og: http://ogp.me/ns#">
+  <title>2-Hydroxyglutarate Production, but Not Dominant Negative Function, Is Conferred by Glioma-Derived NADP+-Dependent Isocitrate Dehydrogenase Mutations</title>
+
+
+
+
+
+
+
+<link rel="stylesheet" href="/plosone/resource/compiled/asset_V7OLX4LSII2Y4DADFWUTOT572TJ6EECJ.css" />
+
+  <!-- allows for  extra head tags -->
+
+
+<!-- hello -->
+<link rel="stylesheet" type="text/css"
+      href="https://fonts.googleapis.com/css?family=Open+Sans:400,400i,600">
+
+<link media="print" rel="stylesheet" type="text/css"  href="/plosone/resource/css/print.css"/>
+    <script type="text/javascript">
+        var siteUrlPrefix = "/plosone/";
+    </script>
+<script src="/plosone/resource/compiled/asset_SC5JIUGEUPR4P4P6VBUINUVOVUSU3NRY.js"></script>
+
+  <link rel="shortcut icon" href="/plosone/resource/img/favicon.ico" type="image/x-icon"/>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+
+
+
+
+
+
+  <link rel="canonical" href="http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0016812" />
+  <meta name="description" content="Background Gliomas frequently contain mutations in the cytoplasmic NADP+-dependent isocitrate dehydrogenase (IDH1) or the mitochondrial NADP+-dependent isocitrate dehydrogenase (IDH2). Several different amino acid substitutions recur at either IDH1 R132 or IDH2 R172 in glioma patients. Genetic evidence indicates that these mutations share a common gain of function, but it is unclear whether the shared function is dominant negative activity, neomorphic production of (R)-2-hydroxyglutarate (2HG), or both.   Methodology/Principal Findings We show by coprecipitation that five cancer-derived IDH1 R132 mutants bind IDH1-WT but that three cancer-derived IDH2 R172 mutants exert minimal binding to IDH2-WT. None of the mutants dominant-negatively lower isocitrate dehydrogenase activity at physiological (40 &micro;M) isocitrate concentrations in mammalian cell lysates. In contrast to this, all of these mutants confer 10- to 100-fold higher 2HG production to cells, and glioma tissues containing IDH1 R132 or IDH2 R172 mutations contain high levels of 2HG compared to glioma tissues without IDH mutations (54.4 vs. 0.1 mg 2HG/g protein).   Conclusions Binding to, or dominant inhibition of, WT IDH1 or IDH2 is not a shared feature of the IDH1 and IDH2 mutations, and thus is not likely to be important in cancer. The fact that the gain of the enzymatic activity to produce 2HG is a shared feature of the IDH1 and IDH2 mutations suggests that this is an important function for these mutants in driving cancer pathogenesis." />
+
+  <meta name="keywords" content="Glioma,Point mutation,Pathogenesis,Glioma cells,Substitution mutation,Transfection,293T cells,Immunoprecipitation" />
+
+
+<meta name="citation_doi" content="10.1371/journal.pone.0016812"/>
+<meta name="citation_author" content="Genglin Jin"/>
+  <meta name="citation_author_institution" content="The Preston Robert Tisch Brain Tumor Center at Duke, Pediatric Brain Tumor Foundation Institute, and Department of Pathology, Duke University Medical Center, Durham, North Carolina, United States of America"/>
+<meta name="citation_author" content="Zachary J. Reitman"/>
+  <meta name="citation_author_institution" content="The Preston Robert Tisch Brain Tumor Center at Duke, Pediatric Brain Tumor Foundation Institute, and Department of Pathology, Duke University Medical Center, Durham, North Carolina, United States of America"/>
+<meta name="citation_author" content="Ivan Spasojevic"/>
+  <meta name="citation_author_institution" content="Clinical Pharmacology Laboratory, Department of Medicine, Duke Comprehensive Cancer Center, Duke University Medical Center, Durham, North Carolina, United States of America"/>
+<meta name="citation_author" content="Ines Batinic-Haberle"/>
+  <meta name="citation_author_institution" content="Department of Radiation Oncology, Duke University Medical Center, Durham, North Carolina, United States of America"/>
+<meta name="citation_author" content="Jian Yang"/>
+  <meta name="citation_author_institution" content="The Sidney Kimmel Comprehensive Cancer Center, Johns Hopkins University School of Medicine, Baltimore, Maryland, United States of America"/>
+<meta name="citation_author" content="Oleg Schmidt-Kittler"/>
+  <meta name="citation_author_institution" content="The Sidney Kimmel Comprehensive Cancer Center, Johns Hopkins University School of Medicine, Baltimore, Maryland, United States of America"/>
+<meta name="citation_author" content="Darell D. Bigner"/>
+  <meta name="citation_author_institution" content="The Preston Robert Tisch Brain Tumor Center at Duke, Pediatric Brain Tumor Foundation Institute, and Department of Pathology, Duke University Medical Center, Durham, North Carolina, United States of America"/>
+<meta name="citation_author" content="Hai Yan"/>
+  <meta name="citation_author_institution" content="The Preston Robert Tisch Brain Tumor Center at Duke, Pediatric Brain Tumor Foundation Institute, and Department of Pathology, Duke University Medical Center, Durham, North Carolina, United States of America"/>
+
+<meta name="citation_title" content="2-Hydroxyglutarate Production, but Not Dominant Negative Function, Is Conferred by Glioma-Derived NADP+-Dependent Isocitrate Dehydrogenase Mutations"/>
+<meta itemprop="name" content="2-Hydroxyglutarate Production, but Not Dominant Negative Function, Is Conferred by Glioma-Derived NADP+-Dependent Isocitrate Dehydrogenase Mutations"/>
+<meta name="citation_journal_title" content="PLOS ONE"/>
+<meta name="citation_journal_abbrev" content="PLOS ONE"/>
+<meta name="citation_date" content="Feb 4, 2011"/>
+<meta name="citation_firstpage" content="e16812"/>
+<meta name="citation_issue" content="2"/>
+<meta name="citation_volume" content="6"/>
+<meta name="citation_issn" content="1932-6203"/>
+<meta name="citation_publisher" content="Public Library of Science"/>
+
+  <meta name="citation_pdf_url" content="http://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0016812&type=printable">
+
+
+<meta name="dc.identifier" content="10.1371/journal.pone.0016812" />
+
+
+  <meta name="twitter:card" content="summary" />
+  <meta name="twitter:site" content="@plosone"/>
+    <meta name="twitter:title" content="2-Hydroxyglutarate Production, but Not Dominant Negative Function, Is Conferred by Glioma-Derived NADP+-Dependent Isocitrate Dehydrogenase Mutations" />
+    <meta property="twitter:description" content="Background Gliomas frequently contain mutations in the cytoplasmic NADP+-dependent isocitrate dehydrogenase (IDH1) or the mitochondrial NADP+-dependent isocitrate dehydrogenase (IDH2). Several different amino acid substitutions recur at either IDH1 R132 or IDH2 R172 in glioma patients. Genetic evidence indicates that these mutations share a common gain of function, but it is unclear whether the shared function is dominant negative activity, neomorphic production of (R)-2-hydroxyglutarate (2HG), or both.   Methodology/Principal Findings We show by coprecipitation that five cancer-derived IDH1 R132 mutants bind IDH1-WT but that three cancer-derived IDH2 R172 mutants exert minimal binding to IDH2-WT. None of the mutants dominant-negatively lower isocitrate dehydrogenase activity at physiological (40 &micro;M) isocitrate concentrations in mammalian cell lysates. In contrast to this, all of these mutants confer 10- to 100-fold higher 2HG production to cells, and glioma tissues containing IDH1 R132 or IDH2 R172 mutations contain high levels of 2HG compared to glioma tissues without IDH mutations (54.4 vs. 0.1 mg 2HG/g protein).   Conclusions Binding to, or dominant inhibition of, WT IDH1 or IDH2 is not a shared feature of the IDH1 and IDH2 mutations, and thus is not likely to be important in cancer. The fact that the gain of the enzymatic activity to produce 2HG is a shared feature of the IDH1 and IDH2 mutations suggests that this is an important function for these mutants in driving cancer pathogenesis." />
+    <meta property="twitter:image" content="http://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0016812.g003&size=inline" />
+
+<meta property="og:type" content="article" />
+<meta property="og:url" content="http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0016812"/>
+<meta property="og:title" content="2-Hydroxyglutarate Production, but Not Dominant Negative Function, Is Conferred by Glioma-Derived NADP+-Dependent Isocitrate Dehydrogenase Mutations"/>
+<meta property="og:description" content="Background Gliomas frequently contain mutations in the cytoplasmic NADP+-dependent isocitrate dehydrogenase (IDH1) or the mitochondrial NADP+-dependent isocitrate dehydrogenase (IDH2). Several different amino acid substitutions recur at either IDH1 R132 or IDH2 R172 in glioma patients. Genetic evidence indicates that these mutations share a common gain of function, but it is unclear whether the shared function is dominant negative activity, neomorphic production of (R)-2-hydroxyglutarate (2HG), or both.   Methodology/Principal Findings We show by coprecipitation that five cancer-derived IDH1 R132 mutants bind IDH1-WT but that three cancer-derived IDH2 R172 mutants exert minimal binding to IDH2-WT. None of the mutants dominant-negatively lower isocitrate dehydrogenase activity at physiological (40 &micro;M) isocitrate concentrations in mammalian cell lysates. In contrast to this, all of these mutants confer 10- to 100-fold higher 2HG production to cells, and glioma tissues containing IDH1 R132 or IDH2 R172 mutations contain high levels of 2HG compared to glioma tissues without IDH mutations (54.4 vs. 0.1 mg 2HG/g protein).   Conclusions Binding to, or dominant inhibition of, WT IDH1 or IDH2 is not a shared feature of the IDH1 and IDH2 mutations, and thus is not likely to be important in cancer. The fact that the gain of the enzymatic activity to produce 2HG is a shared feature of the IDH1 and IDH2 mutations suggests that this is an important function for these mutants in driving cancer pathogenesis."/>
+<meta property="og:image" content="http://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0016812.g003&size=inline"/>
+
+<meta name="citation_reference" content="citation_title=An integrated genomic analysis of human glioblastoma multiforme.;citation_author=DW Parsons;citation_author=S Jones;citation_author=X Zhang;citation_author=JC Lin;citation_author=RJ Leary;citation_journal_title=Science;citation_volume=321;citation_number=321;citation_first_page=1807;citation_last_page=1812;citation_publication_date=2008;"/>    
+<meta name="citation_reference" content="citation_title=IDH1 and IDH2 Mutations in Gliomas.;citation_author=H Yan;citation_author=DW Parsons;citation_author=G Jin;citation_author=R McLendon;citation_author=BA Rasheed;citation_journal_title=N Engl J Med;citation_volume=360;citation_number=360;citation_first_page=765;citation_last_page=773;citation_publication_date=2009;"/>    
+<meta name="citation_reference" content="citation_title=Somatic mutations of IDH1 and IDH2 in the leukemic transformation of myeloproliferative neoplasms.;citation_author=A Green;citation_author=P Beer;citation_journal_title=N Engl J Med;citation_volume=362;citation_number=362;citation_first_page=369;citation_last_page=370;citation_publication_date=2010;"/>    
+<meta name="citation_reference" content="citation_title=Cancer-associated metabolite 2-hydroxyglutarate accumulates in acute myelogenous leukemia with isocitrate dehydrogenase 1 and 2 mutations.;citation_author=S Gross;citation_author=RA Cairns;citation_author=MD Minden;citation_author=EM Driggers;citation_author=MA Bittinger;citation_journal_title=J Exp Med;citation_volume=207;citation_number=207;citation_first_page=339;citation_last_page=344;citation_publication_date=2010;"/>    
+<meta name="citation_reference" content="citation_title=Recurring mutations found by sequencing an acute myeloid leukemia genome.;citation_author=ER Mardis;citation_author=L Ding;citation_author=DJ Dooling;citation_author=DE Larson;citation_author=MD McLellan;citation_journal_title=N Engl J Med;citation_volume=361;citation_number=361;citation_first_page=1058;citation_last_page=1066;citation_publication_date=2009;"/>    
+<meta name="citation_reference" content="citation_title=The common feature of leukemia-associated IDH1 and IDH2 mutations is a neomorphic enzyme activity converting alpha-ketoglutarate to 2-hydroxyglutarate.;citation_author=PS Ward;citation_author=J Patel;citation_author=DR Wise;citation_author=O Abdel-Wahab;citation_author=BD Bennett;citation_journal_title=Cancer Cell;citation_volume=17;citation_number=17;citation_first_page=225;citation_last_page=234;citation_publication_date=2010;"/>    
+<meta name="citation_reference" content="citation_title=Mutational analysis of IDH1 codon 132 in glioblastomas and other common cancers.;citation_author=MR Kang;citation_author=MS Kim;citation_author=JE Oh;citation_author=YR Kim;citation_author=SY Song;citation_journal_title=Int J Cancer;citation_volume=125;citation_number=125;citation_first_page=353;citation_last_page=355;citation_publication_date=2009;"/>    
+<meta name="citation_reference" content="citation_title=The consensus coding sequences of human breast and colorectal cancers.;citation_author=T Sjoblom;citation_author=S Jones;citation_author=LD Wood;citation_author=DW Parsons;citation_author=J Lin;citation_journal_title=Science;citation_volume=314;citation_number=314;citation_first_page=268;citation_last_page=274;citation_publication_date=2006;"/>    
+<meta name="citation_reference" content="citation_title=IDH1(R132) mutation identified in one human melanoma metastasis, but not correlated with metastases to the brain.;citation_author=GY Lopez;citation_author=ZJ Reitman;citation_author=D Solomon;citation_author=T Waldman;citation_author=DD Bigner;citation_journal_title=Biochem Biophys Res Commun;citation_volume=398;citation_number=398;citation_first_page=585;citation_last_page=587;citation_publication_date=2010;"/>    
+<meta name="citation_reference" content="citation_title=Isocitrate Dehydrogenase 1 and 2 Mutations in Cancer: Alterations at a Crossroads of Cellular Metabolism.;citation_author=ZJ Reitman;citation_author=H Yan;citation_journal_title=J Natl Cancer Inst;citation_volume=127;citation_number=127;citation_first_page=245;citation_last_page=246;citation_publication_date=2010;"/>    
+<meta name="citation_reference" content="citation_title=Mutant metabolic enzymes are at the origin of gliomas.;citation_author=H Yan;citation_author=DD Bigner;citation_author=V Velculescu;citation_author=DW Parsons;citation_journal_title=Cancer Res;citation_volume=69;citation_number=69;citation_first_page=9157;citation_last_page=9159;citation_publication_date=2009;"/>    
+<meta name="citation_reference" content="citation_title=IDH1 mutations are present in the majority of common adult gliomas but are rare in primary glioblastomas.;citation_author=K Ichimura;citation_author=DM Pearson;citation_author=S Kocialkowski;citation_author=LM Backlund;citation_author=R Chan;citation_journal_title=Neuro Oncol;citation_volume=11;citation_number=11;citation_first_page=341;citation_last_page=347;citation_publication_date=2009;"/>    
+<meta name="citation_reference" content="citation_title=Glioma-derived mutations in IDH1 dominantly inhibit IDH1 catalytic activity and induce HIF-1alpha.;citation_author=S Zhao;citation_author=Y Lin;citation_author=W Xu;citation_author=W Jiang;citation_author=Z Zha;citation_journal_title=Science;citation_volume=324;citation_number=324;citation_first_page=261;citation_last_page=265;citation_publication_date=2009;"/>    
+<meta name="citation_reference" content="citation_title=The prognostic IDH1 (R132) mutation is associated with reduced NADP (+)-dependent IDH activity in glioblastoma.;citation_author=FE Bleeker;citation_author=NA Atai;citation_author=S Lamba;citation_author=A Jonker;citation_author=D Rijkeboer;citation_journal_title=Acta Neuropathol;citation_volume=119;citation_number=119;citation_first_page=487;citation_last_page=494;citation_publication_date=2010;"/>    
+<meta name="citation_reference" content="citation_title=Cancer-associated IDH1 mutations produce 2-hydroxyglutarate.;citation_author=L Dang;citation_author=DW White;citation_author=S Gross;citation_author=BD Bennett;citation_author=MA Bittinger;citation_journal_title=Nature;citation_volume=462;citation_number=462;citation_first_page=739;citation_last_page=744;citation_publication_date=2009;"/>    
+<meta name="citation_reference" content="citation_title=Cellular concentrations of enzymes and their substrates.;citation_author=KR Albe;citation_author=MH Butler;citation_author=BE Wright;citation_journal_title=J Theor Biol;citation_volume=143;citation_number=143;citation_first_page=163;citation_last_page=195;citation_publication_date=1990;"/>    
+<meta name="citation_reference" content="citation_title=Measurement of urinary D- and L-2-hydroxyglutarate enantiomers by stable-isotope-dilution liquid chromatography-tandem mass spectrometry after derivatization with diacetyl-L-tartaric anhydride.;citation_author=EA Struys;citation_author=EE Jansen;citation_author=NM Verhoeven;citation_author=C Jakobs;citation_journal_title=Clin Chem;citation_volume=50;citation_number=50;citation_first_page=1391;citation_last_page=1395;citation_publication_date=2004;"/>    
+<meta name="citation_reference" content="citation_title=Integrated genomic analysis identifies clinically relevant subtypes of glioblastoma characterized by abnormalities in PDGFRA, IDH1, EGFR, and NF1.;citation_author=RG Verhaak;citation_author=KA Hoadley;citation_author=E Purdom;citation_author=V Wang;citation_author=Y Qi;citation_journal_title=Cancer Cell;citation_volume=17;citation_number=17;citation_first_page=98;citation_last_page=110;citation_publication_date=2010;"/>    
+<meta name="citation_reference" content="citation_title=IDH1 mutations in gliomas: when an enzyme loses its grip.;citation_author=C Frezza;citation_author=DA Tennant;citation_author=E Gottlieb;citation_journal_title=Cancer Cell;citation_volume=17;citation_number=17;citation_first_page=7;citation_last_page=9;citation_publication_date=2010;"/>    
+<meta name="citation_reference" content="citation_title=Leukemic IDH1 and IDH2 Mutations Result in a Hypermethylation Phenotype, Disrupt TET2 Function, and Impair Hematopoietic Differentiation.;citation_author=ME Figueroa;citation_author=O Abdel-Wahab;citation_author=C Lu;citation_author=PS Ward;citation_author=J Patel;citation_journal_title=Cancer Cell;citation_volume=18;citation_number=18;citation_first_page=553;citation_last_page=567;citation_publication_date=2010;"/>    
+<meta name="citation_reference" content="citation_title=Characterization of a cell line derived from a human oligodendroglioma.;citation_author=GR Post;citation_author=G Dawson;citation_journal_title=Mol Chem Neuropathol;citation_volume=16;citation_number=16;citation_first_page=303;citation_last_page=317;citation_publication_date=1992;"/>    
+
+
+<!-- DoubleClick overall ad setup script -->
+<script type='text/javascript'>
+  var googletag = googletag || {};
+  googletag.cmd = googletag.cmd || [];
+  (function() {
+    var gads = document.createElement('script');
+    gads.async = true;
+    gads.type = 'text/javascript';
+    var useSSL = 'https:' == document.location.protocol;
+    gads.src = (useSSL ? 'https:' : 'http:') +
+        '//www.googletagservices.com/tag/js/gpt.js';
+    var node = document.getElementsByTagName('script')[0];
+    node.parentNode.insertBefore(gads, node);
+  })();
+</script>
+
+<!-- DoubleClick ad slot setup script -->
+
+  <script id="doubleClickSetupScript" type='text/javascript'>
+    googletag.cmd.push(function() {
+  googletag.defineSlot('/75507958/PONE_728x90_ATF', [728, 90], 'div-gpt-ad-1458247671871-0').addService(googletag.pubads());
+  googletag.defineSlot('/75507958/PONE_160x600_BTF', [160, 600], 'div-gpt-ad-1458247671871-1').addService(googletag.pubads());
+      googletag.pubads().enableSingleRequest();
+      googletag.enableServices();
+    });
+  </script>
+
+
+
+<script type="text/javascript">
+    var WombatConfig = WombatConfig || {};
+    WombatConfig.resourcePath = "/plosone/resource/";
+    WombatConfig.imgPath = "/plosone/resource/img/";
+    WombatConfig.journalKey = "PLoSONE";
+    WombatConfig.figurePath = "/plosone/article/figure/image";
+    WombatConfig.figShareInstitutionString = "plos";
+    WombatConfig.doiResolverPrefix = "http://dx.plos.org/";
+</script>
+
+<script type="text/javascript">
+  var WombatConfig = WombatConfig || {};
+  WombatConfig.metrics = WombatConfig.metrics || {};
+  WombatConfig.metrics.referenceUrl      = "http://lagotto.io/plos";
+  WombatConfig.metrics.googleScholarUrl  = "http://scholar.google.com/scholar";
+  WombatConfig.metrics.googleScholarCitationUrl  = WombatConfig.metrics.googleScholarUrl + "?hl=en&lr=&cites=";
+  WombatConfig.metrics.crossrefUrl  = "http://www.crossref.org";
+</script><script src="//code.jquery.com/jquery-2.1.4.min.js" ></script>
+<script>window.jQuery || document.write('<script src="/plosone/resource/js/vendor/jquery-2.1.4.min.js""><\/script>')</script>
+
+          <script type="text/javascript" src="https://widgets.figshare.com/static/figshare.js"></script>
+
+
+
+
+
+
+
+
+
+
+<!--For Google Tag manager to be able to track site information  -->
+<script>
+
+  dataLayer = [{
+    'mobileSite': 'false',
+    'desktopSite': 'true'
+  }];
+
+</script>
+
+</head>
+
+
+
+<body class="article plosone">
+
+
+<!-- Google Tag Manager -->
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-TP26BH"
+                  height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+    new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+    j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+    '//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-TP26BH');</script>
+
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-MQQMGF"
+                  height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+    new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+    j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+    '//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-MQQMGF');</script>
+<!-- End Google Tag Manager -->
+
+<header>
+  <div id="topslot" class="head-top">
+
+<div class="center">
+<div class="title">Advertisement</div>
+<!-- DoubleClick Ad Zone -->
+  <div class='advertisement' id='div-gpt-ad-1458247671871-0' style='width:728px; height:90px;'>
+    <script type='text/javascript'>
+      googletag.cmd.push(function() { googletag.display('div-gpt-ad-1458247671871-0'); });
+    </script>
+  </div>
+</div>
+  </div>
+
+  <div id="user" class="nav">
+    <ul class="nav-user">
+
+
+
+
+      <li ><a href="http://www.plos.org">plos.org</a></li>
+
+
+        <li ><a href="https://community.plos.org/registration/new">create account</a></li>
+
+
+          <li class="highlighted"><a href="/plosone/user/secure/login?page=%2Fplosone%2Farticle%3Fid%3D10.1371%2Fjournal.pone.0016812">sign in</a></li>
+
+    </ul>
+  </div>
+  <div id="pagehdr">
+
+    <nav class="nav-main">
+
+
+
+
+<h1 class="logo">
+  <a href="/plosone/.">PLOS ONE</a>
+</h1>
+
+<section class="top-bar-section"> 
+
+<ul class="nav-elements">
+
+
+    <li class="multi-col-parent menu-section-header has-dropdown" id="publish">
+    Publish
+      <div class="dropdown mega ">
+        <ul class="multi-col" id="publish-dropdown-list">
+
+  <li class="menu-section-header " id="submissions">
+    <span class="menu-section-header-title">  Submissions </span>
+
+    <ul class="menu-section "
+        id="submissions-dropdown-list">
+      <li>
+    <a href="/plosone/s/getting-started" >Getting Started</a>
+  </li>
+
+      <li>
+    <a href="/plosone/s/submission-guidelines" >Submission Guidelines</a>
+  </li>
+
+      <li>
+    <a href="/plosone/s/figures" >Figures</a>
+  </li>
+
+      <li>
+    <a href="/plosone/s/tables" >Tables</a>
+  </li>
+
+      <li>
+    <a href="/plosone/s/supporting-information" >Supporting Information</a>
+  </li>
+
+      <li>
+    <a href="/plosone/s/latex" >LaTeX</a>
+  </li>
+
+      <li>
+    <a href="/plosone/s/revising-your-manuscript" >Revising Your Manuscript</a>
+  </li>
+
+      <li>
+    <a href="/plosone/s/submit-now" >Submit Now</a>
+  </li>
+
+    </ul>
+
+  </li>
+
+
+  <li class="menu-section-header " id="policies">
+    <span class="menu-section-header-title">  Policies </span>
+
+    <ul class="menu-section "
+        id="policies-dropdown-list">
+      <li>
+    <a href="/plosone/s/best-practices-in-research-reporting" >Best Practices in Research Reporting</a>
+  </li>
+
+      <li>
+    <a href="/plosone/s/human-subjects-research" >Human Subjects Research</a>
+  </li>
+
+      <li>
+    <a href="/plosone/s/animal-research" >Animal Research</a>
+  </li>
+
+      <li>
+    <a href="/plosone/s/competing-interests" >Competing Interests</a>
+  </li>
+
+      <li>
+    <a href="/plosone/s/disclosure-of-funding-sources" >Disclosure of Funding Sources</a>
+  </li>
+
+      <li>
+    <a href="/plosone/s/licenses-and-copyright" >Licenses and Copyright</a>
+  </li>
+
+      <li>
+    <a href="/plosone/s/data-availability" >Data Availability</a>
+  </li>
+
+      <li>
+    <a href="/plosone/s/materials-and-software-sharing" >Materials and Software Sharing</a>
+  </li>
+
+      <li>
+    <a href="/plosone/s/ethical-publishing-practice" >Ethical Publishing Practice</a>
+  </li>
+
+      <li>
+    <a href="/plosone/s/authorship" >Authorship</a>
+  </li>
+
+      <li>
+    <a href="/plosone/s/downloads-and-translations" >Downloads and Translations</a>
+  </li>
+
+    </ul>
+
+  </li>
+
+
+  <li class="menu-section-header " id="manuscript-review-and-publication">
+    <span class="menu-section-header-title">  Manuscript Review and Publication </span>
+
+    <ul class="menu-section "
+        id="manuscript-review-and-publication-dropdown-list">
+      <li>
+    <a href="/plosone/s/criteria-for-publication" >Criteria for Publication</a>
+  </li>
+
+      <li>
+    <a href="/plosone/s/editorial-and-peer-review-process" >Editorial and Peer Review Process</a>
+  </li>
+
+      <li>
+    <a href="/plosone/s/reviewer-guidelines" >Reviewer Guidelines</a>
+  </li>
+
+      <li>
+    <a href="/plosone/s/accepted-manuscripts" >Accepted Manuscripts</a>
+  </li>
+
+      <li>
+    <a href="/plosone/s/corrections-and-retractions" >Corrections and Retractions</a>
+  </li>
+
+      <li>
+    <a href="/plosone/s/comments" >Comments</a>
+  </li>
+
+      <li>
+    <a href="/plosone/s/article-level-metrics" >Article-Level Metrics</a>
+  </li>
+
+    </ul>
+
+  </li>
+        </ul>
+          <div class="calloutcontainer">
+
+
+
+  <h3 class="callout-headline">Submit Your Manuscript</h3>
+
+  <div class="action-contain">
+  <p class="callout-content">
+  Discover a faster, simpler path to publishing in a high-quality journal. <em>PLOS ONE</em> promises fair, rigorous peer review,
+  broad scope, and wide readership – a perfect fit for your research every time.
+  </p>
+
+  <p class="button-contain special">
+    <a class="button button-default" href="/plosone/static/publish">
+     Learn More
+    </a>
+    <a class="button-link" href="http://www.editorialmanager.com/pone/default.asp">
+      Submit Now
+    </a>
+  </p>
+  </div>  <!-- opens in siteMenuCalloutDescription -->
+
+
+          </div>
+      </div>
+    </li>
+
+
+
+  <li class="menu-section-header has-dropdown " id="about">
+    <span class="menu-section-header-title">  About </span>
+
+    <ul class="menu-section dropdown "
+        id="about-dropdown-list">
+      <li>
+    <a href="/plosone/static/publish" >Why Publish with PLOS ONE</a>
+  </li>
+
+      <li>
+    <a href="/plosone/s/journal-information" >Journal Information</a>
+  </li>
+
+      <li>
+    <a href="/plosone/s/staff-editors" >Staff Editors</a>
+  </li>
+
+      <li>
+    <a href="/plosone/static/editorial-board" >Editorial Board</a>
+  </li>
+
+      <li>
+    <a href="/plosone/s/section-editors" >Section Editors</a>
+  </li>
+
+      <li>
+    <a href="/plosone/s/advisory-groups" >Advisory Groups</a>
+  </li>
+
+      <li>
+    <a href="/plosone/s/publishing-information" >Publishing Information</a>
+  </li>
+
+      <li>
+    <a href="/plosone/s/publication-fees" >Publication Fees</a>
+  </li>
+
+      <li>
+    <a href="/plosone/s/press-and-media" >Press and Media</a>
+  </li>
+
+      <li>
+    <a href="/plosone/s/contact" >Contact</a>
+  </li>
+
+    </ul>
+
+  </li>
+
+  <li data-js-tooltip-hover="trigger" class="subject-area menu-section-header">
+  Browse
+  </li>
+
+
+
+
+  <li id="navsearch" class="head-search">
+    <form name="searchForm" action="/plosone/search" method="get">
+      <fieldset>
+        <legend>Search</legend>
+        <label for="search">Search</label>
+        <input id="search" type="text" name="q" placeholder="Search" required/>
+        <button id="headerSearchButton" type="submit"><span class="search-icon"></span></button>
+
+      </fieldset>
+      <input type="hidden" name="filterJournals" value="PLoSONE"/>
+    </form>
+
+    <a id="advSearch"
+       href="/plosone/search">
+      advanced search
+    </a>
+
+  </li>
+
+
+
+
+
+      </ul>     
+      </section>  
+    </nav>
+  </div>
+
+</header><section id="taxonomyContainer">
+
+<div id="taxonomy-browser" class="areas" data-search-url="/plosone/browse">
+  <div class="wrapper">
+    <div class="taxonomy-header">
+      Browse Subject Areas
+      <div id="subjInfo">?</div>
+      <div id="subjInfoText">
+        <p>Click through the PLOS taxonomy to find articles in your field.</p>
+        <p>For more information about PLOS Subject Areas, click
+          <a href="/plosone/s/help-using-this-site#loc-subject-areas">here</a>.
+        </p>
+      </div>
+    </div>
+    <div class="levels">
+      <div class="levels-container cf">
+        <div class="levels-position"></div>
+      </div>
+      <a href="#" class="prev"></a>
+      <a href="#" class="next active"></a>
+    </div>
+  </div>
+  <div class="taxonomy-browser-border-bottom"></div>
+</div></section>
+<main> <div class="set-grid">
+
+<header class="title-block">
+
+
+
+
+<ul id="almSignposts" class="signposts">
+  <li id="loadingMetrics">
+    <p>Loading metrics</p>
+  </li>
+</ul>
+
+<script type="text/template" id="signpostsGeneralErrorTemplate">
+  <li id="metricsError">Article metrics are unavailable at this time. Please try again later.</li>
+</script>
+
+<script type="text/template" id="signpostsNewArticleErrorTemplate">
+  <li></li><li></li><li id="tooSoon">Article metrics are unavailable for recently published articles.</li>
+</script>
+
+<script type="text/template" id="signpostsTemplate">
+    <li id="almSaves">
+      <%= s.numberFormat(saveCount, 0) %>
+      <div class="tools" data-js-tooltip-hover="trigger">
+        <a class="metric-term" href="/plosone/article/metrics?id=10.1371/journal.pone.0016812#savedHeader">Save</a>
+        <p class="saves-tip" data-js-tooltip-hover="target"><a href="/plosone/article/metrics?id=10.1371/journal.pone.0016812#savedHeader">Total Mendeley and CiteULike bookmarks.</a></p>
+      </div>
+    </li>
+
+    <li id="almCitations">
+      <%= s.numberFormat(citationCount, 0) %>
+      <div class="tools" data-js-tooltip-hover="trigger">
+        <a class="metric-term" href="/plosone/article/metrics?id=10.1371/journal.pone.0016812#citedHeader">Citation</a>
+        <p class="citations-tip" data-js-tooltip-hover="target"><a href="/plosone/article/metrics?id=10.1371/journal.pone.0016812#citedHeader">Paper's citation count computed by Scopus.</a></p>
+      </div>
+    </li>
+
+    <li id="almViews">
+      <%= s.numberFormat(viewCount, 0) %>
+      <div class="tools" data-js-tooltip-hover="trigger">
+        <a class="metric-term" href="/plosone/article/metrics?id=10.1371/journal.pone.0016812#viewedHeader">View</a>
+        <p class="views-tip" data-js-tooltip-hover="target"><a href="/plosone/article/metrics?id=10.1371/journal.pone.0016812#viewedHeader">Sum of PLOS and PubMed Central page views and downloads.</a></p>
+      </div>
+    </li>
+
+    <li id="almShares">
+      <%= s.numberFormat(shareCount, 0) %>
+      <div class="tools" data-js-tooltip-hover="trigger">
+        <a class="metric-term" href="/plosone/article/metrics?id=10.1371/journal.pone.0016812#discussedHeader">Share</a>
+        <p class="shares-tip" data-js-tooltip-hover="target"><a href="/plosone/article/metrics?id=10.1371/journal.pone.0016812#discussedHeader">Sum of Facebook and Twitter activity.</a></p>
+      </div>
+    </li>
+</script>
+
+    <div class="article-meta">
+
+<div class="classifications">
+  <p class="license-short" id="licenseShort">Open Access</p>
+  <p class="peer-reviewed" id="peerReviewed">Peer-reviewed</p>
+
+<div class="article-type" >
+  <p class="type-article" id="artType">Research Article</p>
+</div>
+
+
+</div>
+
+
+    </div>
+    <div class="article-title-etc">
+
+
+
+<div class="title-authors">
+  <h1 id="artTitle"><?xml version="1.0" encoding="UTF-8"?>2-Hydroxyglutarate Production, but Not Dominant Negative Function, Is Conferred by Glioma-Derived NADP<sup>+</sup>-Dependent Isocitrate Dehydrogenase Mutations</h1>
+
+<ul class="author-list clearfix"  data-js-tooltip="tooltip_container" id="author-list">
+
+
+
+<li
+  data-js-tooltip="tooltip_trigger"
+  
+>
+   <a  data-author-id="0" class="author-name" >
+Genglin Jin <span class="contribute"> </span>,</a>    <div id="author-meta-0" class="author-info" data-js-tooltip="tooltip_target">
+
+  <p>
+    <span class="contribute"> </span> Contributed equally to this work with:
+    Genglin Jin,
+    Zachary J. Reitman
+  </p>
+  
+  
+  <p id="authAffiliations-0"><span class="type">Affiliation</span>
+    The Preston Robert Tisch Brain Tumor Center at Duke, Pediatric Brain Tumor Foundation Institute, and Department of Pathology, Duke University Medical Center, Durham, North Carolina, United States of America
+  </p>
+
+      <a data-js-tooltip="tooltip_close" class="close" id="tooltipClose0"> &#x02A2F; </a>
+    </div>
+</li>
+
+<li
+  data-js-tooltip="tooltip_trigger"
+  
+>
+   <a  data-author-id="1" class="author-name" >
+Zachary J. Reitman <span class="contribute"> </span>,</a>    <div id="author-meta-1" class="author-info" data-js-tooltip="tooltip_target">
+
+  <p>
+    <span class="contribute"> </span> Contributed equally to this work with:
+    Genglin Jin,
+    Zachary J. Reitman
+  </p>
+  
+  
+  <p id="authAffiliations-1"><span class="type">Affiliation</span>
+    The Preston Robert Tisch Brain Tumor Center at Duke, Pediatric Brain Tumor Foundation Institute, and Department of Pathology, Duke University Medical Center, Durham, North Carolina, United States of America
+  </p>
+
+      <a data-js-tooltip="tooltip_close" class="close" id="tooltipClose1"> &#x02A2F; </a>
+    </div>
+</li>
+
+<li
+  data-js-tooltip="tooltip_trigger"
+  
+>
+   <a  data-author-id="2" class="author-name" >
+Ivan Spasojevic,</a>    <div id="author-meta-2" class="author-info" data-js-tooltip="tooltip_target">
+
+  
+  
+  <p id="authAffiliations-2"><span class="type">Affiliation</span>
+    Clinical Pharmacology Laboratory, Department of Medicine, Duke Comprehensive Cancer Center, Duke University Medical Center, Durham, North Carolina, United States of America
+  </p>
+
+      <a data-js-tooltip="tooltip_close" class="close" id="tooltipClose2"> &#x02A2F; </a>
+    </div>
+</li>
+
+<li
+  data-js-tooltip="tooltip_trigger"
+  
+>
+   <a  data-author-id="3" class="author-name" >
+Ines Batinic-Haberle,</a>    <div id="author-meta-3" class="author-info" data-js-tooltip="tooltip_target">
+
+  
+  
+  <p id="authAffiliations-3"><span class="type">Affiliation</span>
+    Department of Radiation Oncology, Duke University Medical Center, Durham, North Carolina, United States of America
+  </p>
+
+      <a data-js-tooltip="tooltip_close" class="close" id="tooltipClose3"> &#x02A2F; </a>
+    </div>
+</li>
+
+<li
+  data-js-tooltip="tooltip_trigger"
+  
+>
+   <a  data-author-id="4" class="author-name" >
+Jian Yang,</a>    <div id="author-meta-4" class="author-info" data-js-tooltip="tooltip_target">
+
+  
+  
+  <p id="authAffiliations-4"><span class="type">Affiliation</span>
+    The Sidney Kimmel Comprehensive Cancer Center, Johns Hopkins University School of Medicine, Baltimore, Maryland, United States of America
+  </p>
+
+      <a data-js-tooltip="tooltip_close" class="close" id="tooltipClose4"> &#x02A2F; </a>
+    </div>
+</li>
+
+<li
+  data-js-tooltip="tooltip_trigger"
+  
+>
+   <a  data-author-id="5" class="author-name" >
+Oleg Schmidt-Kittler,</a>    <div id="author-meta-5" class="author-info" data-js-tooltip="tooltip_target">
+
+  
+  
+  <p id="authAffiliations-5"><span class="type">Affiliation</span>
+    The Sidney Kimmel Comprehensive Cancer Center, Johns Hopkins University School of Medicine, Baltimore, Maryland, United States of America
+  </p>
+
+      <a data-js-tooltip="tooltip_close" class="close" id="tooltipClose5"> &#x02A2F; </a>
+    </div>
+</li>
+
+<li
+  data-js-tooltip="tooltip_trigger"
+  
+>
+   <a  data-author-id="6" class="author-name" >
+Darell D. Bigner,</a>    <div id="author-meta-6" class="author-info" data-js-tooltip="tooltip_target">
+
+  
+  
+  <p id="authAffiliations-6"><span class="type">Affiliation</span>
+    The Preston Robert Tisch Brain Tumor Center at Duke, Pediatric Brain Tumor Foundation Institute, and Department of Pathology, Duke University Medical Center, Durham, North Carolina, United States of America
+  </p>
+
+      <a data-js-tooltip="tooltip_close" class="close" id="tooltipClose6"> &#x02A2F; </a>
+    </div>
+</li>
+
+<li
+  data-js-tooltip="tooltip_trigger"
+  
+>
+   <a  data-author-id="7" class="author-name" >
+Hai Yan <span class="email">  </span></a>    <div id="author-meta-7" class="author-info" data-js-tooltip="tooltip_target">
+
+  
+  <p id="authCorresponding-7"> <span class="email">* E-mail:</span> <a href="mailto:yan00002@mc.duke.edu">yan00002@mc.duke.edu</a></p>
+  <p id="authAffiliations-7"><span class="type">Affiliation</span>
+    The Preston Robert Tisch Brain Tumor Center at Duke, Pediatric Brain Tumor Foundation Institute, and Department of Pathology, Duke University Medical Center, Durham, North Carolina, United States of America
+  </p>
+
+      <a data-js-tooltip="tooltip_close" class="close" id="tooltipClose7"> &#x02A2F; </a>
+    </div>
+</li>
+
+</ul>
+
+</div>
+
+
+<div id="floatTitleTop" data-js-floater="title_author" class="float-title">
+  <div class="set-grid">
+    <div class="float-title-inner">
+      <h1><?xml version="1.0" encoding="UTF-8"?>2-Hydroxyglutarate Production, but Not Dominant Negative Function, Is Conferred by Glioma-Derived NADP<sup>+</sup>-Dependent Isocitrate Dehydrogenase Mutations</h1>
+
+<ul id="floatAuthorList" data-js-floater="floated_authors">
+
+  <li data-float-index="1">Genglin Jin,&nbsp;
+
+  </li>
+  <li data-float-index="2">Zachary J. Reitman,&nbsp;
+
+  </li>
+  <li data-float-index="3">Ivan Spasojevic,&nbsp;
+
+  </li>
+  <li data-float-index="4">Ines Batinic-Haberle,&nbsp;
+
+  </li>
+  <li data-float-index="5">Jian Yang,&nbsp;
+
+  </li>
+  <li data-float-index="6">Oleg Schmidt-Kittler,&nbsp;
+
+  </li>
+  <li data-float-index="7">Darell D. Bigner,&nbsp;
+
+  </li>
+  <li data-float-index="8">Hai Yan
+
+  </li>
+
+</ul>
+
+
+
+    </div>
+    <div class="logo-close" id="titleTopCloser">
+      <img src="/plosone/resource/img/logo.plos.95.png" alt="PLOS" />
+      <div class="close-floater" title="close">x</div>
+    </div>
+  </div>
+</div>
+
+      <ul class="date-doi">
+        <li id="artPubDate">Published: February 4, 2011</li>
+        <li id="artDoi">
+<a   href="https://doi.org/10.1371/journal.pone.0016812">https://doi.org/10.1371/journal.pone.0016812</a>
+            </li>
+      </ul>
+
+    </div>
+  <div>
+
+  </div>
+</header>
+
+  <section class="article-body">
+
+
+
+<ul class="article-tabs">
+
+        <li class="tab-title active" id="tabArticle">
+          <a href="/plosone/article?id=10.1371/journal.pone.0016812" class="article-tab-1">Article</a>
+      </li>
+
+
+            <li class="tab-title " id="tabAuthors">
+          <a href="/plosone/article/authors?id=10.1371/journal.pone.0016812" class="article-tab-2">Authors</a>
+      </li>
+
+
+        <li class="tab-title " id="tabMetrics">
+          <a href="/plosone/article/metrics?id=10.1371/journal.pone.0016812" class="article-tab-3">Metrics</a>
+      </li>
+
+        <li class="tab-title " id="tabComments">
+          <a href="/plosone/article/comments?id=10.1371/journal.pone.0016812" class="article-tab-4">Comments</a>
+      </li>
+
+        <li class="tab-title " id="tabRelated">
+          <a href="/plosone/article/related?id=10.1371/journal.pone.0016812" class="article-tab-5">Related Content</a>
+      </li>
+
+</ul>
+
+    <div class="article-container">
+
+
+<div id="nav-article">
+  <ul class="nav-secondary">
+
+    <li class="nav-comments" id="nav-comments">
+      <a href="article/comments?id=10.1371/journal.pone.0016812">Reader Comments (0)</a>
+    </li>
+
+    <li class="nav-media" id="nav-media" data-doi="10.1371/journal.pone.0016812">
+      <a href="/plosone/article/related?id=10.1371/journal.pone.0016812">
+        Media Coverage <span id="media-coverage-count"></span>
+      </a>
+    </li>
+
+    <li id="nav-figures"><a href="#" data-doi="10.1371/journal.pone.0016812">Figures</a></li>
+  </ul>
+</div>
+
+<div id="figure-lightbox-container"></div>
+
+<script id="figure-lightbox-template" type="text/template">
+  <div id="figure-lightbox" class="reveal-modal full" data-reveal aria-hidden="true"
+       role="dialog">
+    <div class="lb-header">
+      <h1 id="lb-title"><%= articleTitle %></h1>
+
+      <div id="lb-authors">
+        <% authorList.split(',').forEach(function (author) { %>
+        <span><%= author.trim() %></span>
+        <% }) %>
+      </div>
+
+      <div class="lb-close" title="close">&nbsp;</div>
+    </div>
+    <div class="img-container">
+      <div class="loader"> <i class="fa-spinner"></i> </div>
+      <img class="main-lightbox-image" src=""/>
+      <aside id="figures-list">
+        <% figureList.each(function (ix, figure) { %>
+        <div class="change-img" data-doi="<%= figure.getAttribute('data-doi') %>">
+          <img class="aside-figure" src="/plosone/article/figure/image?size=inline&id=<%= figure.getAttribute('data-doi') %>" />
+        </div>
+        <% }) %>
+        <div class="dummy-figure">
+        </div>
+      </aside>
+    </div>
+    <div id="lightbox-footer">
+
+      <div id="btns-container" class="lightbox-row <% if(figureList.length <= 1) { print('one-figure-only') } %>">
+        <div class="fig-btns-container reset-zoom-wrapper left">
+          <span class="fig-btn reset-zoom-btn">Reset zoom</span>
+        </div>
+        <div class="zoom-slider-container">
+          <div class="range-slider-container">
+            <span id="lb-zoom-min"></span>
+            <div class="range-slider round" data-slider data-options="start: 20; end: 200; initial: 20;">
+              <span class="range-slider-handle" role="slider" tabindex="0"></span>
+              <span class="range-slider-active-segment"></span>
+              <input type="hidden">
+            </div>
+            <span id="lb-zoom-max"></span>
+          </div>
+        </div>
+        <% if(figureList.length > 1) { %>
+        <div class="fig-btns-container">
+          <span class="fig-btn all-fig-btn"><i class="icon icon-all"></i> All Figures</span>
+          <span class="fig-btn next-fig-btn"><i class="icon icon-next"></i> Next</span>
+          <span class="fig-btn prev-fig-btn"><i class="icon icon-prev"></i> Previous</span>
+        </div>
+        <% } %>
+      </div>
+      <div id="image-context">
+      </div>
+    </div>
+  </div>
+</script>
+
+<script id="image-context-template" type="text/template">
+  <div class="footer-text">
+    <div id="figure-description-wrapper">
+      <div id="view-more-wrapper" style="<% descriptionExpanded? print('display:none;') : '' %>">
+        <span id="figure-title"><%= title %></span>
+        <p id="figure-description">
+          <%= description %>&nbsp;&nbsp;
+        </p>
+        <span id="view-more">show more<i class="icon-arrow-right"></i></span>
+
+      </div>
+      <div id="view-less-wrapper" style="<% descriptionExpanded? print('display:inline-block;') : '' %>" >
+        <span id="figure-title"><%= title %></span>
+        <p id="full-figure-description">
+          <%= description %>&nbsp;&nbsp;
+          <span id="view-less">show less<i class="icon-arrow-left"></i></span>
+        </p>
+      </div>
+    </div>
+  </div>
+  <div id="show-context-container">
+    <a class="btn show-context" href="<%= showInContext(strippedDoi) %>">Show in Context</a>
+  </div>
+  <div id="download-buttons">
+    <h3>Download:</h3>
+    <div class="item">
+      <a href="/plosone/article/figure/image?size=original&download=&id=<%= doi %>" title="original image">
+        <span class="download-btn">TIFF</span>
+      </a>
+      <span class="file-size"><%= fileSizes.original %></span>
+    </div>
+    <div class="item">
+      <a href="/plosone/article/figure/image?size=large&download=&id=<%= doi %>" title="large image">
+        <span class="download-btn">PNG</span>
+      </a>
+      <span class="file-size"><%= fileSizes.large %></span>
+    </div>
+    <div class="item">
+      <a href="/plosone/article/figure/powerpoint?id=<%= doi %>" title="PowerPoint slide">
+        <span class="download-btn">PPT</span>
+      </a>
+    </div>
+
+  </div>
+</script>
+      <div class="article-content">
+
+
+
+
+
+
+
+
+<div id="figure-carousel-section">
+  <h2>Figures</h2>
+
+  <div id="figure-carousel">
+
+    <div class="carousel-wrapper">
+      <div class="slider">
+
+          <div class="carousel-item lightbox-figure" data-doi="10.1371/journal.pone.0016812.g001">
+
+                <img src="/plosone/article/figure/image?size=inline&amp;id=10.1371/journal.pone.0016812.g001"
+                     alt="Figure 1"
+                />
+
+            </div>
+
+          <div class="carousel-item lightbox-figure" data-doi="10.1371/journal.pone.0016812.g002">
+
+                <img src="/plosone/article/figure/image?size=inline&amp;id=10.1371/journal.pone.0016812.g002"
+                     alt="Figure 2"
+                />
+
+            </div>
+
+          <div class="carousel-item lightbox-figure" data-doi="10.1371/journal.pone.0016812.g003">
+
+                <img src="/plosone/article/figure/image?size=inline&amp;id=10.1371/journal.pone.0016812.g003"
+                     alt="Figure 3"
+                />
+
+            </div>
+      </div>
+    </div>
+
+    <div class="carousel-control">
+      <span class="button previous"></span>
+      <span class="button next"></span>
+    </div>
+    <div class="carousel-page-buttons">
+
+    </div>
+  </div>
+</div>
+
+
+        <div class="article-text" id="artText">
+        
+
+
+
+<div class="abstract toc-section"><a id="abstract0" name="abstract0" data-toc="abstract0" class="link-target" title="Abstract"></a><h2>Abstract</h2>
+<div id="section1" class="section toc-section"><a id="" name="" class="link-target" title="Background"></a>
+<h3>Background</h3>
+<a id="article1.front1.article-meta1.abstract1.sec1.p1" name="article1.front1.article-meta1.abstract1.sec1.p1" class="link-target"></a><p>Gliomas frequently contain mutations in the cytoplasmic NADP<sup>+</sup>-dependent isocitrate dehydrogenase (IDH1) or the mitochondrial NADP<sup>+</sup>-dependent isocitrate dehydrogenase (IDH2). Several different amino acid substitutions recur at either IDH1 R132 or IDH2 R172 in glioma patients. Genetic evidence indicates that these mutations share a common gain of function, but it is unclear whether the shared function is dominant negative activity, neomorphic production of (R)-2-hydroxyglutarate (2HG), or both.</p>
+</div>
+
+<div id="section2" class="section toc-section"><a id="" name="" class="link-target" title="Methodology/Principal Findings"></a>
+<h3>Methodology/Principal Findings</h3>
+<a id="article1.front1.article-meta1.abstract1.sec2.p1" name="article1.front1.article-meta1.abstract1.sec2.p1" class="link-target"></a><p>We show by coprecipitation that five cancer-derived IDH1 R132 mutants bind IDH1-WT but that three cancer-derived IDH2 R172 mutants exert minimal binding to IDH2-WT. None of the mutants dominant-negatively lower isocitrate dehydrogenase activity at physiological (40 µM) isocitrate concentrations in mammalian cell lysates. In contrast to this, all of these mutants confer 10- to 100-fold higher 2HG production to cells, and glioma tissues containing IDH1 R132 or IDH2 R172 mutations contain high levels of 2HG compared to glioma tissues without IDH mutations (54.4 vs. 0.1 mg 2HG/g protein).</p>
+</div>
+
+<div id="section3" class="section toc-section"><a id="" name="" class="link-target" title="Conclusions"></a>
+<h3>Conclusions</h3>
+<a id="article1.front1.article-meta1.abstract1.sec3.p1" name="article1.front1.article-meta1.abstract1.sec3.p1" class="link-target"></a><p>Binding to, or dominant inhibition of, WT IDH1 or IDH2 is not a shared feature of the IDH1 and IDH2 mutations, and thus is not likely to be important in cancer. The fact that the gain of the enzymatic activity to produce 2HG is a shared feature of the IDH1 and IDH2 mutations suggests that this is an important function for these mutants in driving cancer pathogenesis.</p>
+</div>
+</div>
+
+
+<div class="articleinfo"><p><strong>Citation: </strong>Jin G, Reitman ZJ, Spasojevic I, Batinic-Haberle I, Yang J, Schmidt-Kittler O, et al.  (2011) 2-Hydroxyglutarate Production, but Not Dominant Negative Function, Is Conferred by Glioma-Derived NADP<sup>+</sup>-Dependent Isocitrate Dehydrogenase Mutations. PLoS ONE 6(2):
+        e16812.
+        https://doi.org/10.1371/journal.pone.0016812</p><p><strong>Editor: </strong>Maciej Lesniak, The University of Chicago, United States of America</p><p><strong>Received: </strong>September 23, 2010; <strong>Accepted: </strong>January 3, 2011; <strong>Published: </strong> February 4, 2011</p><p><strong>Copyright: </strong> © 2011 Jin et al. This is an open-access article distributed under the terms of the Creative Commons Attribution License, which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.</p><p><strong>Funding: </strong>This project was supported by American Cancer Society Research Scholar Grant 10-126-01-CCE (<a href="http://www.cancer.org">www.cancer.org</a>), The Pediatric Brain Tumor Foundation Institute Grant (<a href="http://www.pbtfus.org/">http://www.pbtfus.org/</a>), and 1R01CA140316 (<a href="http://www.nih.gov">www.nih.gov</a>). The funders had no role in study design, data collection and analysis, decision to publish, or preparation of the manuscript.</p><p><strong>Competing interests: </strong> The authors have declared that no competing interests exist.</p></div>
+
+
+
+
+
+<div id="section1" class="section toc-section"><a id="s1" name="s1" data-toc="s1" class="link-target" title="Introduction"></a><h2>Introduction</h2><a id="article1.body1.sec1.p1" name="article1.body1.sec1.p1" class="link-target"></a><p>Heterozygous point mutations in IDH1 and IDH2 occur in a significant portion of human cancers. Affected cancer types include gliomas of intermediate malignant grade (73–94%) <a href="#pone.0016812-Parsons1" class="ref-tip">[1]</a>, <a href="#pone.0016812-Yan1" class="ref-tip">[2]</a> and acute myeloid leukemias (AMLs, 16–22%) <a href="#pone.0016812-Green1" class="ref-tip">[3]</a>, <a href="#pone.0016812-Gross1" class="ref-tip">[4]</a>, <a href="#pone.0016812-Mardis1" class="ref-tip">[5]</a>, <a href="#pone.0016812-Ward1" class="ref-tip">[6]</a>, and cases of IDH1 mutations have been reported in prostate cancer <a href="#pone.0016812-Kang1" class="ref-tip">[7]</a>, acute lymphoblastic leukemia, B type <a href="#pone.0016812-Kang1" class="ref-tip">[7]</a>, colorectal cancer <a href="#pone.0016812-Sjoblom1" class="ref-tip">[8]</a>, and melanoma <a href="#pone.0016812-Lopez1" class="ref-tip">[9]</a>. The IDH1 mutations observed in cancer tissue are specific for R132, a residue in the enzyme active site. R132H is the most common IDH1 substitution in gliomas, followed by R132C, R132S, R132L, and R132G. IDH2 is homologous to IDH1, and IDH2 mutations in glioma are specific for R172, the residue that is analogous to IDH1 R132. R172K, R172M, and R172G are the IDH2 substitions observed in gliomas. The IDH2 R172 mutations are rarer than the IDH1 R132 mutations in gliomas, and mutations in either gene are mutually exclusive in cancer (for reviews, see <a href="#pone.0016812-Reitman1" class="ref-tip">[10]</a>, <a href="#pone.0016812-Yan2" class="ref-tip">[11]</a>). The frequent observation of heterozygous hotspot mutations in IDH1 and IDH2 suggests that they are proto-oncogenes that are activated by these mutations in cancer. In line with this, two different molecular gains-of-function have been demonstrated for several of the mutated forms of IDH1 and IDH2.</p>
+<a id="article1.body1.sec1.p2" name="article1.body1.sec1.p2" class="link-target"></a><p>The first proposed function for IDH mutants is dominant negative inhibition of WT IDH enzymes. IDH1 R132 and IDH2 R172 mutations inactivate the normal NADP<sup>+</sup>-IDH activity of IDH1 and IDH2 to convert isocitrate to α-ketoglutarate <a href="#pone.0016812-Yan1" class="ref-tip">[2]</a>, <a href="#pone.0016812-Ichimura1" class="ref-tip">[12]</a>. Furthermore, IDH1-R132H can bind to IDH1-WT, and the resulting WT:mutant heterodimer has markedly lowered isocitrate dehydrogenase activity at physiological isocitrate concentrations (&lt;80 µM) compared to WT:WT homodimers in vitro <a href="#pone.0016812-Zhao1" class="ref-tip">[13]</a>.</p>
+<a id="article1.body1.sec1.p3" name="article1.body1.sec1.p3" class="link-target"></a><p>Since the IDH mutations observed in cancer are heterozygous, it has been speculated that IDH1 and IDH2 mutants bind the remaining IDH1-WT or IDH2-WT molecules in cells and exert a dominant negative function. However, it is unclear whether binding to IDH1-WT or IDH2-WT is shared by all of the glioma-derived IDH mutants, or whether IDH mutants actually bind a significant portion of IDH1-WT or IDH2-WT molecules to exert this dominant negative function in cells. In one study, tumor tissue from glioblastomas with IDH1 R132 mutations had 38% lower NADP<sup>+</sup>-IDH activity on average than tissue from glioblastomas without IDH mutations <a href="#pone.0016812-Bleeker1" class="ref-tip">[14]</a>. However, it is unclear whether this lowered activity reflects the loss of activity from the mutated IDH1 allele, or if it also reflects dominant negative lowering of the activity from the remaining WT IDH1 allele or the WT IDH2. The second proposed function for IDH mutants is that they gain the neomorphic activity to reduce α-ketoglutarate to 2HG <a href="#pone.0016812-Gross1" class="ref-tip">[4]</a>, <a href="#pone.0016812-Ward1" class="ref-tip">[6]</a>, <a href="#pone.0016812-Dang1" class="ref-tip">[15]</a>. However, this has not been demonstrated for all of the recurrent IDH mutants, nor has it been determined whether IDH2-mutated gliomas contain elevated 2HG levels.</p>
+<a id="article1.body1.sec1.p4" name="article1.body1.sec1.p4" class="link-target"></a><p>The relative importance of either dominant negative activity or 2HG-producing catalytic activity for the IDH1 and IDH2 mutants in cancer is unclear, and the mechanism by which either of these gained functions may contribute to cancer pathogenesis remains unknown. Examining the relevance of these two molecular functions has the potential to identify therapeutic targets for cancer treatment, and to inform future studies on the mechanism of cancer pathogenesis for IDH-mutated cancer cells. To resolve this issue, we focus on identifying shared functions for the IDH mutations in cancer, and ruling out functions that are not shared, for a panel of eight glioma-derived IDH mutants. We reasoned that functions of the IDH mutants that are important in cancer will be shared between all eight mutants, and that functions that are not required for cancer pathogenesis may not be shared. We show that binding to, and dominant negative inhibition of, IDH1-WT or IDH2-WT is not a shared feature of the glioma-derived IDH mutants, but that 2HG production and accumulation in tumors is a common feature of these mutants.</p>
+</div>
+
+<div id="section2" class="section toc-section"><a id="s2" name="s2" data-toc="s2" class="link-target" title="Results"></a><h2>Results</h2>
+<div id="section1" class="section toc-section"><a id="s2a" name="s2a" class="link-target" title="IDH1 R132 mutants bind IDH1-WT, but IDH2 R172 mutants poorly bind IDH2-WT"></a>
+<h3>IDH1 R132 mutants bind IDH1-WT, but IDH2 R172 mutants poorly bind IDH2-WT</h3>
+<a id="article1.body1.sec2.sec1.p1" name="article1.body1.sec2.sec1.p1" class="link-target"></a><p>IDH1 and IDH2 function as homodimers, and IDH1 R132H can bind to and dimerize with WT IDH1 <em>in vitro</em> <a href="#pone.0016812-Zhao1" class="ref-tip">[13]</a>. However, it is unclear whether other IDH1 R132 mutants can bind IDH1. To determine this, we overexpressed IDH1-WT or one of five glioma-derived IDH1 R132 mutants with C-terminal MYC and FLAG tags in human oligodendroglioma (HOG) cells, a human glioma cell line that does not contain IDH mutations <a href="#pone.0016812-Yan1" class="ref-tip">[2]</a>. We then determined whether endogenous IDH1-WT coprecipitated with the overexpressed forms of IDH1 by performing anti-FLAG immunoprecipitation. Transgenic IDH1-WT and IDH1 R132 mutants were similarly able to bind and pull down endogenous IDH1-WT (<a href="#pone-0016812-g001">Fig. 1a</a>). We next tested whether IDH1-R132H, the most common IDH mutant in gliomas <a href="#pone.0016812-Yan1" class="ref-tip">[2]</a>, could bind to other IDH1-R132H molecules in cells. To do so, we first transfected glioma cells with combinations of IDH1-WT and IDH1-R132H with MYC-FLAG or EGFP tags. Then, we assayed the ability for MYC-FLAG-tagged IDH1-WT or IDH1-R132H to pull down EGFP-tagged IDH1-WT or IDH1-R132H. The formation of IDH1 WT:R132H, WT:WT, and R132H:R132H was about equal in this system (<a href="#pone-0016812-g001">Fig. 1b</a>).</p>
+<a class="link-target" id="pone-0016812-g001" name="pone-0016812-g001"></a><div class="figure" data-doi="10.1371/journal.pone.0016812.g001"><div class="img-box"><a title="Click for larger image" href="article/figure/image?size=medium&amp;id=info:doi/10.1371/journal.pone.0016812.g001" data-doi="info:doi/10.1371/journal.pone.0016812" data-uri="info:doi/10.1371/journal.pone.0016812.g001"><img src="article/figure/image?size=inline&amp;id=info:doi/10.1371/journal.pone.0016812.g001" alt="thumbnail" class="thumbnail"></a><div class="expand"></div></div><div class="figure-inline-download">
+          Download:
+          <ul><li><div class="definition-label"><a href="article/figure/powerpoint?id=info:doi/10.1371/journal.pone.0016812.g001">
+                  PPT
+                </a></div><a href="article/figure/powerpoint?id=info:doi/10.1371/journal.pone.0016812.g001">
+                PowerPoint slide
+              </a></li><li><div class="definition-label"><a href="article/figure/image?download&amp;size=large&amp;id=info:doi/10.1371/journal.pone.0016812.g001">
+                  PNG
+                </a></div><a href="article/figure/image?download&amp;size=large&amp;id=info:doi/10.1371/journal.pone.0016812.g001">
+                larger image
+              </a></li><li><div class="definition-label"><a href="article/figure/image?download&amp;size=original&amp;id=info:doi/10.1371/journal.pone.0016812.g001">
+                  TIFF
+                </a></div><a href="article/figure/image?download&amp;size=original&amp;id=info:doi/10.1371/journal.pone.0016812.g001">
+                original image
+              </a></li></ul></div><div class="figcaption"><span>Figure 1. </span> IDH1 R132 mutants bind IDH1-WT, but IDH2 R172 mutants poorly bind IDH2-WT.</div><p class="caption_target"><a id="article1.body1.sec2.sec1.fig1.caption1.p1" name="article1.body1.sec2.sec1.fig1.caption1.p1" class="link-target"></a><p>(a) Whole cell lysates of HOG cells overexpressing FLAG-MYC-tagged IDH1 proteins contain comparable amounts of endogenous IDH1. FLAG-IP of these lysates coprecipitates endogenous IDH1-WT (lower anti-IDH1 band) along with the FLAG-MYC-tagged IDH1 proteins (anti-MYC band and upper anti-IDH1 band). (b) HOG cells were transfected with FLAG-MYC-tagged IDH1-WT, IDH1-R132H, or a vector control (V) in combination with EGFP-tagged IDH1-WT or IDH1-R132H. As expected, FLAG-IPs of these cells pull down FLAG-MYC-tagged IDH1 (middle band). Endogenous IDH1 (lower band) coprecipitates with FLAG-MYC-tagged IDH1. EGFP-tagged IDH1 (upper band) also coprecipitates with FLAG-MYC-tagged IDH1. (c) Whole cell lysates of HOG cells overexpressing FLAG-MYC-tagged IDH2 contain comparable amounts of endogenous IDH2. FLAG-IP of these lysates coprecipitates endogenous IDH2 (anti-IDH2, lower band) along with the FLAG-MYC-tagged IDH2 (anti-IDH2, upper band and anti-MYC band). However, IDH2 R172 mutants pull down endogenous IDH2-WT poorly compared to IDH2-WT. (d) FLAG-MYC-tagged IDH1-WT, IDH1-R132H, IDH2-WT, and IDH2-R172K were transfected into HOG cells. FLAG-IP of lysates pulled down FLAG-MYC-tagged IDH1-WT, IDH1-R132H, IDH2-WT, and IDH2-R172K (anti-MYC bands). FLAG-MYC-tagged IDH1-WT and IDH1-R132H also stained with anti-IDH1 (upper anti-IDH1 band). Endogenous IDH1-WT coprecipitated with FLAG-MYC-tagged IDH1-WT and IDH1-R132H, but not with FLAG-MYC-tagged IDH2-WT and IDH2-R172K (lower anti-IDH1 band).</p>
+</p><p class="caption_object"><a href="https://doi.org/10.1371/journal.pone.0016812.g001">
+              https://doi.org/10.1371/journal.pone.0016812.g001</a></p></div><a id="article1.body1.sec2.sec1.p2" name="article1.body1.sec2.sec1.p2" class="link-target"></a><p>Since IDH1 R132 mutants can bind IDH1-WT, we hypothesized that the analogous IDH2 R172 mutants could bind IDH2-WT. However, IDH2 R172 mutants were only weakly able to pull down endogenous IDH2 compared to IDH2-WT in these cells (<a href="#pone-0016812-g001">Fig. 1c</a>). Since binding to IDH1-WT may be an important function for IDH1 R132 mutants in cancer <a href="#pone.0016812-Zhao1" class="ref-tip">[13]</a>, we hypothesized that IDH2 R172 mutants may localize outside the mitochondria and also bind IDH1-WT. However, neither IDH2-WT nor IDH2-R172K was able to bind and pull down endogenous IDH1, indicating that IDH1 and IDH2 cannot bind to each other (<a href="#pone-0016812-g001">Fig. 1d</a>).</p>
+</div>
+
+<div id="section2" class="section toc-section"><a id="s2b" name="s2b" class="link-target" title="IDH mutants do not dominantly lower cellular IDH activity"></a>
+<h3>IDH mutants do not dominantly lower cellular IDH activity</h3>
+<a id="article1.body1.sec2.sec2.p1" name="article1.body1.sec2.sec2.p1" class="link-target"></a><p>Purified IDH1-R132H:WT heterodimers have a lowered isocitrate dehydrogenase reaction rate compared to IDH1-WT:WT homodimers at low isocitrate concentration <a href="#pone.0016812-Zhao1" class="ref-tip">[13]</a>. Based on this, IDH1 and IDH2 mutants have been proposed to inhibit the activity of the wild-type IDH1 or IDH2 allele in cancer cells in a dominant-negative fashion. However, it is unknown whether IDH1-R132H or other IDH1 and IDH2 mutants can lower the activity of wild-type IDH1 or IDH2 in cells. Previous studies of the effect of IDH1 and IDH2 mutant overexpression on endogenous isocitrate dehydrogenase activity in cell lysates have been carried out at relatively high substrate concentrations (400 µM or 1.3 mM) <a href="#pone.0016812-Yan1" class="ref-tip">[2]</a>, <a href="#pone.0016812-Ichimura1" class="ref-tip">[12]</a>. At these high concentrations, mutant:WT heterodimers have a similar reaction rate to WT:WT homodimers <a href="#pone.0016812-Zhao1" class="ref-tip">[13]</a>. Thus, in these studies, any dominant negative activity exerted by mutant enzymes on the wild-type endogenous proteins would be masked.</p>
+<a id="article1.body1.sec2.sec2.p2" name="article1.body1.sec2.sec2.p2" class="link-target"></a><p>Both IDH1 and IDH2 have NADP<sup>+</sup>-dependent isocitrate dehydrogenase (NADP<sup>+</sup>-IDH) activity, and no other mammalian enzymes have this activity. Because of this, assays of NADP<sup>+</sup>-IDH activity on whole cell lysates reflect the combined activity of IDH1 and IDH2. To provide information on the proportion of NADP<sup>+</sup>-IDH activity contributed by IDH1 and by IDH2 in cells, we stably transfected HOG cells with IDH1 shRNA or scrambled shRNA. IDH1 expression was reduced by 90 percent in the IDH1 shRNA cells, and the NADP<sup>+</sup>-IDH activity was reduced by nearly half, indicating that IDH1 accounts for nearly half of cellular NADP<sup>+</sup>-IDH activity (<a href="#pone-0016812-g002">Fig. 2a</a>). The remaining activity in IDH1 knockdown cells may be supplied by the residual IDH1 enzyme and by IDH2.</p>
+<a class="link-target" id="pone-0016812-g002" name="pone-0016812-g002"></a><div class="figure" data-doi="10.1371/journal.pone.0016812.g002"><div class="img-box"><a title="Click for larger image" href="article/figure/image?size=medium&amp;id=info:doi/10.1371/journal.pone.0016812.g002" data-doi="info:doi/10.1371/journal.pone.0016812" data-uri="info:doi/10.1371/journal.pone.0016812.g002"><img src="article/figure/image?size=inline&amp;id=info:doi/10.1371/journal.pone.0016812.g002" alt="thumbnail" class="thumbnail"></a><div class="expand"></div></div><div class="figure-inline-download">
+          Download:
+          <ul><li><div class="definition-label"><a href="article/figure/powerpoint?id=info:doi/10.1371/journal.pone.0016812.g002">
+                  PPT
+                </a></div><a href="article/figure/powerpoint?id=info:doi/10.1371/journal.pone.0016812.g002">
+                PowerPoint slide
+              </a></li><li><div class="definition-label"><a href="article/figure/image?download&amp;size=large&amp;id=info:doi/10.1371/journal.pone.0016812.g002">
+                  PNG
+                </a></div><a href="article/figure/image?download&amp;size=large&amp;id=info:doi/10.1371/journal.pone.0016812.g002">
+                larger image
+              </a></li><li><div class="definition-label"><a href="article/figure/image?download&amp;size=original&amp;id=info:doi/10.1371/journal.pone.0016812.g002">
+                  TIFF
+                </a></div><a href="article/figure/image?download&amp;size=original&amp;id=info:doi/10.1371/journal.pone.0016812.g002">
+                original image
+              </a></li></ul></div><div class="figcaption"><span>Figure 2. </span> Overexpression of IDH1 R132 and IDH2 R172 mutants does not reduce cellular NADP<sup>+</sup>-IDH activity.</div><p class="caption_target"><a id="article1.body1.sec2.sec2.fig1.caption1.p1" name="article1.body1.sec2.sec2.fig1.caption1.p1" class="link-target"></a><p>Total NADP<sup>+</sup>-IDH reaction rate, which consists of the combined rates of IDH1 and IDH2, was measured in lysates by measuring the rate of conversion of NADP<sup>+</sup> to NADPH in the presence of isocitrate. (a) Lysates of stable, clonal HOG cell lines containing an shRNA sequence targeted against IDH1 have lowered NADP<sup>+</sup>-IDH activity compared to a sister cell line expressing scrambled RNA from the same vector (V). (b) HOG cells were transfected with a vector control, IDH1-WT, an IDH1 R132 mutant, IDH2-WT, or an IDH2 R172 mutant, lysates were collected after 48 h, and total cellular NADP<sup>+</sup>-IDH reaction rate at 40 µM isocitrate was assayed. (c) The experiment in <em>B</em> was repeated with 293T cells. (d) 293T lysates transfected with vector control, IDH1-R132H, or IDH2-R172K from <em>C</em> were assayed for NADP<sup>+</sup>-IDH reaction rate at 0 to 80 µM isocitrate.</p>
+</p><p class="caption_object"><a href="https://doi.org/10.1371/journal.pone.0016812.g002">
+              https://doi.org/10.1371/journal.pone.0016812.g002</a></p></div><a id="article1.body1.sec2.sec2.p3" name="article1.body1.sec2.sec2.p3" class="link-target"></a><p>To determine whether IDH1 and IDH2 mutants can dominantly inhibit the activity of endogenous IDH1 and IDH2 enzymes, we assayed NADP<sup>+</sup>-IDH activity of lysates of HOG cells overexpressing IDH1-WT, IDH2-WT, or cancer-derived IDH1 R132 and IDH2 R172 mutants in the presence of 40 µM isocitrate. Importantly, FLAG-MYC-tagged IDH1-WT and IDH2-WT have previously been shown to have their native enzyme activity in this setting <a href="#pone.0016812-Yan1" class="ref-tip">[2]</a>, indicating that dimerization and enzymatic activity are not affected by this epitope tag. 40 µM isocitrate closely mimics the concentration of this metabolite in cells <a href="#pone.0016812-Albe1" class="ref-tip">[16]</a>. Additionally, purified IDH1 R132H:WT heterodimers have a significantly lower reaction rate than WT:WT homodimers at this substrate concentration <a href="#pone.0016812-Zhao1" class="ref-tip">[13]</a>. We therefore reasoned that any inhibition of endogenous wild-type IDH1 or IDH2 by transgenic IDH1 or IDH2 mutants would be apparent at this substrate concentration. As expected, overexpession of IDH1-WT or IDH2-WT greatly increased the total NADP<sup>+</sup>-IDH reaction rate at 40 µM isocitrate (<a href="#pone-0016812-g002">Fig. 2b</a>). However, transgenic IDH1 R132 and IDH2 R172 mutants had little effect on this activity (<a href="#pone-0016812-g002">Fig. 2b</a>), showing that they do not dominant-negatively inhibit IDH1-WT or IDH2-WT in this system. To validate this finding and expand it to non-cancer cells, we repeated this experiment in 293T cells and found similar results (<a href="#pone-0016812-g002">Fig. 2c</a>).</p>
+<a id="article1.body1.sec2.sec2.p4" name="article1.body1.sec2.sec2.p4" class="link-target"></a><p>To test whether overexpression of cancer-derived mutants of IDH1 or IDH2 could reduce total cellular NADP<sup>+</sup>-IDH activity at other concentrations of isocitrate at which mutant:WT heterodimers have lowered activity, we also assayed the total cellular NADP<sup>+</sup>-IDH activity of the 293T cells expressing IDH1-R132H or IDH2-R172K described above over a range of 0 to 80 µM isocitrate. These mutants did not lower the overall NADP<sup>+</sup>-IDH activity compared to vector alone at any of the substrate concentrations we assayed (<a href="#pone-0016812-g002">Fig. 2<em>d</em></a>). These data indicate that homologous expression of IDH mutants does not interfere with normal, endogenous IDH1-WT or IDH2-WT. However, it is possible that homologously expressed IDH mutants could have limited interaction with endogenous IDH in cells. To address this possibility, we determined whether an IDH1 R132 mutant could inhibit IDH1-WT when both are expressed homologously. To do so, we co-expressed IDH1-R132H and IDH1-WT in HOG cells, and found that IDH1-R132H expression did not lower cellular NADP<sup>+</sup>-IDH activity of cells expressing IDH1-WT more than vector alone (<a href="#pone.0016812.s001">Fig. S1</a>).</p>
+</div>
+
+<div id="section3" class="section toc-section"><a id="s2c" name="s2c" class="link-target" title="IDH mutants produce 2HG, which accumulates in IDH-mutated gliomas"></a>
+<h3>IDH mutants produce 2HG, which accumulates in IDH-mutated gliomas</h3>
+<a id="article1.body1.sec2.sec3.p1" name="article1.body1.sec2.sec3.p1" class="link-target"></a><p>Overexpression of IDH1-R132H, as well as IDH2-R172K, in mammalian cells leads to accumulation of 2HG in culture media <a href="#pone.0016812-Ward1" class="ref-tip">[6]</a>, <a href="#pone.0016812-Dang1" class="ref-tip">[15]</a>. To confirm this finding and expand it to the other IDH mutants found in gliomas, we measured 2HG levels in media incubated with HOG cells overexpressing IDH1-WT, IDH2-WT, or one of the recurrent cancer-derived mutants. To measure 2HG, we adapted a protocol to use derivation with diacetyl-L-tartaric anhydride to separate (R)-2-hydroxyglutarate, which is produced by IDH mutants, from its enantiomer, (S)-2-hydroxyglutarate, on a liquid chromatography (LC) column before performing tandem mass spectrometry (MS/MS) <a href="#pone.0016812-Struys1" class="ref-tip">[17]</a>. (R)-2-hydroxyglutarate accumulated over time in culture media for all mutants assayed (<a href="#pone-0016812-g003">Fig. 3<em>a</em></a>). To confirm this, we measured 2HG levels in media incubated with 293T cells overexpressing the same IDH proteins and found similar results (data not shown). We also determined the levels of 2HG in lysates of HOG cells expressing IDH1 R132 and IDH2 R172 mutants and found that 2HG was 10- to 100-fold elevated in these lysates compared to vector alone (<a href="#pone-0016812-g003">Fig. 3<em>b</em></a>)</p>
+<a class="link-target" id="pone-0016812-g003" name="pone-0016812-g003"></a><div class="figure" data-doi="10.1371/journal.pone.0016812.g003"><div class="img-box"><a title="Click for larger image" href="article/figure/image?size=medium&amp;id=info:doi/10.1371/journal.pone.0016812.g003" data-doi="info:doi/10.1371/journal.pone.0016812" data-uri="info:doi/10.1371/journal.pone.0016812.g003"><img src="article/figure/image?size=inline&amp;id=info:doi/10.1371/journal.pone.0016812.g003" alt="thumbnail" class="thumbnail"></a><div class="expand"></div></div><div class="figure-inline-download">
+          Download:
+          <ul><li><div class="definition-label"><a href="article/figure/powerpoint?id=info:doi/10.1371/journal.pone.0016812.g003">
+                  PPT
+                </a></div><a href="article/figure/powerpoint?id=info:doi/10.1371/journal.pone.0016812.g003">
+                PowerPoint slide
+              </a></li><li><div class="definition-label"><a href="article/figure/image?download&amp;size=large&amp;id=info:doi/10.1371/journal.pone.0016812.g003">
+                  PNG
+                </a></div><a href="article/figure/image?download&amp;size=large&amp;id=info:doi/10.1371/journal.pone.0016812.g003">
+                larger image
+              </a></li><li><div class="definition-label"><a href="article/figure/image?download&amp;size=original&amp;id=info:doi/10.1371/journal.pone.0016812.g003">
+                  TIFF
+                </a></div><a href="article/figure/image?download&amp;size=original&amp;id=info:doi/10.1371/journal.pone.0016812.g003">
+                original image
+              </a></li></ul></div><div class="figcaption"><span>Figure 3. </span> IDH1 R132 and IDH2 R172 mutants produce 2HG.</div><p class="caption_target"><a id="article1.body1.sec2.sec3.fig1.caption1.p1" name="article1.body1.sec2.sec3.fig1.caption1.p1" class="link-target"></a><p>(a) HOG cells were transfected with an empty vector (V), IDH1-WT, the indicated IDH1 R132 mutant, IDH2-WT, or the indicated IDH2 R172 mutant. The media was changed after 24 h. 2HG was analyzed in samples of media taken at 0, 24, and 48 h after the media was changed. (b) 2HG was measured in lysates of HOG cells expressing the indicated IDH variant 48 hours after transfection. (c) 2HG levels in human gliomas with either no IDH mutation (WT) or the indicated mutation.</p>
+</p><p class="caption_object"><a href="https://doi.org/10.1371/journal.pone.0016812.g003">
+              https://doi.org/10.1371/journal.pone.0016812.g003</a></p></div><a id="article1.body1.sec2.sec3.p2" name="article1.body1.sec2.sec3.p2" class="link-target"></a><p>Gliomas containing IDH1 R132 mutations have marked elevations of 2HG <a href="#pone.0016812-Dang1" class="ref-tip">[15]</a>. Also, AMLs containing IDH1 R132 or IDH2 R172 mutations have marked elevations of 2HG <a href="#pone.0016812-Gross1" class="ref-tip">[4]</a>, . We therefore reasoned that gliomas bearing IDH2 R172 mutations would also have elevated 2HG. To test this, we analyzed 2HG in 12 glioma samples, including samples containing IDH1 R132H, IDH1 R132L, IDH2 R172K, IDH2 R172M or no IDH mutations. We used a deuterated internal standard, [3,3,4,4-<sup>2</sup>H<sub>4</sub>]-(R/S)-2-hydroxyglutarate (2HG-d4), to reliably quantify 2HG in glioma tissue samples as described previously <a href="#pone.0016812-Struys1" class="ref-tip">[17]</a>. We found that all tumors containing IDH mutations had markedly elevated (R)-2-hydroxyglutarate compared to tumors without IDH mutations (54.4 vs. 0.1 mg 2HG/g protein, p&lt;0.001, <a href="#pone-0016812-g003">Fig. 3c</a>). This demonstrates for the first time to our knowledge that gliomas with IDH2 R172 mutations can have elevated 2HG, that any cancer with IDH1 R132L or IDH2 R172M have elevated 2HG, and that 2HG in cancer tissues is specific for (R)-2-hydroxyglutarate.</p>
+</div>
+</div>
+
+<div id="section3" class="section toc-section"><a id="s3" name="s3" data-toc="s3" class="link-target" title="Discussion"></a><h2>Discussion</h2><a id="article1.body1.sec3.p1" name="article1.body1.sec3.p1" class="link-target"></a><p>IDH1 and IDH2 mutations arise early in cancer pathogenesis and are specific for hotspot codons, suggesting that these mutations have a shared oncogenic function that drives cancer pathogenesis. We show that IDH mutants bind their corresponding WT partners either approximately the same as (IDH1) or more poorly than (IDH2) the WT version of the protein (<a href="#pone-0016812-g001">Fig. 1a,c</a>). Since the property of binding to a WT partner is not shared among the IDH mutants, it is unlikely that binding to a WT partner is an important feature of the IDH mutations in driving cancer pathogenesis.</p>
+<a id="article1.body1.sec3.p2" name="article1.body1.sec3.p2" class="link-target"></a><p>Also, our data shows that IDH mutants do not exert a dominant negative function in a model for IDH-mutated cancer cells. We have shown that IDH1 WT:WT, WT:mutant, and mutant:mutant dimers form in cells that express both mutant and WT forms of IDH1 (<a href="#pone-0016812-g001">Fig. 1b</a>). Based on this, cancer cells that have heterozygous IDH1 or IDH2 mutations would be expected to contain a mixture of WT:WT, WT:mutant, and mutant:mutant IDH1 or IDH2 dimers. A previous study showed that the IDH1 WT:R132H heterodimer has a lowered NADP<sup>+</sup>-IDH activity at low concentrations of isocitrate <a href="#pone.0016812-Zhao1" class="ref-tip">[13]</a>. Because the IDH1 R132 mutant must bind IDH1-WT to form this heterodimer, IDH1-R132H could dominant negatively inhibit IDH1-WT if a large amount of IDH1-WT molecules in the cell bind to IDH1 mutants to form heterodimers, rather than binding to other IDH1-WT molecules to form WT:WT homodimers. The fact that we did not observe dominant negative inhibition (<a href="#pone-0016812-g002">Fig. 2b,c,d</a>) suggests that a low proportion of IDH mutant:WT heterodimers exist in cells compared to WT:WT homodimers.</p>
+<a id="article1.body1.sec3.p3" name="article1.body1.sec3.p3" class="link-target"></a><p>Why would few IDH WT:mutant heterodimers form in cells compared to WT:WT homodimers? Differences in binding affinity between IDH WT:WT, mutant:WT, and mutant:mutant dimers could explain this phenomenon. For instance, if IDH mutant:WT binding is weaker than mutant:mutant or WT:WT binding, formation of the WT:WT and mutant:mutant homodimers would outcompete formation of mutant:WT heterodimers. This is the case for IDH2, since IDH2 R172 mutants have a weaker IDH2-WT binding affinity than IDH2-WT itself (<a href="#pone-0016812-g001">Fig. 1c</a>). A difference in binding to IDH1-WT was not observed between IDH1 R132 mutants and IDH1-WT by immunoprecipitation, although we cannot rule out that a more subtle difference exists that was not detected by this method.</p>
+<a id="article1.body1.sec3.p4" name="article1.body1.sec3.p4" class="link-target"></a><p>While IDH mutants did not exert a dominant negative effect in this system, our results show that 2HG production is a shared function of the IDH mutants. In accordance with previous reports for IDH1-R132H <a href="#pone.0016812-Dang1" class="ref-tip">[15]</a> and IDH2-R172K <a href="#pone.0016812-Ward1" class="ref-tip">[6]</a>, we show that six other IDH mutants produce 2HG when overexpressed in mammalian cells (<a href="#pone-0016812-g003">Fig. 3a,b</a>). This is supported by the novel finding that tumors with the rare IDH1-R132L and IDH2-R172M mutations also accumulate 2HG (<a href="#pone-0016812-g003">Fig. 3c</a>). IDH mutations are strongly associated with a wide range of transcriptomic and genomic alterations in gliomas <a href="#pone.0016812-Verhaak1" class="ref-tip">[18]</a>. However, whether neomorphic IDH activity drives these changes, how it may do so, and whether these alterations contribute to cancer pathogenesis remain unclear. Also, while 2HG production is the most striking effect of the neomorphic mutants, the consumption of NADPH or α-ketoglutarate by the mutants may also have a role in cancer.</p>
+<a id="article1.body1.sec3.p5" name="article1.body1.sec3.p5" class="link-target"></a><p>How might IDH mutations contribute to cancer pathogenesis? Mutant IDH1 expression can up-regulate hypoxia inducible factor 1α (HIF-1α), a transcription factor that has been implicated in promoting angiogenesis and malignant behavior of cancer cells <a href="#pone.0016812-Zhao1" class="ref-tip">[13]</a>. Whether HIF-1α is up-regulated as a result of lowered cellular levels of α-ketoglutarate as proposed by Zhao <em>et al.</em> <a href="#pone.0016812-Zhao1" class="ref-tip">[13]</a>, or due to increased 2HG levels as hypothesized by Frezza <em>et al</em>. <a href="#pone.0016812-Frezza1" class="ref-tip">[19]</a>, is unclear. Also, a role for HIF-1α in IDH-mutated cancer pathogenesis has been questioned based on the fact that IDH-mutated gliomas are generally not “angiogenic” as would be expected for tumors with dysregulated HIF-1α <a href="#pone.0016812-Reitman1" class="ref-tip">[10]</a>, and because IDH-mutated leukemias were not found to have increased expression of HIF-1α target genes <a href="#pone.0016812-Mardis1" class="ref-tip">[5]</a>. Recent studies have suggested that IDH mutants impair TET2, an 5-methylcytosine hydroxylase implicated in the regulation of epigenetic changes, and that this impairment dysregulates cellular differentiation <a href="#pone.0016812-Figueroa1" class="ref-tip">[20]</a>. Future experiments may seek to test whether altered α-ketoglutarate or 2HG concentrations can affect HIF-1a or TET2 pathway members <em>in vitro</em>, and identify the cellular pathways necessary for the IDH mutants to exert a cancer-related phenotype. Such studies may help to pinpoint therapeutic targets for treatment of IDH-mutated cancers.</p>
+</div>
+
+<div id="section4" class="section toc-section"><a id="s4" name="s4" data-toc="s4" class="link-target" title="Materials and Methods"></a><h2>Materials and Methods</h2>
+<div id="section1" class="section toc-section"><a id="s4a" name="s4a" class="link-target" title="Ethics Statement and Patient Samples"></a>
+<h3>Ethics Statement and Patient Samples</h3>
+<a id="article1.body1.sec4.sec1.p1" name="article1.body1.sec4.sec1.p1" class="link-target"></a><p>Glioma samples (<a href="#pone-0016812-g003">Fig. 3c</a>) were obtained from The Preston Robert Tisch Brain Tumor Center Biorepository at Duke University and their study was approved by the Duke Institutional Review Board. Written informed consent was obtained for banking and analysis of tissue samples from all patients involved in this study. No animal work was conducted in this study. Samples were analyzed previously for tumor type and IDH mutation status <a href="#pone.0016812-Yan1" class="ref-tip">[2]</a>.</p>
+</div>
+
+<div id="section2" class="section toc-section"><a id="s4b" name="s4b" class="link-target" title="Transfection"></a>
+<h3>Transfection</h3>
+<a id="article1.body1.sec4.sec2.p1" name="article1.body1.sec4.sec2.p1" class="link-target"></a><p>HOG cells were described previously <a href="#pone.0016812-Post1" class="ref-tip">[21]</a>, and 293T cells were obtained from ATCC (Manassas, VA). pCMV6-Entry-IDH vectors (OriGene, Rockville, MD) were used to overexpress IDH cDNAs with C-terminal FLAG-MYC epitopes. pEGFP-N1 (Clontech, Mountain View, CA) was used to express IDH1 cDNAs with N-terminal EGFP. For transfection, 5×10<sup>6</sup> cells were plated in a 75 cm<sup>2</sup> flask 24 h before transfection with 20 µg (unless otherwise indicated) of plasmid DNA using 50 µl Lipofectamine 2000 (Invitrogen, Carlsbad, CA). Stable HOG cell lines containing IDH1 shRNA or control were constructed by transfecting HOG cells with pSuperRetro vector (OligoEngine, Seattle, WA) containing IDH1-specific hairpin or a scrambled sequence. Clones were selected with 500 µg/ml G418 (Gibco/Invitrogen, Carlsbad, CA) for 3 weeks and expanded after single cell dilution.</p>
+</div>
+
+<div id="section3" class="section toc-section"><a id="s4c" name="s4c" class="link-target" title="Immunoblot and immunoprecipitation"></a>
+<h3>Immunoblot and immunoprecipitation</h3>
+<a id="article1.body1.sec4.sec3.p1" name="article1.body1.sec4.sec3.p1" class="link-target"></a><p>For immunoblots, anti-Myc (TA100010, OriGene) was used at 1∶1000 dilution, anti-Flag (1∶1000, TA100011, OriGene) at 1∶1000 dilution, anti-IDHC (IDH1), N-20 (sc49996, Santa Cruz Biotechnology, Santa Cruz, CA) at 1∶300 dilution, anti-IDH2, W16 (sc-55668, Santa Cruz Biotechnology) at 1∶100 dilution. Anti-GAPDH (FL-335) (sc25778, Santa Cruz Biotechnology) at 1∶10,000 dilution was used as a loading control for lysates. For immunoprecipitation, 50 µl of anti-FLAG M2 affinity resin (A2220, Sigma, St. Louis, MO) was rinsed 3×10min with 1 mL 0.2% Triton-X100 PBS. 1 ml of cells were lysed 48 h post-transfection in 0.2% Triton-X100 PBS. This lysate was added to the resin, rotated at 4°C overnight, and then centrifuged at 10,000rpm, 4°C for 1 min. The pellet was washed by resuspension in 1 ml 50 mM Tris HCl, 150 mM NaCl, pH 7.4 and re-centrifuged 6x for IDH1 and 3x for IDH2. 80 µl 2x SDS 5% β-mercaptoethanol loading buffer was added to the pellet, incubated at 100°C for 5 min, and loaded on SDS-PAGE. Intensity of bands in immunoblots were quantified using ImageJ (v1.43, available at <a href="http://rsbweb.nih.gov/ij/">http://rsbweb.nih.gov/ij/</a>, developed by Wayne Rasband, National Institutes of Health, Bethesda, MD) to determine the level of knockdown of IDH1 protein by shRNA expression.</p>
+</div>
+
+<div id="section4" class="section toc-section"><a id="s4d" name="s4d" class="link-target" title="Isocitrate dehydrogenase activity assays"></a>
+<h3>Isocitrate dehydrogenase activity assays</h3>
+<a id="article1.body1.sec4.sec4.p1" name="article1.body1.sec4.sec4.p1" class="link-target"></a><p>Cells were harvested 48 h post-transfection and homogenized in 0.02% Triton-X100 PBS. This was sonicated 3x 20s and protein concentration was quantified. For <a href="#pone-0016812-g002">Figs. 2b and c</a>, reactions were performed using a final 200 µl reaction volume containing 10 µg cell lysate, 33 mM Tris-Cl pH 7.5, 2 mM MnCl2, 107 µM NADP<sup>+</sup>, 40 µM isocitrate (D<sub>s</sub>-threo-isocitrate, monopotassium salt, Sigma) at room temperature. The reaction mix without isocitrate was first prepared in a 180 µl volume, checked on the spectrophotometer to confirm that there was no activity, and then started by adding 20 µl of 400 µM isocitrate. Reaction progress was monitored by A340 nm for 1 h using a PolarSTAR Optima (BMG Labtech, Offenburg, Germany). To titrate the concentration of isocitrate (<a href="#pone-0016812-g002">Fig. 2<em>d</em></a>), a more sensitive, single-channel spectrophotometer (UV-2501PC, Shimadzu, Kyoto, Japan) was used to quantify low levels of activity. These reactions were performed as described above, except 1 ml total reaction mix was used, 20 µg lysate was used, 100 µl of 10x concentrated isocitrate was added to start the reaction, and the reaction was monitored for 1 min. Reactions were performed in triplicate. A no lysate control was run along with each experiment, which confirmed that activity was specific to reaction mixes that contain lysate (not shown). NADPH production was calculated using an NADPH extinction coefficient of 6.2×10<sup>3</sup> M<sup>-1</sup> cm<sup>-1</sup>.</p>
+</div>
+
+<div id="section5" class="section toc-section"><a id="s4e" name="s4e" class="link-target" title="2HG analysis"></a>
+<h3>2HG analysis</h3>
+<a id="article1.body1.sec4.sec5.p1" name="article1.body1.sec4.sec5.p1" class="link-target"></a><p>Quantification of 2-HG in media/tissues was performed by LC-negative electrospray ionization-MS/MS as published previously <a href="#pone.0016812-Struys1" class="ref-tip">[17]</a> with modifications to accommodate different sample matrices. A racemic mixture of 2HG-d4 was prepared by mixing 1 mg α-ketoglutarate-d6 (Sigma/Isotec) with 1 mg NaBH<sub>4</sub> (Sigma) in 0.2 mL anhydrous MeOH (Sigma) followed by 30 min incubation at 60°C.</p>
+<a id="article1.body1.sec4.sec5.p2" name="article1.body1.sec4.sec5.p2" class="link-target"></a><p>Media above cells was collected 0, 24, and 48 h after transfection. Lysates were collected 48 hours after transfection. To 20 µL of media or lysate, 2 µL of 65 µg/mL of each 2HG-d4 enantiomer (internal standard) in water was added and the mixture dried by vacuum centrifuge (50°C, 15 min). Dry residue was treated with 50 mg/mL freshly prepared diacetyl-L-tartaric anhydride (Sigma) in dichloromethane/glacial acetic acid (4/1 by volume) and heated (75°C 30 min). After drying (50°C, 15 min) the residue was dissolved in 100 µL LC mobile phase A (see below) for analysis. For patient glioma tissue samples, 20 mg tissue, 200 µL deionized water, 1 mL chloroform, and a 4 mm ceramic bead were vigorously mixed for 45 s at speed 4 in a Fast-Prep 120 (Thermo-Savant, Waltham, MA). After centrifugation (5 min, 16,100 g), 200 µL of aqueous (upper) layer was transferred to a 1.5 mL glass vial and dried (50°C, 60 min), derivatized, and reconstituted for LC-MS/MS analysis as described above in case of media above the cells.</p>
+<a id="article1.body1.sec4.sec5.p3" name="article1.body1.sec4.sec5.p3" class="link-target"></a><p>An Agilent 1200 series HPLC (Santa Clara, CA) was used for liquid chromatography (LC) and a Sciex/Applied Biosystems API 3200 QTrap (Carlsbad, CA) was used for triple quadrupole mass spectrometry (MS/MS). Mobile phase A: water, 3% acetonitrile, 280 µL ammonium hydroxide (∼25%), pH adjusted to 3.6 by formic acid (∼98%). Mobile phase B: methanol. Analytical column: Kinetex C<sub>18</sub>, 150×4.6 mm, 2.6 µm, and SafeGuard C<sub>18</sub> 4×3 mm guard-column from Phenomenex (Torrance, CA). Column temperature: 45°C. Elution gradient at 1 mL/min flow rate: 0–1 min 0% B, 1–2 min 0-100% B, 2–3.5 min 100%B, 3.5–4 min 100-0% B, 4–10 min 0% B. Injection volume: 10 µL. Q1/Q3 (m/z) transitions monitored: 363/147 (2HG) and 367/151 (2HG-d4). To calibrate, 0, 0.16, 0.54, 1.8, 6, and 20 µg/ml pure (R)-2-hydroxyglutarate (Sigma) was prepared. These samples were analyzed alongside experimental samples and accuracy acceptance criteria was 85% for each but the lowest level (0.16 µg/mL, 80%). In the case of glioma tissue samples, quantification was done by using the signal resulting from the known concentration of 2HG-d4 internal standard added to the sample prior to the sample processing and analysis. A two-tailed Student's t test assuming equal variances was used to test for a significant difference in mean 2HG concentration between groups of samples.</p>
+</div>
+</div>
+
+<div id="section5" class="section toc-section"><a id="s5" name="s5" data-toc="s5" class="link-target" title="Supporting Information"></a><h2>Supporting Information</h2><div class="figshare_widget" doi="10.1371/journal.pone.0016812"></div><div class="supplementary-material"><a name="pone.0016812.s001" id="pone.0016812.s001" class="link-target"></a><h3 class="siTitle title-small"><a href="article/file?type=supplementary&amp;id=info:doi/10.1371/journal.pone.0016812.s001">Figure S1. </a></h3><a id="article1.body1.sec5.supplementary-material1.caption1.p1" name="article1.body1.sec5.supplementary-material1.caption1.p1" class="link-target"></a><p class="preSiDOI"><strong>Co-expression of IDH1-R132H with IDH1-WT does not lower NADP<sup>+</sup>-IDH activity more than vector alone.</strong> HOG cells were transfected with the indicated amounts of pCMV6 vectors to express IDH1-WT, IDH1-R132H, or vector alone (V), as indicated. 48 hours after transfection, cells were lysed and total cellular NADP+-IDH activity was determined at 1.3mM isocitrate. Results are from two independent measurements of lysates and are representative of two independent experiments.</p>
+<p class="siDoi"><a href="https://doi.org/10.1371/journal.pone.0016812.s001">https://doi.org/10.1371/journal.pone.0016812.s001</a></p><a id="article1.body1.sec5.supplementary-material1.caption1.p2" name="article1.body1.sec5.supplementary-material1.caption1.p2" class="link-target"></a><p class="postSiDOI">(PDF)</p>
+</div></div>
+
+
+
+
+
+<div class="section toc-section"><a id="ack" name="ack" data-toc="ack" title="Acknowledgments" class="link-target"></a><h2>Acknowledgments</h2>
+<a id="article1.back1.ack1.p1" name="article1.back1.ack1.p1" class="link-target"></a><p>We thank Dr. Roger McLendon, Melissa J. Ehinger, and Diane L. Satterfield from the Preston Tisch Biorepository at Duke for providing glioma tissue samples. The HOG cell line was donated by Dr. A.T. Campagnoni at UCLA.</p>
+</div><div class="contributions toc-section"><a id="authcontrib" name="authcontrib" data-toc="authcontrib" title="Author Contributions"></a><h2>Author Contributions</h2><p>Conceived and designed the experiments: ZJR GJ IS HY. Performed the experiments: ZJR GJ IS. Analyzed the data: ZJR GJ DDB HY. Contributed reagents/materials/analysis tools: IBH JY OSK. Wrote the paper: ZJR.</p></div><div class="toc-section"><a id="references" name="references" class="link-target" data-toc="references" title="References"></a><h2>References</h2><ol class="references"><li id="ref1"><span class="order">1.
+            </span><a name="pone.0016812-Parsons1" id="pone.0016812-Parsons1" class="link-target"></a>Parsons DW, Jones S, Zhang X, Lin JC, Leary RJ, et al.  (2008) An integrated genomic analysis of human glioblastoma multiforme. Science  321: 1807–1812.DW ParsonsS. JonesX. ZhangJC LinRJ Leary2008An integrated genomic analysis of human glioblastoma multiforme.Science32118071812  <ul class="reflinks"><li><a href="#" data-author="Parsons" data-cit="ParsonsDWJonesSZhangXLinJCLearyRJ2008An%20integrated%20genomic%20analysis%20of%20human%20glioblastoma%20multiforme.Science32118071812" data-title="An%20integrated%20genomic%20analysis%20of%20human%20glioblastoma%20multiforme." target="_new" title="Go to article in CrossRef">
+                      View Article
+                    </a></li><li><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?db=PubMed&amp;cmd=Search&amp;doptcmdl=Citation&amp;defaultField=Title+Word&amp;term=Parsons%5Bauthor%5D+AND+An+integrated+genomic+analysis+of+human+glioblastoma+multiforme." target="_new" title="Go to article in PubMed">
+                      PubMed/NCBI
+                    </a></li><li><a href="http://scholar.google.com/scholar_lookup?title=An+integrated+genomic+analysis+of+human+glioblastoma+multiforme.&amp;author=Parsons&amp;publication_year=2008" target="_new" title="Go to article in Google Scholar">
+                      Google Scholar
+                    </a></li></ul></li><li id="ref2"><span class="order">2.
+            </span><a name="pone.0016812-Yan1" id="pone.0016812-Yan1" class="link-target"></a>Yan H, Parsons DW, Jin G, McLendon R, Rasheed BA, et al.  (2009) IDH1 and IDH2 Mutations in Gliomas. N Engl J Med  360: 765–773.H. YanDW ParsonsG. JinR. McLendonBA Rasheed2009IDH1 and IDH2 Mutations in Gliomas.N Engl J Med360765773  <ul class="reflinks"><li><a href="#" data-author="Yan" data-cit="YanHParsonsDWJinGMcLendonRRasheedBA2009IDH1%20and%20IDH2%20Mutations%20in%20Gliomas.N%20Engl%20J%20Med360765773" data-title="IDH1%20and%20IDH2%20Mutations%20in%20Gliomas." target="_new" title="Go to article in CrossRef">
+                      View Article
+                    </a></li><li><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?db=PubMed&amp;cmd=Search&amp;doptcmdl=Citation&amp;defaultField=Title+Word&amp;term=Yan%5Bauthor%5D+AND+IDH1+and+IDH2+Mutations+in+Gliomas." target="_new" title="Go to article in PubMed">
+                      PubMed/NCBI
+                    </a></li><li><a href="http://scholar.google.com/scholar_lookup?title=IDH1+and+IDH2+Mutations+in+Gliomas.&amp;author=Yan&amp;publication_year=2009" target="_new" title="Go to article in Google Scholar">
+                      Google Scholar
+                    </a></li></ul></li><li id="ref3"><span class="order">3.
+            </span><a name="pone.0016812-Green1" id="pone.0016812-Green1" class="link-target"></a>Green A, Beer P (2010) Somatic mutations of IDH1 and IDH2 in the leukemic transformation of myeloproliferative neoplasms. N Engl J Med  362: 369–370.A. GreenP. Beer2010Somatic mutations of IDH1 and IDH2 in the leukemic transformation of myeloproliferative neoplasms.N Engl J Med362369370  <ul class="reflinks"><li><a href="#" data-author="Green" data-cit="GreenABeerP2010Somatic%20mutations%20of%20IDH1%20and%20IDH2%20in%20the%20leukemic%20transformation%20of%20myeloproliferative%20neoplasms.N%20Engl%20J%20Med362369370" data-title="Somatic%20mutations%20of%20IDH1%20and%20IDH2%20in%20the%20leukemic%20transformation%20of%20myeloproliferative%20neoplasms." target="_new" title="Go to article in CrossRef">
+                      View Article
+                    </a></li><li><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?db=PubMed&amp;cmd=Search&amp;doptcmdl=Citation&amp;defaultField=Title+Word&amp;term=Green%5Bauthor%5D+AND+Somatic+mutations+of+IDH1+and+IDH2+in+the+leukemic+transformation+of+myeloproliferative+neoplasms." target="_new" title="Go to article in PubMed">
+                      PubMed/NCBI
+                    </a></li><li><a href="http://scholar.google.com/scholar_lookup?title=Somatic+mutations+of+IDH1+and+IDH2+in+the+leukemic+transformation+of+myeloproliferative+neoplasms.&amp;author=Green&amp;publication_year=2010" target="_new" title="Go to article in Google Scholar">
+                      Google Scholar
+                    </a></li></ul></li><li id="ref4"><span class="order">4.
+            </span><a name="pone.0016812-Gross1" id="pone.0016812-Gross1" class="link-target"></a>Gross S, Cairns RA, Minden MD, Driggers EM, Bittinger MA, et al.  (2010) Cancer-associated metabolite 2-hydroxyglutarate accumulates in acute myelogenous leukemia with isocitrate dehydrogenase 1 and 2 mutations. J Exp Med  207: 339–344.S. GrossRA CairnsMD MindenEM DriggersMA Bittinger2010Cancer-associated metabolite 2-hydroxyglutarate accumulates in acute myelogenous leukemia with isocitrate dehydrogenase 1 and 2 mutations.J Exp Med207339344  <ul class="reflinks"><li><a href="#" data-author="Gross" data-cit="GrossSCairnsRAMindenMDDriggersEMBittingerMA2010Cancer-associated%20metabolite%202-hydroxyglutarate%20accumulates%20in%20acute%20myelogenous%20leukemia%20with%20isocitrate%20dehydrogenase%201%20and%202%20mutations.J%20Exp%20Med207339344" data-title="Cancer-associated%20metabolite%202-hydroxyglutarate%20accumulates%20in%20acute%20myelogenous%20leukemia%20with%20isocitrate%20dehydrogenase%201%20and%202%20mutations." target="_new" title="Go to article in CrossRef">
+                      View Article
+                    </a></li><li><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?db=PubMed&amp;cmd=Search&amp;doptcmdl=Citation&amp;defaultField=Title+Word&amp;term=Gross%5Bauthor%5D+AND+Cancer-associated+metabolite+2-hydroxyglutarate+accumulates+in+acute+myelogenous+leukemia+with+isocitrate+dehydrogenase+1+and+2+mutations." target="_new" title="Go to article in PubMed">
+                      PubMed/NCBI
+                    </a></li><li><a href="http://scholar.google.com/scholar_lookup?title=Cancer-associated+metabolite+2-hydroxyglutarate+accumulates+in+acute+myelogenous+leukemia+with+isocitrate+dehydrogenase+1+and+2+mutations.&amp;author=Gross&amp;publication_year=2010" target="_new" title="Go to article in Google Scholar">
+                      Google Scholar
+                    </a></li></ul></li><li id="ref5"><span class="order">5.
+            </span><a name="pone.0016812-Mardis1" id="pone.0016812-Mardis1" class="link-target"></a>Mardis ER, Ding L, Dooling DJ, Larson DE, McLellan MD, et al.  (2009) Recurring mutations found by sequencing an acute myeloid leukemia genome. N Engl J Med  361: 1058–1066.ER MardisL. DingDJ DoolingDE LarsonMD McLellan2009Recurring mutations found by sequencing an acute myeloid leukemia genome.N Engl J Med36110581066  <ul class="reflinks"><li><a href="#" data-author="Mardis" data-cit="MardisERDingLDoolingDJLarsonDEMcLellanMD2009Recurring%20mutations%20found%20by%20sequencing%20an%20acute%20myeloid%20leukemia%20genome.N%20Engl%20J%20Med36110581066" data-title="Recurring%20mutations%20found%20by%20sequencing%20an%20acute%20myeloid%20leukemia%20genome." target="_new" title="Go to article in CrossRef">
+                      View Article
+                    </a></li><li><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?db=PubMed&amp;cmd=Search&amp;doptcmdl=Citation&amp;defaultField=Title+Word&amp;term=Mardis%5Bauthor%5D+AND+Recurring+mutations+found+by+sequencing+an+acute+myeloid+leukemia+genome." target="_new" title="Go to article in PubMed">
+                      PubMed/NCBI
+                    </a></li><li><a href="http://scholar.google.com/scholar_lookup?title=Recurring+mutations+found+by+sequencing+an+acute+myeloid+leukemia+genome.&amp;author=Mardis&amp;publication_year=2009" target="_new" title="Go to article in Google Scholar">
+                      Google Scholar
+                    </a></li></ul></li><li id="ref6"><span class="order">6.
+            </span><a name="pone.0016812-Ward1" id="pone.0016812-Ward1" class="link-target"></a>Ward PS, Patel J, Wise DR, Abdel-Wahab O, Bennett BD, et al.  (2010) The common feature of leukemia-associated IDH1 and IDH2 mutations is a neomorphic enzyme activity converting alpha-ketoglutarate to 2-hydroxyglutarate. Cancer Cell  17: 225–234.PS WardJ. PatelDR WiseO. Abdel-WahabBD Bennett2010The common feature of leukemia-associated IDH1 and IDH2 mutations is a neomorphic enzyme activity converting alpha-ketoglutarate to 2-hydroxyglutarate.Cancer Cell17225234  <ul class="reflinks"><li><a href="#" data-author="Ward" data-cit="WardPSPatelJWiseDRAbdel-WahabOBennettBD2010The%20common%20feature%20of%20leukemia-associated%20IDH1%20and%20IDH2%20mutations%20is%20a%20neomorphic%20enzyme%20activity%20converting%20alpha-ketoglutarate%20to%202-hydroxyglutarate.Cancer%20Cell17225234" data-title="The%20common%20feature%20of%20leukemia-associated%20IDH1%20and%20IDH2%20mutations%20is%20a%20neomorphic%20enzyme%20activity%20converting%20alpha-ketoglutarate%20to%202-hydroxyglutarate." target="_new" title="Go to article in CrossRef">
+                      View Article
+                    </a></li><li><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?db=PubMed&amp;cmd=Search&amp;doptcmdl=Citation&amp;defaultField=Title+Word&amp;term=Ward%5Bauthor%5D+AND+The+common+feature+of+leukemia-associated+IDH1+and+IDH2+mutations+is+a+neomorphic+enzyme+activity+converting+alpha-ketoglutarate+to+2-hydroxyglutarate." target="_new" title="Go to article in PubMed">
+                      PubMed/NCBI
+                    </a></li><li><a href="http://scholar.google.com/scholar_lookup?title=The+common+feature+of+leukemia-associated+IDH1+and+IDH2+mutations+is+a+neomorphic+enzyme+activity+converting+alpha-ketoglutarate+to+2-hydroxyglutarate.&amp;author=Ward&amp;publication_year=2010" target="_new" title="Go to article in Google Scholar">
+                      Google Scholar
+                    </a></li></ul></li><li id="ref7"><span class="order">7.
+            </span><a name="pone.0016812-Kang1" id="pone.0016812-Kang1" class="link-target"></a>Kang MR, Kim MS, Oh JE, Kim YR, Song SY, et al.  (2009) Mutational analysis of IDH1 codon 132 in glioblastomas and other common cancers. Int J Cancer  125: 353–355.MR KangMS KimJE OhYR KimSY Song2009Mutational analysis of IDH1 codon 132 in glioblastomas and other common cancers.Int J Cancer125353355  <ul class="reflinks"><li><a href="#" data-author="Kang" data-cit="KangMRKimMSOhJEKimYRSongSY2009Mutational%20analysis%20of%20IDH1%20codon%20132%20in%20glioblastomas%20and%20other%20common%20cancers.Int%20J%20Cancer125353355" data-title="Mutational%20analysis%20of%20IDH1%20codon%20132%20in%20glioblastomas%20and%20other%20common%20cancers." target="_new" title="Go to article in CrossRef">
+                      View Article
+                    </a></li><li><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?db=PubMed&amp;cmd=Search&amp;doptcmdl=Citation&amp;defaultField=Title+Word&amp;term=Kang%5Bauthor%5D+AND+Mutational+analysis+of+IDH1+codon+132+in+glioblastomas+and+other+common+cancers." target="_new" title="Go to article in PubMed">
+                      PubMed/NCBI
+                    </a></li><li><a href="http://scholar.google.com/scholar_lookup?title=Mutational+analysis+of+IDH1+codon+132+in+glioblastomas+and+other+common+cancers.&amp;author=Kang&amp;publication_year=2009" target="_new" title="Go to article in Google Scholar">
+                      Google Scholar
+                    </a></li></ul></li><li id="ref8"><span class="order">8.
+            </span><a name="pone.0016812-Sjoblom1" id="pone.0016812-Sjoblom1" class="link-target"></a>Sjoblom T, Jones S, Wood LD, Parsons DW, Lin J, et al.  (2006) The consensus coding sequences of human breast and colorectal cancers. Science  314: 268–274.T. SjoblomS. JonesLD WoodDW ParsonsJ. Lin2006The consensus coding sequences of human breast and colorectal cancers.Science314268274  <ul class="reflinks"><li><a href="#" data-author="Sjoblom" data-cit="SjoblomTJonesSWoodLDParsonsDWLinJ2006The%20consensus%20coding%20sequences%20of%20human%20breast%20and%20colorectal%20cancers.Science314268274" data-title="The%20consensus%20coding%20sequences%20of%20human%20breast%20and%20colorectal%20cancers." target="_new" title="Go to article in CrossRef">
+                      View Article
+                    </a></li><li><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?db=PubMed&amp;cmd=Search&amp;doptcmdl=Citation&amp;defaultField=Title+Word&amp;term=Sjoblom%5Bauthor%5D+AND+The+consensus+coding+sequences+of+human+breast+and+colorectal+cancers." target="_new" title="Go to article in PubMed">
+                      PubMed/NCBI
+                    </a></li><li><a href="http://scholar.google.com/scholar_lookup?title=The+consensus+coding+sequences+of+human+breast+and+colorectal+cancers.&amp;author=Sjoblom&amp;publication_year=2006" target="_new" title="Go to article in Google Scholar">
+                      Google Scholar
+                    </a></li></ul></li><li id="ref9"><span class="order">9.
+            </span><a name="pone.0016812-Lopez1" id="pone.0016812-Lopez1" class="link-target"></a>Lopez GY, Reitman ZJ, Solomon D, Waldman T, Bigner DD, et al.  (2010) IDH1(R132) mutation identified in one human melanoma metastasis, but not correlated with metastases to the brain. Biochem Biophys Res Commun  398: 585–587.GY LopezZJ ReitmanD. SolomonT. WaldmanDD Bigner2010IDH1(R132) mutation identified in one human melanoma metastasis, but not correlated with metastases to the brain.Biochem Biophys Res Commun398585587  <ul class="reflinks"><li><a href="#" data-author="Lopez" data-cit="LopezGYReitmanZJSolomonDWaldmanTBignerDD2010IDH1%28R132%29%20mutation%20identified%20in%20one%20human%20melanoma%20metastasis%2C%20but%20not%20correlated%20with%20metastases%20to%20the%20brain.Biochem%20Biophys%20Res%20Commun398585587" data-title="IDH1%28R132%29%20mutation%20identified%20in%20one%20human%20melanoma%20metastasis%2C%20but%20not%20correlated%20with%20metastases%20to%20the%20brain." target="_new" title="Go to article in CrossRef">
+                      View Article
+                    </a></li><li><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?db=PubMed&amp;cmd=Search&amp;doptcmdl=Citation&amp;defaultField=Title+Word&amp;term=Lopez%5Bauthor%5D+AND+IDH1%28R132%29+mutation+identified+in+one+human+melanoma+metastasis%2C+but+not+correlated+with+metastases+to+the+brain." target="_new" title="Go to article in PubMed">
+                      PubMed/NCBI
+                    </a></li><li><a href="http://scholar.google.com/scholar_lookup?title=IDH1%28R132%29+mutation+identified+in+one+human+melanoma+metastasis%2C+but+not+correlated+with+metastases+to+the+brain.&amp;author=Lopez&amp;publication_year=2010" target="_new" title="Go to article in Google Scholar">
+                      Google Scholar
+                    </a></li></ul></li><li id="ref10"><span class="order">10.
+            </span><a name="pone.0016812-Reitman1" id="pone.0016812-Reitman1" class="link-target"></a>Reitman ZJ, Yan H (2010) Isocitrate Dehydrogenase 1 and 2 Mutations in Cancer: Alterations at a Crossroads of Cellular Metabolism. J Natl Cancer Inst  127: 245–246.ZJ ReitmanH. Yan2010Isocitrate Dehydrogenase 1 and 2 Mutations in Cancer: Alterations at a Crossroads of Cellular Metabolism.J Natl Cancer Inst127245246  <ul class="reflinks"><li><a href="#" data-author="Reitman" data-cit="ReitmanZJYanH2010Isocitrate%20Dehydrogenase%201%20and%202%20Mutations%20in%20Cancer%3A%20Alterations%20at%20a%20Crossroads%20of%20Cellular%20Metabolism.J%20Natl%20Cancer%20Inst127245246" data-title="Isocitrate%20Dehydrogenase%201%20and%202%20Mutations%20in%20Cancer%3A%20Alterations%20at%20a%20Crossroads%20of%20Cellular%20Metabolism." target="_new" title="Go to article in CrossRef">
+                      View Article
+                    </a></li><li><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?db=PubMed&amp;cmd=Search&amp;doptcmdl=Citation&amp;defaultField=Title+Word&amp;term=Reitman%5Bauthor%5D+AND+Isocitrate+Dehydrogenase+1+and+2+Mutations+in+Cancer%3A+Alterations+at+a+Crossroads+of+Cellular+Metabolism." target="_new" title="Go to article in PubMed">
+                      PubMed/NCBI
+                    </a></li><li><a href="http://scholar.google.com/scholar_lookup?title=Isocitrate+Dehydrogenase+1+and+2+Mutations+in+Cancer%3A+Alterations+at+a+Crossroads+of+Cellular+Metabolism.&amp;author=Reitman&amp;publication_year=2010" target="_new" title="Go to article in Google Scholar">
+                      Google Scholar
+                    </a></li></ul></li><li id="ref11"><span class="order">11.
+            </span><a name="pone.0016812-Yan2" id="pone.0016812-Yan2" class="link-target"></a>Yan H, Bigner DD, Velculescu V, Parsons DW (2009) Mutant metabolic enzymes are at the origin of gliomas. Cancer Res  69: 9157–9159.H. YanDD BignerV. VelculescuDW Parsons2009Mutant metabolic enzymes are at the origin of gliomas.Cancer Res6991579159  <ul class="reflinks"><li><a href="#" data-author="Yan" data-cit="YanHBignerDDVelculescuVParsonsDW2009Mutant%20metabolic%20enzymes%20are%20at%20the%20origin%20of%20gliomas.Cancer%20Res6991579159" data-title="Mutant%20metabolic%20enzymes%20are%20at%20the%20origin%20of%20gliomas." target="_new" title="Go to article in CrossRef">
+                      View Article
+                    </a></li><li><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?db=PubMed&amp;cmd=Search&amp;doptcmdl=Citation&amp;defaultField=Title+Word&amp;term=Yan%5Bauthor%5D+AND+Mutant+metabolic+enzymes+are+at+the+origin+of+gliomas." target="_new" title="Go to article in PubMed">
+                      PubMed/NCBI
+                    </a></li><li><a href="http://scholar.google.com/scholar_lookup?title=Mutant+metabolic+enzymes+are+at+the+origin+of+gliomas.&amp;author=Yan&amp;publication_year=2009" target="_new" title="Go to article in Google Scholar">
+                      Google Scholar
+                    </a></li></ul></li><li id="ref12"><span class="order">12.
+            </span><a name="pone.0016812-Ichimura1" id="pone.0016812-Ichimura1" class="link-target"></a>Ichimura K, Pearson DM, Kocialkowski S, Backlund LM, Chan R, et al.  (2009) IDH1 mutations are present in the majority of common adult gliomas but are rare in primary glioblastomas. Neuro Oncol  11: 341–347.K. IchimuraDM PearsonS. KocialkowskiLM BacklundR. Chan2009IDH1 mutations are present in the majority of common adult gliomas but are rare in primary glioblastomas.Neuro Oncol11341347  <ul class="reflinks"><li><a href="#" data-author="Ichimura" data-cit="IchimuraKPearsonDMKocialkowskiSBacklundLMChanR2009IDH1%20mutations%20are%20present%20in%20the%20majority%20of%20common%20adult%20gliomas%20but%20are%20rare%20in%20primary%20glioblastomas.Neuro%20Oncol11341347" data-title="IDH1%20mutations%20are%20present%20in%20the%20majority%20of%20common%20adult%20gliomas%20but%20are%20rare%20in%20primary%20glioblastomas." target="_new" title="Go to article in CrossRef">
+                      View Article
+                    </a></li><li><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?db=PubMed&amp;cmd=Search&amp;doptcmdl=Citation&amp;defaultField=Title+Word&amp;term=Ichimura%5Bauthor%5D+AND+IDH1+mutations+are+present+in+the+majority+of+common+adult+gliomas+but+are+rare+in+primary+glioblastomas." target="_new" title="Go to article in PubMed">
+                      PubMed/NCBI
+                    </a></li><li><a href="http://scholar.google.com/scholar_lookup?title=IDH1+mutations+are+present+in+the+majority+of+common+adult+gliomas+but+are+rare+in+primary+glioblastomas.&amp;author=Ichimura&amp;publication_year=2009" target="_new" title="Go to article in Google Scholar">
+                      Google Scholar
+                    </a></li></ul></li><li id="ref13"><span class="order">13.
+            </span><a name="pone.0016812-Zhao1" id="pone.0016812-Zhao1" class="link-target"></a>Zhao S, Lin Y, Xu W, Jiang W, Zha Z, et al.  (2009) Glioma-derived mutations in IDH1 dominantly inhibit IDH1 catalytic activity and induce HIF-1alpha. Science  324: 261–265.S. ZhaoY. LinW. XuW. JiangZ. Zha2009Glioma-derived mutations in IDH1 dominantly inhibit IDH1 catalytic activity and induce HIF-1alpha.Science324261265  <ul class="reflinks"><li><a href="#" data-author="Zhao" data-cit="ZhaoSLinYXuWJiangWZhaZ2009Glioma-derived%20mutations%20in%20IDH1%20dominantly%20inhibit%20IDH1%20catalytic%20activity%20and%20induce%20HIF-1alpha.Science324261265" data-title="Glioma-derived%20mutations%20in%20IDH1%20dominantly%20inhibit%20IDH1%20catalytic%20activity%20and%20induce%20HIF-1alpha." target="_new" title="Go to article in CrossRef">
+                      View Article
+                    </a></li><li><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?db=PubMed&amp;cmd=Search&amp;doptcmdl=Citation&amp;defaultField=Title+Word&amp;term=Zhao%5Bauthor%5D+AND+Glioma-derived+mutations+in+IDH1+dominantly+inhibit+IDH1+catalytic+activity+and+induce+HIF-1alpha." target="_new" title="Go to article in PubMed">
+                      PubMed/NCBI
+                    </a></li><li><a href="http://scholar.google.com/scholar_lookup?title=Glioma-derived+mutations+in+IDH1+dominantly+inhibit+IDH1+catalytic+activity+and+induce+HIF-1alpha.&amp;author=Zhao&amp;publication_year=2009" target="_new" title="Go to article in Google Scholar">
+                      Google Scholar
+                    </a></li></ul></li><li id="ref14"><span class="order">14.
+            </span><a name="pone.0016812-Bleeker1" id="pone.0016812-Bleeker1" class="link-target"></a>Bleeker FE, Atai NA, Lamba S, Jonker A, Rijkeboer D, et al.  (2010) The prognostic IDH1 (R132) mutation is associated with reduced NADP (+)-dependent IDH activity in glioblastoma. Acta Neuropathol  119: 487–494.FE BleekerNA AtaiS. LambaA. JonkerD. Rijkeboer2010The prognostic IDH1 (R132) mutation is associated with reduced NADP (+)-dependent IDH activity in glioblastoma.Acta Neuropathol119487494  <ul class="reflinks"><li><a href="#" data-author="Bleeker" data-cit="BleekerFEAtaiNALambaSJonkerARijkeboerD2010The%20prognostic%20IDH1%20%28R132%29%20mutation%20is%20associated%20with%20reduced%20NADP%20%28%2B%29-dependent%20IDH%20activity%20in%20glioblastoma.Acta%20Neuropathol119487494" data-title="The%20prognostic%20IDH1%20%28R132%29%20mutation%20is%20associated%20with%20reduced%20NADP%20%28%2B%29-dependent%20IDH%20activity%20in%20glioblastoma." target="_new" title="Go to article in CrossRef">
+                      View Article
+                    </a></li><li><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?db=PubMed&amp;cmd=Search&amp;doptcmdl=Citation&amp;defaultField=Title+Word&amp;term=Bleeker%5Bauthor%5D+AND+The+prognostic+IDH1+%28R132%29+mutation+is+associated+with+reduced+NADP+%28%2B%29-dependent+IDH+activity+in+glioblastoma." target="_new" title="Go to article in PubMed">
+                      PubMed/NCBI
+                    </a></li><li><a href="http://scholar.google.com/scholar_lookup?title=The+prognostic+IDH1+%28R132%29+mutation+is+associated+with+reduced+NADP+%28%2B%29-dependent+IDH+activity+in+glioblastoma.&amp;author=Bleeker&amp;publication_year=2010" target="_new" title="Go to article in Google Scholar">
+                      Google Scholar
+                    </a></li></ul></li><li id="ref15"><span class="order">15.
+            </span><a name="pone.0016812-Dang1" id="pone.0016812-Dang1" class="link-target"></a>Dang L, White DW, Gross S, Bennett BD, Bittinger MA, et al.  (2009) Cancer-associated IDH1 mutations produce 2-hydroxyglutarate. Nature  462: 739–744.L. DangDW WhiteS. GrossBD BennettMA Bittinger2009Cancer-associated IDH1 mutations produce 2-hydroxyglutarate.Nature462739744  <ul class="reflinks"><li><a href="#" data-author="Dang" data-cit="DangLWhiteDWGrossSBennettBDBittingerMA2009Cancer-associated%20IDH1%20mutations%20produce%202-hydroxyglutarate.Nature462739744" data-title="Cancer-associated%20IDH1%20mutations%20produce%202-hydroxyglutarate." target="_new" title="Go to article in CrossRef">
+                      View Article
+                    </a></li><li><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?db=PubMed&amp;cmd=Search&amp;doptcmdl=Citation&amp;defaultField=Title+Word&amp;term=Dang%5Bauthor%5D+AND+Cancer-associated+IDH1+mutations+produce+2-hydroxyglutarate." target="_new" title="Go to article in PubMed">
+                      PubMed/NCBI
+                    </a></li><li><a href="http://scholar.google.com/scholar_lookup?title=Cancer-associated+IDH1+mutations+produce+2-hydroxyglutarate.&amp;author=Dang&amp;publication_year=2009" target="_new" title="Go to article in Google Scholar">
+                      Google Scholar
+                    </a></li></ul></li><li id="ref16"><span class="order">16.
+            </span><a name="pone.0016812-Albe1" id="pone.0016812-Albe1" class="link-target"></a>Albe KR, Butler MH, Wright BE (1990) Cellular concentrations of enzymes and their substrates. J Theor Biol  143: 163–195.KR AlbeMH ButlerBE Wright1990Cellular concentrations of enzymes and their substrates.J Theor Biol143163195  <ul class="reflinks"><li><a href="#" data-author="Albe" data-cit="AlbeKRButlerMHWrightBE1990Cellular%20concentrations%20of%20enzymes%20and%20their%20substrates.J%20Theor%20Biol143163195" data-title="Cellular%20concentrations%20of%20enzymes%20and%20their%20substrates." target="_new" title="Go to article in CrossRef">
+                      View Article
+                    </a></li><li><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?db=PubMed&amp;cmd=Search&amp;doptcmdl=Citation&amp;defaultField=Title+Word&amp;term=Albe%5Bauthor%5D+AND+Cellular+concentrations+of+enzymes+and+their+substrates." target="_new" title="Go to article in PubMed">
+                      PubMed/NCBI
+                    </a></li><li><a href="http://scholar.google.com/scholar_lookup?title=Cellular+concentrations+of+enzymes+and+their+substrates.&amp;author=Albe&amp;publication_year=1990" target="_new" title="Go to article in Google Scholar">
+                      Google Scholar
+                    </a></li></ul></li><li id="ref17"><span class="order">17.
+            </span><a name="pone.0016812-Struys1" id="pone.0016812-Struys1" class="link-target"></a>Struys EA, Jansen EE, Verhoeven NM, Jakobs C (2004) Measurement of urinary D- and L-2-hydroxyglutarate enantiomers by stable-isotope-dilution liquid chromatography-tandem mass spectrometry after derivatization with diacetyl-L-tartaric anhydride. Clin Chem  50: 1391–1395.EA StruysEE JansenNM VerhoevenC. Jakobs2004Measurement of urinary D- and L-2-hydroxyglutarate enantiomers by stable-isotope-dilution liquid chromatography-tandem mass spectrometry after derivatization with diacetyl-L-tartaric anhydride.Clin Chem5013911395  <ul class="reflinks"><li><a href="#" data-author="Struys" data-cit="StruysEAJansenEEVerhoevenNMJakobsC2004Measurement%20of%20urinary%20D-%20and%20L-2-hydroxyglutarate%20enantiomers%20by%20stable-isotope-dilution%20liquid%20chromatography-tandem%20mass%20spectrometry%20after%20derivatization%20with%20diacetyl-L-tartaric%20anhydride.Clin%20Chem5013911395" data-title="Measurement%20of%20urinary%20D-%20and%20L-2-hydroxyglutarate%20enantiomers%20by%20stable-isotope-dilution%20liquid%20chromatography-tandem%20mass%20spectrometry%20after%20derivatization%20with%20diacetyl-L-tartaric%20anhydride." target="_new" title="Go to article in CrossRef">
+                      View Article
+                    </a></li><li><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?db=PubMed&amp;cmd=Search&amp;doptcmdl=Citation&amp;defaultField=Title+Word&amp;term=Struys%5Bauthor%5D+AND+Measurement+of+urinary+D-+and+L-2-hydroxyglutarate+enantiomers+by+stable-isotope-dilution+liquid+chromatography-tandem+mass+spectrometry+after+derivatization+with+diacetyl-L-tartaric+anhydride." target="_new" title="Go to article in PubMed">
+                      PubMed/NCBI
+                    </a></li><li><a href="http://scholar.google.com/scholar_lookup?title=Measurement+of+urinary+D-+and+L-2-hydroxyglutarate+enantiomers+by+stable-isotope-dilution+liquid+chromatography-tandem+mass+spectrometry+after+derivatization+with+diacetyl-L-tartaric+anhydride.&amp;author=Struys&amp;publication_year=2004" target="_new" title="Go to article in Google Scholar">
+                      Google Scholar
+                    </a></li></ul></li><li id="ref18"><span class="order">18.
+            </span><a name="pone.0016812-Verhaak1" id="pone.0016812-Verhaak1" class="link-target"></a>Verhaak RG, Hoadley KA, Purdom E, Wang V, Qi Y, et al.  (2010) Integrated genomic analysis identifies clinically relevant subtypes of glioblastoma characterized by abnormalities in PDGFRA, IDH1, EGFR, and NF1. Cancer Cell  17: 98–110.RG VerhaakKA HoadleyE. PurdomV. WangY. Qi2010Integrated genomic analysis identifies clinically relevant subtypes of glioblastoma characterized by abnormalities in PDGFRA, IDH1, EGFR, and NF1.Cancer Cell1798110  <ul class="reflinks"><li><a href="#" data-author="Verhaak" data-cit="VerhaakRGHoadleyKAPurdomEWangVQiY2010Integrated%20genomic%20analysis%20identifies%20clinically%20relevant%20subtypes%20of%20glioblastoma%20characterized%20by%20abnormalities%20in%20PDGFRA%2C%20IDH1%2C%20EGFR%2C%20and%20NF1.Cancer%20Cell1798110" data-title="Integrated%20genomic%20analysis%20identifies%20clinically%20relevant%20subtypes%20of%20glioblastoma%20characterized%20by%20abnormalities%20in%20PDGFRA%2C%20IDH1%2C%20EGFR%2C%20and%20NF1." target="_new" title="Go to article in CrossRef">
+                      View Article
+                    </a></li><li><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?db=PubMed&amp;cmd=Search&amp;doptcmdl=Citation&amp;defaultField=Title+Word&amp;term=Verhaak%5Bauthor%5D+AND+Integrated+genomic+analysis+identifies+clinically+relevant+subtypes+of+glioblastoma+characterized+by+abnormalities+in+PDGFRA%2C+IDH1%2C+EGFR%2C+and+NF1." target="_new" title="Go to article in PubMed">
+                      PubMed/NCBI
+                    </a></li><li><a href="http://scholar.google.com/scholar_lookup?title=Integrated+genomic+analysis+identifies+clinically+relevant+subtypes+of+glioblastoma+characterized+by+abnormalities+in+PDGFRA%2C+IDH1%2C+EGFR%2C+and+NF1.&amp;author=Verhaak&amp;publication_year=2010" target="_new" title="Go to article in Google Scholar">
+                      Google Scholar
+                    </a></li></ul></li><li id="ref19"><span class="order">19.
+            </span><a name="pone.0016812-Frezza1" id="pone.0016812-Frezza1" class="link-target"></a>Frezza C, Tennant DA, Gottlieb E (2010) IDH1 mutations in gliomas: when an enzyme loses its grip. Cancer Cell  17: 7–9.C. FrezzaDA TennantE. Gottlieb2010IDH1 mutations in gliomas: when an enzyme loses its grip.Cancer Cell1779  <ul class="reflinks"><li><a href="#" data-author="Frezza" data-cit="FrezzaCTennantDAGottliebE2010IDH1%20mutations%20in%20gliomas%3A%20when%20an%20enzyme%20loses%20its%20grip.Cancer%20Cell1779" data-title="IDH1%20mutations%20in%20gliomas%3A%20when%20an%20enzyme%20loses%20its%20grip." target="_new" title="Go to article in CrossRef">
+                      View Article
+                    </a></li><li><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?db=PubMed&amp;cmd=Search&amp;doptcmdl=Citation&amp;defaultField=Title+Word&amp;term=Frezza%5Bauthor%5D+AND+IDH1+mutations+in+gliomas%3A+when+an+enzyme+loses+its+grip." target="_new" title="Go to article in PubMed">
+                      PubMed/NCBI
+                    </a></li><li><a href="http://scholar.google.com/scholar_lookup?title=IDH1+mutations+in+gliomas%3A+when+an+enzyme+loses+its+grip.&amp;author=Frezza&amp;publication_year=2010" target="_new" title="Go to article in Google Scholar">
+                      Google Scholar
+                    </a></li></ul></li><li id="ref20"><span class="order">20.
+            </span><a name="pone.0016812-Figueroa1" id="pone.0016812-Figueroa1" class="link-target"></a>Figueroa ME, Abdel-Wahab O, Lu C, Ward PS, Patel J, et al.  (2010) Leukemic IDH1 and IDH2 Mutations Result in a Hypermethylation Phenotype, Disrupt TET2 Function, and Impair Hematopoietic Differentiation. Cancer Cell  18: 553–567.ME FigueroaO. Abdel-WahabC. LuPS WardJ. Patel2010Leukemic IDH1 and IDH2 Mutations Result in a Hypermethylation Phenotype, Disrupt TET2 Function, and Impair Hematopoietic Differentiation.Cancer Cell18553567  <ul class="reflinks"><li><a href="#" data-author="Figueroa" data-cit="FigueroaMEAbdel-WahabOLuCWardPSPatelJ2010Leukemic%20IDH1%20and%20IDH2%20Mutations%20Result%20in%20a%20Hypermethylation%20Phenotype%2C%20Disrupt%20TET2%20Function%2C%20and%20Impair%20Hematopoietic%20Differentiation.Cancer%20Cell18553567" data-title="Leukemic%20IDH1%20and%20IDH2%20Mutations%20Result%20in%20a%20Hypermethylation%20Phenotype%2C%20Disrupt%20TET2%20Function%2C%20and%20Impair%20Hematopoietic%20Differentiation." target="_new" title="Go to article in CrossRef">
+                      View Article
+                    </a></li><li><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?db=PubMed&amp;cmd=Search&amp;doptcmdl=Citation&amp;defaultField=Title+Word&amp;term=Figueroa%5Bauthor%5D+AND+Leukemic+IDH1+and+IDH2+Mutations+Result+in+a+Hypermethylation+Phenotype%2C+Disrupt+TET2+Function%2C+and+Impair+Hematopoietic+Differentiation." target="_new" title="Go to article in PubMed">
+                      PubMed/NCBI
+                    </a></li><li><a href="http://scholar.google.com/scholar_lookup?title=Leukemic+IDH1+and+IDH2+Mutations+Result+in+a+Hypermethylation+Phenotype%2C+Disrupt+TET2+Function%2C+and+Impair+Hematopoietic+Differentiation.&amp;author=Figueroa&amp;publication_year=2010" target="_new" title="Go to article in Google Scholar">
+                      Google Scholar
+                    </a></li></ul></li><li id="ref21"><span class="order">21.
+            </span><a name="pone.0016812-Post1" id="pone.0016812-Post1" class="link-target"></a>Post GR, Dawson G (1992) Characterization of a cell line derived from a human oligodendroglioma. Mol Chem Neuropathol  16: 303–317.GR PostG. Dawson1992Characterization of a cell line derived from a human oligodendroglioma.Mol Chem Neuropathol16303317  <ul class="reflinks"><li><a href="#" data-author="Post" data-cit="PostGRDawsonG1992Characterization%20of%20a%20cell%20line%20derived%20from%20a%20human%20oligodendroglioma.Mol%20Chem%20Neuropathol16303317" data-title="Characterization%20of%20a%20cell%20line%20derived%20from%20a%20human%20oligodendroglioma." target="_new" title="Go to article in CrossRef">
+                      View Article
+                    </a></li><li><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?db=PubMed&amp;cmd=Search&amp;doptcmdl=Citation&amp;defaultField=Title+Word&amp;term=Post%5Bauthor%5D+AND+Characterization+of+a+cell+line+derived+from+a+human+oligodendroglioma." target="_new" title="Go to article in PubMed">
+                      PubMed/NCBI
+                    </a></li><li><a href="http://scholar.google.com/scholar_lookup?title=Characterization+of+a+cell+line+derived+from+a+human+oligodendroglioma.&amp;author=Post&amp;publication_year=1992" target="_new" title="Go to article in Google Scholar">
+                      Google Scholar
+                    </a></li></ul></li></ol></div>
+
+
+
+          <div class="ref-tooltip">
+             <div class="ref_tooltip-content">
+
+             </div>
+          </div>
+
+        </div>
+      </div>
+    </div>
+
+    </section>
+    <aside class="article-aside">
+
+
+<!--[if IE 9]>
+<style>
+.dload-xml {margin-top: 38px}
+</style>
+<![endif]-->
+<div class="dload-menu">
+  <div class="dload-pdf">
+    <a href="/plosone/article/file?id=10.1371/journal.pone.0016812&type=printable"
+       id="downloadPdf" target="_blank">Download PDF</a>
+  </div>
+  <div data-js-tooltip-hover="trigger" class="dload-hover">&nbsp;
+    <ul class="dload-xml" data-js-tooltip-hover="target">
+      <li><a href="/plosone/article/citation?id=10.1371/journal.pone.0016812"
+             id="downloadCitation">Citation</a></li>
+      <li><a href="/plosone/article/file?id=10.1371/journal.pone.0016812&type=manuscript"
+             id="downloadXml">XML</a>
+      </li>
+    </ul>
+
+  </div>
+</div>
+
+<div class="aside-container">
+
+<div class="print-article" id="printArticle" data-js-tooltip-hover="trigger">
+
+  Print
+  <ul class="print-options" data-js-tooltip-hover="target">
+    <li>
+        <a href="#" onclick="window.print(); return false;" class="preventDefault" id="printBrowser" title="Print
+        Article">Print article</a>
+    </li>
+
+
+
+
+<li>
+<a title="Odyssey Press" href="https://www.odysseypress.com/onlinehost/reprint_order.php?type=A&amp;page=0&amp;journal=7&amp;doi=10.1371%2Fjournal.pone.0016812&amp;volume=&amp;issue=&amp;title=2-Hydroxyglutarate%20Production%2C%20but%20Not%20Dominant%20Negative%20Function%2C%20Is%20Conferred%20by%20Glioma-Derived%20NADP%2B-Dependent%20Isocitrate%20Dehydrogenase%20Mutations&amp;author_name=Genglin%20Jin%2C%20Zachary%20J.%20Reitman%2C%20Ivan%20Spasojevic%2C%20Ines%20Batinic-Haberle%2C%20Jian%20Yang%2C%20Oleg%20Schmidt-Kittler%2C%20Darell%20D.%20Bigner%2C%20Hai%20Yan&amp;start_page=1&amp;end_page=8">EzReprint  </a>
+</li>
+
+  </ul>
+</div>
+
+<div class="share-article" id="shareArticle" data-js-tooltip-hover="trigger">
+  Share
+  <ul data-js-tooltip-hover="target" class="share-options">
+
+    <li><a href="http://www.reddit.com/submit?url=http%3A%2F%2Fdx.plos.org%2F10.1371%2Fjournal.pone.0016812" id="shareReddit" target="_blank" title="Submit to Reddit"><img src="/plosone/resource/img/icon.reddit.16.png" width="16" height="16" alt="Reddit">Reddit</a></li>
+
+    <li><a href="https://plus.google.com/share?url=http%3A%2F%2Fdx.plos.org%2F10.1371%2Fjournal.pone.0016812" id="shareGoogle" target="_blank" title="Share on Google+"><img src="/plosone/resource/img/icon.gplus.16.png" width="16" height="16" alt="Google+">Google+</a></li>
+
+    <li><a href="http://www.stumbleupon.com/submit?url=http%3A%2F%2Fdx.plos.org%2F10.1371%2Fjournal.pone.0016812"  id="shareStumble" target="_blank" title="Add to StumbleUpon"><img src="/plosone/resource/img/icon.stumble.16.png" width="16" height="16" alt="StumbleUpon">StumbleUpon</a></li>
+
+    <li><a href="http://www.facebook.com/share.php?u=http%3A%2F%2Fdx.plos.org%2F10.1371%2Fjournal.pone.0016812&t=2-Hydroxyglutarate Production, but Not Dominant Negative Function, Is Conferred by Glioma-Derived NADP+-Dependent Isocitrate Dehydrogenase Mutations" id="shareFacebook" target="_blank" title="Share on Facebook"><img src="/plosone/resource/img/icon.fb.16.png" width="16" height="16" alt="Facebook">Facebook</a></li>
+
+
+
+<li><a href="http://www.linkedin.com/shareArticle?url=http%3A%2F%2Fdx.plos.org%2F10.1371%2Fjournal.pone.0016812&title=2-Hydroxyglutarate Production, but Not Dominant Negative Function, Is Conferred by Glioma-Derived NADP+-Dependent Isocitrate Dehydrogenase Mutations&summary=Checkout this article I found at PLOS"  id="shareLinkedIn" target="_blank" title="Add to LinkedIn"><img src="/plosone/resource/img/icon.linkedin.16.png" width="16" height="16" alt="LinkedIn">LinkedIn</a></li>
+
+<li><a href="http://www.citeulike.org/posturl?url=http%3A%2F%2Fdx.plos.org%2F10.1371%2Fjournal.pone.0016812&title=2-Hydroxyglutarate Production, but Not Dominant Negative Function, Is Conferred by Glioma-Derived NADP+-Dependent Isocitrate Dehydrogenase Mutations"  id="shareCiteULike" target="_blank" title="Add to CiteULike"><img src="/plosone/resource/img/icon.cul.16.png" width="16" height="16" alt="CiteULike">CiteULike</a></li>
+
+<li><a href="http://www.mendeley.com/import/?url=http%3A%2F%2Fdx.plos.org%2F10.1371%2Fjournal.pone.0016812"  id="shareMendeley" target="_blank" title="Add to Mendeley"><img src="/plosone/resource/img/icon.mendeley.16.png" width="16" height="16" alt="Mendeley">Mendeley</a></li>
+
+<li><a href="https://www.pubchase.com/library?add_aid=10.1371/journal.pone.0016812&source=plos"  id="sharePubChase" target="_blank" title="Add to PubChase"><img src="/plosone/resource/img/icon.pc.16.png" width="16" height="16" alt="PubChase">PubChase</a></li>
+
+  <li><a href="http://twitter.com/intent/tweet?url=http%3A%2F%2Fdx.plos.org%2F10.1371%2Fjournal.pone.0016812&text=%23PLOSONE%3A%202-Hydroxyglutarate Production, but Not Dominant Negative Function, Is Conferred by Glioma-Derived NADP+-Dependent Isocitrate Dehydrogenase Mutations" target="_blank" title="share on Twitter" id="twitter-share-link"><img src="/plosone/resource/img/icon.twtr.16.png" width="16" height="16" alt="Twitter">Twitter</a></li>
+
+<li><a href="/plosone/article/email?id=10.1371/journal.pone.0016812" id="shareEmail" title="Email this article"><img src="/plosone/resource/img/icon.email.16.png" width="16" height="16" alt="Email">Email</a></li>
+
+  </ul>
+</div></div>
+
+
+ <!-- Crossmark 2.0 widget -->
+<script src="https://crossmark-cdn.crossref.org/widget/v2.0/widget.js"></script>
+<a data-target="crossmark"><img width="150" src="http://crossmark-cdn.crossref.org/widget/v2.0/logos/CROSSMARK_BW_horizontal.svg"></a>
+<!-- End Crossmark 2.0 widget -->
+
+
+
+
+
+
+
+<div class="skyscraper-container">
+  <div class="title">Advertisement</div>
+<!-- DoubleClick Ad Zone -->
+  <div class='advertisement' id='div-gpt-ad-1458247671871-1' style='width:160px; height:600px;'>
+    <script type='text/javascript'>
+      googletag.cmd.push(function() { googletag.display('div-gpt-ad-1458247671871-1'); });
+    </script>
+  </div>
+</div>
+
+
+
+
+<div class="subject-areas-container">
+  <h3>Subject Areas <div id="subjInfo">?</div>
+    <div id="subjInfoText">
+        <p>For more information about PLOS Subject Areas, click
+          <a href="/plosone/s/help-using-this-site#loc-subject-areas">here</a>.</p>
+      <span class="inline-intro">We want your feedback.</span> Do these Subject Areas make sense for this article? Click the target next to the incorrect Subject Area and let us know. Thanks for your help!
+
+
+    </div>
+  </h3>
+  <ul id="subjectList">
+      <li>
+              <a class="taxo-term" title="Search for articles about Glioma"
+                 href="/plosone/search?filterSubjects=Glioma&filterJournals=PLoSONE&q=">Glioma</a>
+        <span class="taxo-flag">&nbsp;</span>
+        <div class="taxo-tooltip" data-categoryname="Glioma"><p class="taxo-explain">Is the Subject Area <strong>"Glioma"</strong> applicable to this article?
+          <button id="noFlag" data-action="remove">Yes</button>
+          <button id="flagIt" value="flagno" data-action="add">No</button></p>
+          <p class="taxo-confirm">Thanks for your feedback.</p>
+        </div>
+      </li>
+      <li>
+              <a class="taxo-term" title="Search for articles about Point mutation"
+                 href="/plosone/search?filterSubjects=Point+mutation&filterJournals=PLoSONE&q=">Point mutation</a>
+        <span class="taxo-flag">&nbsp;</span>
+        <div class="taxo-tooltip" data-categoryname="Point mutation"><p class="taxo-explain">Is the Subject Area <strong>"Point mutation"</strong> applicable to this article?
+          <button id="noFlag" data-action="remove">Yes</button>
+          <button id="flagIt" value="flagno" data-action="add">No</button></p>
+          <p class="taxo-confirm">Thanks for your feedback.</p>
+        </div>
+      </li>
+      <li>
+              <a class="taxo-term" title="Search for articles about Pathogenesis"
+                 href="/plosone/search?filterSubjects=Pathogenesis&filterJournals=PLoSONE&q=">Pathogenesis</a>
+        <span class="taxo-flag">&nbsp;</span>
+        <div class="taxo-tooltip" data-categoryname="Pathogenesis"><p class="taxo-explain">Is the Subject Area <strong>"Pathogenesis"</strong> applicable to this article?
+          <button id="noFlag" data-action="remove">Yes</button>
+          <button id="flagIt" value="flagno" data-action="add">No</button></p>
+          <p class="taxo-confirm">Thanks for your feedback.</p>
+        </div>
+      </li>
+      <li>
+              <a class="taxo-term" title="Search for articles about Glioma cells"
+                 href="/plosone/search?filterSubjects=Glioma+cells&filterJournals=PLoSONE&q=">Glioma cells</a>
+        <span class="taxo-flag">&nbsp;</span>
+        <div class="taxo-tooltip" data-categoryname="Glioma cells"><p class="taxo-explain">Is the Subject Area <strong>"Glioma cells"</strong> applicable to this article?
+          <button id="noFlag" data-action="remove">Yes</button>
+          <button id="flagIt" value="flagno" data-action="add">No</button></p>
+          <p class="taxo-confirm">Thanks for your feedback.</p>
+        </div>
+      </li>
+      <li>
+              <a class="taxo-term" title="Search for articles about Substitution mutation"
+                 href="/plosone/search?filterSubjects=Substitution+mutation&filterJournals=PLoSONE&q=">Substitution mutation</a>
+        <span class="taxo-flag">&nbsp;</span>
+        <div class="taxo-tooltip" data-categoryname="Substitution mutation"><p class="taxo-explain">Is the Subject Area <strong>"Substitution mutation"</strong> applicable to this article?
+          <button id="noFlag" data-action="remove">Yes</button>
+          <button id="flagIt" value="flagno" data-action="add">No</button></p>
+          <p class="taxo-confirm">Thanks for your feedback.</p>
+        </div>
+      </li>
+      <li>
+              <a class="taxo-term" title="Search for articles about Transfection"
+                 href="/plosone/search?filterSubjects=Transfection&filterJournals=PLoSONE&q=">Transfection</a>
+        <span class="taxo-flag">&nbsp;</span>
+        <div class="taxo-tooltip" data-categoryname="Transfection"><p class="taxo-explain">Is the Subject Area <strong>"Transfection"</strong> applicable to this article?
+          <button id="noFlag" data-action="remove">Yes</button>
+          <button id="flagIt" value="flagno" data-action="add">No</button></p>
+          <p class="taxo-confirm">Thanks for your feedback.</p>
+        </div>
+      </li>
+      <li>
+              <a class="taxo-term" title="Search for articles about 293T cells"
+                 href="/plosone/search?filterSubjects=293T+cells&filterJournals=PLoSONE&q=">293T cells</a>
+        <span class="taxo-flag">&nbsp;</span>
+        <div class="taxo-tooltip" data-categoryname="293T cells"><p class="taxo-explain">Is the Subject Area <strong>"293T cells"</strong> applicable to this article?
+          <button id="noFlag" data-action="remove">Yes</button>
+          <button id="flagIt" value="flagno" data-action="add">No</button></p>
+          <p class="taxo-confirm">Thanks for your feedback.</p>
+        </div>
+      </li>
+      <li>
+              <a class="taxo-term" title="Search for articles about Immunoprecipitation"
+                 href="/plosone/search?filterSubjects=Immunoprecipitation&filterJournals=PLoSONE&q=">Immunoprecipitation</a>
+        <span class="taxo-flag">&nbsp;</span>
+        <div class="taxo-tooltip" data-categoryname="Immunoprecipitation"><p class="taxo-explain">Is the Subject Area <strong>"Immunoprecipitation"</strong> applicable to this article?
+          <button id="noFlag" data-action="remove">Yes</button>
+          <button id="flagIt" value="flagno" data-action="add">No</button></p>
+          <p class="taxo-confirm">Thanks for your feedback.</p>
+        </div>
+      </li>
+  </ul>
+</div>
+<div id="subjectErrors"></div>
+
+
+<div class="twitter-container">
+  <h3>Archived Tweets</h3>
+  <ul id="tweetList">
+
+  </ul>
+  <div class="load-more">Load more <span></span></div>
+  <div class="view-all"><a href="http://alm.plos.org/works/doi.org/10.1371/journal.pone.0016812?source_id=twitter">View all tweets</a>
+  </div>
+</div>
+
+<script type="text/template" id="twitterModuleItemTemplate">
+  <% _.each(items, function(item) { %>
+    <li>
+      <div class="tweet-info">
+        <a href="http://twitter.com/<%= item.user %>">
+          <span class="imgholder">
+            <img class="imgLoad" src="<%= item.user_profile_image %>">
+          </span>
+          <div class="tweetDate"><%= item.created_at %></div>
+          <div class="tweetUser">
+            <strong><%= item.user_name %></strong>
+            <span>@<%= item.user %></span>
+          </div>
+        </a>
+      </div>
+      <div class="tweetText">
+        <%= item.text %>
+      </div>
+      <div id="tweetActions">
+        <a class="tweet-reply" href="https://twitter.com/intent/tweet?in_reply_to<%= item.id %>&amp;text=@<%= item.user %>">
+          <div>&nbsp;</div> Reply
+        </a>
+        <a class="tweet-retweet" href="https://twitter.com/intent/retweet?tweet_id=<%= item.id %>">
+          <div>&nbsp;</div> Retweet
+        </a>
+        <a class="tweet-favorite" href="https://twitter.com/intent/favorite?tweet_id=<%= item.id %>">
+          <div>&nbsp;</div> Favorite
+        </a>
+      </div>
+    </li>
+  <% }); %>
+</script>
+
+    </aside>
+  </div>
+
+
+
+
+</main>
+
+<footer id="pageftr">
+  <div class="row">
+    <div class="brand-column">
+
+      <img src="/plosone/resource/img/logo-plos-footer.png" alt="PLOS" class="logo-footer"/>
+      <p class="nav-special">
+
+&nbsp;
+<!--
+  Webapp build:  3.3.5 at 20170725 by teamcity, commit: 
+  Service build: 2.2.3 at 20170626 by teamcity, commit: 
+  Enabled dev features: []
+  -->
+      </p>
+
+<ul class="nav-aux">
+  <li><a href="https://www.plos.org/privacy-policy" id="ftr-privacy">Privacy Policy</a></li>
+  <li><a href="https://www.plos.org/terms-of-use" id="ftr-terms">Terms of Use</a></li>
+  <li><a href="https://www.plos.org/advertise/" id="ftr-advertise">Advertise</a></li>
+  <li><a href="https://www.plos.org/media-inquiries" id="ftr-media">Media Inquiries</a></li>
+</ul>
+    </div>
+    <div class="link-column">
+
+<p class="nav-special"><a href="https://www.plos.org/publications/journals/">Publications</a></p>
+
+<div class="nav">
+  <ul>
+    <li><a href="/plosbiology/" id="ftr-bio">PLOS Biology</a></li>
+    <li><a href="/plosmedicine/" id="ftr-med">PLOS Medicine</a></li>
+    <li><a href="/ploscompbiol/" id="ftr-compbio">PLOS Computational Biology</a></li>
+    <li><a href="http://currents.plos.org" id="ftr-cur">PLOS Currents</a></li>
+    <li><a href="/plosgenetics/" id="ftr-gen">PLOS Genetics</a></li>
+    <li><a href="/plospathogens/" id="ftr-path">PLOS Pathogens</a></li>
+    <li><a href="/plosone/" id="ftr-one">PLOS ONE</a></li>
+    <li><a href="/plosntds/" id="ftr-ntds">PLOS Neglected Tropical Diseases</a></li>
+  </ul>
+</div>
+    </div>
+    <div class="link-column">
+
+<div class="nav nav-special">
+  <p><a href="https://www.plos.org" id="ftr-home">plos.org</a></p>
+
+  <p><a href="http://blogs.plos.org" id="ftr-blog">Blogs</a></p>
+
+  <p><a href="http://collections.plos.org" id="ftr-collections">Collections</a></p>
+
+  <p><a href="/plosone/feedback" id="ftr-feedback">Send us feedback</a></p>
+  <p><a href="/plosone/s/help-using-this-site"
+        id="ftr-help">Help using this site</a></p>
+  <p><a href="/plosone/lockss-manifest" id="ftr-lockss">LOCKSS</a></p>
+
+<p class="footer-non-profit-statement">PLOS is a nonprofit 501(c)(3) corporation, #C2354500, and is based in San Francisco, California, US</p></div>    </div>
+  </div>
+
+
+</footer>
+
+
+
+
+<script type="text/javascript">
+  var ArticleData = {
+    doi: '10.1371/journal.pone.0016812',
+    title: '<article-title xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" xmlns:xlink=\"http://www.w3.org/1999/xlink\">2-Hydroxyglutarate Production, but Not Dominant Negative Function, Is Conferred by Glioma-Derived NADP<sup>+<\/sup>-Dependent Isocitrate Dehydrogenase Mutations<\/article-title>',
+    date: 'Feb 04, 2011'
+  };
+</script>
+
+
+
+
+
+
+
+<script type="text/javascript" async src="//platform.twitter.com/widgets.js"></script>
+
+
+
+
+
+<!-- This file should be loaded before the renderJs, to avoid conflicts with the FigShare, that implements the MathJax also. -->
+
+<!--  mathjax configuration options  -->
+<!-- more can be found at http://docs.mathjax.org/en/latest/ -->
+<script type="text/x-mathjax-config">
+MathJax.Hub.Config({
+  "HTML-CSS": {
+    scale: 100,
+    availableFonts: ["STIX","TeX"],
+    preferredFont: "STIX",
+    webFont: "STIX-Web",
+    linebreaks: { automatic: false }
+  },
+  jax: ["input/MathML", "output/HTML-CSS"]
+});
+</script>
+
+<script type="text/javascript" src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=MML_HTMLorMML"></script>
+
+<script src="/plosone/resource/compiled/asset_V4KEKJMAKU34D33A4HSQGT4JUZQJDCQS.js"></script>
+<div class="reveal-modal-bg"></div>
+</body>
+</html>

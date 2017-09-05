@@ -1,0 +1,1015 @@
+
+	
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+		
+
+			
+		
+				
+				
+				
+								
+																																																																																														
+																																	
+																						
+																																
+							
+
+
+
+
+
+
+
+
+
+
+								
+  						
+								
+	
+
+
+	
+
+
+
+
+
+
+
+	
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+<head>
+	<!-- super head top -->
+
+	<title>Cell Death and Disease - D-2-Hydroxyglutarate does not mimic all the IDH mutation effects, in particular the reduced etoposide-triggered apoptosis mediated by an alteration in mitochondrial NADH</title><!--Cell Death and Disease-->
+<!-- metadata and links -->
+
+	<meta name="robots" content="noarchive" />
+	
+	                
+	
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        
+               
+      
+
+
+
+
+
+
+
+
+
+
+        
+                
+
+
+ 
+
+
+
+
+
+									
+
+
+
+
+
+	
+				
+  
+
+
+
+
+	
+				
+         
+        
+  
+
+ 
+
+ 
+
+
+ 
+ 
+
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+<meta http-equiv="Content-Style-Type" content="text/css" />
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+
+<meta name="keywords" content="cancer, immunity, neurodegeneration, apoptosis, cell death, cell growth, Stem Cell, Signaling, Autophagy, Wallerian Degeneration, Cornification, Keratinization, Toxicity, Transcription" />
+<meta name="description" content="Brought to you by the editorial team of Cell Death and Differentiation, Cell Death and Disease is a peer-reviewed author-pays online journal in the field of translational cell death. It seeks to promote diverse and integrated areas of Experimental and Internal Medicine with its specialties, including Cancer, Immunity and Neuroscience." />
+
+<link rel="shortcut icon" href="http://www.nature.com/favicon.ico" />
+<link rel="home" href="/CSS_template/" title="home" />
+<link rel="copyright" href="/aj/copyright/" title="copyright" />
+<link rel="help" title="help" href="/common/accessibility_statement.html" />
+
+
+<!-- end metadata and links -->
+<!-- style -->
+
+																																																
+	<link rel="stylesheet" type="text/css" href="/common/includes/header/03/style/header.css" />	<link rel="stylesheet" type="text/css" href="/common/includes/footer/03/style/footer.css" />
+		    <link rel="stylesheet" type="text/css" href="/common/style/global.comments.css" />
+		    <link rel="stylesheet" type="text/css" href="//www.nature.com/common/style/global.mobile.css" />
+		    <link rel="stylesheet" type="text/css" href="/common/style/global.message.css" />
+		    <link rel="stylesheet" type="text/css" href="/common/style/layout.css" />
+		    <link rel="stylesheet" type="text/css" href="/common/style/layout_wide_banner.css" />
+		    <link rel="stylesheet" type="text/css" href="/common/style/main.css" />
+		    <link rel="stylesheet" type="text/css" href="/common/style/header_footer_smallfonts.css" />
+		    <link rel="stylesheet" type="text/css" href="/aj/style/group.css" />
+		    <link rel="stylesheet" type="text/css" href="/cddis/style/site.css" />
+	<style type="text/css" media="screen, projection, print"><!--/*--><![CDATA[/*><!--*/
+
+	
+	 		@import "/common/style/restrict_width/966px.css";
+					
+
+			#hdr .login-nav {background-image: url(/cddis/images/journal_header_v3.jpg);}
+		
+				
+/* end hide from mac ie */
+/*]]>*/--></style>
+
+<link rel="stylesheet" type="text/css" href="/common/style/print.css" media="print" title="Print Stylesheet" />
+
+<script type="text/javascript"><!--//--><![CDATA[//><!--
+	(function() {
+		var elements = [];
+					elements.push('.nojava');
+				var c = elements.join(', ') + ' { display: none; } ';
+		var s = document.createElement('style');
+		s.type = 'text/css';
+		if (s.styleSheet) {
+			s.styleSheet.cssText = c;
+		} else {
+			s.appendChild(document.createTextNode(c));
+		}
+
+		(function() {
+			var head = document.getElementsByTagName('head');
+			if (head && head[0]) {
+				head[0].appendChild(s);
+			} else {
+				setTimeout(arguments.callee, 10);
+			}
+		})();
+	})();
+//--><!]]></script>
+
+
+
+
+
+
+
+
+
+																																																																																																												
+																					
+																																																																																																												
+																									<!--[if IE 8]>
+																<link rel="stylesheet" type="text/css" href="/common/style/ie-specific/ie-8.css" />
+								<![endif]-->
+	
+																																																																																						<!--[if lte IE 7]>
+														<link rel="stylesheet" type="text/css" href="/common/includes/header/03/style/ie-specific/lte-ie-7.css" />
+					<link rel="stylesheet" type="text/css" href="/common/style/ie-specific/lte-ie-7.css" />
+					<link rel="stylesheet" type="text/css" href="/aj/style/ie-specific/lte-ie-7.css" />
+						<![endif]-->
+																																							
+																													<!--[if IE 7]>
+																<link rel="stylesheet" type="text/css" href="/common/includes/header/03/style/ie-specific/ie-7.css" />
+					<link rel="stylesheet" type="text/css" href="/common/style/ie-specific/ie-7.css" />
+					<link rel="stylesheet" type="text/css" href="/aj/style/ie-specific/ie-7.css" />
+								<![endif]-->
+	
+																																																																																																												
+																																	<!--[if IE 6]>
+							<script type="text/javascript" src="/common/scripts/ie-specific/ie-6.js"></script>
+																<link rel="stylesheet" type="text/css" href="/common/includes/header/03/style/ie-specific/ie-6.css" />
+					<link rel="stylesheet" type="text/css" href="/common/includes/footer/03/style/ie-specific/ie-6.css" />
+					<link rel="stylesheet" type="text/css" href="/common/style/ie-specific/ie-6.css" />
+					<link rel="stylesheet" type="text/css" href="/aj/style/ie-specific/ie-6.css" />
+					<link rel="stylesheet" type="text/css" href="/cddis/style/ie-specific/ie-6.css" />
+								<![endif]-->
+	
+ 
+<!-- end style -->
+
+	<!-- super head bottom -->
+	<!-- resource metadata -->
+			
+				 																										
+			
+				
+															
+		
+			<link title="schema(PRISM)" rel="schema.prism" href="http://prismstandard.org/namespaces/1.2/basic/" />
+																																																																		<meta name="prism.copyright" content="&#169; 2015 Nature Publishing Group" />
+					<meta name="prism.rightsAgent" content="permissions@nature.com" />
+					<meta name="prism.publicationDate" content="2015-03-01" />
+					<meta name="prism.volume" content="6" />
+					<meta name="prism.number" content="3" />
+					<meta name="prism.section" content="Original Article" />
+					<meta name="prism.startingPage" content="e1704" />
+					<meta name="prism.endingPage" content="" />
+					<meta name="prism.publicationName" content="Cell Death &amp; Disease" />
+					<meta name="prism.issn" content="false" />
+					<meta name="prism.eIssn" content="false" />
+				
+			<link title="schema(DC)" rel="schema.dc" href="http://purl.org/dc/elements/1.1/" />
+																																																																												<meta name="dc.publisher" content="Nature Publishing Group" />
+					<meta name="dc.language" content="en" />
+					<meta name="dc.rights" content="&#169; 2015 Nature Publishing Group" />
+					<meta name="dc.title" content="D-2-Hydroxyglutarate does not mimic all the IDH mutation effects, in particular the reduced etoposide-triggered apoptosis mediated by an alteration in mitochondrial NADH" />
+					<meta name="dc.creator" content="K Oizel" />
+					<meta name="dc.creator" content="C Gratas" />
+					<meta name="dc.creator" content="A Nadaradjane" />
+					<meta name="dc.creator" content="L Oliver" />
+					<meta name="dc.creator" content="F M Vallette" />
+					<meta name="dc.creator" content="C Pecqueur" />
+					<meta name="dc.identifier" content="doi:10.1038/cddis.2015.13" />
+					<meta name="dc.date" content="2015-03-01" />
+					<meta name="dc.source" content="Cell Death &amp; Disease, Published online: 01 March 2015; | doi:10.1038/cddis.2015.13" />
+				
+																																																																																												<meta name="citation_fulltext_world_readable" content="" />
+					<meta name="citation_publisher" content="Nature Publishing Group" />
+					<meta name="citation_author" content="K Oizel" />
+					<meta name="citation_author" content="C Gratas" />
+					<meta name="citation_author" content="A Nadaradjane" />
+					<meta name="citation_author" content="L Oliver" />
+					<meta name="citation_author" content="F M Vallette" />
+					<meta name="citation_author" content="C Pecqueur" />
+					<meta name="citation_title" content="D-2-Hydroxyglutarate does not mimic all the IDH mutation effects, in particular the reduced etoposide-triggered apoptosis mediated by an alteration in mitochondrial NADH" />
+					<meta name="citation_date" content="2015-03-01" />
+					<meta name="citation_online_date" content="2015-03-01" />
+					<meta name="citation_volume" content="6" />
+					<meta name="citation_issue" content="3" />
+					<meta name="citation_firstpage" content="e1704" />
+					<meta name="citation_doi" content="doi:10.1038/cddis.2015.13" />
+					<meta name="citation_journal_title" content="Cell Death &amp; Disease" />
+																																																						<meta name="DCS.dcssip" content="www.nature.com" />
+					<meta name="WT.tz" content="US/Eastern" />
+					<meta name="Access" content="Yes" />
+					<meta name="WT.cg_n" content="Cell Death &amp; Disease" />
+					<meta name="WT.cg_s" content="Original Article" />
+					<meta name="WT.i_dcsvid" content="" />
+					<meta name="WT.ec_id" content="" />
+				
+	<meta name="emanating" content="139X5X240X251" />
+
+
+
+		
+
+		
+
+			
+					<script type="text/javascript" src="//nexus.ensighten.com/npg/Bootstrap.js"></script>
+		
+			</head>
+		<body class="www-nature-com-cddis" id="article">
+	<!-- super body top -->
+	
+	
+	<div id="header">
+	<!-- global links -->
+
+
+																		
+
+
+
+				</div><!-- /#header -->
+		<div id="constrain"><div class="constrain">
+
+<div id="hdr"  class="show-eu-cookie-notice" >
+				<div class="eu-cookie-notice">
+			<div class="cookie-wrapper">
+				<form method="post" action="">
+					<p class="content">
+						<span class="icon"></span>We use cookies to improve your experience with our site.
+						<span class="tools"><button type="submit" name="cookies" value="accepted">Accept and close</button> | <a href="/info/cookies.html">More info</a>.</span>
+					</p>
+				</form>
+			</div>
+		</div>
+				<div class="publications-search" id="top">
+			<div class="publications">
+				<ul>
+														<li class="first jumplink"><a href="#content">Jump&nbsp;to&nbsp;main&nbsp;content</a></li>
+										<li class="jumplink"><a href="#journalnav">Jump&nbsp;to&nbsp;navigation</a></li>
+																		<li class="nature-link"><a href="/">nature.com<span class="hidden"> homepage</span></a></li>
+																	<li class="pub1"><a href="/siteindex/">Publications&nbsp;A-Z&nbsp;index</a></li><li><a href="/browse/">Browse&nbsp;by&nbsp;subject</a></li>								
+																																																																																																																	</ul>
+			</div>	
+		</div>
+	
+	
+	<span class="cleardiv"><!-- --></span>
+
+			<div class="leaderboard-links">
+									
+																																							
+			
+							<div class="user-services">
+																					<ul class="list">
+																						<li class="us-link li1"><a href="/myaccount/">My account</a></li><li class="us-link li2"><a href="http://mts-cddis.nature.com/cgi-bin/main.plex" title="Submit  manuscript">Submit manuscript</a></li>															<li class="us-link li3"><a href="/register/" title="Register with Nature.com">Register</a></li><li class="us-link li4"><a href="/cddis/about/open_access.html" title="Open Access">Open Access</a></li>													</ul>
+																<span class="cleardiv"><!-- --></span>
+								</div>
+						
+							<!-- leaderboard ad -->
+				<div class="leaderboard">
+										<div class="padder">
+												
+
+																				
+
+
+
+
+
+
+
+<script type="text/javascript"><!--//--><![CDATA[//><!--
+	var include = '';
+
+	var wp = '';
+	if (wp != '') include += 'wp='+wp;
+	include += ';';
+
+	var rf = '';
+	if (rf != '') include += "rf="+rf;
+	include += ';';
+
+	var sp = '';
+	if (sp != '') include += "sp="+sp;
+	include += ";";
+
+	var ps = '';
+	if (ps != '') include += "ps="+ps;
+	include += ";";
+
+	var adinf = "lg=no;";
+
+	if(include != ";;;;")
+	{
+		adinf = include;
+	}
+
+	var time = new Date();
+	ordval= (time.getTime());
+
+		ord=Math.random()*10000000000000000;
+//--><!]]></script>
+ 
+																																																																																																																																																				
+						
+																																																		<div class="adunit-leaderboard"> 
+			
+						
+			
+		
+							
+		
+													
+		
+										
+		
+													
+		
+										
+		
+													
+		
+										
+		
+													
+		
+										
+		
+													
+		
+		
+		
+													
+		
+		
+		
+													
+		
+		
+		
+													
+		
+		
+		
+													
+		
+		
+		
+													
+		
+		
+		
+													
+		
+										
+		
+													
+		
+										
+		
+									
+		
+	
+	
+		
+										
+					
+		
+										
+					
+		
+										
+					
+		
+										
+					
+		
+																																																										
+					
+		
+										
+					
+		
+										
+									<div id="div-gpt-ad-1" class="div-gpt-ad adunit-leaderboard" data-gpt-unitpath="/285/cddis.nature.com" data-gpt-sizes="728x90" data-gpt-targeting="type=oa;artid=cddis201513a;issue=3;pos=top;techmeta=13,2,31,109,45,22,23;sz=728x90;tile=1">
+				<noscript>
+					<a href="//pubads.g.doubleclick.net/gampad/jump?iu=/285/cddis.nature.com&amp;sz=728x90&amp;t=type=oa;artid=cddis201513a;issue=3;pos=top;techmeta=13,2,31,109,45,22,23;sz=728x90;tile=1&amp;c=244798653065051">
+						<img src="//pubads.g.doubleclick.net/gampad/ad?iu=/285/cddis.nature.com&amp;sz=728x90&amp;t=type=oa;artid=cddis201513a;issue=3;pos=top;techmeta=13,2,31,109,45,22,23;sz=728x90;tile=1&amp;c=244798653065051" alt="Advertisement" /></a>
+				</noscript>
+			</div>
+
+			</div> 		 
+	 
+	
+			 					</div>
+				</div>
+				<!-- end leaderboard ad -->
+					</div>
+		
+		<span class="cleardiv"><!-- --></span>
+		
+	<div class="login-nav">
+		
+						
+							
+						
+																	<div class="logon">
+					<p><a href="/foxtrot/svc/login" class="login" title="login to Nature.com">Login</a><a class="cart" href="/ecommerce/cart/list.action">Cart</a> 
+					</p>
+									</div>
+													
+														
+		<a href="/cddis/" class="journal-header" title="Cell Death &amp; Disease homepage"><img src="/cddis/images/journal_header_v3.jpg" alt="Cell Death &amp; Disease homepage" style="display:block;" class="journal-header-image" /></a>		
+				
+				<form class="search" action="/search/executeSearch?" method="get">
+			<div>
+				<label for="searchtext">Search</label>
+									<input type="hidden" name="sp-q-1" value="CDDIS" />
+								<input type="text" id="searchtext" name="sp-q" value="" maxlength="200"/>
+												<input type="hidden" name="sp-c" value="25" />
+												<input type="hidden" name="sp-m" value="0" />
+												<input type="hidden" name="sp-s" value="" />
+																								
+														<input type="hidden" name="sp-a" value="sp1001702d" />
+										<input type="hidden" name="sp-sfvl-field" value="subject|ujournal" />
+										<input type="hidden" name="sp-x-1" value="ujournal" />
+										<input type="hidden" name="sp-p-1" value="phrase" />
+										<input type="hidden" name="sp-p" value="all" />
+													<input type="submit" name="submit" class="button" value="go" title="search now" /> 					
+								<a href="/search/adv_search?sp-a=sp1001702d&amp;sp-x-1=ujournal&amp;sp-q-1=cddis">Advanced&nbsp;search</a>
+							</div>
+		</form>
+		
+							<span class="cleardiv"><!-- --></span>
+			</div>
+</div>
+
+
+				<div style="display:none;">
+	<!-- end global links -->
+</div>
+<div id="breadcrumb"><div><a href="/cddis/index.html">Journal home</a><span class="divider"> &#x0003E; </span><a href="/cddis/journal/v6/n3/index.html"> Archive</a><span class="divider"> &#x0003E; </span><a href="/cddis/journal/v6/n3/index.html#26032015">March 26 2015</a><span class="divider"> &#x0003E; </span><span class="thisitem">Full text</span></div></div>
+<!-- content and journal nav --><div id="content-journalnav"><!-- content --><div id="content"><h1 class="page-header">Original Article</h1>
+	
+<p id="cite">Citation: <i>Cell Death and Disease</i> (2015) <b>6</b>, e1704; doi:10.1038/cddis.2015.13<br/>Published online 26&nbsp;March&nbsp;2015</p>
+	
+<h2 id="atl">D-2-Hydroxyglutarate does not mimic all the IDH mutation effects, in particular the reduced etoposide-triggered apoptosis mediated by an alteration in mitochondrial NADH<br /><span class="open-access">Open</span></h2>
+<p id="aug">K&nbsp;Oizel<sup><a title="affiliated with 1" href="#aff1">1</a>,<a title="affiliated with 2" href="#aff2">2</a></sup>, C&nbsp;Gratas<sup><a title="affiliated with 1" href="#aff1">1</a>,<a title="affiliated with 2" href="#aff2">2</a>,<a title="affiliated with 3" href="#aff3">3</a></sup>, A&nbsp;Nadaradjane<sup><a title="affiliated with 1" href="#aff1">1</a>,<a title="affiliated with 2" href="#aff2">2</a></sup>, L&nbsp;Oliver<sup><a title="affiliated with 1" href="#aff1">1</a>,<a title="affiliated with 2" href="#aff2">2</a>,<a title="affiliated with 3" href="#aff3">3</a></sup>, F M&nbsp;Vallette<sup><a title="affiliated with 1" href="#aff1">1</a>,<a title="affiliated with 2" href="#aff2">2</a>,<a title="affiliated with 4" href="#aff4">4</a></sup> and C&nbsp;Pecqueur<sup><a title="affiliated with 1" href="#aff1">1</a>,<a title="affiliated with 2" href="#aff2">2</a></sup></p><div id="affiliations-notes"><ol><li id="aff1"><sup>1</sup>CRCNA - INSERM UMR 892 - CNRS UMR 6299, Nantes F44007, France</li><li id="aff2"><sup>2</sup>Facult&#x000E9; de M&#x000E9;decine, Universit&#x000E9; de Nantes, Nantes F44007, France</li><li id="aff3"><sup>3</sup>Centre Hospitalier-Universitaire (CHU) de Nantes, Nantes F44093, France</li><li id="aff4"><sup>4</sup>Institut de Canc&#x000E9;rologie de l&#x02019;Ouest - Ren&#x000E9; Gauducheau, St Herblain F44805, France</li></ol><p class="caff">Correspondence: C Pecqueur, CRCNA - INSERM UMR 892 - CNRS UMR 6299, 8 quai Moncousu, Nantes F44007, France. Tel: +33 2 2808 0325; Fax: +33 2 2808 0204; E-mail: <a href="mailto:claire.pecqueur@univ-nantes.fr">claire.pecqueur@univ-nantes.fr</a></p><p class="prdates">Received 16&nbsp;September&nbsp;2014; Revised 20&nbsp;December&nbsp;2014; Accepted 7&nbsp;January&nbsp;2015</p><p id="artnote">Edited by A Finazzi-Agr&#x000F2;</p></div>
+<div id="abs"><a class="backtotop" href="#top">Top<span class="hidden"> of page</span></a><h3>Abstract</h3><p class="abs lead">Somatic mutations in isocitrate dehydrogenase (IDH)-1 and -2 have recently been described in glioma. This mutation leads to a neomorphic enzymatic activity as the conversion of isocitrate to alpha ketoglutarate (<i><span class="mb">&#x003B1;</span></i>KG) is replaced by the conversion of <i><span class="mb">&#x003B1;</span></i>KG to D-2-hydroxyglutarate (D-2HG) with NADPH oxidation. It has been suggested that this oncometabolite D-2HG via inhibition of <i><span class="mb">&#x003B1;</span></i>KG-dioxygenases is involved in multiple functions such as epigenetic modifications or hypoxia responses. The present study is aimed at deciphering how the mutant IDH can affect cancer pathogenesis, in particular with respect to its associated oncometabolite D-2HG. We show that the overexpression of mutant IDH in glioma cells or treatment with D-2HG triggered an increase in cell proliferation. However, although mutant IDH reduced cell sensitivity to the apoptotic inducer etoposide, D-2HG exhibited no effect on apoptosis. Instead, we found that the apoptotic effect was mediated through the mitochondrial NADH pool reduction and could be inhibited by oxamate. These data show that besides D-2HG production, mutant IDH affects other crucial metabolite pools. These observations lead to a better understanding of the biology of IDH mutations in gliomas and their response to therapy.</p><div class="keyw-abbr"><h4 class="abbreviations">Abbreviations: </h4><p class="abbreviations"><i><span class="mb">&#x003B1;</span></i>KG, alpha ketoglutarate; AAT, aspartate aminotransferase; D-2HG, D-2-hydroxyglutarate; ECAR, extracellular acidification rate; ETC, electron transport chain; ETO, etoposide; GBM, glioblastoma multiforme; Gln, glutamine; Glu, glutamate; IDH, isocitrate dehydrogenase; OCR, oxygen consumption rate</p></div></div>
+<!-- articlebody start --><div id="articlebody"><p class="norm">Gliomas are the most common type of human brain tumors and can be classified based on clinical and pathological criteria in four grades. The grade IV glioma, commonly known as glioblastoma multiforme (GBM), is the most invasive form and has a dismal prognosis with &#x3C;5<span class="mb">&#x00025;</span> patient survival at 5 years. These GBM can develop <i>de novo</i> (primary GBM) or through the progression from low-grade tumors (secondary GBM). Although these two types of GBM are histologically similar, primary and secondary GBM exhibit distinct genetic patterns. A recent integrated genome analysis of human GBM shows that 12<span class="mb">&#x00025;</span> of these tumors have a mutation in the gene encoding isocitrate dehydrogenase 1 (IDH1) and to a lesser extent in IDH2 gene.<sup><!--bib1--><a href="#bib1">1</a></sup> This mutation is present in &#x0003E;90<span class="mb">&#x00025;</span> secondary GBMs, whereas it is present in &#x3C;5<span class="mb">&#x00025;</span> primary GBMs.<sup><!--bib2--><a href="#bib2">2</a></sup> Mutations in IDH1 and IDH2 have also been identified in acute myeloid leukemia (AML)<sup><!--bib3--><a href="#bib3">3</a></sup> and chondrosarcomas.<sup><!--bib4--><a href="#bib4">4</a></sup> The occurrence of IDH mutations predicts a significantly longer survival for patients affected by GBM or grade III gliomas.<sup><!--bib1--><a href="#bib1">1</a>, <!--bib2--><a href="#bib2">2</a></sup> Whether this difference is driven by IDH mutations or reflects other fundamental biological differences between primary and secondary GBM is, as yet, unclear. For example, the prognostic significance of IDH mutations may be secondary to their prevalence among younger patients, as age is a well-known prognostic factor in gliomas.<sup><!--bib5--><a href="#bib5">5</a></sup> In AML, the prognostic significance of IDH mutations is more ambiguous. Several studies have reported that IDH mutations do not affect the prognosis in AML, whereas other studies have found that IDH mutations are associated with an increased or decreased risk of relapse when compared with IDH wild-type patients.<sup><!--bib6--><a href="#bib6">6</a>, <!--bib7--><a href="#bib7">7</a></sup></p><p class="norm">The human genome has five IDH genes coding for three different IDH isoforms, the activities of which depend on either nicotinamide adenine dinucleotide (NAD<span class="mb">&#x0002B;</span>) for IDH3 or nicotinamide adenine dinucleotide phosphate (NADP<span class="mb">&#x0002B;</span>) for IDH1 and IDH2. Both IDH2 and IDH3 are located in the mitochondria where they participate in the TCA cycle, whereas IDH1 is mostly cytosolic.<sup><!--bib8--><a href="#bib8">8</a></sup> To date, all reported mutations are located in the IDH1 and IDH2 genes and result in an amino-acid substitution at residues located in the enzymatic active site, respectively, R132 for IDH1 and R140 or R172 for IDH2. This mutation disrupts the normal enzymatic function of IDH, that is, the conversion of isocitrate to alpha ketoglutarate (<i><span class="mb">&#x003B1;</span></i>KG) with the concomitant production of NADPH. Instead, mutant IDH displays a neomorphic activity converting <i><span class="mb">&#x003B1;</span></i>KG into D-2-hydroxyglutarate (D-2HG), although reducing NADPH.<sup><!--bib9--><a href="#bib9">9</a></sup> As a result, mutant IDH may alter the redox state of cells, modulate the activity of metabolic and epigenetic tumor suppressor enzymes that use <i><span class="mb">&#x003B1;</span></i>KG as a co-substrate.<sup><!--bib10--><a href="#bib10">10</a></sup> Loss of IDH function may also alter normal mitochondrial function and promote a metabolic switch in cancer cells to glycolysis.<sup><!--bib11--><a href="#bib11">11</a>, <!--bib12--><a href="#bib12">12</a></sup></p><p class="norm">Mutant IDH is widely believed to have the ability to transform cells by modulating <i><span class="mb">&#x003B1;</span></i>KG-dependent enzymes. D-2HG and <i><span class="mb">&#x003B1;</span></i>KG are structurally similar suggesting that D-2HG may act as a competitive inhibitor of <i><span class="mb">&#x003B1;</span></i>KG-dioxygenases including prolyl hydroxylase involved in HIF-1<i><span class="mb">&#x003B1;</span></i> stability, histone demethylases and the Ten-Eleven Translocation (TET) family of 5-methylcytosine hydroxylases involved in epigenetic modifications of DNA.<sup><!--bib13--><a href="#bib13">13</a>, <!--bib14--><a href="#bib14">14</a></sup> In fact, IDH mutations lead to numerous metabolic abnormalities besides D-2HG production. Deciphering the relative importance of either D-2HG production, <i><span class="mb">&#x003B1;</span></i>KG or NADPH reduction in cancer pathogenesis remains to be determined. In this paper, we show that mutant IDH increases cell proliferation and reduces etoposide (ETO)-induced cell death through different metabolic pathways. Although cell proliferation changes are mediated through D-2HG, alteration in the mitochondrial NADH pool is involved in the response to apoptosis.</p><div id="Results"><a class="backtotop" href="#top">Top<span class="hidden"> of page</span></a><h3>Results</h3><h4 class="norm">Glioma cell lines overexpressing IDH1<sup>R132</sup> exhibit reduced NADP production and increased cell proliferation</h4><p class="follows-h4">To date, the lack of mutant IDH glioma cell lines has been an issue in the study of the pathogenic role of IDH mutations. To address this, we stably transfected a human glioma cell line, U251, with vectors encoding the wild-type or the mutant form of IDH1 (IDH1<sup>R132</sup>; <!--fig1--><a href="#fig1">Figure 1a</a>). IDH1 was detected by western blot in cytoplasmic lysate. In order to determine whether IDH1<sup>R132</sup> overexpression was associated with the neomorphic enzymatic activity, the NADPH level was measured in these cells (<!--fig1--><a href="#fig1">Figure 1b</a>). As expected, lysate from IDH1-overexpressing cells exhibited higher levels of IDH activity as compared with IDH1<sup>R132</sup>. Note that the level of NADPH detected in control cells was similar to the level observed in mutant IDH-expressing cells. Addition of either <i><span class="mb">&#x003B1;</span></i>KG or D-2HG to the cell medium did not affect the total cellular NADPH level (<!--fig1--><a href="#fig1">Figure 1c</a>). In order to study how these mutations can affect cancer pathogenesis, cell proliferation and cell death response to different stimuli were measured. An increased proliferation and an increased ability to form colonies when cells were plated at very low density were detected in cells overexpressing IDH1<sup>R132</sup> (<!--fig1--><a href="#fig1">Figures 1d and e</a>). To determine whether D-2HG had a role in this increased proliferation, cells were cultured for 6 days in the presence of <i><span class="mb">&#x003B1;</span></i>KG, a cell-permeant form of <i><span class="mb">&#x003B1;</span></i>KG, dimethyl <i><span class="mb">&#x003B1;</span></i>KG (dmKG) or D-2HG. As expected, <i><span class="mb">&#x003B1;</span></i>KG and dmKG had no effect on cell proliferation, whereas, similar to the overexpression of IDH1<sup>R132</sup>, D-2HG increased significantly cell proliferation compared with the control or cells treated with the different forms of <i><span class="mb">&#x003B1;</span></i>KG (<!--fig1--><a href="#fig1">Figure 1f</a>).</p><div class="norm"><!-- . --></div><div id="fig1" class="figure-table"><h5 class="norm"><a href="/cddis/journal/v6/n3/fig_tab/cddis201513f1.html#figure-title">Figure 1.</a></h5><a href="/cddis/journal/v6/n3/fig_tab/cddis201513f1.html#figure-title"><img alt="Figure 1 - Unfortunately we are unable to provide accessible alternative text for this. If you require assistance to access this image, please contact help@nature.com or the author" class="thumb" src="/cddis/journal/v6/n3/thumbs/cddis201513f1th.jpg"/></a><p>(<b>a</b>) Expression of wild-type or mutant IDH1 isoforms in stable overexpressing cells was confirmed by immunoblotting using whole lysates (40<span class="mb"><span class="mb">&thinsp;</span></span>&#x003BC;g). Actin was used as a loading control. (<b>b</b>) IDH activity of cells overexpressing wild-type or mutant IDH1 isoforms. Cells (1 &#x000D7; 10<sup>6</sup>) were plated, lysed the next day and subsequently assayed for their IDH activity. (<b>c</b>) NADPH production in cells treated for 6 days with <i><span class="mb">&#x003B1;</span></i>KG (3<span class="mb"><span class="mb">&thinsp;</span></span>mM) or D-2HG (3<span class="mb"><span class="mb">&thinsp;</span></span>mM) as in <b>b</b>. (<b>d</b>) Proliferation of wild-type and mutant IDH1-overexpressing cells. Cells were plated at 1 &#x000D7; 10<sup>5</sup> cells and counted 3 and 7 days later using trypan blue staining. (<b>e</b>) The ability of forming colonies of wild-type and mutant IDH1-overexpressing cells. Cells were plated at 500 cells per well then fixed and stained with violet crystal 1 week later. (<b>f</b>) Proliferation of cells treated with <i><span class="mb">&#x003B1;</span></i>KG (3<span class="mb"><span class="mb">&thinsp;</span></span>mM), dimethyl-<i><span class="mb">&#x003B1;</span></i>KG (3<span class="mb"><span class="mb">&thinsp;</span></span>mM) and HG (3<span class="mb"><span class="mb">&thinsp;</span></span>mM). Cells were plated at 1 &#x000D7; 10<sup>5</sup> cells and counted 5 and 10 days later using trypan blue staining. Results are expressed as the mean&#x000B1;S.E.M. of three experiments performed in triplicate. V, empty vector expressing cells; IDH1, wild-type IDH1-expressing cells; R132, IDH1<sup>R132</sup>-expressing cells transfected. <span class="mb">&#x0002A;</span><span class="mb">&#x0002A;</span><i>P</i>&#x3C;0.01 and <span class="mb">&#x0002A;</span><span class="mb">&#x0002A;</span><span class="mb">&#x0002A;</span><i>P</i>&#x3C;0.001</p><a class="full" href="/cddis/journal/v6/n3/fig_tab/cddis201513f1.html#figure-title">Full figure and legend (116<abbr title="Kilobyte">K</abbr>)</a><div class="cleardiv"><!-- clearing div --></div></div><br class="clear"/><h4 class="norm">IDH1<sup>R132</sup> reduces ETO-induced apoptosis</h4><p class="follows-h4">Cell death was measured at different time points after irradiation (5<span class="mb"><span class="mb">&thinsp;</span></span>Gy), ETO (50<span class="mb"><span class="mb">&thinsp;</span></span><i>&#x003BC;</i>g<span class="mb">&#x0002F;</span>ml), TRAIL (50<span class="mb"><span class="mb">&thinsp;</span></span>ng<span class="mb">&#x0002F;</span>ml), FasL (60<span class="mb"><span class="mb">&thinsp;</span></span>ng<span class="mb">&#x0002F;</span>ml) or cisplatin (15<span class="mb"><span class="mb">&thinsp;</span></span><i>&#x003BC;</i>g<span class="mb">&#x0002F;</span>ml) treatment in U251 cells. All treatments were associated with a significant death and activation of caspase-3 (<!--tbl1--><a href="#tbl1">Table 1</a>). However, the optimal time point of cell death induction varied from 6<span class="mb"><span class="mb">&thinsp;</span></span>h with TRAIL to 24<span class="mb"><span class="mb">&thinsp;</span></span>h with ETO, Cisplatin, and FASL treatments, and to 72<span class="mb"><span class="mb">&thinsp;</span></span>h with irradiation. Next, sensitivity to cell death was analyzed in IDH1- and IDH1<sup>R132</sup>-overexpressing cells. For most treatments, overexpression of IDH1<sup>R132</sup> did not affect caspase-3 activity (<!--fig2--><a href="#fig2">Figure 2a</a>). However, although addition of ETO caused a high caspase-3 activation in control and wild-type IDH1-overexpressing cells, activation of caspase-3 was significantly reduced in IDH1<sup>R132</sup>-overexpressing cells. These results were confirmed by FACs analysis, which showed that the percentage of propidium iodide-stained cells after ETO exposure was lower in IDH1<sup>R132</sup> cells compared with the control and IDH1 cells (<!--fig2--><a href="#fig2">Figure 2b</a>). During apoptosis, the integrity of the mitochondrial outer membrane is compromised, a process called mitochondrial outer membrane permeabilization (MOMP). In order to determine whether IDH1 or IDH1<sup>R132</sup> expression was affecting the MOMP, we measured the mitochondrial membrane potential &#x00394;<span class="mb">&#x003A8;</span>m in our cells using JC-1 staining. &#x00394;<span class="mb">&#x003A8;</span>m was reduced in a time-dependent manner after ETO exposure as indicated by the decrease of the red<span class="mb">&#x0002F;</span>green ratio (<!--fig2--><a href="#fig2">Figure 2c</a>). Of note, the median of healthy cells red fluorescence was significantly higher in IDH1<sup>R132</sup> cells compared with IDH1 cells (845&#x000B1;75 <i>versus</i> 655&#x000B1;56; <i>n</i><span class="mb">&#x0003D;</span>6; <i>P</i>&#x3C;0.05), suggesting a mitochondrial hyperpolarization of IDH1<sup>R132</sup> cells. Sensitivity to ETO was then tested in other glioma cell lines overexpressing either IDH1 or IDH1<sup>R132</sup>, LN18 and T98 (<!--fig2--><a href="#fig2">Figures 2d and e</a>). In both cells lines, IDH1<sup>R132</sup> overexpression was associated with reduced ETO-induced cell apoptosis.</p><div class="norm"><!-- . --></div>
+					<span class="cleardiv"><!-- --></span>
+				<div id="fig2" class="figure-table"><h5 class="norm"><a href="/cddis/journal/v6/n3/fig_tab/cddis201513f2.html#figure-title">Figure 2.</a></h5><a href="/cddis/journal/v6/n3/fig_tab/cddis201513f2.html#figure-title"><img alt="Figure 2 - Unfortunately we are unable to provide accessible alternative text for this. If you require assistance to access this image, please contact help@nature.com or the author" class="thumb" src="/cddis/journal/v6/n3/thumbs/cddis201513f2th.jpg"/></a><p>(<b>a</b>) Caspase 3 activation was determined with DEVDase activity assay in stable transfected U251 cells expressing empty vector, wild-type and mutant IDH1 isoforms after induction of apoptosis. Cells were plated at 5 &#x000D7; 10<sup>5</sup> cells and treated the next day with different inducers of cell apoptosis. Cellular extracts were prepared from untreated cells (CTR), 5<span class="mb"><span class="mb">&thinsp;</span></span>h after treatment with TRAIL (50<span class="mb"><span class="mb">&thinsp;</span></span>ng<span class="mb">&#x0002F;</span>ml), 24<span class="mb"><span class="mb">&thinsp;</span></span>h after ETO (50<span class="mb"><span class="mb">&thinsp;</span></span><i>&#x003BC;</i>g<span class="mb">&#x0002F;</span>ml), FASL (60ng<span class="mb">&#x0002F;</span>ml) or cisplatin (CIS) (15<span class="mb"><span class="mb">&thinsp;</span></span><i>&#x003BC;</i>g<span class="mb">&#x0002F;</span>ml) and 72<span class="mb"><span class="mb">&thinsp;</span></span>h after <i><span class="mb">&#x003B3;</span></i>-irradiation (IRR; 5<span class="mb"><span class="mb">&thinsp;</span></span>Gy). (<b>b</b>) The number of dead cells 24<span class="mb"><span class="mb">&thinsp;</span></span>h after ETO (50<span class="mb"><span class="mb">&thinsp;</span></span><i>&#x003BC;</i>g<span class="mb">&#x0002F;</span>ml) treatment was determined by FACS. Cells were incubated 5<span class="mb"><span class="mb">&thinsp;</span></span>min with propidium iodide (1<span class="mb"><span class="mb">&thinsp;</span></span><i>&#x003BC;</i>g<span class="mb">&#x0002F;</span>ml) and analyzed by FACS. (<b>c</b>) The mitochondrial membrane potential was determined by FACS after ETO (50<span class="mb"><span class="mb">&thinsp;</span></span><i>&#x003BC;</i>g<span class="mb">&#x0002F;</span>ml) treatment at different time points. Cells were incubated 15<span class="mb"><span class="mb">&thinsp;</span></span>min with JC-1 probe and analyzed by FACS. (<b>d</b> and <b>e</b>) Caspase 3 activation after 24<span class="mb"><span class="mb">&thinsp;</span></span>h ETO (50<span class="mb"><span class="mb">&thinsp;</span></span><i>&#x003BC;</i>g<span class="mb">&#x0002F;</span>ml) exposure was determined with DEVDase activity assay, respectively, in wild-type and mutant IDH1-overexpressing LN18 and T98 cells. Results are expressed relative to wild-type IDH1-expressing cells. Results are expressed as the mean&#x000B1;S.E.M. of three experiments performed in triplicate. V, empty vector expressing cells; IDH1, wild-type IDH1-expressing cells; R132, IDH1<sup>R132</sup>-expressing cells transfected. <span class="mb">&#x0002A;</span><i>P</i>&#x3C;0.05, <span class="mb">&#x0002A;</span><span class="mb">&#x0002A;</span><i>P</i>&#x3C;0.01 and <span class="mb">&#x0002A;</span><span class="mb">&#x0002A;</span><span class="mb">&#x0002A;</span><i>P</i>&#x3C;0.001</p><a class="full" href="/cddis/journal/v6/n3/fig_tab/cddis201513f2.html#figure-title">Full figure and legend (95<abbr title="Kilobyte">K</abbr>)</a><div class="cleardiv"><!-- clearing div --></div></div><br class="clear"/>
+					<span class="cleardiv"><!-- --></span>
+				<div id="tbl1" class="figure-table"><h5 class="norm"><a href="/cddis/journal/v6/n3/fig_tab/cddis201513t1.html#figure-title">Table 1 - Cell death was monitored in U251 after irradiation (5<span class="mb"><span class="mb">&thinsp;</span></span>Gy), ETO (50<span class="mb"><span class="mb">&thinsp;</span></span><i>&#x003BC;</i>g<span class="mb">&#x0002F;</span>ml), TRAIL (50<span class="mb"><span class="mb">&thinsp;</span></span>ng<span class="mb">&#x0002F;</span>ml), FasL (60<span class="mb"><span class="mb">&thinsp;</span></span>ng<span class="mb">&#x0002F;</span>ml) or cisplatin (15<span class="mb"><span class="mb">&thinsp;</span></span><i>&#x003BC;</i>g<span class="mb">&#x0002F;</span>ml) treatment after 5, 24, 48 and 72<span class="mb"><span class="mb">&thinsp;</span></span>h by FACS analysis using propidium iodide incorporation and caspase-3 activation.</a></h5><a href="/cddis/journal/v6/n3/fig_tab/cddis201513t1.html#figure-title"><img alt="Table 1 - Cell death was monitored in U251 after irradiation (5[thinsp]Gy), ETO (50[thinsp][mu]g/ml), TRAIL (50[thinsp]ng/ml), FasL (60[thinsp]ng/ml) or cisplatin (15[thinsp][mu]g/ml) treatment after 5, 24, 48 and 72[thinsp]h by FACS analysis using propidium iodide incorporation and caspase-3 activation - Unfortunately we are unable to provide accessible alternative text for this. If you require assistance to access this image, please contact help@nature.com or the author" class="thumb" src="/common/images/table_thumb.gif"/></a><a href="/cddis/journal/v6/n3/fig_tab/cddis201513t1.html#figure-title" class="full">Full table </a><div class="cleardiv"><!-- clearing div --></div></div><br class="clear"/><h4 class="norm">Mutant IDH2 decreases sensitivity to ETO but D-2HG has no effect</h4><p class="follows-h4">To determine whether mutant IDH2 triggered similar effects on cell death, U251 cells were transfected with vector, IDH2, IDH2<sup>R140</sup> and IDH2<sup>R172</sup>. Western blot analysis showed that IDH2 proteins were expressed in the mitochondria and not in the cytosol (<!--fig3--><a href="#fig3">Figure 3a</a>). Similarly to IDH1<sup>R132</sup>, mutant IDH2-expressing cells exhibited decreased NADPH consumption corresponding to its neomorphic activity (<!--fig3--><a href="#fig3">Figure 3b</a>). Interestingly, caspase-3 activation following ETO treatment was also significantly reduced (<!--fig3--><a href="#fig3">Figure 3c</a>). Altogether, these results showed that all mutants IDH, independently of their respective subcellular localization, reduced ETO-induced cell death.</p><div id="fig3" class="figure-table"><h5 class="norm"><a href="/cddis/journal/v6/n3/fig_tab/cddis201513f3.html#figure-title">Figure 3.</a></h5><a href="/cddis/journal/v6/n3/fig_tab/cddis201513f3.html#figure-title"><img alt="Figure 3 - Unfortunately we are unable to provide accessible alternative text for this. If you require assistance to access this image, please contact help@nature.com or the author" class="thumb" src="/cddis/journal/v6/n3/thumbs/cddis201513f3th.jpg"/></a><p>(<b>a</b>) Expression of wild-type (IDH2) or mutant IDH2 (R140 and R172) isoforms in stable overexpressing U251 cells was confirmed by immunoblotting using whole lysates (40<span class="mb"><span class="mb">&thinsp;</span></span>&#x003BC;g) or purified mitochondria. Actin and porin were used as a loading control, respectively, for whole lysates and mitochondria. (<b>b</b>) IDH activity in cells overexpressing wild-type or mutant IDH2 isoforms. Cells (1 &#x000D7; 10<sup>6</sup>) were plated, lysed the next day and subsequently assayed for their ability to generate NADPH. (<b>c</b>) Caspase 3 activation was determined with DEVDase activity assay in stable U251 cells expressing wild-type and mutant IDH2 isoforms after 24<span class="mb"><span class="mb">&thinsp;</span></span>h ETO (50<span class="mb"><span class="mb">&thinsp;</span></span><i>&#x003BC;</i>g<span class="mb">&#x0002F;</span>ml) exposure. Results are expressed relative to wild-type IDH2-expressing cells. (<b>d</b>) Caspase 3 activation was determined with DEVDase activity assay after 24<span class="mb"><span class="mb">&thinsp;</span></span>h ETO (50<span class="mb"><span class="mb">&thinsp;</span></span><i>&#x003BC;</i>g<span class="mb">&#x0002F;</span>ml) exposure in U251 cells treated with D-2HG (3<span class="mb"><span class="mb">&thinsp;</span></span>mM) for 6 days. Results are expressed as the mean&#x000B1;S.E.M. of three experiments performed in triplicate. V, empty vector expressing cells; IDH2, wild-type IDH2-expressing cells; R140, IDH1<sup>R140</sup>-expressing cells transfected; R172, IDH1<sup>R172</sup>-expressing cells transfected. <span class="mb">&#x0002A;</span><i>P</i>&#x3C;0.05, <span class="mb">&#x0002A;</span><span class="mb">&#x0002A;</span><i>P</i>&#x3C;0.01 and <span class="mb">&#x0002A;</span><span class="mb">&#x0002A;</span><span class="mb">&#x0002A;</span><i>P</i>&#x3C;0.001</p><a class="full" href="/cddis/journal/v6/n3/fig_tab/cddis201513f3.html#figure-title">Full figure and legend (72<abbr title="Kilobyte">K</abbr>)</a><div class="cleardiv"><!-- clearing div --></div></div><br class="clear"/><p class="norm">To determine whether D-2HG could be involved in this phenotype, U251 cells were treated with 3<span class="mb"><span class="mb">&thinsp;</span></span>mM or 10<span class="mb"><span class="mb">&thinsp;</span></span>mM of D-2HG for 6 days before ETO treatment. However, none of the pretreatments affected ETO-induced apoptosis (<!--fig3--><a href="#fig3">Figure 3d</a> and data not shown). Thus, D-2HG does not fully recapitulate the mutant IDH phenotypes as exogenous D-2HG is able to increase cell proliferation but does not affect cell sensitivity to ETO.</p><h4 class="norm">Reduced mitochondrial spare capacity with IDH1<sup>R132</sup> but not with D-2HG</h4><p class="follows-h4">To better understand how IDH1<sup>R132</sup> affects apoptosis, several parameters were analyzed. IDH mutation can alter protein expression through epigenetic modifications, redox homeostasis and metabolism of glucose, glutamine (Gln) and fatty acids. As an aberrant methylation status of Bax and Bcl2 has been shown to be associated with apoptosis escape,<sup><!--bib15--><a href="#bib15">15</a></sup> expression of these proteins, as well as BclXL, XIAP, truncated BID (tBID) and survivin, was analyzed by western blot (<!--fig4--><a href="#fig4">Figure 4a</a>). However, neither IDH1<sup>R132</sup> nor wild-type IDH1 expression affected protein expression of either control or ETO-treated cells. Expression of Bax and Bcl2 increased upon ETO treatment but to the same extent in vector, IDH1- and IDH1<sup>R132</sup>-expressing cells. Of note, a similar pattern of expression of Bax and Bcl2 was observed in cells treated with <i><span class="mb">&#x003B1;</span></i>KG or D-2HG before ETO (<a href="/cddis/journal/v6/n3/suppinfo/cddis201513s1.html">Supplementary Figure S1</a>). As ROS and mitochondria have an important role in apoptosis, we then measured ROS production using the DCFDA probe and cell metabolism using the XF24 analyzer. Cellular ROS were not affected by either wild-type or IDH1<sup>R132</sup> overexpression as shown in <!--fig4--><a href="#fig4">Figure 4b</a>. Of note, ROS production was increased with rotenone, an inhibitor of the mitochondrial complex I able to induce mitochondrial ROS production, and decreased with EGCG, a polyphenol compound known for its antioxidant effect (<a href="/cddis/journal/v6/n3/suppinfo/cddis201513s1.html">Supplementary Figure S2</a>). Interestingly, overexpression of IDH1<sup>R132</sup> and IDH2<sup>R172</sup> was associated with a slight but significant decreased in mitochondrial oxygen consumption rate (OCR) (<!--fig4--><a href="#fig4">Figures 4c and d</a>, <a href="/cddis/journal/v6/n3/suppinfo/cddis201513s1.html">Supplementary Figure S3A</a>). In addition to the basal OCR, maximal consumption rate, spare capacity and coupling efficiency were calculated from the recordings of the OCR following addition of different mitochondrial inhibitors (<!--fig4--><a href="#fig4">Figure 4c</a>). Oligomycin is an inhibitor of ATP synthase and can be used to determine mitochondrial coupling efficiency, the efficiency with which mitochondria convert oxygen into ATP. CCCP, an uncoupler of mitochondrial oxidative phosphorylation raises OCR to its maximal rate, which allows the calculation of the respiratory reserve. Finally, rotenone and antimycin A, respectively, inhibits the complex I and complex III, which allows the determination of the non-mitochondrial oxygen consumption. Interestingly, a reduced respiratory reserve was observed in cells overexpressing IDH1<sup>R132</sup> (<!--fig4--><a href="#fig4">Figure 4e</a>) or IDH2<sup>R172</sup> (<a href="/cddis/journal/v6/n3/suppinfo/cddis201513s1.html">Supplementary Figure S3B</a>). To determine which complex was involved in the decreased respiratory reserve, OCR was recorded after sequential addition of rotenone and antimycin A. Complex I activity (left panel) contributed for 90<span class="mb">&#x00025;</span> of total OCR, whereas complex II (right panel) contributed for only 10<span class="mb">&#x00025;</span> (<a href="/cddis/journal/v6/n3/suppinfo/cddis201513s1.html">Supplementary Figure S4</a>). Mutant IDH did not change the respective contribution of these complexes to mitochondrial respiration. Taken into account that the majority of the electrons entering the electron transport chain (ETC) are doing so at the level of complex I through oxidation of NADH, the decreased mitochondrial respiratory reserve triggered by mutant IDH reflects probably a reduction of the NADH mitochondrial pool. In order to confirm this hypothesis, NADH level was measured in our cells (<!--fig4--><a href="#fig4">Figure 4f</a>). Indeed, NADH level was decreased in IDH1<sup>R132</sup> cells compared with IDH1 cells.</p><div id="fig4" class="figure-table"><h5 class="norm"><a href="/cddis/journal/v6/n3/fig_tab/cddis201513f4.html#figure-title">Figure 4.</a></h5><a href="/cddis/journal/v6/n3/fig_tab/cddis201513f4.html#figure-title"><img alt="Figure 4 - Unfortunately we are unable to provide accessible alternative text for this. If you require assistance to access this image, please contact help@nature.com or the author" class="thumb" src="/cddis/journal/v6/n3/thumbs/cddis201513f4th.jpg"/></a><p>(<b>a</b>) Expression of proteins involved in apoptosis in U251 cells expressing empty vector, wild-type and mutant IDH1 isoforms. Whole lysates of cells were isolated 24<span class="mb"><span class="mb">&thinsp;</span></span>h after vehicule (V) or etoposide (ETO) treatment and analyzed (40<span class="mb"><span class="mb">&thinsp;</span></span><i>&#x003BC;</i>g) by immunoblotting with the indicated antibodies (left panel). Actin was used as a loading control. (<b>b</b>) ROS production was measured using the DCFDA probe. U251 cells expressing empty vector, wild-type and mutant IDH1 isoforms were seeded at 2.5 &#x000D7; 10<sup>4</sup> cells then incubated with the DCFDA probe. Fluorescence was measured at 538<span class="mb"><span class="mb">&thinsp;</span></span>nm every 3<span class="mb"><span class="mb">&thinsp;</span></span>min for 75<span class="mb"><span class="mb">&thinsp;</span></span>min and the slope corresponding to ROS production was calculated. (<b>c</b>) Oxygen consumption rate (OCR) of stable cells expressing empty vector, wild-type and mutant IDH1 isoforms was measured over time. Cells (4 &#x000D7; 10<sup>4</sup>) were plated and OCR was measured 24<span class="mb"><span class="mb">&thinsp;</span></span>h later by a XF24 Analyzer (Seahorse Bioscience). Mitochondrial inhibitors (oligomycin(a), CCCP(b), and rotenone and antimycin A(c)) were added as indicated with arrows. (<b>d</b>) Basal oxygen consumption was determined by measuring OCR as in <b>c</b> removing the non-mitochondrial oxygen consumption (OCR upon rotenone and antimycin A treatment). (<b>e</b>) The respiratory reserve of U251 cells expressing empty vector, wild-type and mutant IDH1 isoforms was measured by a XF24 Analyzer (Seahorse Bioscience). The respiratory reserve was determined as the difference between maximal OCR and basal OCR. (<b>f</b>) NADH production of cells expressing wild-type or mutant IDH1 isoforms. Cells (1 &#x000D7; 10<sup>6</sup>) were plated, lysed the next day and subsequently assayed for their ability to produce NADH. Results are expressed as the mean&#x000B1;S.E.M. of three experiments performed in triplicate</p><a class="full" href="/cddis/journal/v6/n3/fig_tab/cddis201513f4.html#figure-title">Full figure and legend (102<abbr title="Kilobyte">K</abbr>)</a><div class="cleardiv"><!-- clearing div --></div></div><br class="clear"/><p class="norm">No difference was observed in the coupling efficiency between ETC activity and ATP synthesis or in glycolysis as reflected by the extracellular acidification rate (ECAR; <a href="/cddis/journal/v6/n3/suppinfo/cddis201513s1.html">Supplementary Figure S5</a>). We then assessed the mitochondrial OCR of cells treated with <i><span class="mb">&#x003B1;</span></i>KG or D-2HG for 6 days. The addition of <i><span class="mb">&#x003B1;</span></i>KG significantly increased both the basal and the respiratory reserve, which is not surprising as this metabolite directly fuels the TCA cycle (<!--fig5--><a href="#fig5">Figures 5a and b</a>). However, D-2HG affected neither the basal OCR nor the respiratory reserve. Glycolysis was not affected by D-2HG (data not shown).</p><div id="fig5" class="figure-table"><h5 class="norm"><a href="/cddis/journal/v6/n3/fig_tab/cddis201513f5.html#figure-title">Figure 5.</a></h5><a href="/cddis/journal/v6/n3/fig_tab/cddis201513f5.html#figure-title"><img alt="Figure 5 - Unfortunately we are unable to provide accessible alternative text for this. If you require assistance to access this image, please contact help@nature.com or the author" class="thumb" src="/cddis/journal/v6/n3/thumbs/cddis201513f5th.jpg"/></a><p>OCR (<b>a</b>) and mitochondrial respiratory reserve (<b>b</b>) were measured respectively as in <!--fig4--><a href="#fig4">Figure 4</a> in cells treated or not with 5<span class="mb"><span class="mb">&thinsp;</span></span>mM <i><span class="mb">&#x003B1;</span></i>KG or D-2HG for 5 days. Results are expressed as the mean&#x000B1;S.E.M. of three experiments performed in triplicate. <span class="mb">&#x0002A;</span><i>P</i>&#x3C;0.05, <span class="mb">&#x0002A;</span><span class="mb">&#x0002A;</span><i>P</i>&#x3C;0.01 and <span class="mb">&#x0002A;</span><span class="mb">&#x0002A;</span><span class="mb">&#x0002A;</span><i>P</i>&#x3C;0.001</p><a class="full" href="/cddis/journal/v6/n3/fig_tab/cddis201513f5.html#figure-title">Full figure and legend (64<abbr title="Kilobyte">K</abbr>)</a><div class="cleardiv"><!-- clearing div --></div></div><br class="clear"/><h4 class="norm">Oxamate prevents reduction of both the respiratory reserve and ETO-induced apoptosis triggered by IDH1<sup>R132</sup></h4><p class="follows-h4">Oxamate is a known inhibitor of lactate dehydrogenase. In order to determine whether forcing the cell into oxidative phosphorylation could affect the sensitivity to apoptosis after ETO treatment, cells were exposed to oxamate (3<span class="mb"><span class="mb">&thinsp;</span></span>mM for 3 days) before metabolic analysis or ETO treatment. Surprisingly, lactate dehydrogenase (LDH) activity was not inhibited by oxamate as shown in <!--fig6--><a href="#fig6">Figures 6a and b</a>. Furthermore, although oxamate did not affect basal OCR or the respiratory reserve of vector and IDH1-overexpressing cells, the reduction in both basal OCR and the respiratory reserve observed in overexpressing IDH1<sup>R132</sup> cells was restored by oxamate (<!--fig6--><a href="#fig6">Figures 6c and d</a>). ETO-induced apoptosis was then evaluated in the presence of oxamate. Interestingly, caspase-3 activation was not modified with oxamate after ETO treatment in IDH1-overexpressing cells (<!--fig6--><a href="#fig6">Figure 6e</a>). However, the sensitivity of IDH1<sup>R132</sup> cells to ETO in the presence of oxamate was comparable to that of IDH1 cells (<!--fig6--><a href="#fig6">Figure 6e</a>). Altogether, these results strongly suggest that resistance to ETO-induced apoptosis is associated with a depleted mitochondrial NADH pool triggered by mutant IDH expression. In order to determine whether the mitochondrial NADH level can affect cell sensitivity to ETO, U251 cells were treated concomitantly with either CCCP (1&#x003BC;M) or malate (5<span class="mb"><span class="mb">&thinsp;</span></span>mM) and ETO and cell death was analyzed 24<span class="mb"><span class="mb">&thinsp;</span></span>h later. Indeed, although addition of CCCP was associated with reduced cell death, addition of malate led to increased cell death (<!--fig6--><a href="#fig6">Figure 6f</a>).</p><div class="norm"><!-- . --></div><div id="fig6" class="figure-table"><h5 class="norm"><a href="/cddis/journal/v6/n3/fig_tab/cddis201513f6.html#figure-title">Figure 6.</a></h5><a href="/cddis/journal/v6/n3/fig_tab/cddis201513f6.html#figure-title"><img alt="Figure 6 - Unfortunately we are unable to provide accessible alternative text for this. If you require assistance to access this image, please contact help@nature.com or the author" class="thumb" src="/cddis/journal/v6/n3/thumbs/cddis201513f6th.jpg"/></a><p>Lactate deshydrogenase activity (<b>a</b>) and lactate production (<b>b</b>) of U251 cells expressing IDH1 isoforms. Cells were treated or not with 3<span class="mb"><span class="mb">&thinsp;</span></span>mM oxamate (OX) for 48<span class="mb"><span class="mb">&thinsp;</span></span>h. (<b>c</b>) Basal oxygen consumption was determined by measuring OCR as in <!--fig4--><a href="#fig4">Figure 4c</a> in cells expressing IDH1 isoforms treated or not with 3<span class="mb"><span class="mb">&thinsp;</span></span>mM oxamate for 7 days. (<b>d</b>) Mitochondrial respiratory reserve was determined as in <!--fig4--><a href="#fig4">Figure 4e</a> in cells treated or not with 3<span class="mb"><span class="mb">&thinsp;</span></span>mM oxamate for 7 days. (<b>e</b>) Caspase 3 activation was determined using a DEVDase activity assay 24<span class="mb"><span class="mb">&thinsp;</span></span>h after ETO-induced apoptosis in U251 cells treated or not for 7 days with 3<span class="mb"><span class="mb">&thinsp;</span></span>mM oxamate. (<b>f</b>) The number of dead cells was measured 24<span class="mb"><span class="mb">&thinsp;</span></span>h after a concomitant treatment with CCCP (1<span class="mb"><span class="mb">&thinsp;</span></span><i>&#x003BC;</i>M) or malate (3<span class="mb"><span class="mb">&thinsp;</span></span>mM) and ETO (50<span class="mb"><span class="mb">&thinsp;</span></span><i>&#x003BC;</i>g<span class="mb">&#x0002F;</span>ml). The number of dead cells was determined by FACS after propidium iodide (1<span class="mb"><span class="mb">&thinsp;</span></span><i>&#x003BC;</i>g<span class="mb">&#x0002F;</span>ml) staining. Results are expressed as the mean&#x000B1;S.E.M. of three experiments performed in triplicate</p><a class="full" href="/cddis/journal/v6/n3/fig_tab/cddis201513f6.html#figure-title">Full figure and legend (93<abbr title="Kilobyte">K</abbr>)</a><div class="cleardiv"><!-- clearing div --></div></div><br class="clear"/></div><div id="Discussion"><a class="backtotop" href="#top">Top<span class="hidden"> of page</span></a><h3>Discussion</h3><p class="norm">One of the main consequences triggered by tumor-associated IDH mutations is D-2HG accumulation as mutant IDH leads to the synthesis of D-2HG instead of <i><span class="mb">&#x003B1;</span></i>KG.<sup><!--bib9--><a href="#bib9">9</a></sup> In this paper, we show that mutant IDH overexpression increases cell proliferation of glioma cells and reduces ETO-induced apoptosis. Although the metabolite D-2HG is involved in the proliferation phenotype, its potential role is excluded for the latter phenotype on cell death. This is the first study showing that D-2HG does not fully recapitulate the IDH mutation phenotype.</p><p class="norm">The oncogenic potential of D-2HG has been extensively studied since the discovery of IDH mutations. In fact, D-2HG and <i><span class="mb">&#x003B1;</span></i>KG are structurally similar, suggesting that D-2HG may act as a competitive inhibitor of a number of <i><span class="mb">&#x003B1;</span></i>KG-dioxygenases. This hypothesis has been confirmed <i>in vitro</i> as the addition of D-2HG to cells causes the inhibition of multiple <i><span class="mb">&#x003B1;</span></i>KG-dioxygenases.<sup><!--bib14--><a href="#bib14">14</a></sup> Epigenetic profiling of AML and glioma patient cohorts show that IDH mutations trigger a global DNA hypermethylation.<sup><!--bib16--><a href="#bib16">16</a>, <!--bib17--><a href="#bib17">17</a></sup> Several studies have shown that D-2HG is sufficient to disrupt TET2 function and impair histone demethylation.<sup><!--bib11--><a href="#bib11">11</a>, <!--bib13--><a href="#bib13">13</a>, <!--bib18--><a href="#bib18">18</a></sup> In addition, this metabolite impacts a number of cellular processes such as increasing cell proliferation and blocking cell differentiation.<sup><!--bib18--><a href="#bib18">18</a>, <!--bib19--><a href="#bib19">19</a></sup> In agreement with these reports, we show an increase in cell proliferation at both low and high densities with either mutant IDH or D-2HG treatment. However, other groups<sup><!--bib20--><a href="#bib20">20</a></sup> have shown reduced growth with overexpression mutant IDH, generally associated with increased oxidative stress. These data suggest that metabolic abnormalities associated with mutant IDH are cell type specific.</p><p class="norm">IDH mutations cause many other metabolic abnormalities besides D-2HG accumulation.<sup><!--bib21--><a href="#bib21">21</a></sup> Cells expressing mutant IDH exhibit decreased NADPH because of the lack of conversion of isocitrate to <i><span class="mb">&#x003B1;</span></i>KG and also because of the consumption of NADPH in the conversion of <i><span class="mb">&#x003B1;</span></i>KG to D-2HG. NADPH serves as an electron carrier for the maintenance of redox homeostasis and reductive biosynthesis with separate cytosolic and mitochondrial pools. Thus, mutant IDH may lead to increased intracellular ROS oxidation. However, in our cell model, we show that mutant IDH does not affect the total cellular ROS nor affect superoxide dismutase 2 and catalase expression (data not shown). Studies by Leonardi <i>et al.</i><sup><!--bib11--><a href="#bib11">11</a></sup> have indicated that mutant IDH may compromise the ability of this enzyme to catalyze the Gln-dependent reductive carboxylation reaction. This pathway can be stimulated by a perturbation in the redox ratio. However, our mutant IDH cells show no selective sensitivity to Gln metabolism inhibitors such as EGCG and BPTES (<a href="/cddis/journal/v6/n3/suppinfo/cddis201513s1.html">Supplementary Figure S6</a>). In our model, oxidative stress is not increased with the overexpression of mutants IDH, which could explain why there was no increase in Gln dependency in our glioma cell lines.</p><p class="norm">Several studies have been published showing opposite effects of mutant IDH on cell death. We show that mutant IDH increases the resistance of gliomas to specific cell death stimuli. Our results are in agreement with the data published by the group of Park, showing an increased sensitivity to radiation in different cell types when IDH1 or IDH2 is silenced.<sup><!--bib22--><a href="#bib22">22</a>, <!--bib23--><a href="#bib23">23</a>, <!--bib24--><a href="#bib24">24</a>, <!--bib25--><a href="#bib25">25</a></sup> However, other studies show increased cell sensitivity to cell death when mutant IDH is overexpressed, in particular in ROS-mediated cell death such as radiation-<sup><!--bib26--><a href="#bib26">26</a></sup> or BCNU-induced cell death.<sup><!--bib27--><a href="#bib27">27</a></sup> However, these cells are addicted to glutaminolysis contrary to the glioma cell lines used in our study. This difference in metabolism could explain the discrepancy observed in cell death sensitivity between the different cell lines. Another explanation for these opposing results could be the specific genetic background of the different cell types, in particular the expressed forms of p53 and EGFR, the methylation status of MGMT and the presence or not of PTEN. This raises the possibility that, in general, the phenotype associated with mutant IDH may be restricted to some cell lines. Mutant IDH may also increase the resistance of gliomas to specific cell death stimuli. Resistance to apoptosis by IDH1<sup>R132</sup> provides a rationale for the high frequency of IDH1<sup>R132</sup> in secondary GBM.</p><p class="norm">Interestingly, our data show that both mutant IDH1 and mutant IDH2 that, respectively, are expressed in cytosol and mitochondria, lead to decreased mitochondrial respiratory reserve. Numerous studies have shown that IDH mutants use <i><span class="mb">&#x003B1;</span></i>KG as a substrate to produce D-2HG instead of producing it. This drain of <i><span class="mb">&#x003B1;</span></i>KG must be balanced to some extent by the cells. There are two ways of converting glutamate (Glu) into <i><span class="mb">&#x003B1;</span></i>KG, either by deamination through glutamate dehydrogenase (GDH) or by transamination through aspartate aminotransferase (AAT).<sup><!--bib28--><a href="#bib28">28</a></sup> Usually, AAT functions in tandem with the malate dehydrogenase (MDH) in the malate&#x02013;aspartate shuttle (MAS), which transfers reducing equivalent NADH from the cytosol to mitochondria. Glycolysis, which is highly upregulated in cancer cells, is a key source of the reduced form of cytosolic NADH, mainly at the level of LDH.<sup><!--bib29--><a href="#bib29">29</a></sup> As a result, the activity of MAS is increased to shuttle the glycolytic NADH into mitochondria.<sup><!--bib30--><a href="#bib30">30</a></sup> However, it has also been shown that the presence or the lack of mitochondrial substrates could greatly influence the ability of AAT to effectively compete with GDH for Glu.<sup><!--bib31--><a href="#bib31">31</a></sup> We speculate that to limit cytosolic and mitochondrial <i><span class="mb">&#x003B1;</span></i>KG depletion induced by the presence of mutant IDH, cells are using AAT, independently of MDH, to produce <i><span class="mb">&#x003B1;</span></i>KG rather than to shuttle NADH in mitochondria (<!--fig7--><a href="#fig7">Figure 7</a>). As a result, the dissociation of AAT activity from MDH results in the accumulation of the reductive power of malate trapped in the cytosol and the reduction of mitochondrial NADH pool built from the MAS activity. Altogether, these effects lead ultimately to a reduced mitochondrial respiratory reserve. Further experiments such as direct inhibition of AAT need to be performed in order to confirm our hypothesis. However, it is in agreement with metabolomic studies showing that mutant IDH is associated with decreased fumarate and malate levels, as well as mitochondrial dysfunction.<sup><!--bib32--><a href="#bib32">32</a></sup> Furthermore, it is reinforced with the recovery of the mitochondrial respiratory reserve with oxamate. Indeed, besides being an inhibitor of LDH, oxamate also inhibits AAT.<sup><!--bib33--><a href="#bib33">33</a>, <!--bib34--><a href="#bib34">34</a></sup> In our study, oxamate did not decrease lactate secretion as predicted by its LDH inhibitory action but instead prevented the mitochondrial respiratory reserve loss only in mutant IDH-overexpressing cells.</p><div id="fig7" class="figure-table"><h5 class="norm"><a href="/cddis/journal/v6/n3/fig_tab/cddis201513f7.html#figure-title">Figure 7.</a></h5><a href="/cddis/journal/v6/n3/fig_tab/cddis201513f7.html#figure-title"><img alt="Figure 7 - Unfortunately we are unable to provide accessible alternative text for this. If you require assistance to access this image, please contact help@nature.com or the author" class="thumb" src="/cddis/journal/v6/n3/thumbs/cddis201513f7th.jpg"/></a><p>Metabolic alterations driven by IDH mutation in U251 cells. In cancer cells, glycolysis upregulation generates the production of reducing equivalents NADH, which is then shuttles from the cytosol to mitochondria with the MAS. Glutamine is converted to glutamate, which is further converted to <i><span class="mb">&#x003B1;</span></i>KG by GDH. IDH also produces <i><span class="mb">&#x003B1;</span></i>KG from isocitrate. In cells expressing IDH1<sup>R132</sup>, IDH1<sup>R132</sup> converts <i><span class="mb">&#x003B1;</span></i>KG into D-2HG. To limit cellular <i><span class="mb">&#x003B1;</span></i>KG depletion, IDH1<sup>R132</sup>-overexpressing cells diverts AAT from MAS function to produce <i><span class="mb">&#x003B1;</span></i>KG. As a result, glycolytic NADH is no longer fully imported into mitochondria. AAT, aspartate aminotransferase; ETC, electron transport chain; GDH, glutamate dehydrogenase; Gln, Glutamine; Glu, Glutamate; IDH, isocitrate dehydrogenase; LDH, lactate dehydrogenase; MAS, malate&#x02013;aspartate shuttle; Pyr, pyruvate; TCA, tricarboxylic acid cycle</p><a class="full" href="/cddis/journal/v6/n3/fig_tab/cddis201513f7.html#figure-title">Full figure and legend (88<abbr title="Kilobyte">K</abbr>)</a><div class="cleardiv"><!-- clearing div --></div></div><br class="clear"/><p class="norm">This metabolic alteration has an important role in the resistance to ETO-induced apoptosis in IDH<sup>R132</sup>-overexpressing cells. ETO is a DNA-topoisomerase II inhibitor widely used in the treatment of diverse tumors.<sup><!--bib35--><a href="#bib35">35</a></sup> Like many other agents, ETO can be used in monotherapy or in combination with other treatments. One of the major pathways of ETO metabolism in cells involves cytochrome P450 reductase, which uses NADPH as a cofactor for its enzymatic activity. Furthermore, it has been shown that ETO-induced apoptosis requires fully functional mitochondria.<sup><!--bib36--><a href="#bib36">36</a></sup> Our data and others show that mutant IDH decreases the cellular NADPH pool combined with the altered mitochondrial metabolism<sup><!--bib37--><a href="#bib37">37</a></sup> may explain the specific resistance to ETO of IDH1<sup>R132</sup>-overexpressing cells.</p><p class="norm">Collectively, our data support the hypothesis that mutant IDH affects tumor progression and therapy resistance, which may, at least in part, explain the high frequency of IDH mutation in secondary GBM. On the basis of our and other observations, D-2HG mediates pro-tumorigenic effects, whereas altered metabolism and in particular the imbalance of NAD<span class="mb">&#x0002B;</span> and NADP<span class="mb">&#x0002B;</span> coenzymes are associated with cell resistance to specific cell death stimuli.</p><p class="norm">In conclusion, IDH mutation deregulates mitochondrial metabolism and as a consequence alters cell sensitivity to specific stimuli. Clinically, a better understanding of IDH mutations will enable IDH-directed therapies to be developed in the future.</p></div><div id="Materials-and-Methods"><a class="backtotop" href="#top">Top<span class="hidden"> of page</span></a><h3>Materials and Methods</h3><h4 class="norm">Cell culture and stable transfection</h4><p class="follows-h4">Glioblastoma U251 and LN18 cell lines were cultured at 37<span class="mb"><span class="mb">&thinsp;</span></span>&#x000B0;C in a humidified atmosphere with 5<span class="mb">&#x00025;</span> CO<sub>2</sub> in Dulbecco's modified Eagle&#x02019;s medium (DMEM) containing 5<span class="mb"><span class="mb">&thinsp;</span></span>g<span class="mb">&#x0002F;</span>l glucose and supplemented with 100<span class="mb"><span class="mb">&thinsp;</span></span>U<span class="mb">&#x0002F;</span>ml penicillin, 100<span class="mb"><span class="mb">&thinsp;</span></span><i>&#x003BC;</i>g<span class="mb">&#x0002F;</span>ml streptomycin, 2<span class="mb"><span class="mb">&thinsp;</span></span>mM Gln and, respectively, 10<span class="mb">&#x00025;</span> and 5<span class="mb">&#x00025;</span> fetal calf serum (FCS). T98 cells were cultured in DMEM 1<span class="mb"><span class="mb">&thinsp;</span></span>g<span class="mb">&#x0002F;</span>l glucose, supplemented with penicillin, streptomycin, Gln and 10<span class="mb">&#x00025;</span> FCS. Cells were seeded in 12-well plates and transfected with Lipofectamine 2000 transfection reagent as recommended by the manufacturer (Life Technologies, Carlsbad, CA, USA). The expression vectors for wild-type and mutated IDH1 and IDH2 were described previously.<sup><!--bib38--><a href="#bib38">38</a></sup> U251, LN18 and T98 stable cells lines overexpressing IDH were selected using geneticin (Life Technologies). Hydroxyglutarate was purchased from Peptech (Bedford, MA, USA) and <i><span class="mb">&#x003B1;</span></i>KG, dimethyl-<i><span class="mb">&#x003B1;</span></i>KG and oxamate from Sigma (St Louis, MO, USA). For cell death experiments, 0.5 &#x000D7; 10<sup>6</sup> cells were plated and treated the next day with 50<span class="mb"><span class="mb">&thinsp;</span></span><i>&#x003BC;</i>g<span class="mb">&#x0002F;</span>ml ETO (Mylan, St Priest, France), 50<span class="mb"><span class="mb">&thinsp;</span></span>ng<span class="mb">&#x0002F;</span>ml TRAIL (PreproTech, Neuilly sur-Seine, France), 60ng<span class="mb">&#x0002F;</span>ml FASL (PreproTech) and 15<span class="mb"><span class="mb">&thinsp;</span></span><i>&#x003BC;</i>g<span class="mb">&#x0002F;</span>ml cisplatin (Mylan). <i><span class="mb">&#x003B3;</span></i>-Irradiation was carried out in a Faxitron CP160 irradiator (Faxitron X-ray Corporation, Tucson, AZ, USA) at a dose rate of 5<span class="mb"><span class="mb">&thinsp;</span></span>Gy. The number of dead cells was evaluated by FACS after incubation of 5<span class="mb"><span class="mb">&thinsp;</span></span>min with propidium iodide (Sigma).</p><div class="norm"><!-- . --></div><h4 class="norm">Cell counts, viability and clonogenicity assay</h4><p class="follows-h4">Cell counts and viability were performed using the Countess optics and image automated cell counter (Life Technologies). Cells were mixed with trypan blue (50<span class="mb">&#x0002F;</span>50) and loaded into a Countess chamber slide. The image analysis software was used to automatically analyze the acquired cell images from the sample to give cell count and viability. Data were plotted either as the number of viable cells for cell proliferation or as the percent of dead cells for viability assessment. For cell proliferation, cells were seeded at 100.000 cells and counted every 3 to 4 days. For the clonogenicity assay, 500 cells were seeded on a 6-well plate. After 1 week, cells were fixed and stained with a solution of violet crystal 0.05<span class="mb">&#x00025;</span> in ethanol 50<span class="mb">&#x00025;</span>. The number of colonies is counted.</p><div class="norm"><!-- . --></div><h4 class="norm">ROS and mitochondrial membrane potential</h4><p class="follows-h4">ROS production was measured using a DCFDA probe (Life Technologies). Cells were seeded at 2. &#x000D7; 10<sup>4</sup> cells in a 96-well plate and incubated with the DCFDA probe. The fluorescence is measured at 538<span class="mb"><span class="mb">&thinsp;</span></span>nm every 3<span class="mb"><span class="mb">&thinsp;</span></span>min for 75<span class="mb"><span class="mb">&thinsp;</span></span>min. Mitochondrial membrane potential was evaluated by FACS analysis using JC-1 probe (Life Technologies) staining accordingly to the manufacturer&#x02019;s instruction.</p><div class="norm"><!-- . --></div><h4 class="norm">Biochemical analysis</h4><p class="follows-h4">Production of NADH and NADPH was measured using, respectively, the NAD<span class="mb">&#x0002F;</span>NADH kit (Abcam, Cambridge, UK) and the NADP<span class="mb">&#x0002F;</span>NADPH kit (Abcam) according to the manufacturer&#x02019;s instruction. Lactate and LDH activity were measured using the Roche diagnostic kit on a Cobas 8000 (Roche Diagnostics, Mannheim, DE, USA) as described previously.<sup><!--bib39--><a href="#bib39">39</a></sup></p><div class="norm"><!-- . --></div><h4 class="norm">Protein lysates, immunoblotting and caspase activation</h4><p class="follows-h4">Cells were lysed at the indicated time points in RIPA lysis buffer (25<span class="mb"><span class="mb">&thinsp;</span></span>mM Tris-HCl, pH 7.6 containing 150<span class="mb"><span class="mb">&thinsp;</span></span>mM NaCl, 1<span class="mb">&#x00025;</span> NP40, 1<span class="mb">&#x00025;</span> Na-deoxycholate and 0.1<span class="mb">&#x00025;</span> SDS) supplemented with protease inhibitors. Protein concentration was determined using BCA protein assay (Sigma). Samples were adjusted accordingly, analyzed by SDS-PAGE and subsequent immunoblotting with antibodies that recognize IDH1 (Abcam), IDH2 (Abcam), IDH1-R132H (Dianova, Hamburg, Germany), actin (Millipore, Billerica, MA, USA), Bax (BD Pharmingen, San Jose, CA, USA), Bcl2 (BD Pharmingen), XIAP (R&amp;D system, Abingdon, UK), tBid (R&amp;D System), porin (Calbiochem, Nottingham, UK), survivin (Cell Signaling Technology, Danvers, MA, USA). HRP-conjugated secondary antibodies were from BioRad (Marnes-la-Coquette, France). The ImageJ 1.42q software (NIH) was used to digitally quantify the signal intensities of western blot bands. Caspase 3 activity was quantified using the fluorogenic substrate Ac-DEVD-AMC, as described in.<sup><!--bib15--><a href="#bib15">15</a></sup></p><div class="norm"><!-- . --></div><h4 class="norm">OCR and extracellular consumption rate (ECAR)</h4><p class="follows-h4">Cells were plated at 40<span class="mb"><span class="mb">&thinsp;</span></span>000 cells per well in 24-well XF (extracellular flux) cell culture microplate (Seahorse Bioscience, Copenhagen, Denmark). OCR was measured the next day using a XF24 Analyzer (Seahorse Bioscience). Cells were equilibrated for 1<span class="mb"><span class="mb">&thinsp;</span></span>h at 37<span class="mb"><span class="mb">&thinsp;</span></span>&#x000B0;C in bicarbonate-free DMEM (Sigma) supplemented with 25<span class="mb"><span class="mb">&thinsp;</span></span>mM glucose, 1<span class="mb"><span class="mb">&thinsp;</span></span>mM pyruvate and 2<span class="mb"><span class="mb">&thinsp;</span></span>mM Gln, pH 7.3 before any measurement. To determine mitochondrial parameters, OCR was measured at baseline and after addition of oligomycin (0.4<span class="mb"><span class="mb">&thinsp;</span></span><i>&#x003BC;</i>M), FCCP (2<span class="mb"><span class="mb">&thinsp;</span></span><i>&#x003BC;</i>M), rotenone (0.6<span class="mb"><span class="mb">&thinsp;</span></span><i>&#x003BC;</i>M) and antimycin A (0.6<span class="mb"><span class="mb">&thinsp;</span></span><i>&#x003BC;</i>M). All measurements were done at least in three wells per condition, twice for each experiment. Respiratory reserve was calculated as maximal OCR, after oligomycin and CCCP injections, minus basal OCR. Coupling efficiency corresponded to OCR inhibition by oligomycin. Relative contribution of complex I and II to OCR corresponded, respectively, to OCR inhibition by rotenone and antimycin A.</p><div class="norm"><!-- . --></div><h4 class="norm">Statistical analysis</h4><p class="follows-h4">Experiments were done at least three times and data were analyzed using GraphPad Prism 5.00 (GraphPad Software, San Diego, CA, USA). Differences with <i>P</i>-values&#x3C;0.05 were considered statistically significant.</p><div class="norm"><!-- . --></div></div>
+				<span class="cleardiv"><!-- --></span>
+				<div id="conflict-of-interest"><a class="backtotop" href="#top">Top<span class="hidden"> of page</span></a><h3>Conflict of interest</h3><p class="norm">The authors declare no conflict of interest.</p></div><div id="References"><a class="backtotop" href="#top">Top<span class="hidden"> of page</span></a><h3>References</h3>
+	<ol class="norm"><li id="bib1"><a name="bib1"><!-- . --></a>Parsons DW, Jones S, Zhang X, Lin JC-H, Leary RJ, Angenendt P <i>et al</i>. An integrated genomic analysis of human glioblastoma multiforme. <span class="journal">Science</span> 2008; <span class="jnumber">321</span>: 1807&#x02013;1812.&nbsp;|&nbsp;<a href="http://dx.doi.org/10.1126/science.1164382" class="reftxt" title="">Article</a>&nbsp;|&nbsp;<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?holding=npg&amp;amp;cmd=Retrieve&amp;amp;db=PubMed&amp;amp;list_uids=18772396&amp;amp;dopt=Abstract" class="reftxt" title="Article on PubMed - ">PubMed</a>&nbsp;|&nbsp;<a href="http://links.isiglobalnet2.com/gateway/Gateway.cgi?&amp;amp;GWVersion=2&amp;amp;SrcAuth=Nature&amp;amp;SrcApp=Nature&amp;amp;DestLinkType=FullRecord&amp;amp;KeyUT=000259501300030&amp;amp;DestApp=WOS_CPL" class="reftxt" title="Article on ISI - ">ISI</a>&nbsp;|&nbsp;<a href="http://chemport.cas.org/cgi-bin/sdcgi?APP=ftslink&amp;action=reflink&amp;origin=npg&amp;version=1.0&amp;coi=1:CAS:528:DC%2BD1cXhtFCrtLrE&amp;pissn={printIssn}&amp;pyear=2015&amp;md5=c0d1ebcb21b3ca61e76c4da1400dda52" class="reftxt" title="Article on CAS - ">CAS</a>&nbsp;|</li><li id="bib2"><a name="bib2"><!-- . --></a>Yan H, Parsons DW, Jin G, McLendon R, Rasheed BA, Yuan W <i>et al</i>. IDH1 and IDH2 mutations in gliomas. <span class="journal">N Engl J Med</span> 2009; <span class="jnumber">360</span>: 765&#x02013;773.&nbsp;|&nbsp;<a href="http://dx.doi.org/10.1056/NEJMoa0808710" class="reftxt" title="">Article</a>&nbsp;|&nbsp;<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?holding=npg&amp;amp;cmd=Retrieve&amp;amp;db=PubMed&amp;amp;list_uids=19228619&amp;amp;dopt=Abstract" class="reftxt" title="Article on PubMed - ">PubMed</a>&nbsp;|&nbsp;<a href="http://links.isiglobalnet2.com/gateway/Gateway.cgi?&amp;amp;GWVersion=2&amp;amp;SrcAuth=Nature&amp;amp;SrcApp=Nature&amp;amp;DestLinkType=FullRecord&amp;amp;KeyUT=000263411300006&amp;amp;DestApp=WOS_CPL" class="reftxt" title="Article on ISI - ">ISI</a>&nbsp;|&nbsp;<a href="http://chemport.cas.org/cgi-bin/sdcgi?APP=ftslink&amp;action=reflink&amp;origin=npg&amp;version=1.0&amp;coi=1:CAS:528:DC%2BD1MXitFWru7o%3D&amp;pissn={printIssn}&amp;pyear=2015&amp;md5=ba5370c50f2077b578b9f23a0da62eb4" class="reftxt" title="Article on CAS - ">CAS</a>&nbsp;|</li><li id="bib3"><a name="bib3"><!-- . --></a>Mardis ER, Ding L, Dooling DJ, Larson DE, McLellan MD, Chen K <i>et al</i>. Recurring mutations found by sequencing an acute myeloid leukemia genome. <span class="journal">N Engl J Med</span> 2009; <span class="jnumber">361</span>: 1058&#x02013;1066.&nbsp;|&nbsp;<a href="http://dx.doi.org/10.1056/NEJMoa0903840" class="reftxt" title="">Article</a>&nbsp;|&nbsp;<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?holding=npg&amp;amp;cmd=Retrieve&amp;amp;db=PubMed&amp;amp;list_uids=19657110&amp;amp;dopt=Abstract" class="reftxt" title="Article on PubMed - ">PubMed</a>&nbsp;|&nbsp;<a href="http://links.isiglobalnet2.com/gateway/Gateway.cgi?&amp;amp;GWVersion=2&amp;amp;SrcAuth=Nature&amp;amp;SrcApp=Nature&amp;amp;DestLinkType=FullRecord&amp;amp;KeyUT=000269659400008&amp;amp;DestApp=WOS_CPL" class="reftxt" title="Article on ISI - ">ISI</a>&nbsp;|&nbsp;<a href="http://chemport.cas.org/cgi-bin/sdcgi?APP=ftslink&amp;action=reflink&amp;origin=npg&amp;version=1.0&amp;coi=1:CAS:528:DC%2BD1MXhtFaltLvL&amp;pissn={printIssn}&amp;pyear=2015&amp;md5=4694722069f304e05e608ad2da0e9d2c" class="reftxt" title="Article on CAS - ">CAS</a>&nbsp;|</li><li id="bib4"><a name="bib4"><!-- . --></a>Amary MF, Bacsi K, Maggiani F, Damato S, Halai D, Berisha F <i>et al</i>. IDH1 and IDH2 mutations are frequent events in central chondrosarcoma and central and periosteal chondromas but not in other mesenchymal tumours. <span class="journal">J Pathol</span> 2011; <span class="jnumber">224</span>: 334&#x02013;343.&nbsp;|&nbsp;<a href="http://dx.doi.org/10.1002/path.2913" class="reftxt" title="">Article</a>&nbsp;|&nbsp;<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?holding=npg&amp;amp;cmd=Retrieve&amp;amp;db=PubMed&amp;amp;list_uids=21598255&amp;amp;dopt=Abstract" class="reftxt" title="Article on PubMed - ">PubMed</a>&nbsp;|&nbsp;<a href="http://links.isiglobalnet2.com/gateway/Gateway.cgi?&amp;amp;GWVersion=2&amp;amp;SrcAuth=Nature&amp;amp;SrcApp=Nature&amp;amp;DestLinkType=FullRecord&amp;amp;KeyUT=000291389500007&amp;amp;DestApp=WOS_CPL" class="reftxt" title="Article on ISI - ">ISI</a>&nbsp;|&nbsp;<a href="http://chemport.cas.org/cgi-bin/sdcgi?APP=ftslink&amp;action=reflink&amp;origin=npg&amp;version=1.0&amp;coi=1:CAS:528:DC%2BC3MXntVGms7c%3D&amp;pissn={printIssn}&amp;pyear=2015&amp;md5=6dd0e0905b18bd487d895ce7e11dd254" class="reftxt" title="Article on CAS - ">CAS</a>&nbsp;|</li><li id="bib5"><a name="bib5"><!-- . --></a>Louis DN, Ohgaki H, Wiestler OD, Cavenee WK, Burger PC, Jouvet A <i>et al</i>. The 2007 WHO Classification of Tumours of the Central Nervous System. <span class="journal">Acta Neuropathol (Berl)</span> 2007; <span class="jnumber">114</span>: 97&#x02013;109.&nbsp;|&nbsp;<a href="http://dx.doi.org/10.1007/s00401-007-0243-4" class="reftxt" title="">Article</a>&nbsp;|&nbsp;<a href="http://links.isiglobalnet2.com/gateway/Gateway.cgi?&amp;amp;GWVersion=2&amp;amp;SrcAuth=Nature&amp;amp;SrcApp=Nature&amp;amp;DestLinkType=FullRecord&amp;amp;KeyUT=000248046800001&amp;amp;DestApp=WOS_CPL" class="reftxt" title="Article on ISI - ">ISI</a>&nbsp;|</li><li id="bib6"><a name="bib6"><!-- . --></a>Abdel-Wahab O, Patel J, Levine RL. Clinical implications of novel mutations in epigenetic modifiers in AML. <span class="journal">Hematol Oncol Clin North Am</span> 2011; <span class="jnumber">25</span>: 1119&#x02013;1133.&nbsp;|&nbsp;<a href="http://dx.doi.org/10.1016/j.hoc.2011.09.013" class="reftxt" title="">Article</a>&nbsp;|&nbsp;<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?holding=npg&amp;amp;cmd=Retrieve&amp;amp;db=PubMed&amp;amp;list_uids=22093580&amp;amp;dopt=Abstract" class="reftxt" title="Article on PubMed - ">PubMed</a>&nbsp;|&nbsp;<a href="http://links.isiglobalnet2.com/gateway/Gateway.cgi?&amp;amp;GWVersion=2&amp;amp;SrcAuth=Nature&amp;amp;SrcApp=Nature&amp;amp;DestLinkType=FullRecord&amp;amp;KeyUT=000298309700002&amp;amp;DestApp=WOS_CPL" class="reftxt" title="Article on ISI - ">ISI</a>&nbsp;|</li><li id="bib7"><a name="bib7"><!-- . --></a>Rakheja D, Konoplev S, Medeiros LJ, Chen W. IDH mutations in acute myeloid leukemia. <span class="journal">Hum Pathol</span> 2012; <span class="jnumber">43</span>: 1541&#x02013;1551.&nbsp;|&nbsp;<a href="http://dx.doi.org/10.1016/j.humpath.2012.05.003" class="reftxt" title="">Article</a>&nbsp;|&nbsp;<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?holding=npg&amp;amp;cmd=Retrieve&amp;amp;db=PubMed&amp;amp;list_uids=22917530&amp;amp;dopt=Abstract" class="reftxt" title="Article on PubMed - ">PubMed</a>&nbsp;|&nbsp;<a href="http://links.isiglobalnet2.com/gateway/Gateway.cgi?&amp;amp;GWVersion=2&amp;amp;SrcAuth=Nature&amp;amp;SrcApp=Nature&amp;amp;DestLinkType=FullRecord&amp;amp;KeyUT=000309693600003&amp;amp;DestApp=WOS_CPL" class="reftxt" title="Article on ISI - ">ISI</a>&nbsp;|&nbsp;<a href="http://chemport.cas.org/cgi-bin/sdcgi?APP=ftslink&amp;action=reflink&amp;origin=npg&amp;version=1.0&amp;coi=1:CAS:528:DC%2BC38Xht1emt7zP&amp;pissn={printIssn}&amp;pyear=2015&amp;md5=c37a9e385e164d0bf384a7a99e6ff10b" class="reftxt" title="Article on CAS - ">CAS</a>&nbsp;|</li><li id="bib8"><a name="bib8"><!-- . --></a>Pecqueur C, Oliver L, Oizel K, Lalier L, Vallette FM. Targeting metabolism to induce cell death in cancer cells and cancer stem cells. <span class="journal">Int J Cell Biol</span> 2013; <span class="jnumber">2013</span>: 1&#x02013;13.&nbsp;|&nbsp;<a href="http://dx.doi.org/10.1155/2013/805975" class="reftxt" title="">Article</a>&nbsp;|</li><li id="bib9"><a name="bib9"><!-- . --></a>Dang L, White DW, Gross S, Bennett BD, Bittinger MA, Driggers EM <i>et al</i>. Cancer-associated IDH1 mutations produce 2-hydroxyglutarate. <span class="journal">Nature</span> 2009; <span class="jnumber">462</span>: 739&#x02013;744.&nbsp;|&nbsp;<a href="http://www.nature.com/doifinder/10.1038/nature08617" class="reftxt" title="Article on Article - ">Article</a>&nbsp;|&nbsp;<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?holding=npg&amp;amp;cmd=Retrieve&amp;amp;db=PubMed&amp;amp;list_uids=19935646&amp;amp;dopt=Abstract" class="reftxt" title="Article on PubMed - ">PubMed</a>&nbsp;|&nbsp;<a href="http://links.isiglobalnet2.com/gateway/Gateway.cgi?&amp;amp;GWVersion=2&amp;amp;SrcAuth=Nature&amp;amp;SrcApp=Nature&amp;amp;DestLinkType=FullRecord&amp;amp;KeyUT=000272559900029&amp;amp;DestApp=WOS_CPL" class="reftxt" title="Article on ISI - ">ISI</a>&nbsp;|&nbsp;<a href="http://chemport.cas.org/cgi-bin/sdcgi?APP=ftslink&amp;action=reflink&amp;origin=npg&amp;version=1.0&amp;coi=1:CAS:528:DC%2BD1MXhsVGlurzE&amp;pissn={printIssn}&amp;pyear=2015&amp;md5=186bc01bdc29b14827d8db98664d4b9b" class="reftxt" title="Article on CAS - ">CAS</a>&nbsp;|</li><li id="bib10"><a name="bib10"><!-- . --></a>Reitman ZJ, Yan H. Isocitrate dehydrogenase 1 and 2 mutations in cancer: alterations at a crossroads of cellular metabolism. <span class="journal">J Natl Cancer Inst</span> 2010; <span class="jnumber">102</span>: 932&#x02013;941.&nbsp;|&nbsp;<a href="http://dx.doi.org/10.1093/jnci/djq187" class="reftxt" title="">Article</a>&nbsp;|&nbsp;<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?holding=npg&amp;amp;cmd=Retrieve&amp;amp;db=PubMed&amp;amp;list_uids=20513808&amp;amp;dopt=Abstract" class="reftxt" title="Article on PubMed - ">PubMed</a>&nbsp;|&nbsp;<a href="http://links.isiglobalnet2.com/gateway/Gateway.cgi?&amp;amp;GWVersion=2&amp;amp;SrcAuth=Nature&amp;amp;SrcApp=Nature&amp;amp;DestLinkType=FullRecord&amp;amp;KeyUT=000279925600007&amp;amp;DestApp=WOS_CPL" class="reftxt" title="Article on ISI - ">ISI</a>&nbsp;|&nbsp;<a href="http://chemport.cas.org/cgi-bin/sdcgi?APP=ftslink&amp;action=reflink&amp;origin=npg&amp;version=1.0&amp;coi=1:CAS:528:DC%2BC3cXptlegs7c%3D&amp;pissn={printIssn}&amp;pyear=2015&amp;md5=36877d7286c8ebbed3176e38498074bf" class="reftxt" title="Article on CAS - ">CAS</a>&nbsp;|</li><li id="bib11"><a name="bib11"><!-- . --></a>Leonardi R, Subramanian C, Jackowski S, Rock CO. Cancer-associated isocitrate dehydrogenase mutations inactivate NADPH-dependent reductive carboxylation. <span class="journal">J Biol Chem</span> 2012; <span class="jnumber">287</span>: 14615&#x02013;14620.&nbsp;|&nbsp;<a href="http://dx.doi.org/10.1074/jbc.C112.353946" class="reftxt" title="">Article</a>&nbsp;|&nbsp;<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?holding=npg&amp;amp;cmd=Retrieve&amp;amp;db=PubMed&amp;amp;list_uids=22442146&amp;amp;dopt=Abstract" class="reftxt" title="Article on PubMed - ">PubMed</a>&nbsp;|&nbsp;<a href="http://links.isiglobalnet2.com/gateway/Gateway.cgi?&amp;amp;GWVersion=2&amp;amp;SrcAuth=Nature&amp;amp;SrcApp=Nature&amp;amp;DestLinkType=FullRecord&amp;amp;KeyUT=000304003200028&amp;amp;DestApp=WOS_CPL" class="reftxt" title="Article on ISI - ">ISI</a>&nbsp;|&nbsp;<a href="http://chemport.cas.org/cgi-bin/sdcgi?APP=ftslink&amp;action=reflink&amp;origin=npg&amp;version=1.0&amp;coi=1:CAS:528:DC%2BC38Xmt1Wqtb8%3D&amp;pissn={printIssn}&amp;pyear=2015&amp;md5=55d4128a11d05db050fe6cf1270b5f56" class="reftxt" title="Article on CAS - ">CAS</a>&nbsp;|</li><li id="bib12"><a name="bib12"><!-- . --></a>Oermann EK, Wu J, Guan K-L, Xiong Y. Alterations of metabolic genes and metabolites in cancer. <span class="journal">Semin Cell Dev Biol</span> 2012; <span class="jnumber">23</span>: 370&#x02013;380.&nbsp;|&nbsp;<a href="http://dx.doi.org/10.1016/j.semcdb.2012.01.013" class="reftxt" title="">Article</a>&nbsp;|&nbsp;<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?holding=npg&amp;amp;cmd=Retrieve&amp;amp;db=PubMed&amp;amp;list_uids=22306135&amp;amp;dopt=Abstract" class="reftxt" title="Article on PubMed - ">PubMed</a>&nbsp;|&nbsp;<a href="http://links.isiglobalnet2.com/gateway/Gateway.cgi?&amp;amp;GWVersion=2&amp;amp;SrcAuth=Nature&amp;amp;SrcApp=Nature&amp;amp;DestLinkType=FullRecord&amp;amp;KeyUT=000305147500004&amp;amp;DestApp=WOS_CPL" class="reftxt" title="Article on ISI - ">ISI</a>&nbsp;|</li><li id="bib13"><a name="bib13"><!-- . --></a>Chowdhury R, Yeoh KK, Tian Y-M, Hillringhaus L, Bagg EA, Rose NR <i>et al</i>. The oncometabolite 2-hydroxyglutarate inhibits histone lysine demethylases. <span class="journal">EMBO Rep</span> 2011; <span class="jnumber">12</span>: 463&#x02013;469.&nbsp;|&nbsp;<a href="http://www.nature.com/doifinder/10.1038/embor.2011.43" class="reftxt" title="Article on Article - ">Article</a>&nbsp;|&nbsp;<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?holding=npg&amp;amp;cmd=Retrieve&amp;amp;db=PubMed&amp;amp;list_uids=21460794&amp;amp;dopt=Abstract" class="reftxt" title="Article on PubMed - ">PubMed</a>&nbsp;|&nbsp;<a href="http://links.isiglobalnet2.com/gateway/Gateway.cgi?&amp;amp;GWVersion=2&amp;amp;SrcAuth=Nature&amp;amp;SrcApp=Nature&amp;amp;DestLinkType=FullRecord&amp;amp;KeyUT=000289971000021&amp;amp;DestApp=WOS_CPL" class="reftxt" title="Article on ISI - ">ISI</a>&nbsp;|&nbsp;<a href="http://chemport.cas.org/cgi-bin/sdcgi?APP=ftslink&amp;action=reflink&amp;origin=npg&amp;version=1.0&amp;coi=1:CAS:528:DC%2BC3MXktFahs74%3D&amp;pissn={printIssn}&amp;pyear=2015&amp;md5=b131318a28a59f6e83687fe27ecbde0b" class="reftxt" title="Article on CAS - ">CAS</a>&nbsp;|</li><li id="bib14"><a name="bib14"><!-- . --></a>Xu W, Yang H, Liu Y, Yang Y, Wang P, Kim S-H <i>et al</i>. Oncometabolite 2-hydroxyglutarate is a competitive inhibitor of <span class="mb">&#x003B1;</span>-ketoglutarate-dependent dioxygenases. <span class="journal">Cancer Cell</span> 2011; <span class="jnumber">19</span>: 17&#x02013;30.&nbsp;|&nbsp;<a href="http://dx.doi.org/10.1016/j.ccr.2010.12.014" class="reftxt" title="">Article</a>&nbsp;|&nbsp;<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?holding=npg&amp;amp;cmd=Retrieve&amp;amp;db=PubMed&amp;amp;list_uids=21251613&amp;amp;dopt=Abstract" class="reftxt" title="Article on PubMed - ">PubMed</a>&nbsp;|&nbsp;<a href="http://links.isiglobalnet2.com/gateway/Gateway.cgi?&amp;amp;GWVersion=2&amp;amp;SrcAuth=Nature&amp;amp;SrcApp=Nature&amp;amp;DestLinkType=FullRecord&amp;amp;KeyUT=000287290300007&amp;amp;DestApp=WOS_CPL" class="reftxt" title="Article on ISI - ">ISI</a>&nbsp;|&nbsp;<a href="http://chemport.cas.org/cgi-bin/sdcgi?APP=ftslink&amp;action=reflink&amp;origin=npg&amp;version=1.0&amp;coi=1:CAS:528:DC%2BC3MXpvValsQ%3D%3D&amp;pissn={printIssn}&amp;pyear=2015&amp;md5=80e0f6f8159522eee1a32310f0b57376" class="reftxt" title="Article on CAS - ">CAS</a>&nbsp;|</li><li id="bib15"><a name="bib15"><!-- . --></a>Cartron P-F, Juin P, Oliver L, Martin S, Meflah K, Vallette FM. Nonredundant role of bax and bak in bid-mediated apoptosis. <span class="journal">Mol Cell Biol</span> 2003; <span class="jnumber">23</span>: 4701&#x02013;4712.&nbsp;|&nbsp;<a href="http://dx.doi.org/10.1128/MCB.23.13.4701-4712.2003" class="reftxt" title="">Article</a>&nbsp;|&nbsp;<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?holding=npg&amp;amp;cmd=Retrieve&amp;amp;db=PubMed&amp;amp;list_uids=12808108&amp;amp;dopt=Abstract" class="reftxt" title="Article on PubMed - ">PubMed</a>&nbsp;|&nbsp;<a href="http://links.isiglobalnet2.com/gateway/Gateway.cgi?&amp;amp;GWVersion=2&amp;amp;SrcAuth=Nature&amp;amp;SrcApp=Nature&amp;amp;DestLinkType=FullRecord&amp;amp;KeyUT=000183848200024&amp;amp;DestApp=WOS_CPL" class="reftxt" title="Article on ISI - ">ISI</a>&nbsp;|&nbsp;<a href="http://chemport.cas.org/cgi-bin/sdcgi?APP=ftslink&amp;action=reflink&amp;origin=npg&amp;version=1.0&amp;coi=1:CAS:528:DC%2BD3sXltVSitLs%3D&amp;pissn={printIssn}&amp;pyear=2015&amp;md5=9a206d1e21aa3f672b5ca120a0a07034" class="reftxt" title="Article on CAS - ">CAS</a>&nbsp;|</li><li id="bib16"><a name="bib16"><!-- . --></a>Figueroa ME, Abdel-Wahab O, Lu C, Ward PS, Patel J, Shih A <i>et al</i>. Leukemic IDH1 and IDH2 mutations result in a hypermethylation phenotype, disrupt TET2 function, and impair hematopoietic differentiation. <span class="journal">Cancer Cell</span> 2010; <span class="jnumber">18</span>: 553&#x02013;567.&nbsp;|&nbsp;<a href="http://dx.doi.org/10.1016/j.ccr.2010.11.015" class="reftxt" title="">Article</a>&nbsp;|&nbsp;<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?holding=npg&amp;amp;cmd=Retrieve&amp;amp;db=PubMed&amp;amp;list_uids=21130701&amp;amp;dopt=Abstract" class="reftxt" title="Article on PubMed - ">PubMed</a>&nbsp;|&nbsp;<a href="http://links.isiglobalnet2.com/gateway/Gateway.cgi?&amp;amp;GWVersion=2&amp;amp;SrcAuth=Nature&amp;amp;SrcApp=Nature&amp;amp;DestLinkType=FullRecord&amp;amp;KeyUT=000285527300007&amp;amp;DestApp=WOS_CPL" class="reftxt" title="Article on ISI - ">ISI</a>&nbsp;|&nbsp;<a href="http://chemport.cas.org/cgi-bin/sdcgi?APP=ftslink&amp;action=reflink&amp;origin=npg&amp;version=1.0&amp;coi=1:CAS:528:DC%2BC3cXhsFGhsbvJ&amp;pissn={printIssn}&amp;pyear=2015&amp;md5=cd5c8fedb8973a391310490167d04876" class="reftxt" title="Article on CAS - ">CAS</a>&nbsp;|</li><li id="bib17"><a name="bib17"><!-- . --></a>Turcan S, Rohle D, Goenka A, Walsh LA, Fang F, Yilmaz E <i>et al</i>. IDH1 mutation is sufficient to establish the glioma hypermethylator phenotype. <span class="journal">Nature</span> 2012; <span class="jnumber">483</span>: 479&#x02013;483.&nbsp;|&nbsp;<a href="http://www.nature.com/doifinder/10.1038/nature10866" class="reftxt" title="Article on Article - ">Article</a>&nbsp;|&nbsp;<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?holding=npg&amp;amp;cmd=Retrieve&amp;amp;db=PubMed&amp;amp;list_uids=22343889&amp;amp;dopt=Abstract" class="reftxt" title="Article on PubMed - ">PubMed</a>&nbsp;|&nbsp;<a href="http://links.isiglobalnet2.com/gateway/Gateway.cgi?&amp;amp;GWVersion=2&amp;amp;SrcAuth=Nature&amp;amp;SrcApp=Nature&amp;amp;DestLinkType=FullRecord&amp;amp;KeyUT=000301771200046&amp;amp;DestApp=WOS_CPL" class="reftxt" title="Article on ISI - ">ISI</a>&nbsp;|&nbsp;<a href="http://chemport.cas.org/cgi-bin/sdcgi?APP=ftslink&amp;action=reflink&amp;origin=npg&amp;version=1.0&amp;coi=1:CAS:528:DC%2BC38XisVKktLc%3D&amp;pissn={printIssn}&amp;pyear=2015&amp;md5=8c44b9bd4e2aac9551822a1abb44f696" class="reftxt" title="Article on CAS - ">CAS</a>&nbsp;|</li><li id="bib18"><a name="bib18"><!-- . --></a>Lu C, Ward PS, Kapoor GS, Rohle D, Turcan S, Abdel-Wahab O <i>et al</i>. IDH mutation impairs histone demethylation and results in a block to cell differentiation. <span class="journal">Nature</span> 2012; <span class="jnumber">483</span>: 474&#x02013;478.&nbsp;|&nbsp;<a href="http://www.nature.com/doifinder/10.1038/nature10860" class="reftxt" title="Article on Article - ">Article</a>&nbsp;|&nbsp;<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?holding=npg&amp;amp;cmd=Retrieve&amp;amp;db=PubMed&amp;amp;list_uids=22343901&amp;amp;dopt=Abstract" class="reftxt" title="Article on PubMed - ">PubMed</a>&nbsp;|&nbsp;<a href="http://links.isiglobalnet2.com/gateway/Gateway.cgi?&amp;amp;GWVersion=2&amp;amp;SrcAuth=Nature&amp;amp;SrcApp=Nature&amp;amp;DestLinkType=FullRecord&amp;amp;KeyUT=000301771200045&amp;amp;DestApp=WOS_CPL" class="reftxt" title="Article on ISI - ">ISI</a>&nbsp;|&nbsp;<a href="http://chemport.cas.org/cgi-bin/sdcgi?APP=ftslink&amp;action=reflink&amp;origin=npg&amp;version=1.0&amp;coi=1:CAS:528:DC%2BC38XisVKks74%3D&amp;pissn={printIssn}&amp;pyear=2015&amp;md5=246f11323efcaf0ec8ccb92ea38a9e93" class="reftxt" title="Article on CAS - ">CAS</a>&nbsp;|</li><li id="bib19"><a name="bib19"><!-- . --></a>Losman J-A, Looper RE, Koivunen P, Lee S, Schneider RK, McMahon C <i>et al</i>. (R)-2-hydroxyglutarate is sufficient to promote leukemogenesis and its effects are reversible. <span class="journal">Science</span> 2013; <span class="jnumber">339</span>: 1621&#x02013;1625.&nbsp;|&nbsp;<a href="http://dx.doi.org/10.1126/science.1231677" class="reftxt" title="">Article</a>&nbsp;|&nbsp;<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?holding=npg&amp;amp;cmd=Retrieve&amp;amp;db=PubMed&amp;amp;list_uids=23393090&amp;amp;dopt=Abstract" class="reftxt" title="Article on PubMed - ">PubMed</a>&nbsp;|&nbsp;<a href="http://links.isiglobalnet2.com/gateway/Gateway.cgi?&amp;amp;GWVersion=2&amp;amp;SrcAuth=Nature&amp;amp;SrcApp=Nature&amp;amp;DestLinkType=FullRecord&amp;amp;KeyUT=000316731600053&amp;amp;DestApp=WOS_CPL" class="reftxt" title="Article on ISI - ">ISI</a>&nbsp;|&nbsp;<a href="http://chemport.cas.org/cgi-bin/sdcgi?APP=ftslink&amp;action=reflink&amp;origin=npg&amp;version=1.0&amp;coi=1:CAS:528:DC%2BC3sXksFOhsLc%3D&amp;pissn={printIssn}&amp;pyear=2015&amp;md5=d3ab58df8693d4ec0d026e82acff62ad" class="reftxt" title="Article on CAS - ">CAS</a>&nbsp;|</li><li id="bib20"><a name="bib20"><!-- . --></a>Bralten LBC, Kloosterhof NK, Balvers R, Sacchetti A, Lapre L, Lamfers M <i>et al</i>. IDH1 R132H decreases proliferation of glioma cell lines <i>in vitro</i> and <i>in vivo</i>. <span class="journal">Ann Neurol</span> 2011; <span class="jnumber">69</span>: 455&#x02013;463.&nbsp;|&nbsp;<a href="http://dx.doi.org/10.1002/ana.22390" class="reftxt" title="">Article</a>&nbsp;|&nbsp;<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?holding=npg&amp;amp;cmd=Retrieve&amp;amp;db=PubMed&amp;amp;list_uids=21446021&amp;amp;dopt=Abstract" class="reftxt" title="Article on PubMed - ">PubMed</a>&nbsp;|&nbsp;<a href="http://links.isiglobalnet2.com/gateway/Gateway.cgi?&amp;amp;GWVersion=2&amp;amp;SrcAuth=Nature&amp;amp;SrcApp=Nature&amp;amp;DestLinkType=FullRecord&amp;amp;KeyUT=000289081300008&amp;amp;DestApp=WOS_CPL" class="reftxt" title="Article on ISI - ">ISI</a>&nbsp;|</li><li id="bib21"><a name="bib21"><!-- . --></a>Reitman ZJ, Duncan CG, Poteet E, Winters A, Yan L-J, Gooden DM <i>et al</i>. Cancer-associated isocitrate dehydrogenase 1 (IDH1) R132H mutation and D-2-hydroxyglutarate stimulate glutamine metabolism under hypoxia. <span class="journal">J Biol Chem</span> 2014; <span class="jnumber">22</span>: 23318&#x02013;23328.&nbsp;|&nbsp;<a href="http://dx.doi.org/10.1074/jbc.M114.575183" class="reftxt" title="">Article</a>&nbsp;|</li><li id="bib22"><a name="bib22"><!-- . --></a>Kim SY, Yoo YH, Park J-W. Silencing of mitochondrial NADP(<span class="mb">&#x0002B;</span>)-dependent isocitrate dehydrogenase gene enhances glioma radiosensitivity. <span class="journal">Biochem Biophys Res Commun</span> 2013; <span class="jnumber">433</span>: 260&#x02013;265.&nbsp;|&nbsp;<a href="http://dx.doi.org/10.1016/j.bbrc.2013.02.093" class="reftxt" title="">Article</a>&nbsp;|&nbsp;<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?holding=npg&amp;amp;cmd=Retrieve&amp;amp;db=PubMed&amp;amp;list_uids=23500467&amp;amp;dopt=Abstract" class="reftxt" title="Article on PubMed - ">PubMed</a>&nbsp;|&nbsp;<a href="http://links.isiglobalnet2.com/gateway/Gateway.cgi?&amp;amp;GWVersion=2&amp;amp;SrcAuth=Nature&amp;amp;SrcApp=Nature&amp;amp;DestLinkType=FullRecord&amp;amp;KeyUT=000317375100018&amp;amp;DestApp=WOS_CPL" class="reftxt" title="Article on ISI - ">ISI</a>&nbsp;|</li><li id="bib23"><a name="bib23"><!-- . --></a>Jung KH, Park J-W. Suppression of mitochondrial NADP(<span class="mb">&#x0002B;</span>)-dependent isocitrate dehydrogenase activity enhances curcumin-induced apoptosis in HCT116 cells. <span class="journal">Free Radic Res</span> 2011; <span class="jnumber">45</span>: 431&#x02013;438.&nbsp;|&nbsp;<a href="http://dx.doi.org/10.3109/10715762.2010.540574" class="reftxt" title="">Article</a>&nbsp;|&nbsp;<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?holding=npg&amp;amp;cmd=Retrieve&amp;amp;db=PubMed&amp;amp;list_uids=21110780&amp;amp;dopt=Abstract" class="reftxt" title="Article on PubMed - ">PubMed</a>&nbsp;|&nbsp;<a href="http://links.isiglobalnet2.com/gateway/Gateway.cgi?&amp;amp;GWVersion=2&amp;amp;SrcAuth=Nature&amp;amp;SrcApp=Nature&amp;amp;DestLinkType=FullRecord&amp;amp;KeyUT=000288217400006&amp;amp;DestApp=WOS_CPL" class="reftxt" title="Article on ISI - ">ISI</a>&nbsp;|</li><li id="bib24"><a name="bib24"><!-- . --></a>Kil IS, Jung KH, Nam WS, Park J-W. Attenuated mitochondrial NADP<span class="mb">&#x0002B;</span>-dependent isocitrate dehydrogenase activity enhances EGCG-induced apoptosis. <span class="journal">Biochimie</span> 2011; <span class="jnumber">93</span>: 1808&#x02013;1815.&nbsp;|&nbsp;<a href="http://dx.doi.org/10.1016/j.biochi.2011.06.025" class="reftxt" title="">Article</a>&nbsp;|&nbsp;<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?holding=npg&amp;amp;cmd=Retrieve&amp;amp;db=PubMed&amp;amp;list_uids=21741430&amp;amp;dopt=Abstract" class="reftxt" title="Article on PubMed - ">PubMed</a>&nbsp;|&nbsp;<a href="http://links.isiglobalnet2.com/gateway/Gateway.cgi?&amp;amp;GWVersion=2&amp;amp;SrcAuth=Nature&amp;amp;SrcApp=Nature&amp;amp;DestLinkType=FullRecord&amp;amp;KeyUT=000295107700021&amp;amp;DestApp=WOS_CPL" class="reftxt" title="Article on ISI - ">ISI</a>&nbsp;|</li><li id="bib25"><a name="bib25"><!-- . --></a>Kil IS, Chung KH, Park J-W. Silencing of mitochondrial NADP<span class="mb">&#x0002B;</span>-dependent isocitrate dehydrogenase gene enhances selenite-induced apoptosis. <span class="journal">Free Radic Res</span> 2010; <span class="jnumber">44</span>: 332&#x02013;339.&nbsp;|&nbsp;<a href="http://dx.doi.org/10.3109/10715760903494184" class="reftxt" title="">Article</a>&nbsp;|&nbsp;<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?holding=npg&amp;amp;cmd=Retrieve&amp;amp;db=PubMed&amp;amp;list_uids=20088709&amp;amp;dopt=Abstract" class="reftxt" title="Article on PubMed - ">PubMed</a>&nbsp;|&nbsp;<a href="http://links.isiglobalnet2.com/gateway/Gateway.cgi?&amp;amp;GWVersion=2&amp;amp;SrcAuth=Nature&amp;amp;SrcApp=Nature&amp;amp;DestLinkType=FullRecord&amp;amp;KeyUT=000274909000011&amp;amp;DestApp=WOS_CPL" class="reftxt" title="Article on ISI - ">ISI</a>&nbsp;|</li><li id="bib26"><a name="bib26"><!-- . --></a>Li S, Chou AP, Chen W, Chen R, Deng Y, Phillips HS <i>et al</i>. Overexpression of isocitrate dehydrogenase mutant proteins renders glioma cells more sensitive to radiation. <span class="journal">Neuro Oncol</span> 2013; <span class="jnumber">15</span>: 57&#x02013;68.&nbsp;|&nbsp;<a href="http://dx.doi.org/10.1093/neuonc/nos261" class="reftxt" title="">Article</a>&nbsp;|&nbsp;<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?holding=npg&amp;amp;cmd=Retrieve&amp;amp;db=PubMed&amp;amp;list_uids=23115158&amp;amp;dopt=Abstract" class="reftxt" title="Article on PubMed - ">PubMed</a>&nbsp;|</li><li id="bib27"><a name="bib27"><!-- . --></a>Mohrenz IV, Antonietti P, Pusch S, Capper D, Balss J, Voigt S <i>et al</i>. Isocitrate dehydrogenase 1 mutant R132H sensitizes glioma cells to BCNU-induced oxidative stress and cell death. <span class="journal">Apoptosis</span> 2013; <span class="jnumber">18</span>: 1416&#x02013;1425.&nbsp;|&nbsp;<a href="http://dx.doi.org/10.1007/s10495-013-0877-8" class="reftxt" title="">Article</a>&nbsp;|&nbsp;<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?holding=npg&amp;amp;cmd=Retrieve&amp;amp;db=PubMed&amp;amp;list_uids=23801081&amp;amp;dopt=Abstract" class="reftxt" title="Article on PubMed - ">PubMed</a>&nbsp;|&nbsp;<a href="http://links.isiglobalnet2.com/gateway/Gateway.cgi?&amp;amp;GWVersion=2&amp;amp;SrcAuth=Nature&amp;amp;SrcApp=Nature&amp;amp;DestLinkType=FullRecord&amp;amp;KeyUT=000325824100010&amp;amp;DestApp=WOS_CPL" class="reftxt" title="Article on ISI - ">ISI</a>&nbsp;|&nbsp;<a href="http://chemport.cas.org/cgi-bin/sdcgi?APP=ftslink&amp;action=reflink&amp;origin=npg&amp;version=1.0&amp;coi=1:CAS:528:DC%2BC3sXhs1KisbfM&amp;pissn={printIssn}&amp;pyear=2015&amp;md5=ccd8b4d57baf61faa3b126c2b63e245d" class="reftxt" title="Article on CAS - ">CAS</a>&nbsp;|</li><li id="bib28"><a name="bib28"><!-- . --></a>McKenna MC, Stevenson JH, Huang X, Hopkins IB. Differential distribution of the enzymes glutamate dehydrogenase and aspartate aminotransferase in cortical synaptic mitochondria contributes to metabolic compartmentation in cortical synaptic terminals. <span class="journal">Neurochem Int</span> 2000; <span class="jnumber">37</span>: 229&#x02013;241.&nbsp;|&nbsp;<a href="http://dx.doi.org/10.1016/S0197-0186(00)00042-5" class="reftxt" title="">Article</a>&nbsp;|&nbsp;<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?holding=npg&amp;amp;cmd=Retrieve&amp;amp;db=PubMed&amp;amp;list_uids=10812208&amp;amp;dopt=Abstract" class="reftxt" title="Article on PubMed - ">PubMed</a>&nbsp;|&nbsp;<a href="http://links.isiglobalnet2.com/gateway/Gateway.cgi?&amp;amp;GWVersion=2&amp;amp;SrcAuth=Nature&amp;amp;SrcApp=Nature&amp;amp;DestLinkType=FullRecord&amp;amp;KeyUT=000087741000016&amp;amp;DestApp=WOS_CPL" class="reftxt" title="Article on ISI - ">ISI</a>&nbsp;|&nbsp;<a href="http://chemport.cas.org/cgi-bin/sdcgi?APP=ftslink&amp;action=reflink&amp;origin=npg&amp;version=1.0&amp;coi=1:CAS:528:DC%2BD3cXksF2gtrg%3D&amp;pissn={printIssn}&amp;pyear=2015&amp;md5=b7d8488c874be950b26af17325588158" class="reftxt" title="Article on CAS - ">CAS</a>&nbsp;|</li><li id="bib29"><a name="bib29"><!-- . --></a>Gatenby RA, Gillies RJ. Why do cancers have high aerobic glycolysis? <span class="journal">Nat Rev Cancer</span> 2004; <span class="jnumber">4</span>: 891&#x02013;899.&nbsp;|&nbsp;<a href="http://www.nature.com/doifinder/10.1038/nrc1478" class="reftxt" title="Article on Article - ">Article</a>&nbsp;|&nbsp;<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?holding=npg&amp;amp;cmd=Retrieve&amp;amp;db=PubMed&amp;amp;list_uids=15516961&amp;amp;dopt=Abstract" class="reftxt" title="Article on PubMed - ">PubMed</a>&nbsp;|&nbsp;<a href="http://links.isiglobalnet2.com/gateway/Gateway.cgi?&amp;amp;GWVersion=2&amp;amp;SrcAuth=Nature&amp;amp;SrcApp=Nature&amp;amp;DestLinkType=FullRecord&amp;amp;KeyUT=000224815700015&amp;amp;DestApp=WOS_CPL" class="reftxt" title="Article on ISI - ">ISI</a>&nbsp;|&nbsp;<a href="http://chemport.cas.org/cgi-bin/sdcgi?APP=ftslink&amp;action=reflink&amp;origin=npg&amp;version=1.0&amp;coi=1:CAS:528:DC%2BD2cXptFegt7w%3D&amp;pissn={printIssn}&amp;pyear=2015&amp;md5=bf05765d13facb92b2ce30e407b076b3" class="reftxt" title="Article on CAS - ">CAS</a>&nbsp;|</li><li id="bib30"><a name="bib30"><!-- . --></a>Greenhouse WV, Lehninger AL. Occurrence of the malate-aspartate shuttle in various tumor types. <span class="journal">Cancer Res</span> 1976; <span class="jnumber">36</span>: 1392&#x02013;1396.&nbsp;|&nbsp;<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?holding=npg&amp;amp;cmd=Retrieve&amp;amp;db=PubMed&amp;amp;list_uids=177206&amp;amp;dopt=Abstract" class="reftxt" title="Article on PubMed - ">PubMed</a>&nbsp;|</li><li id="bib31"><a name="bib31"><!-- . --></a>Ereci<span class="mb">&#x00144;</span>ska M, Nelson D. Activation of glutamate dehydrogenase by leucine and its nonmetabolizable analogue in rat brain synaptosomes. <span class="journal">J Neurochem</span> 1990; <span class="jnumber">54</span>: 1335&#x02013;1343.&nbsp;|&nbsp;<a href="http://dx.doi.org/10.1111/j.1471-4159.1990.tb01967.x" class="reftxt" title="">Article</a>&nbsp;|&nbsp;<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?holding=npg&amp;amp;cmd=Retrieve&amp;amp;db=PubMed&amp;amp;list_uids=1968960&amp;amp;dopt=Abstract" class="reftxt" title="Article on PubMed - ">PubMed</a>&nbsp;|&nbsp;<a href="http://links.isiglobalnet2.com/gateway/Gateway.cgi?&amp;amp;GWVersion=2&amp;amp;SrcAuth=Nature&amp;amp;SrcApp=Nature&amp;amp;DestLinkType=FullRecord&amp;amp;KeyUT=A1990CV62200034&amp;amp;DestApp=WOS_CPL" class="reftxt" title="Article on ISI - ">ISI</a>&nbsp;|</li><li id="bib32"><a name="bib32"><!-- . --></a>Thornburg JM, Nelson KK, Clem BF, Lane AN, Arumugam S, Simmons A <i>et al</i>. Targeting aspartate aminotransferase in breast cancer. <span class="journal">Breast Cancer Res</span> 2008; <span class="jnumber">10</span>: R84.&nbsp;|&nbsp;<a href="http://dx.doi.org/10.1186/bcr2154" class="reftxt" title="">Article</a>&nbsp;|&nbsp;<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?holding=npg&amp;amp;cmd=Retrieve&amp;amp;db=PubMed&amp;amp;list_uids=18922152&amp;amp;dopt=Abstract" class="reftxt" title="Article on PubMed - ">PubMed</a>&nbsp;|&nbsp;<a href="http://chemport.cas.org/cgi-bin/sdcgi?APP=ftslink&amp;action=reflink&amp;origin=npg&amp;version=1.0&amp;coi=1:CAS:528:DC%2BD1cXhtlOrt7vL&amp;pissn={printIssn}&amp;pyear=2015&amp;md5=998c5d653e69368207282262ba1a7809" class="reftxt" title="Article on CAS - ">CAS</a>&nbsp;|</li><li id="bib33"><a name="bib33"><!-- . --></a>Reitman ZJ, Jin G, Karoly ED, Spasojevic I, Yang J, Kinzler KW <i>et al</i>. Profiling the effects of isocitrate dehydrogenase 1 and 2 mutations on the cellular metabolome. <span class="journal">Proc Natl Acad Sci USA</span> 2011; <span class="jnumber">108</span>: 3270&#x02013;3275.&nbsp;|&nbsp;<a href="http://dx.doi.org/10.1073/pnas.1019393108" class="reftxt" title="">Article</a>&nbsp;|&nbsp;<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?holding=npg&amp;amp;cmd=Retrieve&amp;amp;db=PubMed&amp;amp;list_uids=21289278&amp;amp;dopt=Abstract" class="reftxt" title="Article on PubMed - ">PubMed</a>&nbsp;|</li><li id="bib34"><a name="bib34"><!-- . --></a>Rej R. Measurement of aspartate aminotransferase activity: effects of oxamate. <span class="journal">Clin Chem</span> 1979; <span class="jnumber">25</span>: 555&#x02013;559.&nbsp;|&nbsp;<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?holding=npg&amp;amp;cmd=Retrieve&amp;amp;db=PubMed&amp;amp;list_uids=466765&amp;amp;dopt=Abstract" class="reftxt" title="Article on PubMed - ">PubMed</a>&nbsp;|</li><li id="bib35"><a name="bib35"><!-- . --></a>Hande KR. Etoposide: four decades of development of a topoisomerase II inhibitor. <span class="journal">Eur J Cancer</span> 1998; <span class="jnumber">34</span>: 1514&#x02013;1521.&nbsp;|&nbsp;<a href="http://dx.doi.org/10.1016/S0959-8049(98)00228-7" class="reftxt" title="">Article</a>&nbsp;|&nbsp;<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?holding=npg&amp;amp;cmd=Retrieve&amp;amp;db=PubMed&amp;amp;list_uids=9893622&amp;amp;dopt=Abstract" class="reftxt" title="Article on PubMed - ">PubMed</a>&nbsp;|&nbsp;<a href="http://links.isiglobalnet2.com/gateway/Gateway.cgi?&amp;amp;GWVersion=2&amp;amp;SrcAuth=Nature&amp;amp;SrcApp=Nature&amp;amp;DestLinkType=FullRecord&amp;amp;KeyUT=000076094000014&amp;amp;DestApp=WOS_CPL" class="reftxt" title="Article on ISI - ">ISI</a>&nbsp;|&nbsp;<a href="http://chemport.cas.org/cgi-bin/sdcgi?APP=ftslink&amp;action=reflink&amp;origin=npg&amp;version=1.0&amp;coi=1:CAS:528:DyaK1cXmvVSku7k%3D&amp;pissn={printIssn}&amp;pyear=2015&amp;md5=26716c552129fd2c12a711be53314f77" class="reftxt" title="Article on CAS - ">CAS</a>&nbsp;|</li><li id="bib36"><a name="bib36"><!-- . --></a>Kulawiec M, Owens KM, Singh KK. Cancer cell mitochondria confer apoptosis resistance and promote metastasis. <span class="journal">Cancer Biol Ther</span> 2009; <span class="jnumber">8</span>: 1378&#x02013;1385.&nbsp;|&nbsp;<a href="http://dx.doi.org/10.4161/cbt.8.14.8751" class="reftxt" title="">Article</a>&nbsp;|&nbsp;<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?holding=npg&amp;amp;cmd=Retrieve&amp;amp;db=PubMed&amp;amp;list_uids=19556849&amp;amp;dopt=Abstract" class="reftxt" title="Article on PubMed - ">PubMed</a>&nbsp;|&nbsp;<a href="http://links.isiglobalnet2.com/gateway/Gateway.cgi?&amp;amp;GWVersion=2&amp;amp;SrcAuth=Nature&amp;amp;SrcApp=Nature&amp;amp;DestLinkType=FullRecord&amp;amp;KeyUT=000269220700010&amp;amp;DestApp=WOS_CPL" class="reftxt" title="Article on ISI - ">ISI</a>&nbsp;|</li><li id="bib37"><a name="bib37"><!-- . --></a>Grassian AR, Parker SJ, Davidson SM, Divakaruni AS, Green CR, Zhang X <i>et al</i>. IDH1 mutations alter citric acid cycle metabolism and increase dependence on oxidative mitochondrial metabolism. <span class="journal">Cancer Res</span> 2014; <span class="jnumber">74</span>: 3317&#x02013;3331.&nbsp;|&nbsp;<a href="http://dx.doi.org/10.1158/0008-5472.CAN-14-0772-T" class="reftxt" title="">Article</a>&nbsp;|&nbsp;<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?holding=npg&amp;amp;cmd=Retrieve&amp;amp;db=PubMed&amp;amp;list_uids=24755473&amp;amp;dopt=Abstract" class="reftxt" title="Article on PubMed - ">PubMed</a>&nbsp;|&nbsp;<a href="http://links.isiglobalnet2.com/gateway/Gateway.cgi?&amp;amp;GWVersion=2&amp;amp;SrcAuth=Nature&amp;amp;SrcApp=Nature&amp;amp;DestLinkType=FullRecord&amp;amp;KeyUT=000338877900012&amp;amp;DestApp=WOS_CPL" class="reftxt" title="Article on ISI - ">ISI</a>&nbsp;|&nbsp;<a href="http://chemport.cas.org/cgi-bin/sdcgi?APP=ftslink&amp;action=reflink&amp;origin=npg&amp;version=1.0&amp;coi=1:CAS:528:DC%2BC2cXps1Cmurw%3D&amp;pissn={printIssn}&amp;pyear=2015&amp;md5=ac186cb9f3f16d033699329c846d8da3" class="reftxt" title="Article on CAS - ">CAS</a>&nbsp;|</li><li id="bib38"><a name="bib38"><!-- . --></a>Ward PS, Patel J, Wise DR, Abdel-Wahab O, Bennett BD, Coller HA <i>et al</i>. The common feature of leukemia-associated IDH1 and IDH2 mutations is a neomorphic enzyme activity converting alpha-ketoglutarate to 2-hydroxyglutarate. <span class="journal">Cancer Cell</span> 2010; <span class="jnumber">17</span>: 225&#x02013;234.&nbsp;|&nbsp;<a href="http://dx.doi.org/10.1016/j.ccr.2010.01.020" class="reftxt" title="">Article</a>&nbsp;|&nbsp;<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?holding=npg&amp;amp;cmd=Retrieve&amp;amp;db=PubMed&amp;amp;list_uids=20171147&amp;amp;dopt=Abstract" class="reftxt" title="Article on PubMed - ">PubMed</a>&nbsp;|&nbsp;<a href="http://links.isiglobalnet2.com/gateway/Gateway.cgi?&amp;amp;GWVersion=2&amp;amp;SrcAuth=Nature&amp;amp;SrcApp=Nature&amp;amp;DestLinkType=FullRecord&amp;amp;KeyUT=000275804200005&amp;amp;DestApp=WOS_CPL" class="reftxt" title="Article on ISI - ">ISI</a>&nbsp;|&nbsp;<a href="http://chemport.cas.org/cgi-bin/sdcgi?APP=ftslink&amp;action=reflink&amp;origin=npg&amp;version=1.0&amp;coi=1:CAS:528:DC%2BC3cXlsVWqtLg%3D&amp;pissn={printIssn}&amp;pyear=2015&amp;md5=691b360bf4f4405d254ec84dffe18bef" class="reftxt" title="Article on CAS - ">CAS</a>&nbsp;|</li><li id="bib39"><a name="bib39"><!-- . --></a>Gratas C, S&#x000E9;ry Q, Rab&#x000E9; M, Oliver L, Vallette FM. Bak and Mcl-1 are essential for Temozolomide induced cell death in human glioma. <span class="journal">Oncotarget</span> 2014; <span class="jnumber">5</span>: 2428&#x02013;2435.&nbsp;|&nbsp;<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?holding=npg&amp;amp;cmd=Retrieve&amp;amp;db=PubMed&amp;amp;list_uids=24811082&amp;amp;dopt=Abstract" class="reftxt" title="Article on PubMed - ">PubMed</a>&nbsp;|&nbsp;<a href="http://links.isiglobalnet2.com/gateway/Gateway.cgi?&amp;amp;GWVersion=2&amp;amp;SrcAuth=Nature&amp;amp;SrcApp=Nature&amp;amp;DestLinkType=FullRecord&amp;amp;KeyUT=000336966600008&amp;amp;DestApp=WOS_CPL" class="reftxt" title="Article on ISI - ">ISI</a>&nbsp;|</li></ol></div><div id="ack"><a class="backtotop" href="#top">Top<span class="hidden"> of page</span></a><h3>Acknowledgements</h3><p class="norm">This work was supported by grants from &#x02018;La Ligue contre le Cancer&#x02019; and &#x02018;Region-Pays de la Loire&#x02019;. K Oizel was funded by Region-Pays de la Loire. We thank CB Thompson for providing pCMV-IDH1 and pCMV-IDH1<sup>R132</sup> plasmids.</p></div><div id="closenote"><p class="norm"><a href="/cddis/journal/v6/n3/suppinfo/cddis201513s1.html">Supplementary Information</a> accompanies this paper on Cell Death and Disease website </p></div><div id="more">
+	<div id="open-end"><div id="open-left"><a href="http://creativecommons.org/licenses/by/4.0/"><img alt="" style="border:0;" src="/aj/images/CC-BY.jpg"/></a></div><p><i>Cell Death and Disease</i> is an open-access journal published by <i>Nature Publishing Group</i>. This work is licensed under a Creative Commons Attribution 4.0 International License. The images or other third party material in this article are included in the article&#x02019;s Creative Commons license, unless indicated otherwise in the credit line; if the material is not included under the Creative Commons license, users will need to obtain permission from the license holder to reproduce the material. To view a copy of this license, visit <a href="http://creativecommons.org/licenses/by/4.0/">http://creativecommons.org/licenses/by/4.0/</a>.</p></div></div><!-- articlebody end --></div></div><!-- end content --><div class="archive" id="journalnav"><h1 class="hidden">Main navigation</h1><!-- necessary for correct descending order heading hierarchy - do not remove! -->
+	<!-- whitespace removed to deal with IE5.0 PC bug. -->
+<map title="main journal navigation" id="main-journal-nav" class="journal-nav">
+<ul><li class="jn-home"><a href="/cddis/index.html">Journal home</a></li>
+	<li class="jn-issue"><a href="/cddis/journal/v8/n8/">Latest articles</a></li>
+	<li class="jn-archive"><a href="/cddis/archive/index.html">Archive</a></li>
+	<li class="jn-browse"><a href="/cddis/archive/subject.html">Browse by subject</a></li>
+	<li class="jn-focus"><a href="/cddis/focus/">Focuses</a></li>
+	<li class="jn-videos"><a href="/cddis/videos/">Videos</a></li>
+	<li class="jn-press-releases"><a href="/cddis/about/press_releases.html">Press releases</a></li>
+	<li><a href="/cddis/index.html#news-section">News</a></li>
+</ul>
+</map>
+	<!-- whitespace removed to deal with IE5.0 PC bug. -->
+<map title="supplementary journal navigation" id="supplementary-journal-nav" class="journal-nav supplementary">
+	<ul>
+		<li class="jn-online-submission"><a href="http://mts-cddis.nature.com/" class="submission">Online submission</a></li>
+		<li class="jn-open-access"><a href="/cddis/about/open_access.html">Open access</a></li>
+		<li class="jn-for-authors"><a href="/cddis/about/for_authors.html">For authors</a></li>
+		<li class="jn-for-referees"><a href="/cddis/about/for_referees.html">For referees</a></li>
+		<li class="jn-contact-eds"><a href="/cddis/about/contact_eds.html">Contact editorial office</a></li>
+		<li class="jn-about-the-journal"><a href="/cddis/about/index.html">About the journal</a></li>
+		<li class="jn-for-librarians"><a href="/libraries/">For librarians</a></li>
+		<li class="jn-advertising"><a href="/cddis/about/advertising.html">Advertising</a></li>
+		<li class="jn-naturereprints"><a href="/reprints/">Reprints and permissions</a></li>
+		<li class="jn-contact-npg"><a href="/cddis/about/contact_npg.html">Contact Springer Nature</a></li>
+		<li class="jn-customer-services"><a href="http://mse.force.com/nature/">Customer services</a></li>
+		<li class="jn-site-features"><a href="/cddis/about/site_features.html">Site features</a></li>
+	</ul>
+</map>
+	
+	<div class="society-logo"><img src="/cddis/images/society.gif" style="max-width:100px; height:35px; border:0;" alt="/cddis" /></div>
+	<h2 class="npg-resources"><abbr title="Springer Nature">Springer Nature</abbr> resources</h2>
+		<ul class="npg-resources">
+			<li><a href="/cdd/">Cell Death &amp; Differentiation</a></li>
+			<li><a href="/jid/">Journal of Investigative Dermatology</a></li>
+			<li><a href="/ncb/">Nature Cell Biology</a></li>
+			<li><a href="/nrc/">Nature Reviews Cancer</a></li>
+			<li><a href="/nrm/">Nature Reviews Molecular Cell Biology</a></li>
+			<li><a href="/nrn/">Nature Reviews Neuroscience</a></li>
+			<li><a href="/onc/">Oncogene</a></li>
+		</ul>
+		
+
+	 
+<div id="global-subject-areas">
+	<h2><span><abbr title="Nature Research">Nature Research</abbr> Journals</span></h2>	
+	<h3 class="view">by Subject Area</h3>
+		<ul class="category-list">
+		<li><h4>Chemistry</h4>
+            <ul>
+                <li><a href="/chemistry/index.html">Chemistry</a></li>
+                <li><a href="/drugdisc/index.html">Drug discovery</a></li>
+		<li><a href="/biotech/index.html">Biotechnology</a></li>
+		<li><a href="/materials/index.html">Materials</a></li>
+		<li><a href="/protometh/index.html">Methods &amp; Protocols</a></li>
+            </ul>
+        </li>        <li><h4>Clinical Practice &amp; Research</h4>
+            <ul>
+                <li><a href="/cancer/index.html">Cancer</a></li>
+                <li><a href="/cardio/index.html">Cardiovascular medicine</a></li>
+                <li><a href="/endocrinology/index.html" title="">Endocrinology</a></li>
+                <li><a href="/gastrohep/index.html">Gastroenterology &amp; Hepatology</a></li>
+		<li><a href="/protometh/index.html">Methods &amp; Protocols</a></li>
+                <li><a href="/pathology/index.html">Pathology &amp; Pathobiology</a></li>
+                <li><a href="/urology/index.html">Urology</a></li>
+
+            </ul>
+        </li>        <li><h4>Earth &amp; Environment</h4>
+            <ul>
+                <li><a href="/earthsciences/index.html">Earth sciences</a></li>
+                <li><a href="/evoeco/index.html">Evolution &amp; Ecology</a></li>
+	
+            </ul>
+        </li>        <li><h4>Life sciences</h4>
+            <ul>
+		<li><a href="/biotech/index.html">Biotechnology</a></li>
+                <li><a href="/cancer/index.html">Cancer</a></li>
+                <li><a href="/development/index.html">Development</a></li>
+                <li><a href="/drugdisc/index.html">Drug discovery</a></li>
+                <li><a href="/evoeco/index.html">Evolution &amp; Ecology</a></li>
+                <li><a href="/genetics/index.html">Genetics</a></li>
+                <li><a href="/immuno/index.html">Immunology</a></li>
+                <li><a href="/medicalresearch/index.html">Medical research</a></li>
+				<li><a href="/protometh/index.html">Methods &amp; Protocols</a></li>
+                <li><a href="/micro/index.html">Microbiology</a></li>
+                <li><a href="/molcellbio/index.html">Molecular cell biology</a></li>
+                <li><a href="/neurosci/index.html">Neuroscience</a></li>
+                <li><a href="/pharma/index.html">Pharmacology</a></li>
+                <li><a href="/sysbio/index.html">Systems biology</a></li>
+            </ul>
+        </li>        <li><h4>Physical sciences</h4>
+            <ul>
+				<li><a href="/physics/index.html">Physics</a></li>
+				<li><a href="/materials/index.html">Materials</a></li>
+            </ul>
+        </li>	</ul>
+	
+	<h3 class="view"><a href="/siteindex/index.html" title="View A to Z list of Nature Publishing Group journals">by A - Z Index</a></h3>
+</div>
+</div></div><!-- end content and journal nav --><div id="extranav"><h1 class="hidden">Extra navigation</h1><span class="page-header-spacer">.</span><div id="articlenav"><h2><span class="hidden">ARTICLE NAVIGATION - </span>FULL TEXT</h2><ul><li class="toc"><a class="toc" href="/cddis/journal/v6/n3/index.html">Table of contents</a></li><li class="download-pdf"><a class="download-pdf" href="/cddis/journal/v6/n3/pdf/cddis201513a.pdf">Download PDF</a></li><li class="sendtofriend"><a class="sendtofriend" href="/foxtrot/svc/mailform?file=/cddis/journal/v6/n3/full/cddis201513a.html">Send to a friend</a></li>
+
+			
+
+
+	<li class="readcube"><a href="http://www.readcube.com/articles/10.1038/cddis.2015.13" class="readcube">View interactive PDF in ReadCube</a></li>
+
+<li class="permissions"><a class="permissions" href="https://s100.copyright.com/AppDispatchServlet?publisherName=NPG&amp;publication=Cell+Death+%26+Disease&amp;title=D-2-Hydroxyglutarate does not mimic all the IDH mutation effects, in particular the reduced etoposide-triggered apoptosis mediated by an alteration in mitochondrial NADH&amp;author=K Oizel, C Gratas, A Nadaradjane, L Oliver, F M Vallette et al.&amp;contentID=10.1038/cddis.2015.13&amp;publicationDate=03/01/2015&amp;volumeNum=6&amp;issueNum=3&amp;cc=by">Rights and permissions</a></li>
+	<li class="cited"><a class="cited" href="/cited/cited.html?doi=10.1038/cddis.2015.13">CrossRef lists 7 article
+		s citing this article</a></li>
+	<li class="cited"><a class="cited" href="http://www.scopus.com/inward/record.url?eid=&amp;partnerID=65">Scopus lists 7 articles citing this article</a></li>		<li><a class="page" href="#abs">Abstract</a></li><li><a class="page" href="#Results">Results</a></li><li><a class="page" href="#Discussion">Discussion</a></li><li><a class="page" href="#Materials-and-Methods">Materials and Methods</a></li><li><a class="page" href="#conflict-of-interest">Conflict of interest</a></li><li><a class="page" href="#References">References</a></li><li><a class="page" href="#ack">Acknowledgements</a></li><li><a href="/cddis/journal/v6/n3/fig_tab/cddis201513ft.html#figure-title">Figures and Tables</a></li><li><a href="/cddis/journal/v6/n3/suppinfo/cddis201513s1.html?url=/cddis/journal/v6/n3/full/cddis201513a.html">Supplementary info</a></li></ul><ul class="supplementary"><li><a href="/cddis/journal/v6/n3/ris/cddis201513a.ris">Export citation</a></li><li><a href="/cddis/journal/v6/n3/ris/cddis201513arefs.ris">Export references</a></li></ul><ul class="supplementary"><li><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=search&amp;term=Oizel+K">Papers by Oizel</a></li></ul></div>
+					
+<div class="box nature-feed" id="natjob">
+<h2 class="natjob"><a href="/naturejobs/"><span class="first">nature</span><span class="hidden"> </span><span class="second">jobs</span></a></h2>
+
+	<ul class="natjob">
+
+	<li><h3 class="first"><a href="http://www.nature.com/naturejobs/science/jobs/609483-professor-and-faculty-positions-at-the-academy-of-medical-sciences-ams-zhengzhou-university">Professor and Faculty Positions at the Academy of Medical Sciences (AMS), Zhengzhou University</a></h3>
+	<ul>
+	<li>The Academy of Medical Sciences of Zhengzhou University</li>
+		</ul>
+	</li>
+
+			<li><h3><a href="http://www.nature.com/naturejobs/science/jobs/601537-multiple-postdoctoral-fellowships-in-cardiac-signal-processing-and-instrumentation-boston-ma-united-states">Multiple Postdoctoral Fellowships in Cardiac Signal Processing and Instrumentation : Boston, MA, United States</a></h3>
+		<ul>
+		<li>Massachusetts General Hospital</li>
+				</ul>
+		</li>
+	</ul>
+
+
+<div class="natjobmore"><a href="/naturejobs/science/jobs">More science jobs</a></div>
+<div class="natjobmore"><a href="/naturejobs/science/jobs/new">Post a job</a></div>
+</div>
+
+
+<div class="box nature-feed" id="natevents">
+<h2 class="natjob"><a href="/nature-events/index.html"><span class="first">nature</span><span class="hidden"> </span><span class="second">events</span></a></h2>
+
+<ul class="natjob">
+	<li>
+	  <h3 class="first"><a href="http://www.nature.com/natureevents/science/events/54769-The_3rd_international_conference_INNOVATIONS_IN_CANCER_RESEARCH_AND_REGENERATIVE_MEDICINE">The 3rd international conference INNOVATIONS IN CANCER RESEARCH AND REGENERATIVE MEDICINE</a></h3>
+  	<ul>
+    	<li>
+					<strong>10 September 2017 &mdash; 13 September 2017</strong>
+		    	</li>
+    	<li>227 Nguyen Van Cu, District 5, Ho Chi Minh, Viet Nam</li>
+  	</ul>
+	</li>
+	<li>
+	  <h3><a href="http://www.nature.com/natureevents/science/events/55077-22nd_World_Congress_on_Advances_in_Oncology_and_20th_International_Symposium_on_Molecular_Medicine">22nd World Congress on Advances in Oncology and 20th International Symposium on Molecular Medicine</a></h3>
+  	<ul>
+    	<li>
+					<strong>05 October 2017 &mdash; 07 October 2017</strong>
+		    	</li>
+    	<li>Athens, Greece</li>
+  	</ul>
+	</li>
+</ul>
+<div class="natjobmore"><a href="/nature-events/index.html">More science events</a></div>
+</div>
+
+
+	<!-- skyscraper ad -->
+<div class="ad-vert">
+ADVERTISEMENT<br />
+
+
+																																																																																																																																																				
+						
+																																																		<div class="adunit-leaderboard"> 
+			
+						
+			
+		
+							
+		
+													
+		
+										
+		
+													
+		
+										
+		
+													
+		
+										
+		
+													
+		
+										
+		
+													
+		
+		
+		
+													
+		
+		
+		
+													
+		
+		
+		
+													
+		
+		
+		
+													
+		
+		
+		
+													
+		
+		
+		
+													
+		
+										
+		
+													
+		
+										
+		
+									
+		
+	
+	
+		
+										
+					
+		
+										
+					
+		
+										
+					
+		
+										
+					
+		
+																																																										
+					
+		
+										
+					
+		
+										
+									<div id="div-gpt-ad-2" class="div-gpt-ad adunit-leaderboard" data-gpt-unitpath="/285/cddis.nature.com" data-gpt-sizes="160x600" data-gpt-targeting="type=oa;artid=cddis201513a;issue=3;pos=right;techmeta=13,2,31,109,45,22,23;sz=160x600;tile=2">
+				<noscript>
+					<a href="//pubads.g.doubleclick.net/gampad/jump?iu=/285/cddis.nature.com&amp;sz=160x600&amp;t=type=oa;artid=cddis201513a;issue=3;pos=right;techmeta=13,2,31,109,45,22,23;sz=160x600;tile=2&amp;c=3431196632428410">
+						<img src="//pubads.g.doubleclick.net/gampad/ad?iu=/285/cddis.nature.com&amp;sz=160x600&amp;t=type=oa;artid=cddis201513a;issue=3;pos=right;techmeta=13,2,31,109,45,22,23;sz=160x600;tile=2&amp;c=3431196632428410" alt="Advertisement" /></a>
+				</noscript>
+			</div>
+
+			</div> 		 
+	 
+	
+			 </div>
+<!-- end skyscraper ad --></div>
+	<!-- global links -->
+	
+
+	
+
+
+
+<div class="cleardiv"><!-- --></div>
+
+
+	
+	
+	
+		    	    			
+
+			<p class="back-to-top hidden"><a href="#top" title="Return to the top of this page">Top</a></p>
+	
+	<div id="ftr" class="footer">
+					<div class="cope cope-bottom-align"><a href='http://publicationethics.org/' title='Committee on Publication Ethics - external website.'><img src='/aj/images/logo_cope.gif' alt='' /></a><br/>This journal is a member of and subscribes to the principles of the <a href='http://publicationethics.org/' alt=''>Committee on Publication Ethics</a>.</div>
+			<span class="cleardiv"><!-- --></span>
+							<ul id="footer-journal" class="narrow-journal-info">
+				<li class="journal-name">Cell Death &amp; Disease</li>												<li class="eissn"><abbr title="Electronic International Standard Serial Number">ISSN (online)</abbr><span class="hidden">:</span> 2041-4889</li>									<li class="copyright">
+													<a href="" title="" class="class java.util.LinkedHashMap">&#169; 2017 Associazione Differenziamento e Morte Cellulare</a>
+											</li>
+											</ul>
+			<span class="cleardiv"><!-- --></span>
+		
+		<div class="footer-inner">
+
+		<div class="baseline-wrapper">
+													<ul class="footer-links baseline first">
+									<li><a href="/npg/">About us</a></li>
+														<li><a href="/npg_/contact/">Contact us</a></li>
+														<li><a href="/info/accessibility_statement.html">Accessibility statement</a></li>
+														<li><a href="/help/">Help</a></li>
+													</ul>
+							<ul class="footer-links baseline">
+									<li><a href="/info/privacy.html">Privacy policy</a></li>
+														<li><a href="/info/cookies.html">Use of cookies</a></li>
+														<li><a href="/info/legal_notice.html">Legal notice</a></li>
+														<li><a href="/info/tandc.html">Terms</a></li>
+													</ul>
+							<ul class="footer-links baseline last">
+									<li><a href="/naturejobs/">Nature<span class='hidden'> </span>jobs</a></li>
+														<li><a href="http://www.natureasia.com/">Nature Asia</a></li>
+														<li><a href="/scitable/">Nature Education</a></li>
+														<li><a href="/webfeeds/"><abbr title='RDF Site Summary'>RSS</abbr> web feeds</a></li>
+													</ul>
+			
+						<form action="/search/executeSearch" method="get" class="search-form baseline">
+				<fieldset>
+					<label for="footer-search">Search:</label>
+					<input type="text" id="footer-search" name="sp-q" value="" class="text" maxlength="200"/>
+					<input type="hidden" name="sp-p" value="all" />
+					<input type="hidden" name="sp-c" value="25" />
+					<input type="hidden" name="sp-m" value="0" />
+											<input type="hidden" name="sp-s" value="date_descending" />
+															<input type="submit" name="search" value="go" class="button" />
+				</fieldset>
+			</form>
+					</div>
+
+		<span class="cleardiv"><!-- --></span>
+
+					<div id="footer-copyright">
+				<ul class="logo">
+										<li class="only"><img width="140" height="15" alt="Springer Nature" class="logo-image" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAPoAAAAaCAQAAAA0oYk0AAAJO0lEQVR4Ae2aBXjdOBKAt8ztt2VmhmUuM8+M/OrtBt5d4btyu8zMzMzMzMzMzMzMTMk5fR6N/CTFbr4sr6ZJqtFobOm35JGs1ZKpsk5lndX+Tf+MVLo6bQf3wLdQGcn38CgcDaP+6fhxJLys5aGwoVkGt3KJavNXbd5k+AgqLXlGzfhHQ5+c6I15ibIXWV/S4S/ZOLUx/ACVTtmqYAHToQz/Q3NwLsyDeViqpgRdi3yMxlLKswWVw/Rcb3umoEkqKEjYsaAJW2EpS7COWAY9WFs8ksKOOBdPh+vxQbwNzsYVMMAoq4elbglbx7BmJltCk8Iu2aDjC3vUNcqe80HHWckrl64uMwfrbCncRbA+52k815rTWKxU+7gfyWwFUbCOPd+EXTzXmlW4mcc8yD9Y0DSG/ppdii/SsrCeTHcOi7dgP25ybPUyl/Eckhti1HhZuhU2Y22wkdGQJnCI/YDig+wtKq/0yHpxx79nl+FztPWcxn7oLCowyp52Q4fOlv8yXecy0VoCK2sfp/N3cK2SDmJFY2JPnzs83I2zmEf8eDuvhF9UdftAQ/EpbYEzaQGetdLtVtrB6x4Hd+abxRa3eSw+gVGZoXO3eqCHreBuz1W+K2tZQ+gsL6n+adDxQSmDJ9zQqcS6txN+e+gs+Gyut75DqAY6zracRml5I8qHTfzQWfBc/0hnIDg4K3S4vzrocLb3GqfVfKSz4Lthax90FjWOy+BRN3Q83p5HfnvoIvhG2CoDdLVIZ3/yxesCHS+gPfAweF47qcDByZGON0QWB+HDxmVuzgCdEQ+XEZOErkYYdj/jCQBqYwjhuKoQFDcs2Cxoqi2+x8tNCfvGd/A+W+A5tAccDi8ZXo9Ogw43cRk85IH+nFWnoqRtXHYCvFYliSH0UaybUDPoeCbuSafiW2KDBxVDx7cSfXFOVWGZUWGTNOg0dWXnNsAHtGa7IuhLC+t9vESaDZ2zQocrfNDxTG3zgxptvOcbUk7e+WyD73la8l5y1C5vJBENfrpHXTd0fJf/x8Em3ueCHrbTNe4SEKjEonBNo8dne+aJjNDVxoUFt/Hwvm9BP8vqBlor8QbeLA167PJ/us5JLuiRZoJxs+MzQ6+AAa7pvbIOfKlt9nMDrQH0KNFy4+qdPdD30d18YdySu13QVaBr7CYvIzwsK3Q4rmbQI81OYhW2ToUedecziW5/CGemQ6ep2v48eacL9KIAcVYqdJETXdDDvkajetUmdFTiWQ31QN8e94n/92vhRQF3uKDTEdrXWGNYPPLbQzcDSOrjhS4pGI4/FnX8ozSpeuhqokSnbugmJjU6HTq+wW9j1d6GrlB7eyfKpkP/JBguQn380M2ljWrvg67a43eJh/JWF3R8nKOjBU1Vf137F2jxm0MvN+i1KIJ+g9kXekUPAN+wCQuduryRHzpuozVbuKd3ykmjS9pmgL4N3wPtbUOnObJMTIduyXF+6LCLvA0r63ig7xDljuGIompjCW6yoYet8FdZhSSCxsm/NXQ8WHt83Y7ePbsNMIAnLBG8ao+6buiwHn6orQa7oId98QXt6dYs0TvN4RvHTxc0LYaOK7T/a/SE9r0IrqgZ9GAj/ER7PtYXvdOO0fV6ws9x/sCoJdfZ0GF6MoKGCyUm+G2h42Rj0B6SCTonnMbTEwstLoYO7+Cz8I69HBPo8BE+i29AhbGo2yQb9JIOPIXSsmLosJX2d7VMaIZstarQ8W18Ft81bL4JulYHPcqfE+e/DFvB1TZ0PIh1hagIl0os/1tBx7fwuUKOV+F8P+nQJagL8W3D5PmUHblPqU/a5gztyt7ToBuB0GuMlKEbHXhzFuj4E9wjQlub0F2Cv0j329Bxp6q8GgoV/BDAFQ7ovIytCFsX7GWRubzRbwDdlp+JHDtyH5l9IctdI5W1xLvETdiuGujP5PpxLR7ptg1bZIEOnXlnHS9LQjd2E56Mfa1HR+AFAj179O4SvIQtnNB3Lmj0+P4Ary2Gnm/G0z8+zUMIP9UeRtYGdAbmg85xuj969yY11FzEOKG/D1dgqWzvC3RbFGaGHiU8lpdGRdDHch6/ki0U2qDWoP+Cg9OhB8O15keBbq1nvobnY/le5opVhH4364JOYk0bpIz0H6hPRuj5Zguamvmwl7gJeiShqyDfbI/6YmtDxy3zzeY0xkd0/lmGlAl6N+nOBPTOhmad2oCO0/LNVBsjIL3cDx12YZ39yYeh096iswVvyAT9QJnPWJfrLda5flYgNy7fLJoLPhPAGaHjTvgJ7qsG8RkaiUzh2wUNXNF7tdCX8nPPQrnM0KOEJzmgR8nY1jy9NqCrcclVAVTkhqRDx2k+6HhntdC/CuulQ6ctZCbhj9KUExo83KzofXuZsahPBujRqPyQOwrvhPvhm+ROeI2gRwme1JpbMkLneeZnJ/SjRIe7FTYg1AwLuueDS7C+G3q+GX7u/+DiDEafdECPQHI04hNaNx16sJFRcjtOVmvibGOtdD3b4RdJ6GEr/FrXO1g2ncwPLiJhQ4mCbakINqo5dNxG/FDPTNDZ12ku6Ll+5sOAv8LH8IPjjM9nnpE207v3fqq2+mx5Izd03M3QlrqgwyhZ+pW0DVvH0gsqzE0sP3Qd+j3rYcFbPJ7NGThPjr4U5oNgHZ+f6MAIXW2rJXyRkzN+6J69936Gp21WBXrYF3+xoEcJtvV2iEA/MTt0x3p2ejr0sB685oC+i7a9LdEvz2v9ZSnQ+djZT1xmH8bwQ8fZhuXI+AF60Qu9rCXsLlOIlo/Vfz177+nQrVvDa7JDl20QgS7vPPzONSPhDbRWjKQ1PpIVuh0d48Fu6LC7qafFDug3OXffzHnkozTo/HUS37YPotCue9T1QzeDb1kp0Lrwpgd6VdqjLm2AS/EYPB+uoLNpP4VxgRxoxIKA5+xnMJwt5BsYjM1RjgKVIxrPDWIrPhg5r4XWdDe8dVLIMr91YiS0h2V0Nt4Lz+CL+AhdQYfQpkGnuJBH4li1CFfQ8shyMS1QVcc0Q7ZRU9hvSVs5Tcb3yUsi/TiUFQSHJaMgKBMp9JQKOJ/8BoiDxZJfHnvUFV20OrLSggao6Ai4CR7Cx/B2OAMXFp/poU25vrQCyqg8kjyVB8N1XzRHhTvgbrQr7BL93QZXwCKawyHlPyr9m/4PHvcrPqeuy6oAAAAASUVORK5CYII=" /> partner of <a href="/info/partners.html">AGORA, HINARI, OARE, INASP, ORCID, CrossRef, COUNTER and COPE</a></li>				</ul>
+			</div>
+				</div>
+	</div>
+
+	</div></div><!-- close constrain divs -->
+
+	<!-- end global links -->
+
+
+	<!-- super body bottom -->
+<div id="div-gpt-ad-3" class="ad adunit-out-of-page div-gpt-ad out-of-page" data-gpt-unitpath="/285/cddis.nature.com" data-gpt-targeting="type=oa;artid=cddis201513a;issue=3;pos=right;techmeta=13,2,31,109,45,22,23;sz=160x600;tile=2"></div>
+<!-- super javascript -->
+
+
+	
+																																			
+																																														
+																																<script type="text/javascript" src="/super/scripts/jquery.js?c=1504601471733"></script>
+																																		<script type="text/javascript" src="/common/scripts/jquery/plugins/cookie.js?c=1504601471733"></script>
+																																		<script type="text/javascript" src="/common/scripts/message.js?c=1504601471733"></script>
+																																							<script type="text/javascript" src="http://content.readcube.com/ping?doi=10.1038/cddis.2015.13&format=js&last_modified=2015-03-26"></script>
+																																		<script type="text/javascript" src="/common/scripts/jquery/plugins/baseline.jquery.js?c=1504601471733"></script>
+																																		<script type="text/javascript" src="/common/scripts/global.baseline.js?c=1504601471733"></script>
+																																		<script type="text/javascript" src="/super/scripts/tsedge/tsedge_instr-min.js?c=1504601471733?c=1504601471733"></script>
+						
+	
+	<script type="text/javascript"><!--//--><![CDATA[//><!--
+	(function($) {
+		$('a.popup-this').bind('click', function() {
+			window.open(this.href);
+			return false;
+		});
+	})(jQuery);
+	//--><!]]></script>
+
+	
+
+																																																																																																																																																																																																																																								
+<!--[if IE 6]>
+	<script type="text/javascript" src="/aj/scripts/ie-specific/ie-6.js?c=1504601471733"></script>
+<![endif]-->
+																																																																																																																																																																																																																																																																																																																																																																																																																																																																																
+ 
+
+			<!-- Nielsen/NetRatings SiteCensus V5.3 -->
+	<script type="text/javascript"><!--//--><![CDATA[//><!--
+		var _rsCI="us-nature";
+		var _rsCG="0";
+		var _rsDN="//secure-us.imrworldwide.com/";
+		var _rsPLfl=0;
+		var _rsSE=1;
+		var _rsSM=1.0;
+		var _rsCL=1;
+	//--><!]]></script>
+	<script type="text/javascript" src="/super/scripts/netratings/v53.js?c=1504601471733"></script> 	<noscript>
+		<div><img src="http://secure-us.imrworldwide.com/cgi-bin/m?ci=us-nature&amp;cg=0&amp;cc=1" alt="" /></div>
+	</noscript>
+
+
+
+
+
+	<script type="text/javascript" src="/common/scripts/global.webtrends.js"></script>
+	<noscript>
+		<div><img alt="" id="DCSIMG" width="1" height="1" src="//statse.webtrendslive.com/dcs0zztfg00000s969s37qoal_2f6z/njs.gif?dcsuri=/nojavascript&amp;WT.js=No&amp;WT.tv=10.2.55" /></div>
+	</noscript>
+
+<script src="https://verify.nature.com/verify/nature.js?nocallback=true"></script>
+<noscript>
+	<img src="https://verify.nature.com/verify/nature.png" alt="" width="0" height="0"/>
+</noscript>
+	</body>
+</html>

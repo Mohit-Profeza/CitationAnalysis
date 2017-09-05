@@ -1,0 +1,302 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+	
+<head>
+<meta http-equiv="content-type" content="text/html;charset=UTF-8" />
+<link rel="shortcut icon" href="/images/favicon.png" />
+<link type="text/css" rel="stylesheet" media="all" href="http://www.elsevier.es/css/item/layout/item.css" />
+<link type="text/css" rel="stylesheet" media="all" href="http://www.elsevier.es/css/item/style/item.css" />
+<link rel="stylesheet" href="/js/fancybox/jquery.fancybox-1.3.4.css" type="text/css" media="screen" />
+<link type="text/css" rel="stylesheet" media="all" href="/css/estilos.css" />
+<link rel="stylesheet" href="http://www.elsevier.es/js/fancybox/jquery.fancybox.css" type="text/css" media="screen" />
+<link rel="stylesheet" href="/js/player/mediaelementplayer.min.css" /><title>Revista Brasileira de Hematologia e Hemoterapia</title>
+<script type="text/javascript" src="http://code.jquery.com/jquery-1.8.3.js"></script>
+<script type="text/javascript" src="http://www.elsevier.es/js/fancybox/jquery.fancybox.js"></script>
+<script type="text/javascript" src="/js/fancybox/jquery.easing-1.3.pack.js"></script>
+<script type="text/javascript" src="/js/fancybox/jquery.mousewheel-3.0.4.pack.js"></script>
+<script type="text/javascript" src="/js/comun.js"></script>
+<script type="text/javascript" src="/js/functions.js"></script>
+<script type="text/javascript" src="http://www.elsevier.es/js/utils.js"></script>
+<script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#pubid=ra-500688a23ebc57d9"></script>
+<script type="text/javascript" src="/js/player/mediaelement-and-player.min.js"></script><!--[if lt IE 9]><script type="text/javascript">soporteHTML5IE();</script><![endif]-->
+<script type="text/javascript">
+
+////mensajes tipo 'alert'
+var errorBuscar="Você deve digitar um valor para pesquisa";
+var emailPassVacios="Você deve preencher o seu e-mail e senha para ter acesso";
+var mailIncorrecto="O formato do e-mail está errado";
+var msgAlgunCampoCita="Você deve completar pelo menos um campo";
+var msgCampoDoi="Você deve especificar pelo menos um DOI";
+var mensajeErrorAlertaEmail="Você deve preencher os campos obrigatórios";
+var autenNoCoindicen="Las chaves no coinciden";
+ 
+ 
+ 
+</script>
+<script>
+// using jQuery
+$('video,audio').mediaelementplayer();
+</script>
+
+<script type='text/javascript'>
+(function() {
+var useSSL = 'https:' == document.location.protocol;
+var src = (useSSL ? 'https:' : 'http:') +
+'//www.googletagservices.com/tag/js/gpt.js';
+document.write('<scr' + 'ipt src="' + src + '"></scr' + 'ipt>');
+})();
+</script>
+
+<script type='text/javascript'>
+var banner_profesional=0;
+var banners_rendered=1;
+
+googletag.defineSlot('/6053/elses.journals', [[1, 1]], 'elsevierjournals_pixel').addService(googletag.pubads());
+
+googletag.defineSlot('/6053/elses.journals', [[728, 90] , [900, 100]], 'elsevierjournals_top').addService(googletag.pubads());
+googletag.defineSlot('/6053/elses.journals', [[360, 90]], 'elsevierjournals_top1').addService(googletag.pubads());
+googletag.defineSlot('/6053/elses.journals', [[360, 90]], 'elsevierjournals_top2').addService(googletag.pubads());
+
+googletag.defineSlot('/6053/elses.journals', [[180, 180] , [180, 400]], 'elsevierjournals_lateral1').addService(googletag.pubads());
+googletag.defineSlot('/6053/elses.journals', [[180, 180]], 'elsevierjournals_lateral2').addService(googletag.pubads());
+googletag.defineSlot('/6053/elses.journals', [[180, 180]], 'elsevierjournals_lateral3').addService(googletag.pubads());
+
+
+  
+googletag.pubads().setTargeting("es_PUBLICACION", "396");
+googletag.pubads().setTargeting("es_PUBLICACION_NOMBRE", "Revista Brasileira de Hematologia e Hemoterapia");
+
+
+googletag.pubads().collapseEmptyDivs();
+googletag.pubads().enableSingleRequest();
+googletag.pubads().enableSyncRendering();
+
+	
+googletag.enableServices();
+
+
+</script>
+</head><body>
+<div id="wrap" align="center">
+
+<header id="cabecera">
+		<div id="opcionesCabecera"> 
+				<div id="idiomas">
+		<a href="/pt/"><img src="/images/ico-brasil.png"  alt="Português" /> Português</a><a href="/en/" style="margin-left:5px;" ><img src="/images/ico-en.gif" alt="English" /> English</a>	
+		</div>
+				<div  id="buscador" >
+			<form  id="formBuscar" name="formBuscar" action="/pt/buscador/" method="get">
+				<input type="text"  id="txtBuscador" name="txtBuscador" />
+				<div style="float: right;padding-top: 4px;">
+				<input type="button" onclick="validarBuscar()" class="btnBuscar" />
+				</div>
+			</form>
+		<br/><a id="lblBusqueda" href="/pt/busqueda-avanzada/" class="enlace_negro">Pesquisa avançada</a>
+		</div>
+		</div>
+		<img src="/images/cabecera.jpg" usemap="#cabeceraMap" alt="Revista Brasileira de Hematologia e Hemoterapia" />
+		<map name="cabeceraMap" id="cabeceraMap">
+		<area shape="rect" coords="0,0,550,130" href="/pt/" alt="Revista Brasileira de Hematologia e Hemoterapia" />
+		</map>
+</header>
+	 
+   <nav id="menu">
+<div style="font-size: 12px;font-weight: bold;text-transform: uppercase;">
+		<ul>
+		
+			<li><a title='No prelo' href='/pt/ahead-of-print/' class='' >No prelo</a></li>
+			<li><a title='Número atual' href='/pt/' class='active' >Número atual</a></li>
+			<li><a title='Toda a coleção' href='/pt/archivo/'  class=''>Toda a coleção</a></li>
+			<li><a title='Suplementos' href='/pt/suplementos/'  class=''>Suplementos</a></li>
+			<li><a title='Comitê Editorial' href='/pt/comite-editorial/'  class='' >Comitê Editorial</a></li>
+			
+ 
+		</ul>
+</div>
+</nav><div id="infoPrincipal" align="left">
+	<div class="top"></div>
+	<div class="content">
+	<div class="portada">
+	<a href='/images/portada_defecto.gif' class='imagen'><img width='101' height='136' src='/images/portada_defecto.gif' alt='' /></a>		</div>
+	<div id="ultimoSumario" class="texto_gris">
+	<a href="#" title="N&uacute;mero Atual" >N&uacute;mero Atual</a><br/>Julho - Setembro 2017<br/>Vol. 39. Núm. 3.<br/>P&aacute;ginas 187-292<br/>	</div>	
+	<div id="infoRevista"   class='texto_gris_oscuro infoRevista'>
+	<p style='margin-top:0px;'  >A <b>Revista Brasileira de Hematologia e Hemoterapia (Brazilian Journal of Hematology and Hemotherapy)</b>  é uma publicação científica trimestral da Associação Brasileira de Hematologia, Hemoterapia e Terapia Celular (ABHH), Sociedade Brasileira de Transplante de Medula Óssea (SBTMO), Associazione Italo-Brasiliana di Ematologia (AIBE) e Sociedade Brasileira de Oncologia Pediátrica (SOBOPE).
+A revista sucedeu o Boletim da Sociedade Brasileira de Hematologia e Hemoterapia (Bulletin of the Brazilian Society of Hematology and Hemotherapy), publicado de 1973 a 1998, com 179 números em 20 volumes.</p><p >A <b>Revista Brasileira de Hematologia e Hemoterapia</b> publica artigos originais, artigos de revisão e relatos de caso relacionados com várias temáticas da área de hematologia e hemoterapia.
+A abreviação do título, a ser utilizada em referências bibliográficas ou notas ao se citarem artigos publicados na revista, é:  Rev Bras Hematol Hemoter.</p><p><b><span style='color:#901701'font-weight:bold;'>Indexações: LILACS, SciELO Brazil, Scopus e PubMed/PMC</span><br/><br/> 
+<span style='color:#901701;font-weight:bold;'>ISSN print: 1516-8484<br/>ISSN online: 1806-0870</span></b></p>	</div>
+	</div>
+	<div class="bottom"></div>
+</div>
+
+
+<div id="homeNav" class="nav2">
+<ul>
+<li><a href='/pt/' class='active'>N&uacute;mero Atual</a></li><li><a href='/pt/lo-mas-leido/'>Os mais lidos</a></li>		</ul>
+		<div id="siguenos">
+		Siga-nos no: <a  href='/pt/rss/ultimo/' target='_blank'><img src='/images/ico-rss.gif'  alt='' /></a>		</div>
+</div>
+<div id="bodyTop">	
+	
+	<div id="ultimoSumariobody" class="texto_gris" >
+	Vol. 39. Núm. 3. Julho - Setembro 2017 P&aacute;ginas 187-292	</div>
+	
+</div>		<div class="central">
+	<div id="home" class="content-central">
+
+<div id="collFull">
+		<span class='seccion_0'>Scientific comments</span><div class='item'><div class="item-preview"><a class='enlace' href='/pt/understanding-population-wide-haplotype-frequencies-human/articulo/S1516848417300336/'>Understanding population-wide haplotype frequencies of human leukocyte antigen &#40;HLA&#41; alleles in linkage disequilibrium is important for hematopoietic stem cell transplantation</a><br/><span class='autor' >Folashade Otegbeye<br/></span><span class='cita' >Rev Bras Hematol Hemoter 2017;39:187-8<br/></span><span class='itemliks'><!-- IDIOMA: cierto--><a class='enlace_azul enlace_texto' href='/pt/understanding-population-wide-haplotype-frequencies-human/articulo/S1516848417300336/'>Texto Completo</a> - <a class='enlace_azul enlace_pdf' target='_blank' href='/en/pdf/S1516848417300336/S300/' onclick="_gaq.push(['_setCustomVar',3,'PUBLICACION','396',3]);_gaq.push(['_setCustomVar',4,'PERMISOS','ABIERTO',3]);_gaq.push(['_trackPageview', '/en/pdf/S1516848417300336/S300/']);">PDF</a></span></div></div><div class='item'><div class="item-preview"><a class='enlace' href='/pt/adjusting-thresholds-serum-ferritin-for/articulo/S1516848417300415/'>Adjusting thresholds of serum ferritin for iron deficiency&#58; a moving target</a><br/><span class='autor' >Fl&#225;vio Augusto Naoum<br/></span><span class='cita' >Rev Bras Hematol Hemoter 2017;39:189-90<br/></span><span class='itemliks'><!-- IDIOMA: cierto--><a class='enlace_azul enlace_texto' href='/pt/adjusting-thresholds-serum-ferritin-for/articulo/S1516848417300415/'>Texto Completo</a> - <a class='enlace_azul enlace_pdf' target='_blank' href='/en/pdf/S1516848417300415/S300/' onclick="_gaq.push(['_setCustomVar',3,'PUBLICACION','396',3]);_gaq.push(['_setCustomVar',4,'PERMISOS','ABIERTO',3]);_gaq.push(['_trackPageview', '/en/pdf/S1516848417300415/S300/']);">PDF</a></span></div></div><div class='item'><div class="item-preview"><a class='enlace' href='/pt/challenges-in-diagnosis-iron-deficiency/articulo/S1516848417300440/'>Challenges in the diagnosis of iron deficiency anemia in aged people</a><br/><span class='autor' >Niele Silva de Moraes, Maria Stella Figueiredo<br/></span><span class='cita' >Rev Bras Hematol Hemoter 2017;39:191-2<br/></span><span class='itemliks'><!-- IDIOMA: cierto--><a class='enlace_azul enlace_texto' href='/pt/challenges-in-diagnosis-iron-deficiency/articulo/S1516848417300440/'>Texto Completo</a> - <a class='enlace_azul enlace_pdf' target='_blank' href='/en/pdf/S1516848417300440/S300/' onclick="_gaq.push(['_setCustomVar',3,'PUBLICACION','396',3]);_gaq.push(['_setCustomVar',4,'PERMISOS','ABIERTO',3]);_gaq.push(['_trackPageview', '/en/pdf/S1516848417300440/S300/']);">PDF</a></span></div></div><div class='item'><div class="item-preview"><a class='enlace' href='/pt/new-agents-in-relapsed-refractory-hodgkin39s/articulo/S1516848417300725/'>New agents in relapsed&#47;refractory Hodgkin&#39;s lymphoma</a><br/><span class='autor' >Irene Biasoli, Nelson Spector<br/></span><span class='cita' >Rev Bras Hematol Hemoter 2017;39:193-6<br/></span><span class='itemliks'><!-- IDIOMA: cierto--><a class='enlace_azul enlace_texto' href='/pt/new-agents-in-relapsed-refractory-hodgkin39s/articulo/S1516848417300725/'>Texto Completo</a> - <a class='enlace_azul enlace_pdf' target='_blank' href='/en/pdf/S1516848417300725/S300/' onclick="_gaq.push(['_setCustomVar',3,'PUBLICACION','396',3]);_gaq.push(['_setCustomVar',4,'PERMISOS','ABIERTO',3]);_gaq.push(['_trackPageview', '/en/pdf/S1516848417300725/S300/']);">PDF</a></span></div></div><div class='item'><div class="item-preview"><a class='enlace' href='/pt/bcr-abl1-level-monitoring-in-chronic/articulo/S1516848417300749/'>BCR-ABL1 level monitoring in chronic myeloid leukemia by real time polymerase chain reaction in Brazil &#8211; not so real</a><br/><span class='autor' >Katia Borgia Barbosa Pagnano<br/></span><span class='cita' >Rev Bras Hematol Hemoter 2017;39:197-8<br/></span><span class='itemliks'><!-- IDIOMA: cierto--><a class='enlace_azul enlace_texto' href='/pt/bcr-abl1-level-monitoring-in-chronic/articulo/S1516848417300749/'>Texto Completo</a> - <a class='enlace_azul enlace_pdf' target='_blank' href='/en/pdf/S1516848417300749/S300/' onclick="_gaq.push(['_setCustomVar',3,'PUBLICACION','396',3]);_gaq.push(['_setCustomVar',4,'PERMISOS','ABIERTO',3]);_gaq.push(['_trackPageview', '/en/pdf/S1516848417300749/S300/']);">PDF</a></span></div></div><div class='item'><div class="item-preview"><a class='enlace' href='/pt/scientific-comment-on-quantitative-flow/articulo/S1516848417300737/'>Scientific comment on&#58; &#8220;Quantitative flow cytometric evaluation of CD200&#44; CD123&#44; CD43 and CD52 as a tool for the differential diagnosis of mature B-cell neoplasms&#8221;</a><br/><span class='autor' >Maura Rosane Valerio Ikoma<br/></span><span class='cita' >Rev Bras Hematol Hemoter 2017;39:199-201<br/></span><span class='itemliks'><!-- IDIOMA: cierto--><a class='enlace_azul enlace_texto' href='/pt/scientific-comment-on-quantitative-flow/articulo/S1516848417300737/'>Texto Completo</a> - <a class='enlace_azul enlace_pdf' target='_blank' href='/en/pdf/S1516848417300737/S300/' onclick="_gaq.push(['_setCustomVar',3,'PUBLICACION','396',3]);_gaq.push(['_setCustomVar',4,'PERMISOS','ABIERTO',3]);_gaq.push(['_trackPageview', '/en/pdf/S1516848417300737/S300/']);">PDF</a></span></div></div><span class='seccion_0'>Original Articles</span><div class='item'><div class="item-preview"><a class='enlace' href='/pt/do-immunoglobulin-g-immunoglobulin-e/articulo/S1516848417300026/'>Do immunoglobulin G and immunoglobulin E anti-<span class="elsevierStyleSmallCaps">l</span>-asparaginase antibodies have distinct implications in children with acute lymphoblastic leukemia&#63; A cross-sectional study</a><br/><span class='autor' >Gabriela Galindo-Rodr&#237;guez, Jos&#233; C&#46; Jaime-P&#233;rez, Mario C&#46; Salinas-Carmona, Sandra N&#46; Gonz&#225;lez-D&#237;az, &#193;ngeles Castro-Corona, Ra&#250;l Cavazos-Gonz&#225;lez, Humberto Trevi&#241;o-Villarreal, Alberto C&#46; Heredia-Salazar, David G&#243;mez-Almaguer<br/></span><span class='cita' >Rev Bras Hematol Hemoter 2017;39:202-9<br/></span><span class='itemliks'><a  class='enlace_azul enlace_resumen' href='/pt/do-immunoglobulin-g-immunoglobulin-e/articulo-resumen/S1516848417300026/'>Resumo</a> - <!-- IDIOMA: cierto--><a class='enlace_azul enlace_texto' href='/pt/do-immunoglobulin-g-immunoglobulin-e/articulo/S1516848417300026/'>Texto Completo</a> - <a class='enlace_azul enlace_pdf' target='_blank' href='/en/pdf/S1516848417300026/S300/' onclick="_gaq.push(['_setCustomVar',3,'PUBLICACION','396',3]);_gaq.push(['_setCustomVar',4,'PERMISOS','ABIERTO',3]);_gaq.push(['_trackPageview', '/en/pdf/S1516848417300026/S300/']);">PDF</a></span></div></div><div class='item'><div class="item-preview"><a class='enlace' href='/pt/molecular-response-imatinib-mesylate-brazilian/articulo/S1516848417300695/'>Molecular response to imatinib mesylate of Brazilian patients with chronic myeloid leukemia</a><br/><span class='autor' >Ana Lucia Vieira-Mion, Noemi Farah Pereira, Vaneuza Araujo Moreira Funke, Ricardo Pasquini<br/></span><span class='cita' >Rev Bras Hematol Hemoter 2017;39:210-5<br/></span><span class='itemliks'><a  class='enlace_azul enlace_resumen' href='/pt/molecular-response-imatinib-mesylate-brazilian/articulo-resumen/S1516848417300695/'>Resumo</a> - <!-- IDIOMA: cierto--><a class='enlace_azul enlace_texto' href='/pt/molecular-response-imatinib-mesylate-brazilian/articulo/S1516848417300695/'>Texto Completo</a> - <a class='enlace_azul enlace_pdf' target='_blank' href='/en/pdf/S1516848417300695/S300/' onclick="_gaq.push(['_setCustomVar',3,'PUBLICACION','396',3]);_gaq.push(['_setCustomVar',4,'PERMISOS','ABIERTO',3]);_gaq.push(['_trackPageview', '/en/pdf/S1516848417300695/S300/']);">PDF</a></span></div></div><div class='item'><div class="item-preview"><a class='enlace' href='/pt/everolimus-as-single-agent-in/articulo/S151684841730049X/'>Everolimus as a single agent in refractory or relapsed Hodgkin&#39;s lymphoma&#58; the Brazilian Named Patient Program Experience</a><br/><span class='autor' >Talita M&#225;ira Bueno da Silveira da Rocha, Sergio Costa Fortier, Thais Rodrigues da Cunha Fischer, Guilherme Fleury Perini, Rafael Dezen Gaiolla, Laura Fogliatto, Marcia Torresan Delamain, Andressa Fragoso da Costa, Nelson Siqueira de Castro, Wolney Gois Barretos, C&#225;rmino Antonio de Souza, Val&#233;ria Buccheri, Carlos S&#233;rgio Chiattone<br/></span><span class='cita' >Rev Bras Hematol Hemoter 2017;39:216-22<br/></span><span class='itemliks'><a  class='enlace_azul enlace_resumen' href='/pt/everolimus-as-single-agent-in/articulo-resumen/S151684841730049X/'>Resumo</a> - <!-- IDIOMA: cierto--><a class='enlace_azul enlace_texto' href='/pt/everolimus-as-single-agent-in/articulo/S151684841730049X/'>Texto Completo</a> - <a class='enlace_azul enlace_pdf' target='_blank' href='/en/pdf/S151684841730049X/S300/' onclick="_gaq.push(['_setCustomVar',3,'PUBLICACION','396',3]);_gaq.push(['_setCustomVar',4,'PERMISOS','ABIERTO',3]);_gaq.push(['_trackPageview', '/en/pdf/S151684841730049X/S300/']);">PDF</a></span></div></div><div class='item'><div class="item-preview"><a class='enlace' href='/pt/ability-serum-ferritin-diagnose-iron/articulo/S1516848417300324/'>Ability of serum ferritin to diagnose iron deficiency anemia in an elderly cohort</a><br/><span class='autor' >Mansour Babaei, Sajedeh Shafiei, Ali Bijani, Behzad Heidari, Seyed Reza Hosseyni, Mohsen Vakili Sadeghi<br/></span><span class='cita' >Rev Bras Hematol Hemoter 2017;39:223-8<br/></span><span class='itemliks'><a  class='enlace_azul enlace_resumen' href='/pt/ability-serum-ferritin-diagnose-iron/articulo-resumen/S1516848417300324/'>Resumo</a> - <!-- IDIOMA: cierto--><a class='enlace_azul enlace_texto' href='/pt/ability-serum-ferritin-diagnose-iron/articulo/S1516848417300324/'>Texto Completo</a> - <a class='enlace_azul enlace_pdf' target='_blank' href='/en/pdf/S1516848417300324/S300/' onclick="_gaq.push(['_setCustomVar',3,'PUBLICACION','396',3]);_gaq.push(['_setCustomVar',4,'PERMISOS','ABIERTO',3]);_gaq.push(['_trackPageview', '/en/pdf/S1516848417300324/S300/']);">PDF</a></span></div></div><div class='item'><div class="item-preview"><a class='enlace' href='/pt/human-leukocyte-antigen-allele-linkage/articulo/S1516848417300282/'>Human leukocyte antigen allele linkage disequilibrium and haplotype structure in volunteer bone marrow donors of Paran&#225; State</a><br/><span class='autor' >Paulo Rincoski Costantino, Suelen Camargo Zeck, Waldir Antonio da Silva, Maria da Gra&#231;a Bicalho<br/></span><span class='cita' >Rev Bras Hematol Hemoter 2017;39:229-36<br/></span><span class='itemliks'><a  class='enlace_azul enlace_resumen' href='/pt/human-leukocyte-antigen-allele-linkage/articulo-resumen/S1516848417300282/'>Resumo</a> - <!-- IDIOMA: cierto--><a class='enlace_azul enlace_texto' href='/pt/human-leukocyte-antigen-allele-linkage/articulo/S1516848417300282/'>Texto Completo</a> - <a class='enlace_azul enlace_pdf' target='_blank' href='/en/pdf/S1516848417300282/S300/' onclick="_gaq.push(['_setCustomVar',3,'PUBLICACION','396',3]);_gaq.push(['_setCustomVar',4,'PERMISOS','ABIERTO',3]);_gaq.push(['_trackPageview', '/en/pdf/S1516848417300282/S300/']);">PDF</a></span></div></div><div class='item'><div class="item-preview"><a class='enlace' href='/pt/comparison-microrna-expression-in-high-count/articulo/S1516848417300452/'>Comparison of microRNA expression in high-count monoclonal B-cell lymphocytosis and Binet A chronic lymphocytic leukemia</a><br/><span class='autor' >Felipe Magalh&#227;es Furtado, Priscila Santos Scheucher, B&#225;rbara Am&#233;lia Santana, Dalila Luc&#237;ola Zanette, Rodrigo do Tocantins Calado, Eduardo Magalh&#227;es Rego, Daniel Mazza Matos, Roberto Passetto Falc&#227;o<br/></span><span class='cita' >Rev Bras Hematol Hemoter 2017;39:237-43<br/></span><span class='itemliks'><a  class='enlace_azul enlace_resumen' href='/pt/comparison-microrna-expression-in-high-count/articulo-resumen/S1516848417300452/'>Resumo</a> - <!-- IDIOMA: cierto--><a class='enlace_azul enlace_texto' href='/pt/comparison-microrna-expression-in-high-count/articulo/S1516848417300452/'>Texto Completo</a> - <a class='enlace_azul enlace_pdf' target='_blank' href='/en/pdf/S1516848417300452/S300/' onclick="_gaq.push(['_setCustomVar',3,'PUBLICACION','396',3]);_gaq.push(['_setCustomVar',4,'PERMISOS','ABIERTO',3]);_gaq.push(['_trackPageview', '/en/pdf/S1516848417300452/S300/']);">PDF</a></span></div></div><div class='item'><div class="item-preview"><a class='enlace' href='/pt/blood-injection-fear-scale-portuguese-version/articulo/S1516848417300750/'>Blood&#47;Injection Fear Scale&#58; Portuguese version&#44; cultural adaptation and psychometric properties in a large sample of primary health care users</a><br/><span class='autor' >Miriane Lucindo Zucoloto, Edson Zangiacomi Martinez<br/></span><span class='cita' >Rev Bras Hematol Hemoter 2017;39:244-51<br/></span><span class='itemliks'><a  class='enlace_azul enlace_resumen' href='/pt/blood-injection-fear-scale-portuguese-version/articulo-resumen/S1516848417300750/'>Resumo</a> - <!-- IDIOMA: cierto--><a class='enlace_azul enlace_texto' href='/pt/blood-injection-fear-scale-portuguese-version/articulo/S1516848417300750/'>Texto Completo</a> - <a class='enlace_azul enlace_pdf' target='_blank' href='/en/pdf/S1516848417300750/S300/' onclick="_gaq.push(['_setCustomVar',3,'PUBLICACION','396',3]);_gaq.push(['_setCustomVar',4,'PERMISOS','ABIERTO',3]);_gaq.push(['_trackPageview', '/en/pdf/S1516848417300750/S300/']);">PDF</a></span></div></div><div class='item'><div class="item-preview"><a class='enlace' href='/pt/quantitative-flow-cytometric-evaluation-cd200/articulo/S1516848417300713/'>Quantitative flow cytometric evaluation of CD200&#44; CD123&#44; CD43 and CD52 as a tool for the differential diagnosis of mature B-cell neoplasms</a><br/><span class='autor' >Elissandra Machado Arlindo, Nat&#225;lia Aydos Marcondes, Flavo Beno Fernandes, Gustavo Adolpho Moreira Faulhaber<br/></span><span class='cita' >Rev Bras Hematol Hemoter 2017;39:252-8<br/></span><span class='itemliks'><a  class='enlace_azul enlace_resumen' href='/pt/quantitative-flow-cytometric-evaluation-cd200/articulo-resumen/S1516848417300713/'>Resumo</a> - <!-- IDIOMA: cierto--><a class='enlace_azul enlace_texto' href='/pt/quantitative-flow-cytometric-evaluation-cd200/articulo/S1516848417300713/'>Texto Completo</a> - <a class='enlace_azul enlace_pdf' target='_blank' href='/en/pdf/S1516848417300713/S300/' onclick="_gaq.push(['_setCustomVar',3,'PUBLICACION','396',3]);_gaq.push(['_setCustomVar',4,'PERMISOS','ABIERTO',3]);_gaq.push(['_trackPageview', '/en/pdf/S1516848417300713/S300/']);">PDF</a></span></div></div><span class='seccion_0'>Review Articles</span><div class='item'><div class="item-preview"><a class='enlace' href='/pt/thrombin-generation-assays-for-global/articulo/S1516848417300506/'>Thrombin generation assays for global evaluation of the hemostatic system&#58; perspectives and limitations</a><br/><span class='autor' >Rita Carolina Figueiredo Duarte, Cl&#225;udia Nat&#225;lia Ferreira, Danyelle Romana Alves Rios, Helton Jos&#233; dos Reis, Maria das Gra&#231;as Carvalho<br/></span><span class='cita' >Rev Bras Hematol Hemoter 2017;39:259-65<br/></span><span class='itemliks'><a  class='enlace_azul enlace_resumen' href='/pt/thrombin-generation-assays-for-global/articulo-resumen/S1516848417300506/'>Resumo</a> - <!-- IDIOMA: cierto--><a class='enlace_azul enlace_texto' href='/pt/thrombin-generation-assays-for-global/articulo/S1516848417300506/'>Texto Completo</a> - <a class='enlace_azul enlace_pdf' target='_blank' href='/en/pdf/S1516848417300506/S300/' onclick="_gaq.push(['_setCustomVar',3,'PUBLICACION','396',3]);_gaq.push(['_setCustomVar',4,'PERMISOS','ABIERTO',3]);_gaq.push(['_trackPageview', '/en/pdf/S1516848417300506/S300/']);">PDF</a></span></div></div><div class='item'><div class="item-preview"><a class='enlace' href='/pt/partnership-sociedade-brasileira-oncologia-pediatrica/articulo/S1516848417300245/'>Partnership of the Sociedade Brasileira de Oncologia Pedi&#225;trica and International Society of Pediatric Oncology to improve nutritional care for children with cancer in Brazil</a><br/><span class='autor' >Karina Viani, Vicente Odone Filho, Sima Ferman, Teresa Cristina Cardoso Fonseca, Vanessa da Cunha Oliveira, Priscila dos Santos Maia Lemos, Ronald D&#46; Barr, Elena J&#46; Ladas<br/></span><span class='cita' >Rev Bras Hematol Hemoter 2017;39:266-8<br/></span><span class='itemliks'><a  class='enlace_azul enlace_resumen' href='/pt/partnership-sociedade-brasileira-oncologia-pediatrica/articulo-resumen/S1516848417300245/'>Resumo</a> - <!-- IDIOMA: cierto--><a class='enlace_azul enlace_texto' href='/pt/partnership-sociedade-brasileira-oncologia-pediatrica/articulo/S1516848417300245/'>Texto Completo</a> - <a class='enlace_azul enlace_pdf' target='_blank' href='/en/pdf/S1516848417300245/S300/' onclick="_gaq.push(['_setCustomVar',3,'PUBLICACION','396',3]);_gaq.push(['_setCustomVar',4,'PERMISOS','ABIERTO',3]);_gaq.push(['_trackPageview', '/en/pdf/S1516848417300245/S300/']);">PDF</a></span></div></div><span class='seccion_0'>Case Reports</span><div class='item'><div class="item-preview"><a class='enlace' href='/pt/small-cell-variant-anaplastic-large/articulo/S1516848417300786/'>Small cell variant of anaplastic large cell lymphoma with leukemic presentation&#58; a diagnostic challenge</a><br/><span class='autor' >Tom&#225;s Zecchini Barrese, Carlo Sagramoso, Francesco Bacci, Elena Sabattini<br/></span><span class='cita' >Rev Bras Hematol Hemoter 2017;39:269-73<br/></span><span class='itemliks'><!-- IDIOMA: cierto--><a class='enlace_azul enlace_texto' href='/pt/small-cell-variant-anaplastic-large/articulo/S1516848417300786/'>Texto Completo</a> - <a class='enlace_azul enlace_pdf' target='_blank' href='/en/pdf/S1516848417300786/S300/' onclick="_gaq.push(['_setCustomVar',3,'PUBLICACION','396',3]);_gaq.push(['_setCustomVar',4,'PERMISOS','ABIERTO',3]);_gaq.push(['_trackPageview', '/en/pdf/S1516848417300786/S300/']);">PDF</a></span></div></div><div class='item'><div class="item-preview"><a class='enlace' href='/pt/flow-cytometry-identify-bone-marrow-relapse/articulo/S1516848417300671/'>Flow cytometry to identify bone-marrow relapse in blastic plasmacytoid dendritic cell neoplasm&#58; a case report</a><br/><span class='autor' >Mariela Granero Farias, Fabiane Spagnol Pedrazzani, Luis Carlos Zanandrea Contin, Ana Paula Alegretti, Lisandra Della Costa Rigoni, Liane Esteves Daudt<br/></span><span class='cita' >Rev Bras Hematol Hemoter 2017;39:274-7<br/></span><span class='itemliks'><!-- IDIOMA: cierto--><a class='enlace_azul enlace_texto' href='/pt/flow-cytometry-identify-bone-marrow-relapse/articulo/S1516848417300671/'>Texto Completo</a> - <a class='enlace_azul enlace_pdf' target='_blank' href='/en/pdf/S1516848417300671/S300/' onclick="_gaq.push(['_setCustomVar',3,'PUBLICACION','396',3]);_gaq.push(['_setCustomVar',4,'PERMISOS','ABIERTO',3]);_gaq.push(['_trackPageview', '/en/pdf/S1516848417300671/S300/']);">PDF</a></span></div></div><div class='item'><div class="item-preview"><a class='enlace' href='/pt/erythrovirus-b19-induced-persistent-bicytopenia/articulo/S1516848417300488/'>Erythrovirus B19 induced persistent bicytopenia in a healthy child</a><br/><span class='autor' >Mili Jain, Gurleen Oberoi, Rashmi Kumar, Ashutosh Kumar<br/></span><span class='cita' >Rev Bras Hematol Hemoter 2017;39:278-80<br/></span><span class='itemliks'><!-- IDIOMA: cierto--><a class='enlace_azul enlace_texto' href='/pt/erythrovirus-b19-induced-persistent-bicytopenia/articulo/S1516848417300488/'>Texto Completo</a> - <a class='enlace_azul enlace_pdf' target='_blank' href='/en/pdf/S1516848417300488/S300/' onclick="_gaq.push(['_setCustomVar',3,'PUBLICACION','396',3]);_gaq.push(['_setCustomVar',4,'PERMISOS','ABIERTO',3]);_gaq.push(['_trackPageview', '/en/pdf/S1516848417300488/S300/']);">PDF</a></span></div></div><span class='seccion_0'>Letters to the Editor</span><div class='item'><div class="item-preview"><a class='enlace' href='/pt/is-karyotyping-still-needed-in/articulo/S1516848417300294/'>Is karyotyping still needed in the diagnosis and monitoring of chronic myeloid leukemia&#63;</a><br/><span class='autor' >Maria de Lourdes L&#46;F&#46; Chauffaille<br/></span><span class='cita' >Rev Bras Hematol Hemoter 2017;39:281-2<br/></span><span class='itemliks'><!-- IDIOMA: cierto--><a class='enlace_azul enlace_texto' href='/pt/is-karyotyping-still-needed-in/articulo/S1516848417300294/'>Texto Completo</a> - <a class='enlace_azul enlace_pdf' target='_blank' href='/en/pdf/S1516848417300294/S300/' onclick="_gaq.push(['_setCustomVar',3,'PUBLICACION','396',3]);_gaq.push(['_setCustomVar',4,'PERMISOS','ABIERTO',3]);_gaq.push(['_trackPageview', '/en/pdf/S1516848417300294/S300/']);">PDF</a></span></div></div><div class='item'><div class="item-preview"><a class='enlace' href='/pt/fms-related-tyrosine-kinase-3-internal/articulo/S1516848417300403/'>FMS-related tyrosine kinase 3 internal tandem duplication &#40;FLT3-ITD&#41;&#58; a villain among others</a><br/><span class='autor' >Vanessa Y&#46;N&#46; de Arruda, Lisa N&#46; Matsuzaki, Maria de Lourdes Chauffaille<br/></span><span class='cita' >Rev Bras Hematol Hemoter 2017;39:283-4<br/></span><span class='itemliks'><!-- IDIOMA: cierto--><a class='enlace_azul enlace_texto' href='/pt/fms-related-tyrosine-kinase-3-internal/articulo/S1516848417300403/'>Texto Completo</a> - <a class='enlace_azul enlace_pdf' target='_blank' href='/en/pdf/S1516848417300403/S300/' onclick="_gaq.push(['_setCustomVar',3,'PUBLICACION','396',3]);_gaq.push(['_setCustomVar',4,'PERMISOS','ABIERTO',3]);_gaq.push(['_trackPageview', '/en/pdf/S1516848417300403/S300/']);">PDF</a></span></div></div><div class='item'><div class="item-preview"><a class='enlace' href='/pt/patients-with-very-severe-anemia/articulo/S1516848417300312/'>Patients with very severe anemia&#58; a case series</a><br/><span class='autor' >Marco Cei, Alessandro Ferretti, Nicola Mumoli<br/></span><span class='cita' >Rev Bras Hematol Hemoter 2017;39:285-7<br/></span><span class='itemliks'><!-- IDIOMA: cierto--><a class='enlace_azul enlace_texto' href='/pt/patients-with-very-severe-anemia/articulo/S1516848417300312/'>Texto Completo</a> - <a class='enlace_azul enlace_pdf' target='_blank' href='/en/pdf/S1516848417300312/S300/' onclick="_gaq.push(['_setCustomVar',3,'PUBLICACION','396',3]);_gaq.push(['_setCustomVar',4,'PERMISOS','ABIERTO',3]);_gaq.push(['_trackPageview', '/en/pdf/S1516848417300312/S300/']);">PDF</a></span></div></div><div class='item'><div class="item-preview"><a class='enlace' href='/pt/assessment-matos-carvalho-index/articulo/S1516848417300658/'>Assessment of the Matos &#38; Carvalho index for distinguishing thalassemia from iron deficiency anemia</a><br/><span class='autor' >Johannes J&#46;M&#46;L&#46; Hoffmann, Elo&#237;sa Urrechaga<br/></span><span class='cita' >Rev Bras Hematol Hemoter 2017;39:288-9<br/></span><span class='itemliks'><!-- IDIOMA: cierto--><a class='enlace_azul enlace_texto' href='/pt/assessment-matos-carvalho-index/articulo/S1516848417300658/'>Texto Completo</a> - <a class='enlace_azul enlace_pdf' target='_blank' href='/en/pdf/S1516848417300658/S300/' onclick="_gaq.push(['_setCustomVar',3,'PUBLICACION','396',3]);_gaq.push(['_setCustomVar',4,'PERMISOS','ABIERTO',3]);_gaq.push(['_trackPageview', '/en/pdf/S1516848417300658/S300/']);">PDF</a></span></div></div><div class='item'><div class="item-preview"><a class='enlace' href='/pt/response-assessment-matos-carvalho/articulo/S151684841730066X/'>Response to the assessment of the Matos &#38; Carvalho index by Hoffmann and Urrechaga</a><br/><span class='autor' >Janu&#225;ria F&#46; Matos, Luci M&#46;S&#46; Dusse, Karina B&#46;G&#46; Borges, Ricardo L&#46;V&#46; de Castro, Wendel Coura-Vital, Maria das G&#46; Carvalho<br/></span><span class='cita' >Rev Bras Hematol Hemoter 2017;39:290-1<br/></span><span class='itemliks'><!-- IDIOMA: cierto--><a class='enlace_azul enlace_texto' href='/pt/response-assessment-matos-carvalho/articulo/S151684841730066X/'>Texto Completo</a> - <a class='enlace_azul enlace_pdf' target='_blank' href='/en/pdf/S151684841730066X/S300/' onclick="_gaq.push(['_setCustomVar',3,'PUBLICACION','396',3]);_gaq.push(['_setCustomVar',4,'PERMISOS','ABIERTO',3]);_gaq.push(['_trackPageview', '/en/pdf/S151684841730066X/S300/']);">PDF</a></span></div></div></div>
+</div>
+	
+
+<!-- Inicio SIDEBAR -->
+<div id="sidebar">
+<div id="logo">
+
+<a href="http://www.abhh.org.br/" target="_blank"><img src="/images/logo_sociedad.jpg" alt="" style="float:left;" /></a>
+
+</div><div id="alertaEmail">
+
+<img src='/images/ico01.gif'/><a href='/pt/alerta-email/' class='texto_azul titulo'>Alerta de e-mail</a><br/>
+<span class="texto">Notifique-me quando uma nova edição da revista estiver disponível.</span>
+	
+
+</div>
+<div id="publiqueRevista">
+<img src='/images/ico02.gif'/><span class='texto_azul titulo'>Sistema de submissão on-line</span><br/>
+<span class="texto">Utilize estes links para enviar seu manuscrito para o </span>
+	<br/>
+	<a href="/pt/envio-manuscritos/" class="enlace">>Sistema de submissão on-line.</a>
+	<a href="/pt/guia-autores/" class="enlace">>Guia para os autores (PDF)</a>
+	<a href="/contenidos/static/conflicts-of-interest.docx" class="enlace">>Declaração de conflitos de interesse</a>
+	<a href="/contenidos/static/copyright-agreement.docx" class="enlace">>Declaração de transferência de direitos autorais</a>
+	<a href="/contenidos/static/statement-human-animal-rights.docx" class="enlace">>Declaração de ética em pesquisa</a>
+
+
+</div><div id="logo" align="center">
+<img src="/images/cope_logo_2011.jpg" /><br/>
+<span class="texto_mini" >A revista pertence ao Committee on Publication Ethics (COPE) <a class="enlace_grande" href="http://www.publicationethics.org" target="_blank">www.publicationethics.org</a> e adere aos seus princípios e procedimentos </span>
+
+
+
+</div><div id="scimago">
+<img src='/images/ico02.gif'/><span class='texto_azul titulo'>SCImago</span>
+<p align="center">
+<a target="_blank" href="http://www.scimagojr.com/journalsearch.php?q=4700152868&amp;tip=sid&amp;exact=no" title="SCImago Journal &amp; Country Rank"><img border="0" width='183px' src="http://www.scimagojr.com/journal_img.php?id=4700152868&amp;title=false" alt="SCImago Journal &amp; Country Rank"  /></a>
+</p>
+</div></div>
+<!-- Fin SIDEBAR -->	<div class="clear"></div>
+	</div>
+		<div class="sepFooter"></div>
+<footer id="footer">
+<nav id="footer-top">
+<span class="texto_rojo_mini">Leia o RBHH</span>
+			<!--<a href="/pt/ahead-of-print/" class="enlace_negro_mini">No prelo</a>
+			/-->
+			<a href="/pt/" class="enlace_negro_mini">Número atual</a>
+			/
+			<a href="/pt/archivo/" class="enlace_negro_mini">Toda a coleção</a>
+			/
+			<a href="/pt/suplementos/" class="enlace_negro_mini">Suplementos</a>
+			<br/>
+
+			<span class="texto_rojo_mini">Toda a coleção</span>
+			<a href="/pt/archivo/" class="enlace_negro_mini">Números anteriores</a>
+			/
+			<a href="/pt/lo-mas-leido/" class="enlace_negro_mini">Os mais lidos</a>			
+			<br/>
+
+			<span class="texto_rojo_mini">Submeta seu artigo</span>
+			<a href="/pt/envio-manuscritos/" class="enlace_negro_mini">Sistema de submissão on-line.</a>
+			/
+			<a href="/pt/guia-autores/" class="enlace_negro_mini">Guia para os autores (PDF)</a>
+			/
+			<a href="/pt/comite-editorial/" class="enlace_negro_mini">Conselho Editorial</a>
+			<br/>
+
+			<!--<span class="texto_rojo_mini">Subscrever</span>
+			<a target="_blank" href="http://www.elsevier.es/es/corporativa/contacto" target="_blank" class="enlace_negro_mini">Assinar a revista</a>
+			/
+			<a href="/pt/alerta-email/" class="enlace_negro_mini">Alerta de e-mail</a>
+			/
+			<a href="/pt/rss/ultimo/" target="_blank" class="enlace_negro_mini">RSS</a>
+			<br/>
+
+			<span class="texto_rojo_mini">Publicidade</span>
+			<a href="/pt/contratar/" class="enlace_negro_mini">Contratar</a>-->
+			<br/>			
+</nav>
+
+<div id="logos-footer" style="float:right;">
+<img src="/images/footer-logo2.gif" >
+</div><div id="footer-bottom">
+
+
+
+<a class="enlace_negro_mini" href="/pt/condiciones-uso/">Termos de Utilização</a>
+/
+<a class="enlace_negro_mini" href="/pt/contacto/">Contato</a>
+/
+<a class="enlace_negro_mini" href="/pt/clausula-privacidad/">Cláusula de Privacidade</a>
+<br>
+<span class="texto_mini">&copy; Copyright  2017. Associaçao Brasileira de Hematologia,Hemoterapia e Terapia Celular</span>
+<br>
+
+</div>
+<div align="right">
+
+<img src='http://apps.elsevier.es/ficheros/reed-elsevier-logo.png' />
+
+</div>
+</footer>
+
+</div>
+<a style="display:none" id="banner profesional" class="pregunta" href="/index.php?p=banner-profesional">&nbsp;</a>
+<script type="text/javascript">
+
+if(typeof(esProfesional) == "undefined" && (typeof(banner_profesional) != "undefined") && banner_profesional==1)
+{
+	
+	 $(".pregunta").fancybox({
+		 'width' : 410,
+		 'height' : 200,
+		 'autoSize'    : false,
+		 'transitionIn' : 'none',
+		 'transitionOut' : 'none',
+		 'type' : 'iframe'
+	 });
+
+	 $(".pregunta").click();
+}else if((typeof(esProfesional) != "undefined" && esProfesional==1) || (typeof(banner_profesional) == "undefined") || ((typeof(banner_profesional) != "undefined") && banner_profesional==0))
+{
+	document.getElementById("banner-top").style.display="block";
+	document.getElementById("banner").style.display="block";
+}
+</script>
+
+
+	</div>
+	<script type="text/javascript">
+ 
+  var _gaq = _gaq || [];
+  
+  _gaq.push(['_setAccount', 'UA-40239102-26']);
+ 
+	   
+   
+      
+      _gaq.push(['_setCustomVar',3,'PUBLICACION','396',3]);
+   	
+   _gaq.push(['_trackPageview']);
+   (function() {
+   var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+   ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+   var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s); 
+  })();
+ 
+</script></body>
+
+</html>
+

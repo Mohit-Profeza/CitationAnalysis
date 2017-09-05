@@ -1,0 +1,993 @@
+
+	
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+		
+
+			
+		
+				
+				
+				
+								
+																																																																																														
+																																							
+																						
+																																				
+							
+
+
+
+
+
+
+
+
+
+
+												
+  																																	
+					
+	
+
+
+	
+
+
+
+
+
+
+
+	
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+<head>
+	<!-- super head top -->
+
+	<title>Oncogenesis - Dietary fat overcomes the protective activity of thrombospondin-1 signaling in the ApcMin/+ model of colon cancer</title><!--Oncogenesis-->
+<!-- metadata and links -->
+
+	<meta name="robots" content="noarchive" />
+	
+	                
+	
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        
+               
+      
+
+
+
+
+
+
+
+
+
+
+        
+                
+
+
+ 
+
+
+
+
+
+									
+
+
+
+
+
+	
+				
+  
+
+
+
+
+	
+				
+         
+        
+  
+
+ 
+
+ 
+
+
+ 
+ 
+
+
+
+ 
+ 
+ 
+ 
+
+ 
+<meta http-equiv="Content-Style-Type" content="text/css" />
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+
+<meta name="keywords" content="oncogenes, oncogenesis, cancer, apoptosis, tumor suppressor genes, tumor viruses, oncology, molecular oncology, molecular biology, cell biology, genetics, cell cycle, growth factors, growth factor receptors, apoptosis, growth regulatory, immortalization, senescence" />
+<meta name="description" content="Oncogenesis is a peer-reviewed open access online journal that publishes full-length papers exploring the molecular basis of cancer and related phenomena. It seeks to promote diverse and integrated areas of molecular biology, cell biology, oncology, and genetics." />
+
+<link rel="shortcut icon" href="http://www.nature.com/favicon.ico" />
+<link rel="home" href="/CSS_template/" title="home" />
+<link rel="copyright" href="/aj/copyright/" title="copyright" />
+<link rel="help" title="help" href="/common/accessibility_statement.html" />
+
+
+<!-- end metadata and links -->
+<!-- style -->
+
+																																																
+	<link rel="stylesheet" type="text/css" href="/common/includes/header/03/style/header.css" />	<link rel="stylesheet" type="text/css" href="/common/includes/footer/03/style/footer.css" />
+		    <link rel="stylesheet" type="text/css" href="/common/style/global.comments.css" />
+		    <link rel="stylesheet" type="text/css" href="//www.nature.com/common/style/global.mobile.css" />
+		    <link rel="stylesheet" type="text/css" href="/common/style/global.message.css" />
+		    <link rel="stylesheet" type="text/css" href="/common/style/layout.css" />
+		    <link rel="stylesheet" type="text/css" href="/common/style/layout_wide_banner.css" />
+		    <link rel="stylesheet" type="text/css" href="/common/style/main.css" />
+		    <link rel="stylesheet" type="text/css" href="/common/style/header_footer_smallfonts.css" />
+		    <link rel="stylesheet" type="text/css" href="/aj/style/group.css" />
+		    <link rel="stylesheet" type="text/css" href="/oncsis/style/site.css" />
+	<style type="text/css" media="screen, projection, print"><!--/*--><![CDATA[/*><!--*/
+
+	
+	 		@import "/common/style/restrict_width/966px.css";
+					
+
+			#hdr .login-nav {background-image: url(/oncsis/images/journal_header_v3.jpg);}
+		
+				
+/* end hide from mac ie */
+/*]]>*/--></style>
+
+<link rel="stylesheet" type="text/css" href="/common/style/print.css" media="print" title="Print Stylesheet" />
+
+<script type="text/javascript"><!--//--><![CDATA[//><!--
+	(function() {
+		var elements = [];
+					elements.push('.nojava');
+				var c = elements.join(', ') + ' { display: none; } ';
+		var s = document.createElement('style');
+		s.type = 'text/css';
+		if (s.styleSheet) {
+			s.styleSheet.cssText = c;
+		} else {
+			s.appendChild(document.createTextNode(c));
+		}
+
+		(function() {
+			var head = document.getElementsByTagName('head');
+			if (head && head[0]) {
+				head[0].appendChild(s);
+			} else {
+				setTimeout(arguments.callee, 10);
+			}
+		})();
+	})();
+//--><!]]></script>
+
+
+
+
+
+
+
+
+
+																																																																																																												
+																					
+																																																																																																												
+																									<!--[if IE 8]>
+																<link rel="stylesheet" type="text/css" href="/common/style/ie-specific/ie-8.css" />
+								<![endif]-->
+	
+																																																																																						<!--[if lte IE 7]>
+														<link rel="stylesheet" type="text/css" href="/common/includes/header/03/style/ie-specific/lte-ie-7.css" />
+					<link rel="stylesheet" type="text/css" href="/common/style/ie-specific/lte-ie-7.css" />
+					<link rel="stylesheet" type="text/css" href="/aj/style/ie-specific/lte-ie-7.css" />
+						<![endif]-->
+																																							
+																													<!--[if IE 7]>
+																<link rel="stylesheet" type="text/css" href="/common/includes/header/03/style/ie-specific/ie-7.css" />
+					<link rel="stylesheet" type="text/css" href="/common/style/ie-specific/ie-7.css" />
+					<link rel="stylesheet" type="text/css" href="/aj/style/ie-specific/ie-7.css" />
+								<![endif]-->
+	
+																																																																																																												
+																																	<!--[if IE 6]>
+							<script type="text/javascript" src="/common/scripts/ie-specific/ie-6.js"></script>
+																<link rel="stylesheet" type="text/css" href="/common/includes/header/03/style/ie-specific/ie-6.css" />
+					<link rel="stylesheet" type="text/css" href="/common/includes/footer/03/style/ie-specific/ie-6.css" />
+					<link rel="stylesheet" type="text/css" href="/common/style/ie-specific/ie-6.css" />
+					<link rel="stylesheet" type="text/css" href="/aj/style/ie-specific/ie-6.css" />
+					<link rel="stylesheet" type="text/css" href="/oncsis/style/ie-specific/ie-6.css" />
+								<![endif]-->
+	
+ 
+<!-- end style -->
+
+	<!-- super head bottom -->
+	<!-- resource metadata -->
+			
+				 																										
+			
+				
+															
+		
+			<link title="schema(PRISM)" rel="schema.prism" href="http://prismstandard.org/namespaces/1.2/basic/" />
+																																																																		<meta name="prism.copyright" content="&#169; 2016 Nature Publishing Group" />
+					<meta name="prism.rightsAgent" content="permissions@nature.com" />
+					<meta name="prism.publicationDate" content="2016-05-01" />
+					<meta name="prism.volume" content="5" />
+					<meta name="prism.number" content="5" />
+					<meta name="prism.section" content="Original Article" />
+					<meta name="prism.startingPage" content="e230" />
+					<meta name="prism.endingPage" content="" />
+					<meta name="prism.publicationName" content="Oncogenesis" />
+					<meta name="prism.issn" content="false" />
+					<meta name="prism.eIssn" content="false" />
+				
+			<link title="schema(DC)" rel="schema.dc" href="http://purl.org/dc/elements/1.1/" />
+																																																																																						<meta name="dc.publisher" content="Nature Publishing Group" />
+					<meta name="dc.language" content="en" />
+					<meta name="dc.rights" content="&#169; 2016 Nature Publishing Group" />
+					<meta name="dc.title" content="Dietary fat overcomes the protective activity of thrombospondin-1 signaling in the ApcMin|[sol]||[plus]| model of colon cancer" />
+					<meta name="dc.creator" content="D R Soto-Pantoja" />
+					<meta name="dc.creator" content="J M Sipes" />
+					<meta name="dc.creator" content="G Martin-Manso" />
+					<meta name="dc.creator" content="B Westwood" />
+					<meta name="dc.creator" content="N L Morris" />
+					<meta name="dc.creator" content="A Ghosh" />
+					<meta name="dc.creator" content="N J Emenaker" />
+					<meta name="dc.creator" content="D D Roberts" />
+					<meta name="dc.identifier" content="doi:10.1038/oncsis.2016.37" />
+					<meta name="dc.date" content="2016-05-01" />
+					<meta name="dc.source" content="Oncogenesis, Published online: 01 May 2016; | doi:10.1038/oncsis.2016.37" />
+				
+																																																																																																						<meta name="citation_fulltext_world_readable" content="" />
+					<meta name="citation_publisher" content="Nature Publishing Group" />
+					<meta name="citation_author" content="D R Soto-Pantoja" />
+					<meta name="citation_author" content="J M Sipes" />
+					<meta name="citation_author" content="G Martin-Manso" />
+					<meta name="citation_author" content="B Westwood" />
+					<meta name="citation_author" content="N L Morris" />
+					<meta name="citation_author" content="A Ghosh" />
+					<meta name="citation_author" content="N J Emenaker" />
+					<meta name="citation_author" content="D D Roberts" />
+					<meta name="citation_title" content="Dietary fat overcomes the protective activity of thrombospondin-1 signaling in the ApcMin|[sol]||[plus]| model of colon cancer" />
+					<meta name="citation_date" content="2016-05-01" />
+					<meta name="citation_online_date" content="2016-05-01" />
+					<meta name="citation_volume" content="5" />
+					<meta name="citation_issue" content="5" />
+					<meta name="citation_firstpage" content="e230" />
+					<meta name="citation_doi" content="doi:10.1038/oncsis.2016.37" />
+					<meta name="citation_journal_title" content="Oncogenesis" />
+																																																						<meta name="DCS.dcssip" content="www.nature.com" />
+					<meta name="WT.tz" content="America/New_York" />
+					<meta name="Access" content="Yes" />
+					<meta name="WT.cg_n" content="Oncogenesis" />
+					<meta name="WT.cg_s" content="Original Article" />
+					<meta name="WT.i_dcsvid" content="" />
+					<meta name="WT.ec_id" content="" />
+				
+	<meta name="emanating" content="139X5X240X251" />
+
+
+
+		
+
+		
+
+			
+					<script type="text/javascript" src="//nexus.ensighten.com/npg/Bootstrap.js"></script>
+		
+			</head>
+		<body class="www-nature-com-oncsis" id="article">
+	<!-- super body top -->
+	
+	
+	<div id="header">
+	<!-- global links -->
+<!-- global links -->
+
+
+																		
+
+
+
+				</div><!-- /#header -->
+		<div id="constrain"><div class="constrain">
+
+<div id="hdr"  class="show-eu-cookie-notice" >
+				<div class="eu-cookie-notice">
+			<div class="cookie-wrapper">
+				<form method="post" action="">
+					<p class="content">
+						<span class="icon"></span>We use cookies to improve your experience with our site.
+						<span class="tools"><button type="submit" name="cookies" value="accepted">Accept and close</button> | <a href="/info/cookies.html">More info</a>.</span>
+					</p>
+				</form>
+			</div>
+		</div>
+				<div class="publications-search" id="top">
+			<div class="publications">
+				<ul>
+														<li class="first jumplink"><a href="#content">Jump&nbsp;to&nbsp;main&nbsp;content</a></li>
+										<li class="jumplink"><a href="#journalnav">Jump&nbsp;to&nbsp;navigation</a></li>
+																		<li class="nature-link"><a href="/">nature.com<span class="hidden"> homepage</span></a></li>
+																	<li class="pub1"><a href="/siteindex/">Publications&nbsp;A-Z&nbsp;index</a></li><li><a href="/browse/">Browse&nbsp;by&nbsp;subject</a></li>								
+																																																																																																																	</ul>
+			</div>	
+		</div>
+	
+	
+	<span class="cleardiv"><!-- --></span>
+
+			<div class="leaderboard-links">
+									
+																																							
+			
+							<div class="user-services">
+																					<ul class="list">
+																						<li class="us-link li1"><a href="/myaccount/">My account</a></li><li class="us-link li2"><a href="http://mts-oncsis.nature.com/cgi-bin/main.plex" title="Submit  manuscript">Submit manuscript</a></li>															<li class="us-link li3"><a href="/register/" title="Register with Nature.com">Register</a></li><li class="us-link li4"><a href="/oncsis/about/open_access.html" title="Open Access">Open Access</a></li>													</ul>
+																<span class="cleardiv"><!-- --></span>
+								</div>
+						
+							<!-- leaderboard ad -->
+				<div class="leaderboard">
+										<div class="padder">
+												
+
+																				
+
+
+
+
+
+
+
+<script type="text/javascript"><!--//--><![CDATA[//><!--
+	var include = '';
+
+	var wp = '';
+	if (wp != '') include += 'wp='+wp;
+	include += ';';
+
+	var rf = '';
+	if (rf != '') include += "rf="+rf;
+	include += ';';
+
+	var sp = '';
+	if (sp != '') include += "sp="+sp;
+	include += ";";
+
+	var ps = '';
+	if (ps != '') include += "ps="+ps;
+	include += ";";
+
+	var adinf = "lg=no;";
+
+	if(include != ";;;;")
+	{
+		adinf = include;
+	}
+
+	var time = new Date();
+	ordval= (time.getTime());
+
+		ord=Math.random()*10000000000000000;
+//--><!]]></script>
+ 
+																																																																																																																																																															
+						
+																																																		<div class="adunit-leaderboard"> 
+			
+						
+			
+		
+							
+		
+													
+		
+										
+		
+													
+		
+										
+		
+													
+		
+										
+		
+													
+		
+										
+		
+													
+		
+										
+		
+													
+		
+		
+		
+													
+		
+		
+		
+													
+		
+		
+		
+													
+		
+										
+		
+													
+		
+		
+		
+													
+		
+		
+		
+													
+		
+		
+		
+													
+		
+										
+		
+													
+		
+										
+		
+									
+		
+	
+	
+		
+										
+					
+		
+										
+					
+		
+										
+					
+		
+										
+					
+		
+										
+					
+		
+																																		
+					
+		
+																																		
+					
+		
+										
+					
+		
+										
+									<div id="div-gpt-ad-1" class="div-gpt-ad adunit-leaderboard" data-gpt-unitpath="/285/oncsis.nature.com" data-gpt-sizes="728x90" data-gpt-targeting="type=oa;artid=oncsis201637a;issue=5;njreg=UK;pos=top;subjmeta=631,67,2327,327;techmeta=96,47,101,58;sz=728x90;tile=1">
+				<noscript>
+					<a href="//pubads.g.doubleclick.net/gampad/jump?iu=/285/oncsis.nature.com&amp;sz=728x90&amp;t=type=oa;artid=oncsis201637a;issue=5;njreg=UK;pos=top;subjmeta=631,67,2327,327;techmeta=96,47,101,58;sz=728x90;tile=1&amp;c=6672169687193796">
+						<img src="//pubads.g.doubleclick.net/gampad/ad?iu=/285/oncsis.nature.com&amp;sz=728x90&amp;t=type=oa;artid=oncsis201637a;issue=5;njreg=UK;pos=top;subjmeta=631,67,2327,327;techmeta=96,47,101,58;sz=728x90;tile=1&amp;c=6672169687193796" alt="Advertisement" /></a>
+				</noscript>
+			</div>
+
+			</div> 		 
+	 
+	
+			 					</div>
+				</div>
+				<!-- end leaderboard ad -->
+					</div>
+		
+		<span class="cleardiv"><!-- --></span>
+		
+	<div class="login-nav">
+		
+						
+							
+						
+																	<div class="logon">
+					<p><a href="/foxtrot/svc/login" class="login" title="login to Nature.com">Login</a><a class="cart" href="/ecommerce/cart/list.action">Cart</a> 
+					</p>
+									</div>
+													
+														
+		<a href="/oncsis/" class="journal-header" title="Oncogenesis homepage"><img src="/oncsis/images/journal_header_v3.jpg" alt="Oncogenesis homepage" style="display:block;" class="journal-header-image" /></a>		
+				
+				<form class="search" action="/search/executeSearch?" method="get">
+			<div>
+				<label for="searchtext">Search</label>
+									<input type="hidden" name="sp-q-1" value="ONCSIS" />
+								<input type="text" id="searchtext" name="sp-q" value="" maxlength="200"/>
+												<input type="hidden" name="sp-c" value="25" />
+												<input type="hidden" name="sp-m" value="0" />
+												<input type="hidden" name="sp-s" value="" />
+																								
+														<input type="hidden" name="sp-a" value="sp1001702d" />
+										<input type="hidden" name="sp-sfvl-field" value="subject|ujournal" />
+										<input type="hidden" name="sp-x-1" value="ujournal" />
+										<input type="hidden" name="sp-p-1" value="phrase" />
+										<input type="hidden" name="sp-p" value="all" />
+													<input type="submit" name="submit" class="button" value="go" title="search now" /> 					
+								<a href="/search/adv_search?sp-a=sp1001702d&amp;sp-x-1=ujournal&amp;sp-q-1=oncsis">Advanced&nbsp;search</a>
+							</div>
+		</form>
+		
+							<span class="cleardiv"><!-- --></span>
+			</div>
+</div>
+
+
+				<div style="display:none;">
+	<!-- end global links -->
+
+<!-- end global links --></div>
+<div id="breadcrumb"><div><a href="/oncsis/index.html">Journal home</a><span class="divider"> &#x0003E; </span><a href="/oncsis/journal/v5/n5/index.html"> Archive</a><span class="divider"> &#x0003E; </span><a href="/oncsis/journal/v5/n5/index.html#30052016">May 30 2016</a><span class="divider"> &#x0003E; </span><span class="thisitem">Full text</span></div></div>
+<!-- content and journal nav --><div id="content-journalnav"><!-- content --><div id="content"><h1 class="page-header">Original Article</h1>
+	
+<p id="cite">Citation: <i>Oncogenesis</i> (2016) <b>5</b>, e230; doi:10.1038/oncsis.2016.37<br/>Published online 30&nbsp;May&nbsp;2016</p>
+	
+<h2 id="atl">Dietary fat overcomes the protective activity of thrombospondin-1 signaling in the <i>Apc</i><sup><i>Min<span class="mb">&#x0002F;</span><span class="mb">&#x0002B;</span></i></sup> model of colon cancer<br /><span class="open-access">Open</span></h2>
+<p id="aug">D R&nbsp;Soto-Pantoja<sup><a title="affiliated with 1" href="#aff1">1</a>,<a title="affiliated with 2" href="#aff2">2</a></sup>, J M&nbsp;Sipes<sup><a title="affiliated with 3" href="#aff3">3</a></sup>, G&nbsp;Martin-Manso<sup><a title="affiliated with 3" href="#aff3">3</a></sup>, B&nbsp;Westwood<sup><a title="affiliated with 2" href="#aff2">2</a></sup>, N L&nbsp;Morris<sup><a title="affiliated with 4" href="#aff4">4</a></sup>, A&nbsp;Ghosh<sup><a title="affiliated with 3" href="#aff3">3</a></sup>, N J&nbsp;Emenaker<sup><a title="affiliated with 5" href="#aff5">5</a></sup> and D D&nbsp;Roberts<sup><a title="affiliated with 3" href="#aff3">3</a></sup></p><div id="affiliations-notes"><ol><li id="aff1"><sup>1</sup>Department of Cancer Biology, Comprehensive Cancer Center, Wake Forest School of Medicine, Winston-Salem, NC, USA</li><li id="aff2"><sup>2</sup>Department of Surgery, Comprehensive Cancer Center, Wake Forest School of Medicine, Winston-Salem, NC, USA</li><li id="aff3"><sup>3</sup>Laboratory of Pathology, Center for Cancer Research, National Cancer Institute, NIH, Bethesda, MD, USA</li><li id="aff4"><sup>4</sup>Chemical Biology Laboratory, National Laboratory for Cancer Research, Leidos Biomedical Research, Frederick, MD, USA</li><li id="aff5"><sup>5</sup>Nutritional Science Research Group, Division of Cancer Prevention, National Cancer Institute, NIH, Bethesda, MD, USA</li></ol><p class="caff">Correspondence: Dr DR Soto-Pantoja, Department of Cancer Biology, Comprehensive Cancer Center, Wake Forest School of Medicine, Medical Center Boulevard, Winston-Salem, NC 27157, USA E-mail: <a href="mailto:dsotopan@wakehealth.edu">dsotopan@wakehealth.edu</a>; Dr DD Roberts, Laboratory of Pathology, Center for Cancer Research, National Cancer Institute, NIH, Building 10 Room 2A33, 10 Center Drive MSC1500, Bethesda, MD 20892-1500, USA. E-mail: <a href="mailto:droberts@helix.nih.gov">droberts@helix.nih.gov</a></p><p class="prdates">Received 23&nbsp;December&nbsp;2015; Revised 14&nbsp;April&nbsp;2016; Accepted 16&nbsp;April&nbsp;2016</p></div>
+<div id="abs"><a class="backtotop" href="#top">Top<span class="hidden"> of page</span></a><h3>Abstract</h3><p class="abs lead">Thrombospondin 1 is a glycoprotein that regulates cellular phenotype through interactions with its cellular receptors and extracellular matrix-binding partners. Thrombospondin 1 locally regulates angiogenesis and inflammatory responses that contribute to colorectal carcinogenesis in <i>Apc</i><sup><i>Min<span class="mb">&#x0002F;</span><span class="mb">&#x0002B;</span></i></sup> mice. The ability of thrombospondin 1 to regulate responses of cells and tissues to a variety of stresses suggested that loss of thrombospondin 1 may also have broader systemic effects on metabolism to modulate carcinogenesis. <i>Apc</i><sup><i>Min<span class="mb">&#x0002F;</span><span class="mb">&#x0002B;</span></i></sup><i>:Thbs1</i><sup><i>&#x02212;<span class="mb">&#x0002F;</span>&#x02212;</i></sup> mice exhibited decreased survival and higher tumor multiplicities in the small and large intestine relative to <i>Apc</i><sup><i>Min<span class="mb">&#x0002F;</span><span class="mb">&#x0002B;</span></i></sup> mice when fed a low (5<span class="mb">&#x00025;</span>) fat western diet. However, the protective effect of endogenous thrombospondin 1 was lost when the mice were fed a western diet containing 21<span class="mb">&#x00025;</span> fat. Biochemical profiles of liver tissue identified systemic metabolic changes accompanying the effects of thrombospondin 1 and dietary lipid intake on tumorigenesis. A high-fat western diet differentially regulated elements of amino acid, energy and lipid metabolism in <i>Apc</i><sup><i>Min<span class="mb">&#x0002F;</span><span class="mb">&#x0002B;</span></i></sup>:<i>Thbs1</i><sup><i>&#x02212;<span class="mb">&#x0002F;</span>&#x02212;</i></sup> mice relative to <i>Apc</i><sup><i>Min<span class="mb">&#x0002F;</span><span class="mb">&#x0002B;</span></i></sup><i>:Thbs1</i><sup><i><span class="mb">&#x0002B;</span><span class="mb">&#x0002F;</span><span class="mb">&#x0002B;</span></i></sup>mice. Metabolic changes in ketone body and tricarboxylic acid cycle intermediates indicate functional interactions between Apc and thrombospondin 1 signaling that control mitochondrial function. The cumulative diet-dependent differential changes observed in <i>Apc</i><sup><i>Min<span class="mb">&#x0002F;</span><span class="mb">&#x0002B;</span></i></sup><i>:Thbs1</i><sup><i>&#x02212;<span class="mb">&#x0002F;</span>&#x02212;</i></sup> versus <i>Apc</i><sup><i>Min<span class="mb">&#x0002F;</span><span class="mb">&#x0002B;</span></i></sup> mice include altered amino acid and lipid metabolism, mitochondrial dysfunction, eicosanoids and ketone body formation. This metabolic profile suggests that the protective role of thrombospondin 1 to decrease adenoma formation in <i>Apc</i><sup><i>Min<span class="mb">&#x0002F;</span><span class="mb">&#x0002B;</span></i></sup> mice results in part from improved mitochondrial function.</p></div>
+<!-- articlebody start --><div id="articlebody"><div id="Introduction"><a class="backtotop" href="#top">Top<span class="hidden"> of page</span></a><h3>Introduction</h3><p class="norm">Colon cancer is major public health concern with over 130<span class="mb"><span class="mb">&thinsp;</span></span>000 new cases diagnosed every year and over 50<span class="mb"><span class="mb">&thinsp;</span></span>000 deaths in the United States alone.<sup><!--bib1--><a href="#bib1">1</a></sup> While many factors including diet and genetics influence colon cancer progression,<sup><!--bib2--><a href="#bib2">2</a></sup> expression of thrombospondin-1 (TSP1) inversely correlates with colon cancer aggressiveness.<sup><!--bib3--><a href="#bib3">3</a>, <!--bib4--><a href="#bib4">4</a></sup> TSP1 is a matricellular protein that regulates tissue perfusion, platelet aggregation, angiogenesis, and responses to stress.<sup><!--bib4--><a href="#bib4">4</a>, <!--bib5--><a href="#bib5">5</a>, <!--bib6--><a href="#bib6">6</a></sup> Spontaneous tumors can be demonstrated in TSP1 null mice only when they are crossed with other strains that are cancer prone such as the MMTV-Neu model or <i>p53</i> null mice.<sup><!--bib7--><a href="#bib7">7</a>, <!--bib8--><a href="#bib8">8</a></sup> In several such carcinogenesis models TSP1 expression has been demonstrated to delay premalignant hyperplasia, tumorigenesis, tumor angiogenesis and<span class="mb">&#x0002F;</span>or metastasis.<sup><!--bib7--><a href="#bib7">7</a>, <!--bib8--><a href="#bib8">8</a>, <!--bib9--><a href="#bib9">9</a>, <!--bib10--><a href="#bib10">10</a>, <!--bib11--><a href="#bib11">11</a></sup></p><p class="norm">Over 5<span class="mb">&#x00025;</span> of colorectal cancer cases are due to a genetic predisposition, and one frequent abnormality causing predisposition to human colorectal cancer is mutation in the adenomatous polyposis coli (<i>APC</i>) gene.<sup><!--bib12--><a href="#bib12">12</a></sup> In humans, familial adenomatous polyposis (FAP) is characterized by the onset of multiple adenomas in the colon that can progress to tumors and metastatic forms of colorectal cancer. In mice, heterozygous mutation (<i>Apc</i><sup><i>Min<span class="mb">&#x0002F;</span><span class="mb">&#x0002B;</span></i></sup>) has generated a clinically relevant model to study colorectal cancer that has provided insights into the onset of sporadic colorectal cancer.<sup><!--bib12--><a href="#bib12">12</a>, <!--bib13--><a href="#bib13">13</a></sup> These mice develop many of the characteristics of human FAP patients but have some limitations including aggressivenes of the disease and the formation of most adenomas in the small intestine.<sup><!--bib14--><a href="#bib14">14</a></sup> Still many translational applications have been tested successfully in this model including the use NSAID&#x02019;s to prevent or treat colorectal cancer.<sup><!--bib12--><a href="#bib12">12</a></sup> The <i>Apc</i><sup><i>Min<span class="mb">&#x0002F;</span><span class="mb">&#x0002B;</span></i></sup>mouse correspondingly is a widely used model for studying these cancers. To monitor the spontaneous colorectal tumor growth, and the survival of mice exposed to a low fat or western diet, we generated a double transgenic animal harboring the <i>Apc</i><sup><i>Min<span class="mb">&#x0002F;</span><span class="mb">&#x0002B;</span></i></sup> locus and lacking TSP1 (<i>Thbs1</i><sup><i>&#x02212;<span class="mb">&#x0002F;</span>&#x02212;</i></sup>). Previous studies in the <i>Apc</i><sup><i>Min<span class="mb">&#x0002F;</span><span class="mb">&#x0002B;</span></i></sup> murine model of colon cancer demonstrated that loss of TSP1 increases tumor multiplicity in the small and large intestines.<sup><!--bib15--><a href="#bib15">15</a></sup> The absence of TSP1 in this model was correlated with an increase in TUNEL positive nuclei in the polyps lacking TSP1. Therefore, the primary role of TSP1 in carcinogenesis in the <i>Apc</i><sup><i>Min<span class="mb">&#x0002F;</span><span class="mb">&#x0002B;</span></i></sup> model was attributed to its role inducing apoptosis. On the other hand, recent studies of mice lacking TSP1 or its receptor CD47 have identified important roles in the regulation of lipid and glucose metabolism and the proinflammatory effects of high-fat diets.<sup><!--bib16--><a href="#bib16">16</a>, <!--bib17--><a href="#bib17">17</a>, <!--bib18--><a href="#bib18">18</a>, <!--bib19--><a href="#bib19">19</a>, <!--bib20--><a href="#bib20">20</a>, <!--bib21--><a href="#bib21">21</a></sup></p><p class="norm">In this study, we investigate changes in global liver metabolism associated with the absence of TSP1 in C57BL<span class="mb">&#x0002F;</span>6J-ApcMin<span class="mb">&#x0002F;</span>J (<i>Apc</i><sup><i>Min<span class="mb">&#x0002F;</span><span class="mb">&#x0002B;</span></i></sup>) mice, which are highly susceptible to the formation of intestinal adenomas. Liver metabolism responds to changes in metabolites delivered from the intestines and produces metabolites that can influence carcinogenesis in the colon.<sup><!--bib22--><a href="#bib22">22</a>, <!--bib23--><a href="#bib23">23</a></sup> As endogenous TSP1 is known to have beneficial effects on colon carcinogenesis in this model in the context of a moderate fat (11<span class="mb">&#x00025;</span>) diet,<sup><!--bib15--><a href="#bib15">15</a></sup> carcinogenic and metabolic effects of low- and high-fat diets were assessed in the context of <i>Thbs1</i> deletion in this model.</p></div><div id="Results"><a class="backtotop" href="#top">Top<span class="hidden"> of page</span></a><h3>Results</h3><h4 class="norm">Effects of TSP1 on tumor multiplicity in the <i>Apc</i>
+<sup><i>Min<span class="mb">&#x0002F;</span><span class="mb">&#x0002B;</span></i></sup> model are modulated by dietary fat</h4><p class="follows-h4">Consistent with the previous report that loss of endogenous TSP1 increased polyp formation and progression in <i>Apc</i><sup><i>Min<span class="mb">&#x0002F;</span><span class="mb">&#x0002B;</span></i></sup> mice fed a diet that contained 11<span class="mb">&#x00025;</span> fat,<sup><!--bib15--><a href="#bib15">15</a></sup> <i>Apc</i><sup><i>Min<span class="mb">&#x0002F;</span><span class="mb">&#x0002B;</span></i></sup><i>:Thbs1</i><sup><i>&#x02212;<span class="mb">&#x0002F;</span>&#x02212;</i></sup> mice fed a western diet containing 5<span class="mb">&#x00025;</span> fat had decreased survival relative to <i>Apc</i><sup><i>Min<span class="mb">&#x0002F;</span><span class="mb">&#x0002B;</span></i></sup> mice fed the same diet (<i>P</i>&#x3C;0.02, <!--fig1--><a href="#fig1">Figures 1a and b</a>). The former completely succumbed by 200 days, whereas 60<span class="mb">&#x00025;</span> of <i>Apc</i><sup><i>Min<span class="mb">&#x0002F;</span><span class="mb">&#x0002B;</span></i></sup> mice remained alive at the same time point (<i>P</i>&#x3C;0.03). Feeding a western diet containing 21<span class="mb">&#x00025;</span> fat decreased the survival of <i>Apc</i><sup><i>Min<span class="mb">&#x0002F;</span><span class="mb">&#x0002B;</span></i></sup> mice, but the positive effect of endogenous TSP1 on survival was lost in mice fed the high-fat diet (<!--fig1--><a href="#fig1">Figure 1b</a>).</p><div id="fig1" class="figure-table"><h5 class="norm"><a href="/oncsis/journal/v5/n5/fig_tab/oncsis201637f1.html#figure-title">Figure 1.</a></h5><a href="/oncsis/journal/v5/n5/fig_tab/oncsis201637f1.html#figure-title"><img alt="Figure 1 - Unfortunately we are unable to provide accessible alternative text for this. If you require assistance to access this image, please contact help@nature.com or the author" class="thumb" src="/oncsis/journal/v5/n5/thumbs/oncsis201637f1th.jpg"/></a><p>Endogenous thrombospondin-1 limits tumor multiplicity and enhances the survival of <i>Apc</i><sup><i>Min<span class="mb">&#x0002F;</span><span class="mb">&#x0002B;</span></i></sup> mice when fed a low-fat diet but not when fed a high-fat diet. WT, <i>Thbs1</i><sup><i>&#x02212;<span class="mb">&#x0002F;</span>&#x02212;</i></sup>, <i>Apc</i><sup><i>Min<span class="mb">&#x0002F;</span><span class="mb">&#x0002B;</span></i></sup> and <i>Thbs1</i><sup><i>&#x02212;<span class="mb">&#x0002F;</span>&#x02212;</i></sup><i>:Apc</i><sup><i>Min<span class="mb">&#x0002F;</span><span class="mb">&#x0002B;</span></i></sup> mice were fed a low-fat (<b>a</b>) or a high-fat western diet (<b>b</b>) beginning at the time of weaning. (<b>a</b>, <b>b</b>) Survival was measured over time and evaluated using Log-rank (Mantel&#x02013;Cox test) and Grehan&#x02013;Breslow Wilcoxon test. Equal numbers of male and female mice were included (<i>N</i><span class="mb">&#x0003D;</span>14) for each group. (<b>c</b>, <b>d</b>) Small and large intestines were excised at the time of death. <b>c</b> and <b>d</b> show representative images of lesions (arrows) and quantitation of intestinal lesions. Small intestine (<b>e</b>) and large intestine (<b>f</b>) lesions were counted under a dissecting microscope and confirmed by H&amp;E staining. <i>N</i><span class="mb">&#x0003D;</span>4&#x02013;5, <span class="mb">&#x0002A;</span><i>P</i>&#x3C;0.05. (<b>g</b>, <b>h</b>) Representative images of TUNEL staining in small (left) and large intestine of <i>Apc</i><sup><i>Min<span class="mb">&#x0002F;</span><span class="mb">&#x0002B;</span></i></sup> and <i>Thbs1</i><sup><i>&#x02212;<span class="mb">&#x0002F;</span>&#x02212;</i></sup><i>:Apc</i><sup><i>Min<span class="mb">&#x0002F;</span><span class="mb">&#x0002B;</span></i></sup> mice quantification is presented for small (<b>i</b>) and large intestines (<b>j</b>). <i>N</i><span class="mb">&#x0003D;</span>6&#x02013;8 <span class="mb">&#x0002A;</span><i>P</i>&#x3C;0.05.</p><a class="full" href="/oncsis/journal/v5/n5/fig_tab/oncsis201637f1.html#figure-title">Full figure and legend (345<abbr title="Kilobyte">K</abbr>)</a><div class="cleardiv"><!-- clearing div --></div></div><br class="clear"/><p class="norm">Small and large intestines (<!--fig1--><a href="#fig1">Figures 1c and d</a>, respectively) were examined under light microscopy to determine whether dietary fat regulates the effects of TSP1 loss on colon carcinogenesis. <i>Apc</i><sup><i>Min<span class="mb">&#x0002F;</span><span class="mb">&#x0002B;</span></i></sup><i>:Thbs1</i><sup><i>&#x02212;<span class="mb">&#x0002F;</span>&#x02212;</i></sup> mice that were fed a low-fat diet had a 40<span class="mb">&#x00025;</span> (<i>P</i>&#x3C;0.03) increase in adenoma formation in their small intestine (<!--fig1--><a href="#fig1">Figures 1c and e</a>) and a 52<span class="mb">&#x00025;</span> (<i>P</i>&#x3C;0.02) increase in the large intestine when compared with <i>Apc</i><sup><i>Min<span class="mb">&#x0002F;</span><span class="mb">&#x0002B;</span></i></sup> mice fed the same diet (<!--fig1--><a href="#fig1">Figures 1d and f</a>). Adenoma formation in the small intestine increased in mice of both genotypes fed a high-fat diet. <i>Apc</i><sup><i>Min<span class="mb">&#x0002F;</span><span class="mb">&#x0002B;</span></i></sup> mice fed a high-fat diet had a 60<span class="mb">&#x00025;</span> (<i>P</i>&#x3C;0.03) increase in adenoma formation when compared with mice of the same genotype fed a low-fat diet. Moreover, <i>Apc</i><sup><i>Min<span class="mb">&#x0002F;</span><span class="mb">&#x0002B;</span></i></sup><i>:Thbs1</i><sup><i>&#x02212;<span class="mb">&#x0002F;</span>&#x02212;</i></sup> mice fed a high-fat diet had 34<span class="mb">&#x00025;</span> (<i>P</i>&#x3C;0.05) increased adenoma formation when compared with mice of the same genotype fed a low-fat diet (<!--fig1--><a href="#fig1">Figures 1e and f</a>). When fed a high-fat diet, however, lesion formation in the small intestine was not significantly different between mice of these two genotypes (<!--fig1--><a href="#fig1">Figure 1f</a>). More relevant to human APC-dependent colon cancers, <i>Apc</i><sup><i>Min<span class="mb">&#x0002F;</span><span class="mb">&#x0002B;</span></i></sup><i>:Thbs1</i><sup><i>&#x02212;<span class="mb">&#x0002F;</span>&#x02212;</i></sup> mice fed a high-fat diet had a 48<span class="mb">&#x00025;</span> (<i>P</i>&#x3C;0.02) increase in adenoma formation in the large intestine when compared with <i>Apc</i><sup><i>Min<span class="mb">&#x0002F;</span><span class="mb">&#x0002B;</span></i></sup> mice fed the same diet (<!--fig1--><a href="#fig1">Figure 1e</a>). Dietary fat consumption can affect the induction of cell proliferative capacity and death in intestinal tissue.<sup><!--bib24--><a href="#bib24">24</a></sup> We assessed cell death in our model by TUNEL staining of tissues (<!--fig1--><a href="#fig1">Figures 1g&#x02013;j</a>). Consumption of a low-fat diet increased TUNEL positive nuclei in <i>Apc</i><sup><i>Min<span class="mb">&#x0002F;</span><span class="mb">&#x0002B;</span></i></sup>mice to 26<span class="mb">&#x00025;</span> (<i>P</i>&#x3C;0.001) when compared with 8<span class="mb">&#x00025;</span> in <i>Apc</i><sup><i>Min<span class="mb">&#x0002F;</span><span class="mb">&#x0002B;</span></i></sup><i>:Thbs1</i><sup><i>&#x02212;<span class="mb">&#x0002F;</span>&#x02212;</i></sup> (<!--fig1--><a href="#fig1">Figures 1g</a>). In large intestines we observed a 40<span class="mb">&#x00025;</span> (<i>P</i>&#x3C;0.001) increase in TUNEL positive staining in large intestines of <i>Apc</i><sup><i>Min<span class="mb">&#x0002F;</span><span class="mb">&#x0002B;</span></i></sup>mice when compared with a 3<span class="mb">&#x00025;</span> increase in <i>Apc</i><sup><i>Min<span class="mb">&#x0002F;</span><span class="mb">&#x0002B;</span></i></sup><i>:Thbs1</i><sup><i>&#x02212;<span class="mb">&#x0002F;</span>&#x02212;</i></sup> (<!--fig1--><a href="#fig1">Figures 1h</a>). However, induction of cell death was inhibited with the consumption of a high-fat diet in all phenotypes (<!--fig1--><a href="#fig1">Figures 1i and j</a>). This implies that consumption of high-fat diet inhibits the activation of pro-apoptotic genes, which may explain the reduced tumor numbers observed in the <i>Apc</i><sup><i>Min<span class="mb">&#x0002F;</span><span class="mb">&#x0002B;</span></i></sup> mice. Therefore, a high-fat diet selectively increases adenoma formation in the small intestine, but the protective effects of endogenous TSP1 in the small intestine decrease when dietary fat levels increase.</p><h4 class="norm">TSP1 regulates systemic metabolic responses to a high-fat diet in the <i>Apc</i><sup><i>Min<span class="mb">&#x0002F;</span><span class="mb">&#x0002B;</span></i></sup> model</h4><p class="follows-h4">Previous studies of <i>Apc</i><sup><i>Min<span class="mb">&#x0002B;</span></i></sup><i>:Thbs1</i><sup><i>&#x02212;<span class="mb">&#x0002F;</span>&#x02212;</i></sup> mice focused on local effects of TSP1 on angiogenesis and inflammatory responses in the intestinal microenvironment where adenomas arise.<sup><!--bib15--><a href="#bib15">15</a>, <!--bib25--><a href="#bib25">25</a>, <!--bib26--><a href="#bib26">26</a></sup> However, evidence is accumulating that TSP1 has systemic effects on tissue and metabolic responses to stress, including that caused by a high-fat diet.<sup><!--bib6--><a href="#bib6">6</a>, <!--bib17--><a href="#bib17">17</a>, <!--bib18--><a href="#bib18">18</a>, <!--bib19--><a href="#bib19">19</a>, <!--bib27--><a href="#bib27">27</a></sup> In addition to the important local role of Apc in intestinal carcinogenesis, systemic changes in metabolism were recently identified that correlate with high-fat diet-induced risk in the <i>Apc</i><sup><i>Min<span class="mb">&#x0002F;</span><span class="mb">&#x0002B;</span></i></sup> model<sup><!--bib28--><a href="#bib28">28</a>, <!--bib29--><a href="#bib29">29</a></sup> and patients with adenomatous polyps.<sup><!--bib30--><a href="#bib30">30</a></sup> To address whether endogenous TSP1 has systemic effects that could account for its dietary fat-dependent effects on carcinogenesis, we performed a global metabolomics analysis using liver tissue from each genotype of mice fed the low- or high-fat diets. Quantitative data was obtained for 523 named biochemicals, and of these ANOVA analysis indicated that 24<span class="mb">&#x00025;</span> exhibited variation that was mainly attributable to genotype, 37<span class="mb">&#x00025;</span> exhibited variation that was mainly attributable to diet and 31<span class="mb">&#x00025;</span> exhibited variation related to the interaction between diet and genotype (<!--tbl1--><a href="#tbl1">Table 1</a>).</p><div id="tbl1" class="figure-table"><h5 class="norm"><a href="/oncsis/journal/v5/n5/fig_tab/oncsis201637t1.html#figure-title">Table 1 - Statistical summary of liver metabolites significantly associated with effects of genotype, diet, or the interaction between diet and genotype based on two-way ANOVA analysis (<i>P</i>&#60;0.05).</a></h5><a href="/oncsis/journal/v5/n5/fig_tab/oncsis201637t1.html#figure-title"><img alt="Table 1 - Statistical summary of liver metabolites significantly associated with effects of genotype, diet, or the interaction between diet and genotype based on two-way ANOVA analysis (P<0.05) - Unfortunately we are unable to provide accessible alternative text for this. If you require assistance to access this image, please contact help@nature.com or the author" class="thumb" src="/common/images/table_thumb.gif"/></a><a href="/oncsis/journal/v5/n5/fig_tab/oncsis201637t1.html#figure-title" class="full">Full table </a><div class="cleardiv"><!-- clearing div --></div></div><br class="clear"/><p class="norm">All genotypes showed global variations associated with dietary fat intake, but the absence of TSP1, either in a wild type (WT) <i>Apc</i><sup><i><span class="mb">&#x0002B;</span><span class="mb">&#x0002F;</span><span class="mb">&#x0002B;</span></i></sup> background or in the <i>Apc</i><sup><i>Min<span class="mb">&#x0002F;</span><span class="mb">&#x0002B;</span></i></sup> mice, was associated with larger numbers of metabolites that either increased or decreased when the mice were fed a high-fat diet (<!--tbl2--><a href="#tbl2">Table 2</a>). These increases indicated that the presence of TSP1 globally limits the effects of diet to alter liver metabolism.</p><div id="tbl2" class="figure-table"><h5 class="norm"><a href="/oncsis/journal/v5/n5/fig_tab/oncsis201637t2.html#figure-title">Table 2 - Biochemicals quantified in livers from mice of the indicated genotypes that were significantly altered by feeding HFD versus LFD.</a></h5><a href="/oncsis/journal/v5/n5/fig_tab/oncsis201637t2.html#figure-title"><img alt="Table 2 - Biochemicals quantified in livers from mice of the indicated genotypes that were significantly altered by feeding HFD versus LFD - Unfortunately we are unable to provide accessible alternative text for this. If you require assistance to access this image, please contact help@nature.com or the author" class="thumb" src="/common/images/table_thumb.gif"/></a><a href="/oncsis/journal/v5/n5/fig_tab/oncsis201637t2.html#figure-title" class="full">Full table </a><div class="cleardiv"><!-- clearing div --></div></div><br class="clear"/><p class="norm">To identify specific metabolites that could account for this protective activity of TSP1 we focused on metabolites that were differentially altered by high-fat diet in <i>Apc</i><sup><i>Min<span class="mb">&#x0002F;</span><span class="mb">&#x0002B;</span></i></sup><i>:Thbs1</i><sup><i>&#x02212;<span class="mb">&#x0002F;</span>&#x02212;</i></sup> mice when compared with <i>Apc</i><sup><i>Min<span class="mb">&#x0002F;</span><span class="mb">&#x0002B;</span></i></sup> mice with a WT <i>Thbs1</i> locus. Of the named metabolites, 124 showed significant differences in expression between these genotypes that were lost or altered when the mice were fed the high-fat diet (<!--fig2--><a href="#fig2">Figure 2a</a>). Comparing liver metabolites from <i>Thbs1</i><sup><i>&#x02212;<span class="mb">&#x0002F;</span>&#x02212;</i></sup> versus WT mice, we found 86 metabolites that were sensitive to dietary fat, and of these only 20 overlapped with those in the <i>Apc</i><sup><i>Min<span class="mb">&#x0002B;</span></i></sup><i>:Thbs1</i><sup><i>&#x02212;<span class="mb">&#x0002F;</span>&#x02212;</i></sup> versus <i>Apc</i><sup><i>Min<span class="mb">&#x0002B;</span></i></sup> comparison (<!--fig2--><a href="#fig2">Figure 2b</a>). Therefore, some of the metabolic changes can be primarily related to the <i>Thbs1</i> genotype, but a majority are specific to <i>Thbs1</i><sup><i>&#x02212;<span class="mb">&#x0002F;</span>&#x02212;</i></sup> in the <i>Apc</i><sup><i>Min<span class="mb">&#x0002F;</span><span class="mb">&#x0002B;</span></i></sup> context. The majority of the differentially expressed metabolites that were sensitive to dietary fat in <i>Apc</i><sup><i>Min<span class="mb">&#x0002B;</span></i></sup><i>:Thbs1</i><sup><i>&#x02212;<span class="mb">&#x0002F;</span>&#x02212;</i></sup> versus <i>Apc</i><sup><i>Min<span class="mb">&#x0002F;</span><span class="mb">&#x0002B;</span></i></sup> mice comprised amino acid and lipid metabolites. Eight of the 20 overlap metabolites in <!--fig2--><a href="#fig2">Figure 2b</a> were amino-acid metabolites. Most metabolites had higher relative expression in livers of <i>Apc</i><sup><i>Min<span class="mb">&#x0002F;</span><span class="mb">&#x0002B;</span></i></sup><i>:Thbs1</i><sup><i>&#x02212;<span class="mb">&#x0002F;</span>&#x02212;</i></sup> mice, which were either lost or reversed in livers from mice fed the high-fat diet. This trend is illustrated in <!--fig2--><a href="#fig2">Figure 2c</a> for liver amino-acid levels. Levels of 11 of the 20 amino acids were higher in <i>Apc</i><sup><i>Min<span class="mb">&#x0002F;</span><span class="mb">&#x0002B;</span></i></sup><i>:Thbs1</i><sup><i>&#x02212;<span class="mb">&#x0002F;</span>&#x02212;</i></sup> mice than <i>Apc</i><sup><i>Min<span class="mb">&#x0002F;</span><span class="mb">&#x0002B;</span></i></sup> mice on the low-fat diet, but 14 of the 20 amino acids were significantly lower in the <i>Apc</i><sup><i>Min<span class="mb">&#x0002F;</span><span class="mb">&#x0002B;</span></i></sup><i>:Thbs1</i><sup><i>&#x02212;<span class="mb">&#x0002F;</span>&#x02212;</i></sup> mice when fed the high-fat diet. Notably, 10 of the affected amino acids coincide with amino acids that, when quantified in plasma of <i>Apc</i><sup><i>Min<span class="mb">&#x0002F;</span><span class="mb">&#x0002B;</span></i></sup> mice fed high- versus low-fat diet, significantly correlated with adenoma numbers in those mice.<sup><!--bib29--><a href="#bib29">29</a></sup> Therefore, we predict that TSP1-dependent changes in liver amino-acid metabolism contribute to the effects of TSP1 to modulate the effect of dietary fat on intestinal carcinogenesis.</p><div id="fig2" class="figure-table"><h5 class="norm"><a href="/oncsis/journal/v5/n5/fig_tab/oncsis201637f2.html#figure-title">Figure 2.</a></h5><a href="/oncsis/journal/v5/n5/fig_tab/oncsis201637f2.html#figure-title"><img alt="Figure 2 - Unfortunately we are unable to provide accessible alternative text for this. If you require assistance to access this image, please contact help@nature.com or the author" class="thumb" src="/oncsis/journal/v5/n5/thumbs/oncsis201637f2th.jpg"/></a><p>Thrombospondin-1 and Apc regulate amino-acid metabolism. (<b>a</b>) Pie chart depicting metabolites that exhibited significant diet-dependent changes in levels in <i>Thbs1</i><sup><i>&#x02212;<span class="mb">&#x0002F;</span>&#x02212;</i></sup><i>:Apc</i><sup><i>Min<span class="mb">&#x0002F;</span><span class="mb">&#x0002B;</span></i></sup> mice relative to <i>Apc</i><sup><i>Min<span class="mb">&#x0002F;</span><span class="mb">&#x0002B;</span></i></sup> fed the same diets. (<b>b</b>) Comparison of metabolites showing differential expression in <i>Thbs1</i><sup><i>&#x02212;<span class="mb">&#x0002F;</span>&#x02212;</i></sup><i>:Apc</i><sup><i>Min<span class="mb">&#x0002F;</span><span class="mb">&#x0002B;</span></i></sup> mice versus <i>Apc</i><sup><i>Min<span class="mb">&#x0002F;</span><span class="mb">&#x0002B;</span></i></sup> mice and those differing in <i>Thbs1</i><sup><i>&#x02212;<span class="mb">&#x0002F;</span>&#x02212;</i></sup> versus WT mice. (<b>c</b>) Relative levels of amino acids in liver of <i>Thbs1</i><sup><i>&#x02212;<span class="mb">&#x0002F;</span>&#x02212;</i></sup><i>:Apc</i><sup><i>Min<span class="mb">&#x0002F;</span><span class="mb">&#x0002B;</span></i></sup>mice versus <i>Apc</i><sup><i>Min<span class="mb">&#x0002F;</span><span class="mb">&#x0002B;</span></i></sup> mice fed low-fat diet or high-fat diet. Polyp risk associated with altered circulating levels of the indicated amino acids (<span class="mb">&#x0002B;</span>) is data from Dazard <i>et al.</i><sup><!--bib29--><a href="#bib29">29</a></sup> Solid red and green cells indicate <i>P</i>&#x3C;0.05, and shaded cells indicate 0.05&#x3C;<i>P</i>&#x3C;0.1. (<b>d</b>) Levels of representative amino acids (tryptophan, serine) in livers of the indicated mice and diet conditions. (<b>e</b>) Levels of the isoleucine catabolite 3-hydroxy-2-ethylpropionate. For the box plots: center horizontal line, median value; <span class="mb">&#x0002B;</span>, mean value; box height, limits of upper and lower quartiles; whiskers, max and min of distribution; <span class="mb">&#x025CB;</span>, extreme data point (<i>N</i><span class="mb">&#x0003D;</span>7&#x02013;8).</p><a class="full" href="/oncsis/journal/v5/n5/fig_tab/oncsis201637f2.html#figure-title">Full figure and legend (306<abbr title="Kilobyte">K</abbr>)</a><div class="cleardiv"><!-- clearing div --></div></div><br class="clear"/><p class="norm">Examining two representative amino acids in each of the genotypes reveals that the high-fat diet increased amino-acid levels in WT mice and the two single transgenic strains relative to the respective genotypes fed the low-fat diet (<!--fig2--><a href="#fig2">Figure 2d</a>). In contrast, the high-fat diet in the double transgenic <i>Apc</i><sup><i>Min<span class="mb">&#x0002F;</span><span class="mb">&#x0002B;</span></i></sup><i>:Thbs1</i><sup><i>&#x02212;<span class="mb">&#x0002F;</span>&#x02212;</i></sup> mice broadly decreased levels of the same amino acids. The affected amino acids include the two exclusively ketogenic amino acids, lysine and leucine, as well as three additional amino acids that are partially ketogenic: isoleucine, tryptophan and phenylalanine. This implicates altered mitochondrial metabolism in the broad effects of TSP1 on amino-acid metabolism. The pattern shown for amino acids extends to most of the 36 amino-acid metabolites that exhibited differential modulation by dietary fat, and most of these are known catabolites of the respective amino acids in <!--fig2--><a href="#fig2">Figure 2b</a> (<a href="/oncsis/journal/v5/n5/suppinfo/oncsis201637s1.html">Supplementary Table</a>). In some cases the absence of TSP1 may cause elevation of an amino acid by blocking its catabolism. An illustrative example is shown for isoleucine (<!--fig2--><a href="#fig2">Figure 2c</a>). The isoleucine catabolite 3-hydroxy-2-ethylpropionate accumulated in liver of both <i>Thbs1</i><sup><i>&#x02212;<span class="mb">&#x0002F;</span>&#x02212;</i></sup> mouse strains, but was not affected by the <i>Apc</i> genotype (<!--fig2--><a href="#fig2">Figure 2e</a>).</p><h4 class="norm">Effects of <i>Thbs1</i> and <i>Apc<sup>Min</sup></i> on lipid metabolism</h4><p class="follows-h4">Consistent with their increased fat consumption, all strains of mice fed the high-fat diet showed the expected hepatic accumulation of various medium-chain and long-chain saturated, monounsaturated and polyunsaturated free fatty acids (<a href="/oncsis/journal/v5/n5/suppinfo/oncsis201637s1.html">Supplementary Table</a>). Elevations in free fatty acids were similar across groups (for example, pentadecanoic acid <!--fig3--><a href="#fig3">Figure 3a</a>). Pentadecanoic acid is abundant in butterfat and is a documented metabolic marker for animals fed this diet<sup><!--bib31--><a href="#bib31">31</a></sup> Increases in select medium-chain free fatty acids were more pronounced in the <i>Apc</i><sup><i>Min<span class="mb">&#x0002F;</span><span class="mb">&#x0002B;</span></i></sup><i>:Thbs1</i><sup><i>&#x02212;<span class="mb">&#x0002F;</span>&#x02212;</i></sup> samples (<a href="/oncsis/journal/v5/n5/suppinfo/oncsis201637s1.html">Supplementary Table</a>). From the analysis in <!--fig2--><a href="#fig2">Figure 2a</a>, 40 of the named lipid metabolites showed differential regulation by high-fat diet in <i>Apc</i><sup><i>Min<span class="mb">&#x0002F;</span><span class="mb">&#x0002B;</span></i></sup><i>:Thbs1</i><sup><i>&#x02212;<span class="mb">&#x0002F;</span>&#x02212;</i></sup> mice versus <i>Apc</i><sup><i>Min<span class="mb">&#x0002F;</span><span class="mb">&#x0002B;</span></i></sup> mice. Among these, long chain lipids such as oleate generally showed increased levels with high-fat diet that were lost in the <i>Apc</i><sup><i>Min<span class="mb">&#x0002F;</span><span class="mb">&#x0002B;</span></i></sup><i>:Thbs1</i><sup><i>&#x02212;<span class="mb">&#x0002F;</span>&#x02212;</i></sup> mice (<!--fig3--><a href="#fig3">Figure 3b</a>). Conversely, short-chain lipids such as caproate and seven of the detected hydroxy-fatty acids (for example, 2-hydroxypalmitate) showed decreases with the high-fat diet that were absent in the <i>Apc</i><sup><i>Min<span class="mb">&#x0002F;</span><span class="mb">&#x0002B;</span></i></sup><i>:Thbs1</i><sup><i>&#x02212;<span class="mb">&#x0002F;</span>&#x02212;</i></sup> mice (<!--fig3--><a href="#fig3">Figures 3c and d</a>). Therefore, crosstalk between <i>Thbs1</i> and <i>Apc<sup>Min</sup></i> selectively regulates metabolism of a subset of lipids.</p><div id="fig3" class="figure-table"><h5 class="norm"><a href="/oncsis/journal/v5/n5/fig_tab/oncsis201637f3.html#figure-title">Figure 3.</a></h5><a href="/oncsis/journal/v5/n5/fig_tab/oncsis201637f3.html#figure-title"><img alt="Figure 3 - Unfortunately we are unable to provide accessible alternative text for this. If you require assistance to access this image, please contact help@nature.com or the author" class="thumb" src="/oncsis/journal/v5/n5/thumbs/oncsis201637f3th.jpg"/></a><p>Thrombospondin-1 regulates lipid metabolism in liver tissue of <i>Apc</i><sup><i>Min<span class="mb">&#x0002F;</span><span class="mb">&#x0002B;</span></i></sup> mice fed a low-fat diet or a high-fat diet. WT, <i>Thbs1</i><sup><i>&#x02212;<span class="mb">&#x0002F;</span>&#x02212;</i></sup>, <i>Apc</i><sup><i>Min<span class="mb">&#x0002F;</span><span class="mb">&#x0002B;</span></i></sup> and <i>Thbs1</i><sup><i>&#x02212;<span class="mb">&#x0002F;</span>&#x02212;</i></sup><i>:Apc</i><sup><i>Min<span class="mb">&#x0002F;</span><span class="mb">&#x0002B;</span></i></sup> mice were fed a low-fat or a high-fat western diet at the time of weaning. Livers were excised and flash-frozen for metabolomics analysis. (<b>a</b>) Representative long-chain free fatty acid derived from dietary fat, pentadecanoic acid, that shows induction by high-fat diet (HFD) independent of genotype, (<b>b</b>) levels of oleate acid, representative of fatty acids that are endogenously synthesized and show genotype- and diet-dependence, (<b>c</b>) caproate, a short chain fatty acid that exhibits suppression by high-fat diet that is lost in <i>Thbs1</i><sup><i>&#x02212;<span class="mb">&#x0002F;</span>&#x02212;</i></sup><i>:Apc</i><sup><i>Min<span class="mb">&#x0002F;</span><span class="mb">&#x0002B;</span></i></sup> background, (<b>d</b>) representative hydroylated fatty acid that shows differential regulation in <i>Thbs1</i><sup><i>&#x02212;<span class="mb">&#x0002F;</span>&#x02212;</i></sup><i>:Apc</i><sup><i>Min<span class="mb">&#x0002F;</span><span class="mb">&#x0002B;</span></i></sup> versus <i>Apc</i><sup><i>Min<span class="mb">&#x0002F;</span><span class="mb">&#x0002B;</span></i></sup> mice, and (<b>e</b>) the ketone body metabolite 3-hydroxybutyrate is selectively elevated in <i>Thbs1</i><sup><i>&#x02212;<span class="mb">&#x0002F;</span>&#x02212;</i></sup><i>:Apc</i><sup><i>Min<span class="mb">&#x0002F;</span><span class="mb">&#x0002B;</span></i></sup> mice fed a low-fat diet. <i>N</i><span class="mb">&#x0003D;</span>8.</p><a class="full" href="/oncsis/journal/v5/n5/fig_tab/oncsis201637f3.html#figure-title">Full figure and legend (190<abbr title="Kilobyte">K</abbr>)</a><div class="cleardiv"><!-- clearing div --></div></div><br class="clear"/><p class="norm">Intake of a high-fat diet was associated with hepatic accumulation of fatty acids, which can affect cell energy metabolism and signaling to stimulate carcinogenesis. Both fatty acid oxidation and the observed increases in ketogenic amino acids provide sources of acetyl-CoA. <i>Apc</i><sup><i>Min<span class="mb">&#x0002F;</span><span class="mb">&#x0002B;</span></i></sup><i>:Thbs1</i><sup><i>&#x02212;<span class="mb">&#x0002F;</span>&#x02212;</i></sup> mice fed the low-fat diet had 1.8-fold elevated levels relative to <i>Apc</i><sup><i>Min<span class="mb">&#x0002F;</span><span class="mb">&#x0002B;</span></i></sup> mice of the ketone body 3-hydroxybutyrate (BHBA, <i>P</i><span class="mb">&#x0003D;</span>0.02, <!--fig3--><a href="#fig3">Figure 3e</a>). This elevation was lost in <i>Apc</i><sup><i>Min<span class="mb">&#x0002F;</span><span class="mb">&#x0002B;</span></i></sup><i>:Thbs1</i><sup><i>&#x02212;<span class="mb">&#x0002F;</span>&#x02212;</i></sup> mice fed a high-fat diet, representing a significant reduction (<i>P</i><span class="mb">&#x0003D;</span>0.04, <!--fig3--><a href="#fig3">Figure 3e</a>). BHBA is synthesized in the liver from excess acetyl-CoA and utilized by extra hepatic tissues to meet energy demands during periods of starvation. BHBA has been identified as a serum biomarker of colorectal carcinoma and esophageal carcinoma.<sup><!--bib32--><a href="#bib32">32</a>, <!--bib33--><a href="#bib33">33</a></sup> Lipid metabolites involved in eicosanoid biosynthesis showed strong dependences on dietary fat as well as TSP1 (<!--fig4--><a href="#fig4">Figure 4</a>). The <i>Apc</i><sup><i>Min<span class="mb">&#x0002F;</span><span class="mb">&#x0002B;</span></i></sup> mutant is known to increase COX2 expression and consequently prostaglandin PGE2 levels via a CtBP1-dependent mechanism,<sup><!--bib34--><a href="#bib34">34</a>, <!--bib35--><a href="#bib35">35</a>, <!--bib36--><a href="#bib36">36</a></sup> and COX2 is known to regulate TSP1 expression,<sup><!--bib37--><a href="#bib37">37</a>, <!--bib38--><a href="#bib38">38</a></sup> but no change in PGE2 expression was reported in <i>Thbs1</i><sup><i>&#x02212;<span class="mb">&#x0002F;</span>&#x02212;</i></sup> macrophages.<sup><!--bib39--><a href="#bib39">39</a></sup> However, <i>Thbs1</i><sup><i>&#x02212;<span class="mb">&#x0002F;</span>&#x02212;</i></sup> liver showed strong elevation in PGE2 levels as well as in PGF2 and 5- and 15-hydroxyeicosatetraenoic acid levels (<!--fig4--><a href="#fig4">Figures 4b, c, e and f</a>). This indicates a general inhibitory effect of TSP1 on eicosanoid biosynthesis from n6-polyunsaturated fatty acids. Notably, the high-fat diet suppressed these elevations in <i>Thbs1</i><sup><i>&#x02212;<span class="mb">&#x0002F;</span>&#x02212;</i></sup> liver. The high-fat diet was also inhibitory in the other genotypes, except for <i>Apc</i><sup><i>Min<span class="mb">&#x0002F;</span><span class="mb">&#x0002B;</span></i></sup><i>:Thbs1</i><sup><i>&#x02212;<span class="mb">&#x0002F;</span>&#x02212;</i></sup> mice where levels were low in mice fed both diets.</p><div id="fig4" class="figure-table"><h5 class="norm"><a href="/oncsis/journal/v5/n5/fig_tab/oncsis201637f4.html#figure-title">Figure 4.</a></h5><a href="/oncsis/journal/v5/n5/fig_tab/oncsis201637f4.html#figure-title"><img alt="Figure 4 - Unfortunately we are unable to provide accessible alternative text for this. If you require assistance to access this image, please contact help@nature.com or the author" class="thumb" src="/oncsis/journal/v5/n5/thumbs/oncsis201637f4th.jpg"/></a><p>Thrombospondin-1 synergizes with dietary fat to limit liver inflammatory eicosanoid metabolism in <i>Apc</i><sup><i><span class="mb">&#x0002B;</span><span class="mb">&#x0002F;</span><span class="mb">&#x0002B;</span></i></sup> but not in <i>Apc</i><sup><i>Min<span class="mb">&#x0002F;</span><span class="mb">&#x0002B;</span></i></sup> mice. Eicosanoid and 1-methylnicotinamide levels were determined in liver tissue isolated from WT, <i>Thbs1</i><sup><i>&#x02212;<span class="mb">&#x0002F;</span>&#x02212;</i></sup>, <i>Apc</i><sup><i>Min<span class="mb">&#x0002F;</span><span class="mb">&#x0002B;</span></i></sup> and <i>Thbs1</i><sup><i>&#x02212;<span class="mb">&#x0002F;</span>&#x02212;</i></sup><i>:Apc</i><sup><i>Min<span class="mb">&#x0002F;</span><span class="mb">&#x0002B;</span></i></sup> mice fed a low fat or a high fat western diet at the time of weaning. (<b>a</b>) 13- Hydroxyoctadecadienoic acid (13-HODE) and 9-hydroxyoctadecadienoic acid (9-HODE) are isobaric, and cannot be distinguished by selective ion monitoring. (<b>b</b>, <b>c</b>) 5-Hydroxyicosatetraenoic acid (5-HETE) is a metabolite of arachidonic acid produced by 5-lipoxygenase (lox), and 15-hydroxyicosatetraenoic acid (15-HETE) is produced by 15-lipoxygenase-1. (<b>d</b>) 12,13-Dihydroxy-9Z-octadecenoic acid (12,13-diHOME) is a cytochrome P450 epoxygenase (CYP-epoxygenase) metabolite of linoleate. (<b>e</b>, <b>f</b>) Prostaglandins E2 and F2<span class="mb">&#x003B1;</span> are bioactive prostaglandins derived from the cyclooxygenase (COX) product PGH2. (<b>g</b>) 1-Methylnicotinamide is an anti-inflammatory COX-dependent nicotinamide catabolite.</p><a class="full" href="/oncsis/journal/v5/n5/fig_tab/oncsis201637f4.html#figure-title">Full figure and legend (203<abbr title="Kilobyte">K</abbr>)</a><div class="cleardiv"><!-- clearing div --></div></div><br class="clear"/><p class="norm">Levels of a major nicotinamide catabolite that is produced in liver were consistent with the observed suppression of eicosanoids in the <i>Apc</i><sup><i>Min<span class="mb">&#x0002B;</span></i></sup><i>:Thbs1</i><sup><i>&#x02212;<span class="mb">&#x0002F;</span>&#x02212;</i></sup> mice. 1-Methylnicotinamide is a potent anti-inflammatory and antithrombotic molecule, and its activity was blocked by a COX2 inhibitor.<sup><!--bib40--><a href="#bib40">40</a>, <!--bib41--><a href="#bib41">41</a></sup> Although expression of its biosynthetic enzyme nicotinamide-<i>N</i>-methyltransferase was induced in some obesity models,<sup><!--bib42--><a href="#bib42">42</a></sup> 1-methylnicotinamide levels in WT and <i>Thbs1</i><sup><i>&#x02212;<span class="mb">&#x0002F;</span>&#x02212;</i></sup> liver were suppressed by high fat intake and were basally lower in <i>Apc</i><sup><i>Min<span class="mb">&#x0002F;</span><span class="mb">&#x0002B;</span></i></sup>: mice (<!--fig4--><a href="#fig4">Figure 4g</a>). Remarkably, 1-methylnicotinamide levels were strongly elevated in the <i>Apc</i><sup><i>Min<span class="mb">&#x0002F;</span><span class="mb">&#x0002B;</span></i></sup><i>:Thbs1</i><sup><i>&#x02212;<span class="mb">&#x0002F;</span>&#x02212;</i></sup> mouse liver, but it was also suppressed by feeding the high-fat diet. In contrast, further catabolism of 1-methylnicotinamide to N1-methyl-2-pyridone-5-carboxamide was significantly decreased in <i>Apc</i><sup><i>Min<span class="mb">&#x0002F;</span><span class="mb">&#x0002B;</span></i></sup><i>:Thbs1</i><sup><i>&#x02212;<span class="mb">&#x0002F;</span>&#x02212;</i></sup> mice relative to <i>Apc</i><sup><i>Min<span class="mb">&#x0002F;</span><span class="mb">&#x0002B;</span></i></sup> mice (<a href="/oncsis/journal/v5/n5/suppinfo/oncsis201637s1.html">Supplementary Table</a>). The proximal target of 1-methylnicotinamide remains unclear, so further study will be required to determine whether it is responsible for the observed suppression of eicosanoids in <i>Apc</i><sup><i>Min<span class="mb">&#x0002F;</span><span class="mb">&#x0002B;</span></i></sup><i>:Thbs1</i><sup><i>&#x02212;<span class="mb">&#x0002F;</span>&#x02212;</i></sup> mice.</p><h4 class="norm">TSP1 regulates mitochondrial energy metabolism in <i>Apc</i><sup><i>Min<span class="mb">&#x0002F;</span><span class="mb">&#x0002B;</span></i></sup>mice</h4><p class="follows-h4">The global changes in ketogenic amino acid and lipid metabolites are consistent with regulation of mitochondrial metabolism by TSP1. We recently reported that loss of the TSP1 receptor CD47 regulates metabolic flux through the TCA cycle and altered citrate levels by regulation of citrate synthase activity.<sup><!--bib21--><a href="#bib21">21</a></sup> Two TCA cycle intermediates, citrate and isocitrate, showed differential diet-dependent regulation in <i>Apc</i><sup><i>Min<span class="mb">&#x0002F;</span><span class="mb">&#x0002B;</span></i></sup><i>:Thbs1</i><sup><i>&#x02212;<span class="mb">&#x0002F;</span>&#x02212;</i></sup> mice versus <i>Apc</i><sup><i>Min<span class="mb">&#x0002F;</span><span class="mb">&#x0002B;</span></i></sup> mice (<!--fig5--><a href="#fig5">Figures 5a&#x02013;c</a>). A comparison between <i>Apc</i><sup><i>Min<span class="mb">&#x0002F;</span><span class="mb">&#x0002B;</span></i></sup><i>:Thbs1</i><sup><i>&#x02212;<span class="mb">&#x0002F;</span>&#x02212;</i></sup> and <i>Thbs1</i><sup><i>&#x02212;<span class="mb">&#x0002F;</span>&#x02212;</i></sup> mice fed the low-fat diet showed more extensive suppression of downstream metabolites in the TCA cycle (<!--fig5--><a href="#fig5">Figure 5a</a>). These differences may be attributable to the Apc<sup>Min<span class="mb">&#x0002F;</span><span class="mb">&#x0002B;</span></sup> phenotype and were lost when with a high fat intake. These downstream effects of Apc<sup>Min<span class="mb">&#x0002F;</span><span class="mb">&#x0002B;</span></sup> on TCA metabolites are consistent with a previous analysis of SW480 colon carcinoma cells expressing mutant Apc that identified succinate, fumarate and malate as Apc-sensitive metabolites.<sup><!--bib28--><a href="#bib28">28</a></sup> However, no significant differences in TCA metabolites were observed when comparing <i>Apc</i><sup><i>Min<span class="mb">&#x0002F;</span><span class="mb">&#x0002B;</span></i></sup> mice with WT mice. In contrast, <i>Thbs1</i><sup><i>&#x02212;<span class="mb">&#x0002F;</span>&#x02212;</i></sup> mouse livers showed significant elevations in <span class="mb">&#x003B1;</span>-ketoglutarate, succinate, fumarate and malate levels relative to WT mice. High-fat diet decreased these elevations, but <span class="mb">&#x003B1;</span>-ketoglutarate and fumarate remained significantly elevated.</p><div id="fig5" class="figure-table"><h5 class="norm"><a href="/oncsis/journal/v5/n5/fig_tab/oncsis201637f5.html#figure-title">Figure 5.</a></h5><a href="/oncsis/journal/v5/n5/fig_tab/oncsis201637f5.html#figure-title"><img alt="Figure 5 - Unfortunately we are unable to provide accessible alternative text for this. If you require assistance to access this image, please contact help@nature.com or the author" class="thumb" src="/oncsis/journal/v5/n5/thumbs/oncsis201637f5th.jpg"/></a><p>Thrombospondin-1 and dietary fat regulate TCA cycle metabolites and 2-hydroxyglutarate in <i>Apc</i><sup><i>Min<span class="mb">&#x0002F;</span><span class="mb">&#x0002B;</span></i></sup> mice. WT, <i>Thbs1</i><sup><i>&#x02212;<span class="mb">&#x0002F;</span>&#x02212;</i></sup>, <i>Apc</i><sup><i>Min<span class="mb">&#x0002F;</span><span class="mb">&#x0002B;</span></i></sup> and <i>Thbs1</i><sup><i>&#x02212;<span class="mb">&#x0002F;</span>&#x02212;</i></sup><i>:Apc</i><sup><i>Min<span class="mb">&#x0002F;</span><span class="mb">&#x0002B;</span></i></sup> mice were fed a low-fat or a high-fat western diet at the time of weaning. Livers were excised and flash frozen for metabolomics analysis. (<b>a</b>) Citric acid cycle metabolites and ratios for the indicated metabolites in livers from the respective mice fed low- or high-fat diets. Solid red and green cells indicate <i>P</i>&#x3C;0.05, and shaded cells indicate 0.05&#x3C;<i>P</i>&#x3C;0.1. (<b>b</b>) citrate, (<b>c</b>) isocitrate, (<b>d</b>) 2-hydroxyglutarate levels in livers from mice of the indicated genotypes, <i>N</i><span class="mb">&#x0003D;</span>8.</p><a class="full" href="/oncsis/journal/v5/n5/fig_tab/oncsis201637f5.html#figure-title">Full figure and legend (193<abbr title="Kilobyte">K</abbr>)</a><div class="cleardiv"><!-- clearing div --></div></div><br class="clear"/><p class="norm">Elevation of the oncogenic metabolite 2-hydroxyglutarate (2HG) is associated with several cancers, and 2HG drives progression of these cancers by epigenetic reprogramming.<sup><!--bib43--><a href="#bib43">43</a>, <!--bib44--><a href="#bib44">44</a></sup> Elevated 2HG levels in cancer can be caused by mutations in isocitrate dehydrogenase-2 (IDH2) in the TCA cycle,<sup><!--bib43--><a href="#bib43">43</a></sup> loss of L-2HG dehydrogenase<sup><!--bib45--><a href="#bib45">45</a></sup> or by increased IDH2 expression induced by cMyc.<sup><!--bib46--><a href="#bib46">46</a></sup> 2HG increases malignant progression by several mechanisms including increasing cancer stem cell characteristics.<sup><!--bib46--><a href="#bib46">46</a></sup> 2HG could, therefore, be relevant to the effects of TSP1 in the Apc<sup>Min</sup> model because tissues in <i>Thbs1</i><sup><i>&#x02212;<span class="mb">&#x0002F;</span>&#x02212;</i></sup> mice express elevated cMyc and other stem cell characteristics.<sup><!--bib47--><a href="#bib47">47</a></sup> The <i>Apc</i><sup><i>Min<span class="mb">&#x0002F;</span><span class="mb">&#x0002B;</span></i></sup> mice showed no changes in 2HG relative to WT mice, but 2HG levels were significantly higher in <i>Thbs1</i><sup><i>&#x02212;<span class="mb">&#x0002F;</span>&#x02212;</i></sup> mice on both diets (<!--fig5--><a href="#fig5">Figures 5a and d</a>). Levels were also significantly elevated in <i>Apc</i><sup><i>Min<span class="mb">&#x0002F;</span><span class="mb">&#x0002B;</span></i></sup><i>:Thbs1</i><sup><i>&#x02212;<span class="mb">&#x0002F;</span>&#x02212;</i></sup> mice versus <i>Apc</i><sup><i>Min<span class="mb">&#x0002F;</span><span class="mb">&#x0002B;</span></i></sup> mice fed a low-fat diet, but when fed a high-fat diet the significant elevation was lost. This correlates with the selective protective role of TSP1 in the Apc<sup>Min</sup> model that was seen only in the low-fat diet. A causative role for 2HG in this effect of TSP1 expression on intestinal carcinogenesis remains to be determined.</p></div><div id="Discussion"><a class="backtotop" href="#top">Top<span class="hidden"> of page</span></a><h3>Discussion</h3><p class="norm">A global metabolic profiling study revealed significant basal, genotype-specific and dietary fat-dependent metabolic differences in liver tissue of WT versus <i>Thbs1</i><sup><i>&#x02212;<span class="mb">&#x0002F;</span>&#x02212;</i></sup> and <i>Apc</i><sup><i>Min<span class="mb">&#x0002F;</span><span class="mb">&#x0002B;</span></i></sup> mice. Analysis of liver tissue from the double transgenic <i>Apc</i><sup><i>Min<span class="mb">&#x0002F;</span><span class="mb">&#x0002B;</span></i></sup><i>:Thbs1</i><sup><i>&#x02212;<span class="mb">&#x0002F;</span>&#x02212;</i></sup> mice revealed additional metabolic changes that could not be predicted based on those of the two parental transgenic strains. When fed a low-fat diet <i>Apc</i><sup><i>Min<span class="mb">&#x0002F;</span><span class="mb">&#x0002B;</span></i></sup><i>:Thbs1</i><sup><i>&#x02212;<span class="mb">&#x0002F;</span>&#x02212;</i></sup> mice exhibited a number of metabolic alterations relative to <i>Apc</i><sup><i>Min<span class="mb">&#x0002F;</span><span class="mb">&#x0002B;</span></i></sup><i>:Thbs1</i><sup><i><span class="mb">&#x0002B;</span><span class="mb">&#x0002F;</span><span class="mb">&#x0002B;</span></i></sup> mice that were lost with high-fat intake. A majority of these involved amino acid, eicosanoid and lipid metabolism. Ketogenic amino acids and lipid metabolism changes were associated with dysregulation of TCA cycle metabolites that suggest mitochondrial dysfunction in livers of the <i>Apc</i><sup><i>Min<span class="mb">&#x0002F;</span><span class="mb">&#x0002B;</span></i></sup><i>:Thbs1</i><sup><i>&#x02212;<span class="mb">&#x0002F;</span>&#x02212;</i></sup> mice. The dysregulation of cell energy metabolites was associated with increased tumor multiplicity and decreased survival of <i>Apc</i><sup><i>Min<span class="mb">&#x0002F;</span><span class="mb">&#x0002B;</span></i></sup><i>:Thbs1</i><sup><i>&#x02212;<span class="mb">&#x0002F;</span>&#x02212;</i></sup> mice when fed a low-fat diet. The increase in tumor multiplicity was observed in both the small and large intestine.</p><p class="norm">The <i>Apc</i><sup><i>Min<span class="mb">&#x0002F;</span><span class="mb">&#x0002B;</span></i></sup> model is a clinically relevant tumor model of FAP and spontaneous colon cancer. However one of the limitations of this model is that most lesions are observed in the small intestines, which does not mirror the human disease. Deletion of TSP1 caused an increased in colonic lesions independent of diet when compared with <i>Apc</i><sup><i>Min<span class="mb">&#x0002F;</span><span class="mb">&#x0002B;</span></i></sup>, which may be a more clinically relevant model to study colon cancer as it mimics the observed loss of TSP1 and the phenotype associated with it in humans. Other genetic deletions in the <i>Apc</i><sup><i>Min<span class="mb">&#x0002F;</span><span class="mb">&#x0002B;</span></i></sup> mouse have led to increased lesions. Absence of glutathione transferase gene in the <i>Apc</i><sup><i>Min<span class="mb">&#x0002F;</span><span class="mb">&#x0002B;</span></i></sup> mouse led to six-fold increase in colon lesions.<sup><!--bib48--><a href="#bib48">48</a></sup> This was attributed in part to increase in pro-inflammatory signaling and regulation of iNOS. The <i>Apc</i><sup><i>Min<span class="mb">&#x0002F;</span><span class="mb">&#x0002B;</span></i></sup><i>:Thbs1</i><sup><i>&#x02212;<span class="mb">&#x0002F;</span>&#x02212;</i></sup> mice also showed regulation of inflammatory signaling and showed regulation of reduced glutathione and oxidized glutathione in livers, which could explain the increased lesions in the large intestine in both models.</p><p class="norm">Several studies have demonstrated that loss or inhibition of TSP1 expression increases colon carcinogenesis and malignant progression.<sup><!--bib49--><a href="#bib49">49</a>, <!--bib50--><a href="#bib50">50</a>, <!--bib51--><a href="#bib51">51</a>, <!--bib52--><a href="#bib52">52</a></sup> Decreased TSP1 expression in adenomas of <i>Apc</i><sup><i>Min<span class="mb">&#x0002F;</span><span class="mb">&#x0002B;</span></i></sup> mice was associated with a reduced apoptotic index, increase in proliferation and differential patterns of vessel density.<sup><!--bib15--><a href="#bib15">15</a></sup> <i>Apc</i><sup><i>Min<span class="mb">&#x0002F;</span><span class="mb">&#x0002B;</span></i></sup><i>:Thbs1</i><sup><i>&#x02212;<span class="mb">&#x0002F;</span>&#x02212;</i></sup> showed increased vascularization in pre-malignant intestinal tissue but no significant differences in vascularization between adenomas and carcinomas between <i>Apc</i><sup><i>Min<span class="mb">&#x0002F;</span><span class="mb">&#x0002B;</span></i></sup> and <i>Apc</i><sup><i>Min<span class="mb">&#x0002F;</span><span class="mb">&#x0002B;</span></i></sup><i>:Thbs1</i><sup><i>&#x02212;<span class="mb">&#x0002F;</span>&#x02212;</i></sup>. This also correlated with no differences in expression of VEGF, which led to the conclusion that TSP1 may regulate the initial stages of carcinogenesis when neovascularization to sustain a tumor lesion is low. Correspondingly, once tumors became well established, the effect of TSP1 deletion was decreased . However, our studies indicate that TSP1 may also be involved in later stages of colon carcinogenesis because <i>Apc</i><sup><i>Min<span class="mb">&#x0002F;</span><span class="mb">&#x0002B;</span></i></sup> animals that were fed a low-fat diet, which can decrease colon cancer formation, showed decreased survival in the absence of TSP1 expression. In the context of a high-fat diet, the absence of TSP1 led to multiple metabolic alterations in livers of 12-week-old mice that could explain late-stage systemic effects of TSP1 on colon cancer progression.</p><p class="norm">Our study indicates that an increase in TCA cycle metabolites could be due to the increased glycolytic flux, which is characteristic of colon cancer.<sup><!--bib53--><a href="#bib53">53</a></sup> Consistent with this hypothesis, loss of the TSP1 receptor CD47 altered both glycolytic and TCA cycle flux in a human T-cell line and <i>cd47</i><sup><i>&#x02212;<span class="mb">&#x0002F;</span>&#x02212;</i></sup> mice.<sup><!--bib21--><a href="#bib21">21</a></sup> However, the present results suggest decreased TCA cycle activity and oxidative phosphorylation. As both &#x003B2;-oxidation and ketogenesis occur in the mitochondria, and medium-chain free fatty acids can freely cross mitochondrial membranes to facilitate &#x003B2;-oxidation, one explanation for the cumulative differential changes observed in <i>Apc</i><sup><i>Min<span class="mb">&#x0002F;</span><span class="mb">&#x0002B;</span></i></sup><i>:Thbs1</i><sup><i>&#x02212;<span class="mb">&#x0002F;</span>&#x02212;</i></sup> mice fed a high-fat diet may involve mitochondrial dysfunction, resulting in decreased fatty acid oxidation and ketone body formation, along with the accumulation of free fatty acids. Perturbations in the TCA cycle intermediates and biochemicals related to lipid metabolism are indicative of changes in fatty acid handling and utilization in high-fat diet-fed <i>Apc</i><sup><i>Min<span class="mb">&#x0002F;</span><span class="mb">&#x0002B;</span></i></sup><i>:Thbs1</i><sup><i>&#x02212;<span class="mb">&#x0002F;</span>&#x02212;</i></sup> mice as compared with the other study groups. Cancer cells use amino acids as energy sources or to generate metabolites to fuel cell proliferation and growth.<sup><!--bib54--><a href="#bib54">54</a></sup> We observed that amino-acid metabolite levels were increased in <i>Apc</i><sup><i>Min<span class="mb">&#x0002F;</span><span class="mb">&#x0002B;</span></i></sup><i>:Thbs1</i><sup><i>&#x02212;<span class="mb">&#x0002F;</span>&#x02212;</i></sup> fed a low-fat diet when compared with <i>Apc</i><sup><i>Min<span class="mb">&#x0002F;</span><span class="mb">&#x0002B;</span></i></sup> alone. This could contribute to the differences in tumor multiplicity and survival within this group, as other studies where serum metabolites were analyzed found increased amino-acid metabolites in <i>Apc</i><sup><i>Min<span class="mb">&#x0002F;</span><span class="mb">&#x0002B;</span></i></sup> mice as well as in the serum of mice bearing colon tumors of the HT-29 cell line where the <i>APC</i> gene was truncated.<sup><!--bib28--><a href="#bib28">28</a></sup> On the other hand, some amino-acid metabolite levels were depleted in the <i>Apc</i><sup><i>Min<span class="mb">&#x0002F;</span><span class="mb">&#x0002B;</span></i></sup><i>:Thbs1</i><sup><i>&#x02212;<span class="mb">&#x0002F;</span>&#x02212;</i></sup> fed a high-fat diet when compared with <i>Apc</i><sup><i>Min<span class="mb">&#x0002F;</span><span class="mb">&#x0002B;</span></i></sup> mice. This is a less surprising finding as this could indicate that the low levels of amino-acid metabolites are due in part to increased uptake to fuel cell growth. Lower liver levels of ketogenic amino acids and metabolites may reflect higher mitochondrial &#x003B2;-oxidation in mice fed the high-fat diet. Consistent with this hypothesis, amino-acid levels were depleted by high fat intake in drosophila.<sup><!--bib55--><a href="#bib55">55</a></sup> This was attributed to increased levels of urea and uric acid affecting nitrogen metabolism and the increased analplerotic substrates in the TCA cycle. In circumstances where fat is the main source of energy, lipids cannot readily enter the TCA cycle via anaplerotic pathways to generate acetyl-CoA.<sup><!--bib55--><a href="#bib55">55</a></sup> In this situation, levels of acetyl-CoA are generated via &#x003B2;-oxidation. Therefore, amino-acid metabolism can serve as a primary source of anaplerotic substrates to sustain the TCA cycle and become depleted during instances of low glucose utilization.<sup><!--bib55--><a href="#bib55">55</a></sup> Another point of regulation of the TCA cycle in our models is indicated by the levels of 3-hydroxybutyrate in <i>Apc</i><sup><i>Min<span class="mb">&#x0002F;</span><span class="mb">&#x0002B;</span></i></sup><i>:Thbs1</i><sup><i>&#x02212;<span class="mb">&#x0002F;</span>&#x02212;</i></sup> mice. 3-Hydroxybutyrate is generated in the liver from acetyl-CoA during periods of low glucose levels or starvation. This should occur in the context of a low-fat diet that is not deficient in carbohydrate sources, thus indicating a shift in glucose utilization to ketone body formation as a source of energy may be driven by the absence of TSP1 in the <i>Apc</i><sup><i>Min<span class="mb">&#x0002F;</span><span class="mb">&#x0002B;</span></i></sup> mice. During starvation, ketone bodies are used as an energy source, and the decreased use of glucose by peripheral organs such as the liver suggest an increased dependence on fat as an energy source.<sup><!--bib56--><a href="#bib56">56</a></sup> Since <i>Apc</i><sup><i>Min<span class="mb">&#x0002F;</span><span class="mb">&#x0002B;</span></i></sup><i>:Thbs1</i><sup><i>&#x02212;<span class="mb">&#x0002F;</span>&#x02212;</i></sup> have increased tumor multiplicity, glucose utilization may shift toward tumors while leaving peripheral organs to rely on fatty acid and ketone body formation to maintain energy levels. This shift in ketone body and glucose utilization due to starvation can increase pathways such as autophagy that cause increased carcinogenesis. Autophagy is demonstrated to be activated in murine intestinal epithelium and human colon cancer.<sup><!--bib57--><a href="#bib57">57</a>, <!--bib58--><a href="#bib58">58</a></sup> In an <i>Apc</i><sup><i>Min<span class="mb">&#x0002F;</span><span class="mb">&#x0002B;</span></i></sup> model, deletion of autophagy-related protein-7 (<i>Atg7</i>) led to AMPK activation and reduction in carcinogenesis.<sup><!--bib57--><a href="#bib57">57</a></sup> Loss of the TSP1<span class="mb">&#x0002F;</span>CD47 signaling axis is implicated in the activation autophagy in non-transformed tissue.<sup><!--bib59--><a href="#bib59">59</a></sup> Although the role of TSP1<span class="mb">&#x0002F;</span>CD47 signaling in regulation of autophagy in cancer is unknown, circulating levels of TSP1 may inhibit this pathway to ameliorate cancer development.</p><p class="norm">Moreover, <i>Apc</i><sup><i>Min<span class="mb">&#x0002F;</span><span class="mb">&#x0002B;</span></i></sup><i>:Thbs1</i><sup><i>&#x02212;<span class="mb">&#x0002F;</span>&#x02212;</i></sup> <i>mice</i> fed a low-fat diet show elevated levels of 2HG, which is known as an oncometabolite.<sup><!--bib60--><a href="#bib60">60</a></sup> Several factors including mutations in isocitrate dehydrogenase lead to accumulation of 2HG, which is considered a poor prognostic factor in many cancers including colon cancer.<sup><!--bib61--><a href="#bib61">61</a>, <!--bib62--><a href="#bib62">62</a></sup> The accumulation of this metabolite is another indication of defects in metabolism that are caused by the deletion of <i>Thbs1</i> in the <i>Apc</i><sup><i>Min<span class="mb">&#x0002F;</span><span class="mb">&#x0002B;</span></i></sup> mice and could lead to more aggressive formation of tumors in this model.</p><p class="norm">The negative effects of endogenous TSP1 on PGE2 levels in mice fed the low-fat diet may also contribute to the delay of carcinogenesis by endogenous TSP1. The loss of PGE2 suppression by TSP1 in mice fed the high-fat diet is consistent with our finding that the high-fat diet suppressed the protective effects of TSP1 in <i>Apc</i><sup><i>Min<span class="mb">&#x0002F;</span><span class="mb">&#x0002B;</span></i></sup> mice. COX2 expression is elevated in polyps of <i>Apc</i><sup><i>Min<span class="mb">&#x0002F;</span><span class="mb">&#x0002B;</span></i></sup> mice<sup><!--bib34--><a href="#bib34">34</a></sup> and in human colorectal cancer.<sup><!--bib63--><a href="#bib63">63</a></sup> Apc<sup>Min</sup> is defective in regulation of COX2 via inhibition of CtBP1.<sup><!--bib36--><a href="#bib36">36</a></sup> COX2 inhibitors are well documented by epidemiological studies to delay colon carcinogenesis.<sup><!--bib64--><a href="#bib64">64</a>, <!--bib65--><a href="#bib65">65</a></sup> Thus, our data indicates that TSP1, Apc and dietary fat are convergent regulators of PGE2 levels. <i>Thbs1</i><sup><i>&#x02212;<span class="mb">&#x0002F;</span>&#x02212;</i></sup> mice have elevated liver levels of multiple eicosanoid metabolites including 9-HODE, 13-HODE and 12,13-diHOME, which suggest that the regulation of PGE2 levels by TSP1 occurs upstream at least at the level of linoleate availability. The proximal molecular targets of TSP1 signaling in the eicosanoid pathway remain to be determined.</p><p class="norm">Studies have demonstrated that a low-fat diet can prevent colon tumor formation, but the relative risk associated with dietary fat in humans remains unclear.<sup><!--bib66--><a href="#bib66">66</a>, <!--bib67--><a href="#bib67">67</a></sup> Our study demonstrates a protective effect of endogenous TSP1 that is sensitive to dietary fat intake. The loss of TSP1 expression that has been documented to result from loss of tumor suppresser genes and activation of oncogenes associated with colon carcinogenesis could contribute to promoting early and late stages of colon tumor formation.<sup><!--bib4--><a href="#bib4">4</a></sup> Thus, <i>Apc</i><sup><i>Min<span class="mb">&#x0002F;</span><span class="mb">&#x0002B;</span></i></sup><i>:Thbs1</i><sup><i>&#x02212;<span class="mb">&#x0002F;</span>&#x02212;</i></sup> mice could be useful to identify TSP1-independent effects of cancer genes on cancer progression. Another advantage of the <i>Apc</i><sup><i>Min<span class="mb">&#x0002F;</span><span class="mb">&#x0002B;</span></i></sup><i>:Thbs1</i><sup><i>&#x02212;<span class="mb">&#x0002F;</span>&#x02212;</i></sup> model is that more tumors form in the large intestine when compared with the <i>Apc</i><sup><i>Min<span class="mb">&#x0002F;</span><span class="mb">&#x0002B;</span></i></sup> mice. Therefore, this model may be more clinically relevant to study the role of APC in human colon carcinogenesis and responses to treatment.</p></div><div id="Materials-and-methods"><a class="backtotop" href="#top">Top<span class="hidden"> of page</span></a><h3>Materials and methods</h3><h4 class="norm">Apc<sup>Min</sup> model of colorectal cancer</h4><p class="follows-h4">Experimental protocols, housing and care of mice were conducted in an AAALAC-approved facility according to the animal study protocols LP-026, approved by the National Cancer Institute Animal Care and Use Committee, and ASP 12-461 approved by the NCI-Frederick Animal Care and Use Committee. WT, <i>Apc</i><sup><i>Min<span class="mb">&#x0002F;</span><span class="mb">&#x0002B;</span></i></sup> mice and <i>Thbs1</i><sup><i>&#x02212;<span class="mb">&#x0002F;</span>&#x02212;</i></sup> mice on a C57Bl<span class="mb">&#x0002F;</span>6 background were purchased from Jackson Laboratories. All mice were maintained and bred at least two generations on a low fat western diet (AIN-76A containing 5<span class="mb">&#x00025;</span>. at, Research Diets) to equalize dietary effects on their epigenetic context and microbiomes. <i>Apc</i><sup><i>Min<span class="mb">&#x0002F;</span><span class="mb">&#x0002B;</span></i></sup> mice were crossed with <i>Thbs1</i><sup><i>&#x02212;<span class="mb">&#x0002F;</span>&#x02212;</i></sup> mice to generate the <i>Thbs1<span class="mb">&#x0002B;</span><span class="mb">&#x0002F;</span>-</i>:<i>Apc</i><sup><i>Min<span class="mb">&#x0002F;</span><span class="mb">&#x0002B;</span></i></sup> strain, and these mice were crossed with <i>Thbs1</i><sup><i>&#x02212;<span class="mb">&#x0002F;</span>&#x02212;</i></sup> mice to generate <i>Thbs1</i><sup><i>&#x02212;<span class="mb">&#x0002F;</span>&#x02212;</i></sup>:<i>Apc<sup>Min<span class="mb">&#x0002F;</span></sup></i> mice. Mice were genotyped prior to weaning and randomized by stratification keeping equal sample sizes exposed to diets during the same period of time.</p><p class="norm">The <i>Apc</i> locus was genotyped using allele-specific SNP PCR. Briefly mouse tail genomic DNA was extracted using Puregene Core Kit A (part number 1042601). Twenty nanograms of DNA was added to 1 &#x000D7; TaqMan Genotyping Master Mix (Applied Biosystems Part number 4371355) containing the following Custom TaqMan SNP Genotyping Assay primers: forward</p><p class="norm">AHD16ZB_F 5&#x02032;-GGGAAGTTTAGACAGTTCTCGTTCT-3&#x02032; and reverse AHD16ZB_R 5&#x02032;-TAAGCACTGAGGCCAATACCT-3&#x02032; and the minor groove-binder probes AHD16ZB_V VIC dye-5&#x02032;-CTCTCTCCAAACTTCT-3&#x02032;-quencher and AHD16ZB_M FAM dye-5&#x02032;-TCTCTCTCCTAACTTCT-3&#x02032;-quencher. PCR amplification was performed using an Applied Biosystem ViiA 7 Real-Time PCR System: 60<span class="mb"><span class="mb">&thinsp;</span></span>&#x000B0;C for 30<span class="mb"><span class="mb">&thinsp;</span></span>s, 95<span class="mb"><span class="mb">&thinsp;</span></span>&#x000B0;C for 10<span class="mb"><span class="mb">&thinsp;</span></span>min followed by 40 cycles of 92<span class="mb"><span class="mb">&thinsp;</span></span>&#x000B0;C for 15<span class="mb"><span class="mb">&thinsp;</span></span>s and 60<span class="mb"><span class="mb">&thinsp;</span></span>&#x000B0;C for 1<span class="mb"><span class="mb">&thinsp;</span></span>min. The <i>Thbs1</i> locus was genotyped using PCR primers as described.<sup><!--bib68--><a href="#bib68">68</a></sup></p><p class="norm">Mice were pair-fed a low fat (AIN-76A 5<span class="mb">&#x00025;</span> fat) or a 21<span class="mb">&#x00025;</span> high-fat western diet (<span class="mb">&#x00023;</span>D12079B, Research Diets) beginning at weaning. The two diets contained equal percentages of protein by weight in the form of casein and equal contents of vitamin and mineral supplements. Basal 5<span class="mb">&#x00025;</span> fat in both diets was provided by corn oil, and the high-fat diet was supplemented to 21<span class="mb">&#x00025;</span> with anhydrous milk fat. Carbohydrates provided by cornstarch, maltodextrin and sucrose were adjusted to yield similar caloric content (3902<span class="mb"><span class="mb">&thinsp;</span></span>kcal<span class="mb">&#x00025;</span> in AIN76A and 4686<span class="mb"><span class="mb">&thinsp;</span></span>kcal<span class="mb">&#x00025;</span> in D12079B). One set of mice was killed at 12 weeks for metabolic and histologic analyses. Livers were harvested between 1300<span class="mb"><span class="mb">&thinsp;</span></span>hours and 1500<span class="mb"><span class="mb">&thinsp;</span></span>hours to control for circadian changes in metabolism and immediately frozen for metabolomics analysis. Additional groups of mice were maintained on low- or high-fat diets until they reached humane endpoints for survival analysis.</p><h4 class="norm">Liver tissue metabolomics</h4><p class="follows-h4">Livers of pair-fed, 12-week-old mice of the described genotypes were extracted, and weighted and equal amounts of liver tissue were flash frozen and submitted to Metabolon, Inc for extraction and analysis as shown previously.<sup><!--bib21--><a href="#bib21">21</a></sup> Briefly, the liquid chromatography<span class="mb">&#x0002F;</span>mass spectrometry portion of the platform was based on a Waters ACQUITY ultra-performance liquid chromatography and a Thermo Scientific Q-Exactive high resolution<span class="mb">&#x0002F;</span>accurate mass spectrometer interfaced with a heated electrospray ionization (HESI-II) source and Orbitrap mass analyzer operated at 35,000 mass resolution.</p><div class="norm"><!-- . --></div><h4 class="norm">Histology</h4><p class="follows-h4">Small and large intestines were collected from mice at 12 weeks and at the time of death. Tissues were fixed in 10<span class="mb">&#x00025;</span> buffered formalin and subsequently sent for paraffin embedding. Tissues were stained with hematoxylin and eosin to determine the structure and were examined under light microscopy. TUNEL staining was performed as described previously.<sup><!--bib59--><a href="#bib59">59</a></sup> Intestinal lesions were counted blindly by a pathologist from the Laboratory of Pathology at the National Cancer Institute in five fields at a magnification of &#x000D7; 20.</p><div class="norm"><!-- . --></div><h4 class="norm">Statistical analysis</h4><p class="follows-h4">Missing values were assumed to be below the level of detection. Biochemicals that were detected in all the samples from one or more groups, but not in samples from other groups were assumed to be near the lower limit of detection in the groups in which they were not detected. In this case, the lowest detected level of these biochemicals was imputed for samples in which that biochemical was not detected. Following log transformation and imputation with minimum observed values for each compound, data were protein normalized by Bradford protein assay, and both an ANOVA contrast and two-way ANOVA with random effects were used to identify biochemicals that differed significantly between experimental groups. An estimate of the false discovery rate (<i>q</i>-value) was calculated to take into account the multiple comparisons that normally occur in metabolomic-based studies. Application of principal component analysis was used to determine separation of study groups (<i>N</i><span class="mb">&#x0003D;</span>8 WT, TSP1 null, <i>Apc</i><sup><i>Min<span class="mb">&#x0002F;</span><span class="mb">&#x0002B;</span></i></sup>and <i>N</i><span class="mb">&#x0003D;</span>7 <i>Apc</i><sup><i>Min<span class="mb">&#x0002F;</span><span class="mb">&#x0002B;</span></i></sup><i>:Thbs1</i><sup><i>&#x02212;<span class="mb">&#x0002F;</span>&#x02212;</i></sup>). Pathways were assigned for each metabolite, allowing examination of overrepresented pathways. Survival of mice was measured over time and evaluated using log-rank (Mantel&#x02013;Cox test and Grehan&#x02013;Breslow&#x02013;Wilcoxon test, <i>N</i><span class="mb">&#x0003D;</span>14).</p><div class="norm"><!-- . --></div></div>
+				<span class="cleardiv"><!-- --></span>
+				<div id="conflict-of-interest"><a class="backtotop" href="#top">Top<span class="hidden"> of page</span></a><h3>Conflict of interest</h3><p class="norm">The authors declare no conflict of interest.</p></div><div id="References"><a class="backtotop" href="#top">Top<span class="hidden"> of page</span></a><h3>References</h3>
+	<ol class="norm"><li id="bib1"><a name="bib1"><!-- . --></a>Siegel RL, Miller KD, Jemal A. Cancer statistics, 2015. <span class="journal">CA Cancer J Clin</span> 2015; <span class="jnumber">65</span>: 5&#x02013;29.&nbsp;|&nbsp;<a href="http://dx.doi.org/10.3322/caac.21254" class="reftxt" title="">Article</a>&nbsp;|&nbsp;<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?holding=npg&amp;amp;cmd=Retrieve&amp;amp;db=PubMed&amp;amp;list_uids=25559415&amp;amp;dopt=Abstract" class="reftxt" title="Article on PubMed - ">PubMed</a>&nbsp;|&nbsp;<a href="http://links.isiglobalnet2.com/gateway/Gateway.cgi?&amp;amp;GWVersion=2&amp;amp;SrcAuth=Nature&amp;amp;SrcApp=Nature&amp;amp;DestLinkType=FullRecord&amp;amp;KeyUT=000347966900003&amp;amp;DestApp=WOS_CPL" class="reftxt" title="Article on ISI - ">ISI</a>&nbsp;|</li><li id="bib2"><a name="bib2"><!-- . --></a>Pasche B. Familial colorectal cancer: a genetics treasure trove for medical discovery. <span class="journal">JAMA</span> 2008; <span class="jnumber">299</span>: 2564&#x02013;2565.&nbsp;|&nbsp;<a href="http://dx.doi.org/10.1001/jama.299.21.2564" class="reftxt" title="">Article</a>&nbsp;|&nbsp;<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?holding=npg&amp;amp;cmd=Retrieve&amp;amp;db=PubMed&amp;amp;list_uids=18523226&amp;amp;dopt=Abstract" class="reftxt" title="Article on PubMed - ">PubMed</a>&nbsp;|</li><li id="bib3"><a name="bib3"><!-- . --></a>Neal CP, Garcea G, Doucas H, Manson MM, Sutton CD, Dennison AR <i>et al</i>. Molecular prognostic markers in resectable colorectal liver metastases: a systematic review. <span class="journal">Eur J Cancer</span> 2006; <span class="jnumber">42</span>: 1728&#x02013;1743.&nbsp;|&nbsp;<a href="http://dx.doi.org/10.1016/j.ejca.2006.01.056" class="reftxt" title="">Article</a>&nbsp;|&nbsp;<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?holding=npg&amp;amp;cmd=Retrieve&amp;amp;db=PubMed&amp;amp;list_uids=16815701&amp;amp;dopt=Abstract" class="reftxt" title="Article on PubMed - ">PubMed</a>&nbsp;|&nbsp;<a href="http://links.isiglobalnet2.com/gateway/Gateway.cgi?&amp;amp;GWVersion=2&amp;amp;SrcAuth=Nature&amp;amp;SrcApp=Nature&amp;amp;DestLinkType=FullRecord&amp;amp;KeyUT=000240359600017&amp;amp;DestApp=WOS_CPL" class="reftxt" title="Article on ISI - ">ISI</a>&nbsp;|&nbsp;<a href="http://chemport.cas.org/cgi-bin/sdcgi?APP=ftslink&amp;action=reflink&amp;origin=npg&amp;version=1.0&amp;coi=1:CAS:528:DC%2BD28XotFyltL0%3D&amp;pissn={printIssn}&amp;pyear=2016&amp;md5=4d633b800775ab80af44e93aa76d50e8" class="reftxt" title="Article on CAS - ">CAS</a>&nbsp;|</li><li id="bib4"><a name="bib4"><!-- . --></a>Isenberg JS, Martin-Manso G, Maxhimer JB, Roberts DD. Regulation of nitric oxide signalling by thrombospondin 1: implications for anti-angiogenic therapies. <span class="journal">Nat Rev Cancer</span> 2009; <span class="jnumber">9</span>: 182&#x02013;194.&nbsp;|&nbsp;<a href="http://www.nature.com/doifinder/10.1038/nrc2561" class="reftxt" title="Article on Article - ">Article</a>&nbsp;|&nbsp;<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?holding=npg&amp;amp;cmd=Retrieve&amp;amp;db=PubMed&amp;amp;list_uids=19194382&amp;amp;dopt=Abstract" class="reftxt" title="Article on PubMed - ">PubMed</a>&nbsp;|&nbsp;<a href="http://chemport.cas.org/cgi-bin/sdcgi?APP=ftslink&amp;action=reflink&amp;origin=npg&amp;version=1.0&amp;coi=1:CAS:528:DC%2BD1MXhsVCrtLk%3D&amp;pissn={printIssn}&amp;pyear=2016&amp;md5=867b7c99fd0990860c3c5d280a3752da" class="reftxt" title="Article on CAS - ">CAS</a>&nbsp;|</li><li id="bib5"><a name="bib5"><!-- . --></a>Roberts DD, Miller TW, Rogers NM, Yao M, Isenberg JS. The matricellular protein thrombospondin-1 globally regulates cardiovascular function and responses to stress. <span class="journal">Matrix Biol</span> 2012; <span class="jnumber">31</span>: 162&#x02013;169.&nbsp;|&nbsp;<a href="http://dx.doi.org/10.1016/j.matbio.2012.01.005" class="reftxt" title="">Article</a>&nbsp;|&nbsp;<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?holding=npg&amp;amp;cmd=Retrieve&amp;amp;db=PubMed&amp;amp;list_uids=22266027&amp;amp;dopt=Abstract" class="reftxt" title="Article on PubMed - ">PubMed</a>&nbsp;|&nbsp;<a href="http://chemport.cas.org/cgi-bin/sdcgi?APP=ftslink&amp;action=reflink&amp;origin=npg&amp;version=1.0&amp;coi=1:CAS:528:DC%2BC38Xjt1Grt7g%3D&amp;pissn={printIssn}&amp;pyear=2016&amp;md5=c52fa37481e36ac6320aecc52da5c81e" class="reftxt" title="Article on CAS - ">CAS</a>&nbsp;|</li><li id="bib6"><a name="bib6"><!-- . --></a>Soto-Pantoja DR, Kaur S, Roberts DD. CD47 signaling pathways controlling cellular differentiation and responses to stress. <span class="journal">Crit Rev Biochem Mol Biol</span> 2015; <span class="jnumber">50</span>: 212&#x02013;230.&nbsp;|&nbsp;<a href="http://dx.doi.org/10.3109/10409238.2015.1014024" class="reftxt" title="">Article</a>&nbsp;|&nbsp;<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?holding=npg&amp;amp;cmd=Retrieve&amp;amp;db=PubMed&amp;amp;list_uids=25708195&amp;amp;dopt=Abstract" class="reftxt" title="Article on PubMed - ">PubMed</a>&nbsp;|</li><li id="bib7"><a name="bib7"><!-- . --></a>Lawler J, Miao WM, Duquette M, Bouck N, Bronson RT, Hynes RO. Thrombospondin-1 gene expression affects survival and tumor spectrum of p53-deficient mice. <span class="journal">Am J Pathol</span> 2001; <span class="jnumber">159</span>: 1949&#x02013;1956.&nbsp;|&nbsp;<a href="http://dx.doi.org/10.1016/S0002-9440(10)63042-8" class="reftxt" title="">Article</a>&nbsp;|&nbsp;<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?holding=npg&amp;amp;cmd=Retrieve&amp;amp;db=PubMed&amp;amp;list_uids=11696456&amp;amp;dopt=Abstract" class="reftxt" title="Article on PubMed - ">PubMed</a>&nbsp;|&nbsp;<a href="http://links.isiglobalnet2.com/gateway/Gateway.cgi?&amp;amp;GWVersion=2&amp;amp;SrcAuth=Nature&amp;amp;SrcApp=Nature&amp;amp;DestLinkType=FullRecord&amp;amp;KeyUT=000171988000038&amp;amp;DestApp=WOS_CPL" class="reftxt" title="Article on ISI - ">ISI</a>&nbsp;|&nbsp;<a href="http://chemport.cas.org/cgi-bin/sdcgi?APP=ftslink&amp;action=reflink&amp;origin=npg&amp;version=1.0&amp;coi=1:CAS:528:DC%2BD3MXoslaru74%3D&amp;pissn={printIssn}&amp;pyear=2016&amp;md5=c62fd186db0073cead1b73c4a92a0ec0" class="reftxt" title="Article on CAS - ">CAS</a>&nbsp;|</li><li id="bib8"><a name="bib8"><!-- . --></a>Rodriguez-Manzaneque JC, Lane TF, Ortega MA, Hynes RO, Lawler J, Iruela-Arispe ML. Thrombospondin-1 suppresses spontaneous tumor growth and inhibits activation of matrix metalloproteinase-9 and mobilization of vascular endothelial growth factor. <span class="journal">Proc Natl Acad Sci USA</span> 2001; <span class="jnumber">98</span>: 12485&#x02013;12490.&nbsp;|&nbsp;<a href="http://dx.doi.org/10.1073/PNAS.171460498" class="reftxt" title="">Article</a>&nbsp;|&nbsp;<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?holding=npg&amp;amp;cmd=Retrieve&amp;amp;db=PubMed&amp;amp;list_uids=11606713&amp;amp;dopt=Abstract" class="reftxt" title="Article on PubMed - ">PubMed</a>&nbsp;|&nbsp;<a href="http://chemport.cas.org/cgi-bin/sdcgi?APP=ftslink&amp;action=reflink&amp;origin=npg&amp;version=1.0&amp;coi=1:CAS:528:DC%2BD3MXotFaitLg%3D&amp;pissn={printIssn}&amp;pyear=2016&amp;md5=f3d9520f32eed68422c534a403dd0316" class="reftxt" title="Article on CAS - ">CAS</a>&nbsp;|</li><li id="bib9"><a name="bib9"><!-- . --></a>Streit M, Velasco P, Brown LF, Skobe M, Richard L, Riccardi L <i>et al</i>. Overexpression of thrombospondin-1 decreases angiogenesis and inhibits the growth of human cutaneous squamous cell carcinomas. <span class="journal">Am J Pathol</span> 1999; <span class="jnumber">155</span>: 441&#x02013;452.&nbsp;|&nbsp;<a href="http://dx.doi.org/10.1016/S0002-9440(10)65140-1" class="reftxt" title="">Article</a>&nbsp;|&nbsp;<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?holding=npg&amp;amp;cmd=Retrieve&amp;amp;db=PubMed&amp;amp;list_uids=10433937&amp;amp;dopt=Abstract" class="reftxt" title="Article on PubMed - ">PubMed</a>&nbsp;|&nbsp;<a href="http://links.isiglobalnet2.com/gateway/Gateway.cgi?&amp;amp;GWVersion=2&amp;amp;SrcAuth=Nature&amp;amp;SrcApp=Nature&amp;amp;DestLinkType=FullRecord&amp;amp;KeyUT=000081901600014&amp;amp;DestApp=WOS_CPL" class="reftxt" title="Article on ISI - ">ISI</a>&nbsp;|&nbsp;<a href="http://chemport.cas.org/cgi-bin/sdcgi?APP=ftslink&amp;action=reflink&amp;origin=npg&amp;version=1.0&amp;coi=1:CAS:528:DyaK1MXls1Whs7Y%3D&amp;pissn={printIssn}&amp;pyear=2016&amp;md5=6c17ff7db15c8d6c7f6a334dc1fe5f87" class="reftxt" title="Article on CAS - ">CAS</a>&nbsp;|</li><li id="bib10"><a name="bib10"><!-- . --></a>Hawighorst T, Oura H, Streit M, Janes L, Nguyen L, Brown LF <i>et al</i>. Thrombospondin-1 selectively inhibits early-stage carcinogenesis and angiogenesis but not tumor lymphangiogenesis and lymphatic metastasis in transgenic mice. <span class="journal">Oncogene</span> 2002; <span class="jnumber">21</span>: 7945&#x02013;7956.&nbsp;|&nbsp;<a href="http://www.nature.com/doifinder/10.1038/sj.onc.1205956" class="reftxt" title="Article on Article - ">Article</a>&nbsp;|&nbsp;<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?holding=npg&amp;amp;cmd=Retrieve&amp;amp;db=PubMed&amp;amp;list_uids=12439745&amp;amp;dopt=Abstract" class="reftxt" title="Article on PubMed - ">PubMed</a>&nbsp;|&nbsp;<a href="http://chemport.cas.org/cgi-bin/sdcgi?APP=ftslink&amp;action=reflink&amp;origin=npg&amp;version=1.0&amp;coi=1:CAS:528:DC%2BD38XoslGlsb8%3D&amp;pissn={printIssn}&amp;pyear=2016&amp;md5=1088e5fa22dfd5ada206c303ee3bf9ae" class="reftxt" title="Article on CAS - ">CAS</a>&nbsp;|</li><li id="bib11"><a name="bib11"><!-- . --></a>Xie L, Duncan MB, Pahler J, Sugimoto H, Martino M, Lively J <i>et al</i>. Counterbalancing angiogenic regulatory factors control the rate of cancer progression and survival in a stage-specific manner. <span class="journal">Proc Natl Acad Sci USA</span> 2011; <span class="jnumber">108</span>: 9939&#x02013;9944.&nbsp;|&nbsp;<a href="http://dx.doi.org/10.1073/pnas.1105041108" class="reftxt" title="">Article</a>&nbsp;|&nbsp;<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?holding=npg&amp;amp;cmd=Retrieve&amp;amp;db=PubMed&amp;amp;list_uids=21622854&amp;amp;dopt=Abstract" class="reftxt" title="Article on PubMed - ">PubMed</a>&nbsp;|</li><li id="bib12"><a name="bib12"><!-- . --></a>Young M, Ordonez L, Clarke AR. What are the best routes to effectively model human colorectal cancer? <span class="journal">Mol Oncol</span> 2013; <span class="jnumber">7</span>: 178&#x02013;189.&nbsp;|&nbsp;<a href="http://dx.doi.org/10.1016/j.molonc.2013.02.006" class="reftxt" title="">Article</a>&nbsp;|&nbsp;<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?holding=npg&amp;amp;cmd=Retrieve&amp;amp;db=PubMed&amp;amp;list_uids=23465602&amp;amp;dopt=Abstract" class="reftxt" title="Article on PubMed - ">PubMed</a>&nbsp;|</li><li id="bib13"><a name="bib13"><!-- . --></a>Yamada Y, Mori H. Multistep carcinogenesis of the colon in Apc(Min<span class="mb">&#x0002F;</span><span class="mb">&#x0002B;</span>) mouse. <span class="journal">Cancer Sc</span> 2007; <span class="jnumber">98</span>: 6&#x02013;10.&nbsp;|&nbsp;<a href="http://dx.doi.org/10.1111/j.1349-7006.2006.00348.x" class="reftxt" title="">Article</a>&nbsp;|</li><li id="bib14"><a name="bib14"><!-- . --></a>Johnson RL, Fleet JC. Animal models of colorectal cancer. <span class="journal">Cancer Metastasis Rev</span> 2013; <span class="jnumber">32</span>: 39&#x02013;61.&nbsp;|&nbsp;<a href="http://dx.doi.org/10.1007/s10555-012-9404-6" class="reftxt" title="">Article</a>&nbsp;|&nbsp;<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?holding=npg&amp;amp;cmd=Retrieve&amp;amp;db=PubMed&amp;amp;list_uids=23076650&amp;amp;dopt=Abstract" class="reftxt" title="Article on PubMed - ">PubMed</a>&nbsp;|</li><li id="bib15"><a name="bib15"><!-- . --></a>Gutierrez LS, Suckow M, Lawler J, Ploplis VA, Castellino FJ. Thrombospondin 1&#x02014;a regulator of adenoma growth and carcinoma progression in the APC(Min<span class="mb">&#x0002F;</span><span class="mb">&#x0002B;</span>) mouse model. <span class="journal">Carcinogenesis</span> 2003; <span class="jnumber">24</span>: 199&#x02013;207.&nbsp;|&nbsp;<a href="http://dx.doi.org/10.1093/carcin/24.2.199" class="reftxt" title="">Article</a>&nbsp;|&nbsp;<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?holding=npg&amp;amp;cmd=Retrieve&amp;amp;db=PubMed&amp;amp;list_uids=12584168&amp;amp;dopt=Abstract" class="reftxt" title="Article on PubMed - ">PubMed</a>&nbsp;|</li><li id="bib16"><a name="bib16"><!-- . --></a>Varma V, Yao-Borengasser A, Bodles AM, Rasouli N, Phanavanh B, Nolen GT <i>et al</i>. Thrombospondin-1 is an adipokine associated with obesity, adipose inflammation, and insulin resistance. <span class="journal">Diabetes</span> 2008; <span class="jnumber">57</span>: 432&#x02013;439.&nbsp;|&nbsp;<a href="http://dx.doi.org/10.2337/db07-0840" class="reftxt" title="">Article</a>&nbsp;|&nbsp;<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?holding=npg&amp;amp;cmd=Retrieve&amp;amp;db=PubMed&amp;amp;list_uids=18057090&amp;amp;dopt=Abstract" class="reftxt" title="Article on PubMed - ">PubMed</a>&nbsp;|&nbsp;<a href="http://links.isiglobalnet2.com/gateway/Gateway.cgi?&amp;amp;GWVersion=2&amp;amp;SrcAuth=Nature&amp;amp;SrcApp=Nature&amp;amp;DestLinkType=FullRecord&amp;amp;KeyUT=000252914400019&amp;amp;DestApp=WOS_CPL" class="reftxt" title="Article on ISI - ">ISI</a>&nbsp;|&nbsp;<a href="http://chemport.cas.org/cgi-bin/sdcgi?APP=ftslink&amp;action=reflink&amp;origin=npg&amp;version=1.0&amp;coi=1:CAS:528:DC%2BD1cXhvVOkt7k%3D&amp;pissn={printIssn}&amp;pyear=2016&amp;md5=684aea4144516f3c825558430ba0c5e9" class="reftxt" title="Article on CAS - ">CAS</a>&nbsp;|</li><li id="bib17"><a name="bib17"><!-- . --></a>Kong P, Gonzalez-Quesada C, Li N, Cavalera M, Lee DW, Frangogiannis NG. Thrombospondin-1 regulates adiposity and metabolic dysfunction in diet-induced obesity enhancing adipose inflammation and stimulating adipocyte proliferation. <span class="journal">Am J Physiol Endocrinol Metab</span> 2013; <span class="jnumber">305</span>: E439&#x02013;E450.&nbsp;|&nbsp;<a href="http://dx.doi.org/10.1152/ajpendo.00006.2013" class="reftxt" title="">Article</a>&nbsp;|&nbsp;<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?holding=npg&amp;amp;cmd=Retrieve&amp;amp;db=PubMed&amp;amp;list_uids=23757408&amp;amp;dopt=Abstract" class="reftxt" title="Article on PubMed - ">PubMed</a>&nbsp;|&nbsp;<a href="http://chemport.cas.org/cgi-bin/sdcgi?APP=ftslink&amp;action=reflink&amp;origin=npg&amp;version=1.0&amp;coi=1:CAS:528:DC%2BC3sXhsVSqurrO&amp;pissn={printIssn}&amp;pyear=2016&amp;md5=4d30496e71dc6442a6a58dc563847297" class="reftxt" title="Article on CAS - ">CAS</a>&nbsp;|</li><li id="bib18"><a name="bib18"><!-- . --></a>Cui W, Maimaitiyiming H, Qi X, Norman H, Wang S. Thrombospondin 1 mediates renal dysfunction in a mouse model of high-fat diet-induced obesity. <span class="journal">Am J Physiol Renal Physiol</span> 2013; <span class="jnumber">305</span>: F871&#x02013;F880.&nbsp;|&nbsp;<a href="http://dx.doi.org/10.1152/ajprenal.00209.2013" class="reftxt" title="">Article</a>&nbsp;|&nbsp;<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?holding=npg&amp;amp;cmd=Retrieve&amp;amp;db=PubMed&amp;amp;list_uids=23863467&amp;amp;dopt=Abstract" class="reftxt" title="Article on PubMed - ">PubMed</a>&nbsp;|</li><li id="bib19"><a name="bib19"><!-- . --></a>Inoue M, Jiang Y, Barnes RH2nd, Tokunaga M, Martinez-Santibanez G, Geletka L <i>et al</i>. Thrombospondin 1 mediates high-fat diet-induced muscle fibrosis and insulin resistance in male mice. <span class="journal">Endocrinology</span> 2013; <span class="jnumber">154</span>: 4548&#x02013;4559.&nbsp;|&nbsp;<a href="http://dx.doi.org/10.1210/en.2013-1587" class="reftxt" title="">Article</a>&nbsp;|&nbsp;<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?holding=npg&amp;amp;cmd=Retrieve&amp;amp;db=PubMed&amp;amp;list_uids=24140711&amp;amp;dopt=Abstract" class="reftxt" title="Article on PubMed - ">PubMed</a>&nbsp;|&nbsp;<a href="http://links.isiglobalnet2.com/gateway/Gateway.cgi?&amp;amp;GWVersion=2&amp;amp;SrcAuth=Nature&amp;amp;SrcApp=Nature&amp;amp;DestLinkType=FullRecord&amp;amp;KeyUT=000327545200012&amp;amp;DestApp=WOS_CPL" class="reftxt" title="Article on ISI - ">ISI</a>&nbsp;|&nbsp;<a href="http://chemport.cas.org/cgi-bin/sdcgi?APP=ftslink&amp;action=reflink&amp;origin=npg&amp;version=1.0&amp;coi=1:CAS:528:DC%2BC3sXhvV2it7bO&amp;pissn={printIssn}&amp;pyear=2016&amp;md5=34bb5688a4d5766c0b26dbfbf1e6d6e3" class="reftxt" title="Article on CAS - ">CAS</a>&nbsp;|</li><li id="bib20"><a name="bib20"><!-- . --></a>Maimaitiyiming H, Norman H, Zhou Q, Wang S. CD47 deficiency protects mice from diet-induced obesity and improves whole body glucose tolerance and insulin sensitivity. <span class="journal">Sci Rep</span> 2015; <span class="jnumber">5</span>: 8846.&nbsp;|&nbsp;<a href="http://dx.doi.org/10.1038/srep08846" class="reftxt" title="">Article</a>&nbsp;|&nbsp;<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?holding=npg&amp;amp;cmd=Retrieve&amp;amp;db=PubMed&amp;amp;list_uids=25747123&amp;amp;dopt=Abstract" class="reftxt" title="Article on PubMed - ">PubMed</a>&nbsp;|&nbsp;<a href="http://chemport.cas.org/cgi-bin/sdcgi?APP=ftslink&amp;action=reflink&amp;origin=npg&amp;version=1.0&amp;coi=1:CAS:528:DC%2BC2MXosVCktLw%3D&amp;pissn={printIssn}&amp;pyear=2016&amp;md5=4f0a905b0106ff44bf804057b17f5b11" class="reftxt" title="Article on CAS - ">CAS</a>&nbsp;|</li><li id="bib21"><a name="bib21"><!-- . --></a>Miller TW, Soto-Pantoja DR, Schwartz AL, Sipes JM, DeGraff WG, Ridnour LA <i>et al</i>. CD47 globally regulates metabolic pathways that control resistance to ionizing radiation. <span class="journal">J Biol Chem</span> 2015; <span class="jnumber">290</span>: 24858&#x02013;24874.&nbsp;|&nbsp;<a href="http://dx.doi.org/10.1074/jbc.M115.665752" class="reftxt" title="">Article</a>&nbsp;|&nbsp;<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?holding=npg&amp;amp;cmd=Retrieve&amp;amp;db=PubMed&amp;amp;list_uids=26311851&amp;amp;dopt=Abstract" class="reftxt" title="Article on PubMed - ">PubMed</a>&nbsp;|&nbsp;<a href="http://chemport.cas.org/cgi-bin/sdcgi?APP=ftslink&amp;action=reflink&amp;origin=npg&amp;version=1.0&amp;coi=1:CAS:528:DC%2BC2MXhs1ersL%2FJ&amp;pissn={printIssn}&amp;pyear=2016&amp;md5=eae0a5d797f94269f9e9f448cb81144a" class="reftxt" title="Article on CAS - ">CAS</a>&nbsp;|</li><li id="bib22"><a name="bib22"><!-- . --></a>Wall KL, Gao WS, te Koppele JM, Kwei GY, Kauffman FC, Thurman RG. The liver plays a central role in the mechanism of chemical carcinogenesis due to polycyclic aromatic hydrocarbons. <span class="journal">Carcinogenesis</span> 1991; <span class="jnumber">12</span>: 783&#x02013;786.&nbsp;|&nbsp;<a href="http://dx.doi.org/10.1093/carcin/12.5.783" class="reftxt" title="">Article</a>&nbsp;|&nbsp;<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?holding=npg&amp;amp;cmd=Retrieve&amp;amp;db=PubMed&amp;amp;list_uids=2029742&amp;amp;dopt=Abstract" class="reftxt" title="Article on PubMed - ">PubMed</a>&nbsp;|</li><li id="bib23"><a name="bib23"><!-- . --></a>Chou HC, Ozawa S, Fu PP, Lang NP, Kadlubar FF. Metabolic activation of methyl-hydroxylated derivatives of 7,12-dimethylbenz<span class="mb">&#x0005B;</span>a<span class="mb">&#x0005D;</span>anthracene by human liver dehydroepiandrosterone-steroid sulfotransferase. <span class="journal">Carcinogenesis</span> 1998; <span class="jnumber">19</span>: 1071&#x02013;1076.&nbsp;|&nbsp;<a href="http://dx.doi.org/10.1093/carcin/19.6.1071" class="reftxt" title="">Article</a>&nbsp;|&nbsp;<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?holding=npg&amp;amp;cmd=Retrieve&amp;amp;db=PubMed&amp;amp;list_uids=9667746&amp;amp;dopt=Abstract" class="reftxt" title="Article on PubMed - ">PubMed</a>&nbsp;|</li><li id="bib24"><a name="bib24"><!-- . --></a>Park H, Kim M, Kwon GT, Lim do Y, Yu R, Sung MK <i>et al</i>. A high-fat diet increases angiogenesis, solid tumor growth, and lung metastasis of CT26 colon cancer cells in obesity-resistant BALB<span class="mb">&#x0002F;</span>c mice. <span class="journal">Mol Carcinog</span> 2012; <span class="jnumber">51</span>: 869&#x02013;880.&nbsp;|&nbsp;<a href="http://dx.doi.org/10.1002/mc.20856" class="reftxt" title="">Article</a>&nbsp;|&nbsp;<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?holding=npg&amp;amp;cmd=Retrieve&amp;amp;db=PubMed&amp;amp;list_uids=21919080&amp;amp;dopt=Abstract" class="reftxt" title="Article on PubMed - ">PubMed</a>&nbsp;|</li><li id="bib25"><a name="bib25"><!-- . --></a>Zak S, Treven J, Nash N, Gutierrez LS. Lack of thrombospondin-1 increases angiogenesis in a model of chronic inflammatory bowel disease. <span class="journal">Int J Colorectal Dis</span> 2008; <span class="jnumber">23</span>: 297&#x02013;304.&nbsp;|&nbsp;<a href="http://dx.doi.org/10.1007/s00384-007-0397-5" class="reftxt" title="">Article</a>&nbsp;|&nbsp;<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?holding=npg&amp;amp;cmd=Retrieve&amp;amp;db=PubMed&amp;amp;list_uids=18043928&amp;amp;dopt=Abstract" class="reftxt" title="Article on PubMed - ">PubMed</a>&nbsp;|</li><li id="bib26"><a name="bib26"><!-- . --></a>Punekar S, Zak S, Kalter VG, Dobransky L, Punekar I, Lawler JW <i>et al</i>. Thrombospondin 1 and its mimetic peptide ABT-510 decrease angiogenesis and inflammation in a murine model of inflammatory bowel disease. <span class="journal">Pathobiology</span> 2008; <span class="jnumber">75</span>: 9&#x02013;21.&nbsp;|&nbsp;<a href="http://dx.doi.org/10.1159/000113790" class="reftxt" title="">Article</a>&nbsp;|&nbsp;<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?holding=npg&amp;amp;cmd=Retrieve&amp;amp;db=PubMed&amp;amp;list_uids=18334835&amp;amp;dopt=Abstract" class="reftxt" title="Article on PubMed - ">PubMed</a>&nbsp;|&nbsp;<a href="http://chemport.cas.org/cgi-bin/sdcgi?APP=ftslink&amp;action=reflink&amp;origin=npg&amp;version=1.0&amp;coi=1:CAS:528:DC%2BD1cXjtVKrtLo%3D&amp;pissn={printIssn}&amp;pyear=2016&amp;md5=eb13de1fb1daf3399436482f7f9b81de" class="reftxt" title="Article on CAS - ">CAS</a>&nbsp;|</li><li id="bib27"><a name="bib27"><!-- . --></a>Li Y, Tong X, Rumala C, Clemons K, Wang S. Thrombospondin1 deficiency reduces obesity-associated inflammation and improves insulin sensitivity in a diet-induced obese mouse model. <span class="journal">PLoS ONE</span> 2011; <span class="jnumber">6</span>: e26656.&nbsp;|&nbsp;<a href="http://dx.doi.org/10.1371/journal.pone.0026656" class="reftxt" title="">Article</a>&nbsp;|&nbsp;<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?holding=npg&amp;amp;cmd=Retrieve&amp;amp;db=PubMed&amp;amp;list_uids=22039525&amp;amp;dopt=Abstract" class="reftxt" title="Article on PubMed - ">PubMed</a>&nbsp;|&nbsp;<a href="http://chemport.cas.org/cgi-bin/sdcgi?APP=ftslink&amp;action=reflink&amp;origin=npg&amp;version=1.0&amp;coi=1:CAS:528:DC%2BC3MXhsVKis7zK&amp;pissn={printIssn}&amp;pyear=2016&amp;md5=59ece72f18a3ac0f25405fa3402f3be6" class="reftxt" title="Article on CAS - ">CAS</a>&nbsp;|</li><li id="bib28"><a name="bib28"><!-- . --></a>Yoshie T, Nishiumi S, Izumi Y, Sakai A, Inoue J, Azuma T <i>et al</i>. Regulation of the metabolite profile by an APC gene mutation in colorectal cancer. <span class="journal">Cancer Sci</span> 2012; <span class="jnumber">103</span>: 1010&#x02013;1021.&nbsp;|&nbsp;<a href="http://dx.doi.org/10.1111/j.1349-7006.2012.02262.x" class="reftxt" title="">Article</a>&nbsp;|&nbsp;<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?holding=npg&amp;amp;cmd=Retrieve&amp;amp;db=PubMed&amp;amp;list_uids=22380946&amp;amp;dopt=Abstract" class="reftxt" title="Article on PubMed - ">PubMed</a>&nbsp;|</li><li id="bib29"><a name="bib29"><!-- . --></a>Dazard JE, Sandlers Y, Doerner SK, Berger NA, Brunengraber H. Metabolomics of Apc<sup>Min<span class="mb">&#x0002F;</span><span class="mb">&#x0002B;</span></sup> mice genetically susceptible to intestinal cancer. <span class="journal">BMC Syst Biol</span> 2014; <span class="jnumber">8</span>: 72.&nbsp;|&nbsp;<a href="http://dx.doi.org/10.1186/1752-0509-8-72" class="reftxt" title="">Article</a>&nbsp;|&nbsp;<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?holding=npg&amp;amp;cmd=Retrieve&amp;amp;db=PubMed&amp;amp;list_uids=24954394&amp;amp;dopt=Abstract" class="reftxt" title="Article on PubMed - ">PubMed</a>&nbsp;|</li><li id="bib30"><a name="bib30"><!-- . --></a>Wang H, Tso V, Wong C, Sadowski D, Fedorak RN. Development and validation of a highly sensitive urine-based test to identify patients with colonic adenomatous polyps. <span class="journal">Clin Transl Gastroenterol</span> 2014; <span class="jnumber">5</span>: e54.&nbsp;|&nbsp;<a href="http://dx.doi.org/10.1038/ctg.2014.2" class="reftxt" title="">Article</a>&nbsp;|&nbsp;<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?holding=npg&amp;amp;cmd=Retrieve&amp;amp;db=PubMed&amp;amp;list_uids=24646506&amp;amp;dopt=Abstract" class="reftxt" title="Article on PubMed - ">PubMed</a>&nbsp;|</li><li id="bib31"><a name="bib31"><!-- . --></a>Brevik A, Veierod MB, Drevon CA, Andersen LF. Evaluation of the odd fatty acids 15:0 and 17:0 in serum and adipose tissue as markers of intake of milk and dairy fat. <span class="journal">Eur J Clin Nutr</span> 2005; <span class="jnumber">59</span>: 1417&#x02013;1422.&nbsp;|&nbsp;<a href="http://www.nature.com/doifinder/10.1038/sj.ejcn.1602256" class="reftxt" title="Article on Article - ">Article</a>&nbsp;|&nbsp;<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?holding=npg&amp;amp;cmd=Retrieve&amp;amp;db=PubMed&amp;amp;list_uids=16118654&amp;amp;dopt=Abstract" class="reftxt" title="Article on PubMed - ">PubMed</a>&nbsp;|&nbsp;<a href="http://links.isiglobalnet2.com/gateway/Gateway.cgi?&amp;amp;GWVersion=2&amp;amp;SrcAuth=Nature&amp;amp;SrcApp=Nature&amp;amp;DestLinkType=FullRecord&amp;amp;KeyUT=000233658000010&amp;amp;DestApp=WOS_CPL" class="reftxt" title="Article on ISI - ">ISI</a>&nbsp;|&nbsp;<a href="http://chemport.cas.org/cgi-bin/sdcgi?APP=ftslink&amp;action=reflink&amp;origin=npg&amp;version=1.0&amp;coi=1:CAS:528:DC%2BD2MXht1Gqs7fM&amp;pissn={printIssn}&amp;pyear=2016&amp;md5=687754daa1ff991868b673f0f2c051b1" class="reftxt" title="Article on CAS - ">CAS</a>&nbsp;|</li><li id="bib32"><a name="bib32"><!-- . --></a>Ma Y, Zhang P, Wang F, Liu W, Yang J, Qin H. An integrated proteomics and metabolomics approach for defining oncofetal biomarkers in the colorectal cancer. <span class="journal">Ann Surg</span> 2012; <span class="jnumber">255</span>: 720&#x02013;730.&nbsp;|&nbsp;<a href="http://dx.doi.org/10.1097/SLA.0b013e31824a9a8b" class="reftxt" title="">Article</a>&nbsp;|&nbsp;<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?holding=npg&amp;amp;cmd=Retrieve&amp;amp;db=PubMed&amp;amp;list_uids=22395091&amp;amp;dopt=Abstract" class="reftxt" title="Article on PubMed - ">PubMed</a>&nbsp;|</li><li id="bib33"><a name="bib33"><!-- . --></a>Sanchez-Espiridion B, Liang D, Ajani JA, Liang S, Ye Y, Hildebrandt MT <i>et al</i>. Identification of serum markers of esophageal adenocarcinoma by global and targeted metabolic profiling. <span class="journal">Clin Gastroenterol Hepatol</span> 2015; <span class="jnumber">13</span>: 1730&#x02013;1737.e9.&nbsp;|&nbsp;<a href="http://dx.doi.org/10.1016/j.cgh.2015.05.023" class="reftxt" title="">Article</a>&nbsp;|&nbsp;<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?holding=npg&amp;amp;cmd=Retrieve&amp;amp;db=PubMed&amp;amp;list_uids=25998788&amp;amp;dopt=Abstract" class="reftxt" title="Article on PubMed - ">PubMed</a>&nbsp;|</li><li id="bib34"><a name="bib34"><!-- . --></a>Chen LC, Hao CY, Chiu YS, Wong P, Melnick JS, Brotman M <i>et al</i>. Alteration of gene expression in normal-appearing colon mucosa of APC(min) mice and human cancer patients. <span class="journal">Cancer Res</span> 2004; <span class="jnumber">64</span>: 3694&#x02013;3700.&nbsp;|&nbsp;<a href="http://dx.doi.org/10.1158/0008-5472.CAN-03-3264" class="reftxt" title="">Article</a>&nbsp;|&nbsp;<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?holding=npg&amp;amp;cmd=Retrieve&amp;amp;db=PubMed&amp;amp;list_uids=15150130&amp;amp;dopt=Abstract" class="reftxt" title="Article on PubMed - ">PubMed</a>&nbsp;|&nbsp;<a href="http://links.isiglobalnet2.com/gateway/Gateway.cgi?&amp;amp;GWVersion=2&amp;amp;SrcAuth=Nature&amp;amp;SrcApp=Nature&amp;amp;DestLinkType=FullRecord&amp;amp;KeyUT=000221419100047&amp;amp;DestApp=WOS_CPL" class="reftxt" title="Article on ISI - ">ISI</a>&nbsp;|&nbsp;<a href="http://chemport.cas.org/cgi-bin/sdcgi?APP=ftslink&amp;action=reflink&amp;origin=npg&amp;version=1.0&amp;coi=1:CAS:528:DC%2BD2cXktVWht7o%3D&amp;pissn={printIssn}&amp;pyear=2016&amp;md5=11b57455b9e7708209849bbe171ad9d3" class="reftxt" title="Article on CAS - ">CAS</a>&nbsp;|</li><li id="bib35"><a name="bib35"><!-- . --></a>Hull MA, Faluyi OO, Ko CW, Holwell S, Scott DJ, Cuthbert RJ <i>et al</i>. Regulation of stromal cell cyclooxygenase-2 in the Apc<sup>Min<span class="mb">&#x0002F;</span><span class="mb">&#x0002B;</span></sup> mouse model of intestinal tumorigenesis. <span class="journal">Carcinogenesis</span> 2006; <span class="jnumber">27</span>: 382&#x02013;391.&nbsp;|&nbsp;<a href="http://dx.doi.org/10.1093/carcin/bgi236" class="reftxt" title="">Article</a>&nbsp;|&nbsp;<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?holding=npg&amp;amp;cmd=Retrieve&amp;amp;db=PubMed&amp;amp;list_uids=16219637&amp;amp;dopt=Abstract" class="reftxt" title="Article on PubMed - ">PubMed</a>&nbsp;|&nbsp;<a href="http://links.isiglobalnet2.com/gateway/Gateway.cgi?&amp;amp;GWVersion=2&amp;amp;SrcAuth=Nature&amp;amp;SrcApp=Nature&amp;amp;DestLinkType=FullRecord&amp;amp;KeyUT=000235771300003&amp;amp;DestApp=WOS_CPL" class="reftxt" title="Article on ISI - ">ISI</a>&nbsp;|</li><li id="bib36"><a name="bib36"><!-- . --></a>Phelps RA, Broadbent TJ, Stafforini DM, Jones DA. New perspectives on APC control of cell fate and proliferation in colorectal cancer. <span class="journal">Cell Cycle</span> 2009; <span class="jnumber">8</span>: 2549&#x02013;2556.&nbsp;|&nbsp;<a href="http://dx.doi.org/10.4161/cc.8.16.9278" class="reftxt" title="">Article</a>&nbsp;|&nbsp;<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?holding=npg&amp;amp;cmd=Retrieve&amp;amp;db=PubMed&amp;amp;list_uids=19597346&amp;amp;dopt=Abstract" class="reftxt" title="Article on PubMed - ">PubMed</a>&nbsp;|&nbsp;<a href="http://links.isiglobalnet2.com/gateway/Gateway.cgi?&amp;amp;GWVersion=2&amp;amp;SrcAuth=Nature&amp;amp;SrcApp=Nature&amp;amp;DestLinkType=FullRecord&amp;amp;KeyUT=000268983900020&amp;amp;DestApp=WOS_CPL" class="reftxt" title="Article on ISI - ">ISI</a>&nbsp;|</li><li id="bib37"><a name="bib37"><!-- . --></a>Sennlaub F, Valamanesh F, Vazquez-Tello A, El-Asrar AM, Checchin D, Brault S <i>et al</i>. Cyclooxygenase-2 in human and experimental ischemic proliferative retinopathy. <span class="journal">Circulation</span> 2003; <span class="jnumber">108</span>: 198&#x02013;204.&nbsp;|&nbsp;<a href="http://dx.doi.org/10.1161/01.CIR.0000080735.93327.00" class="reftxt" title="">Article</a>&nbsp;|&nbsp;<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?holding=npg&amp;amp;cmd=Retrieve&amp;amp;db=PubMed&amp;amp;list_uids=12821538&amp;amp;dopt=Abstract" class="reftxt" title="Article on PubMed - ">PubMed</a>&nbsp;|&nbsp;<a href="http://links.isiglobalnet2.com/gateway/Gateway.cgi?&amp;amp;GWVersion=2&amp;amp;SrcAuth=Nature&amp;amp;SrcApp=Nature&amp;amp;DestLinkType=FullRecord&amp;amp;KeyUT=000184152900017&amp;amp;DestApp=WOS_CPL" class="reftxt" title="Article on ISI - ">ISI</a>&nbsp;|&nbsp;<a href="http://chemport.cas.org/cgi-bin/sdcgi?APP=ftslink&amp;action=reflink&amp;origin=npg&amp;version=1.0&amp;coi=1:CAS:528:DC%2BD3sXotFaht7Y%3D&amp;pissn={printIssn}&amp;pyear=2016&amp;md5=a56377f1a27778ab3f9ae007a29cc102" class="reftxt" title="Article on CAS - ">CAS</a>&nbsp;|</li><li id="bib38"><a name="bib38"><!-- . --></a>Doyen V, Rubio M, Braun D, Nakajima T, Abe J, Saito H <i>et al</i>. Thrombospondin 1 is an autocrine negative regulator of human dendritic cell activation. <span class="journal">J Exp Med</span> 2003; <span class="jnumber">198</span>: 1277&#x02013;1283.&nbsp;|&nbsp;<a href="http://dx.doi.org/10.1084/jem.20030705" class="reftxt" title="">Article</a>&nbsp;|&nbsp;<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?holding=npg&amp;amp;cmd=Retrieve&amp;amp;db=PubMed&amp;amp;list_uids=14568985&amp;amp;dopt=Abstract" class="reftxt" title="Article on PubMed - ">PubMed</a>&nbsp;|&nbsp;<a href="http://links.isiglobalnet2.com/gateway/Gateway.cgi?&amp;amp;GWVersion=2&amp;amp;SrcAuth=Nature&amp;amp;SrcApp=Nature&amp;amp;DestLinkType=FullRecord&amp;amp;KeyUT=000186153400015&amp;amp;DestApp=WOS_CPL" class="reftxt" title="Article on ISI - ">ISI</a>&nbsp;|&nbsp;<a href="http://chemport.cas.org/cgi-bin/sdcgi?APP=ftslink&amp;action=reflink&amp;origin=npg&amp;version=1.0&amp;coi=1:CAS:528:DC%2BD3sXosVGqtLo%3D&amp;pissn={printIssn}&amp;pyear=2016&amp;md5=b2aeb522c03a10832fea5ddfe26a41e7" class="reftxt" title="Article on CAS - ">CAS</a>&nbsp;|</li><li id="bib39"><a name="bib39"><!-- . --></a>Zhao Y, Xiong Z, Lechner EJ, Klenotic PA, Hamburg BJ, Hulver M <i>et al</i>. Thrombospondin-1 triggers macrophage IL-10 production and promotes resolution of experimental lung injury. <span class="journal">Mucosal Immunol</span> 2014; <span class="jnumber">7</span>: 440&#x02013;448.&nbsp;|&nbsp;<a href="http://www.nature.com/doifinder/10.1038/mi.2013.63" class="reftxt" title="Article on Article - ">Article</a>&nbsp;|&nbsp;<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?holding=npg&amp;amp;cmd=Retrieve&amp;amp;db=PubMed&amp;amp;list_uids=24045574&amp;amp;dopt=Abstract" class="reftxt" title="Article on PubMed - ">PubMed</a>&nbsp;|&nbsp;<a href="http://links.isiglobalnet2.com/gateway/Gateway.cgi?&amp;amp;GWVersion=2&amp;amp;SrcAuth=Nature&amp;amp;SrcApp=Nature&amp;amp;DestLinkType=FullRecord&amp;amp;KeyUT=000331948300023&amp;amp;DestApp=WOS_CPL" class="reftxt" title="Article on ISI - ">ISI</a>&nbsp;|&nbsp;<a href="http://chemport.cas.org/cgi-bin/sdcgi?APP=ftslink&amp;action=reflink&amp;origin=npg&amp;version=1.0&amp;coi=1:CAS:528:DC%2BC3sXhsVKgtb7M&amp;pissn={printIssn}&amp;pyear=2016&amp;md5=2c04b89e755f5b24ea44a62b0c0be25c" class="reftxt" title="Article on CAS - ">CAS</a>&nbsp;|</li><li id="bib40"><a name="bib40"><!-- . --></a>Wozniacka A, Wieczorkowska M, Gebicki J, Sysa-Jedrzejowska A. Topical application of 1-methylnicotinamide in the treatment of rosacea: a pilot study. <span class="journal">Clin Exp Dermatol</span> 2005; <span class="jnumber">30</span>: 632&#x02013;635.&nbsp;|&nbsp;<a href="http://dx.doi.org/10.1111/j.1365-2230.2005.01908.x" class="reftxt" title="">Article</a>&nbsp;|&nbsp;<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?holding=npg&amp;amp;cmd=Retrieve&amp;amp;db=PubMed&amp;amp;list_uids=16197374&amp;amp;dopt=Abstract" class="reftxt" title="Article on PubMed - ">PubMed</a>&nbsp;|&nbsp;<a href="http://links.isiglobalnet2.com/gateway/Gateway.cgi?&amp;amp;GWVersion=2&amp;amp;SrcAuth=Nature&amp;amp;SrcApp=Nature&amp;amp;DestLinkType=FullRecord&amp;amp;KeyUT=000232240400004&amp;amp;DestApp=WOS_CPL" class="reftxt" title="Article on ISI - ">ISI</a>&nbsp;|&nbsp;<a href="http://chemport.cas.org/cgi-bin/sdcgi?APP=ftslink&amp;action=reflink&amp;origin=npg&amp;version=1.0&amp;coi=1:STN:280:DC%2BD2MritlKnsw%3D%3D&amp;pissn={printIssn}&amp;pyear=2016&amp;md5=670b898ea6bcc453d4e347d0849a6285" class="reftxt" title="Article on CAS - ">CAS</a>&nbsp;|</li><li id="bib41"><a name="bib41"><!-- . --></a>Chlopicki S, Swies J, Mogielnicki A, Buczko W, Bartus M, Lomnicka M <i>et al</i>. 1-Methylnicotinamide (MNA), a primary metabolite of nicotinamide, exerts anti-thrombotic activity mediated by a cyclooxygenase-2<span class="mb">&#x0002F;</span>prostacyclin pathway. <span class="journal">Br J Pharmacol</span> 2007; <span class="jnumber">152</span>: 230&#x02013;239.&nbsp;|&nbsp;<a href="http://dx.doi.org/10.1038/sj.bjp.0707383" class="reftxt" title="">Article</a>&nbsp;|&nbsp;<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?holding=npg&amp;amp;cmd=Retrieve&amp;amp;db=PubMed&amp;amp;list_uids=17641676&amp;amp;dopt=Abstract" class="reftxt" title="Article on PubMed - ">PubMed</a>&nbsp;|&nbsp;<a href="http://chemport.cas.org/cgi-bin/sdcgi?APP=ftslink&amp;action=reflink&amp;origin=npg&amp;version=1.0&amp;coi=1:CAS:528:DC%2BD2sXhtVWhsLzI&amp;pissn={printIssn}&amp;pyear=2016&amp;md5=edf9023933a4439a4013c9ce3e0e5eaa" class="reftxt" title="Article on CAS - ">CAS</a>&nbsp;|</li><li id="bib42"><a name="bib42"><!-- . --></a>Kraus D, Yang Q, Kong D, Banks AS, Zhang L, Rodgers JT <i>et al</i>. Nicotinamide N-methyltransferase knockdown protects against diet-induced obesity. <span class="journal">Nature</span> 2014; <span class="jnumber">508</span>: 258&#x02013;262.&nbsp;|&nbsp;<a href="http://www.nature.com/doifinder/10.1038/nature13198" class="reftxt" title="Article on Article - ">Article</a>&nbsp;|&nbsp;<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?holding=npg&amp;amp;cmd=Retrieve&amp;amp;db=PubMed&amp;amp;list_uids=24717514&amp;amp;dopt=Abstract" class="reftxt" title="Article on PubMed - ">PubMed</a>&nbsp;|&nbsp;<a href="http://chemport.cas.org/cgi-bin/sdcgi?APP=ftslink&amp;action=reflink&amp;origin=npg&amp;version=1.0&amp;coi=1:CAS:528:DC%2BC2cXmtlWhsL8%3D&amp;pissn={printIssn}&amp;pyear=2016&amp;md5=452ce3897244d255ca2908bda4b49281" class="reftxt" title="Article on CAS - ">CAS</a>&nbsp;|</li><li id="bib43"><a name="bib43"><!-- . --></a>Ward PS, Patel J, Wise DR, Abdel-Wahab O, Bennett BD, Coller HA <i>et al</i>. The common feature of leukemia-associated IDH1 and IDH2 mutations is a neomorphic enzyme activity converting alpha-ketoglutarate to 2-hydroxyglutarate. <span class="journal">Cancer Cell</span> 2010; <span class="jnumber">17</span>: 225&#x02013;234.&nbsp;|&nbsp;<a href="http://dx.doi.org/10.1016/j.ccr.2010.01.020" class="reftxt" title="">Article</a>&nbsp;|&nbsp;<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?holding=npg&amp;amp;cmd=Retrieve&amp;amp;db=PubMed&amp;amp;list_uids=20171147&amp;amp;dopt=Abstract" class="reftxt" title="Article on PubMed - ">PubMed</a>&nbsp;|&nbsp;<a href="http://links.isiglobalnet2.com/gateway/Gateway.cgi?&amp;amp;GWVersion=2&amp;amp;SrcAuth=Nature&amp;amp;SrcApp=Nature&amp;amp;DestLinkType=FullRecord&amp;amp;KeyUT=000275804200005&amp;amp;DestApp=WOS_CPL" class="reftxt" title="Article on ISI - ">ISI</a>&nbsp;|&nbsp;<a href="http://chemport.cas.org/cgi-bin/sdcgi?APP=ftslink&amp;action=reflink&amp;origin=npg&amp;version=1.0&amp;coi=1:CAS:528:DC%2BC3cXlsVWqtLg%3D&amp;pissn={printIssn}&amp;pyear=2016&amp;md5=2975bec17f6f679ad0ff885d0bab6117" class="reftxt" title="Article on CAS - ">CAS</a>&nbsp;|</li><li id="bib44"><a name="bib44"><!-- . --></a>Lu C, Ward PS, Kapoor GS, Rohle D, Turcan S, Abdel-Wahab O <i>et al</i>. IDH mutation impairs histone demethylation and results in a block to cell differentiation. <span class="journal">Nature</span> 2012; <span class="jnumber">483</span>: 474&#x02013;478.&nbsp;|&nbsp;<a href="http://www.nature.com/doifinder/10.1038/nature10860" class="reftxt" title="Article on Article - ">Article</a>&nbsp;|&nbsp;<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?holding=npg&amp;amp;cmd=Retrieve&amp;amp;db=PubMed&amp;amp;list_uids=22343901&amp;amp;dopt=Abstract" class="reftxt" title="Article on PubMed - ">PubMed</a>&nbsp;|&nbsp;<a href="http://links.isiglobalnet2.com/gateway/Gateway.cgi?&amp;amp;GWVersion=2&amp;amp;SrcAuth=Nature&amp;amp;SrcApp=Nature&amp;amp;DestLinkType=FullRecord&amp;amp;KeyUT=000301771200045&amp;amp;DestApp=WOS_CPL" class="reftxt" title="Article on ISI - ">ISI</a>&nbsp;|&nbsp;<a href="http://chemport.cas.org/cgi-bin/sdcgi?APP=ftslink&amp;action=reflink&amp;origin=npg&amp;version=1.0&amp;coi=1:CAS:528:DC%2BC38XisVKks74%3D&amp;pissn={printIssn}&amp;pyear=2016&amp;md5=8c8b68a38b3bb86f14fa820238e0f9e4" class="reftxt" title="Article on CAS - ">CAS</a>&nbsp;|</li><li id="bib45"><a name="bib45"><!-- . --></a>Shim EH, Sudarshan S. Another small molecule in the oncometabolite mix: L-2-Hydroxyglutarate in kidney cancer. <span class="journal">Oncoscience</span> 2015; <span class="jnumber">2</span>: 483&#x02013;486.&nbsp;|&nbsp;<a href="http://dx.doi.org/10.18632/oncoscience.165" class="reftxt" title="">Article</a>&nbsp;|&nbsp;<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?holding=npg&amp;amp;cmd=Retrieve&amp;amp;db=PubMed&amp;amp;list_uids=26097881&amp;amp;dopt=Abstract" class="reftxt" title="Article on PubMed - ">PubMed</a>&nbsp;|</li><li id="bib46"><a name="bib46"><!-- . --></a>Terunuma A, Putluri N, Mishra P, Mathe EA, Dorsey TH, Yi M <i>et al</i>. MYC-driven accumulation of 2-hydroxyglutarate is associated with breast cancer prognosis. <span class="journal">J Clin Invest</span> 2014; <span class="jnumber">124</span>: 398&#x02013;412.&nbsp;|&nbsp;<a href="http://dx.doi.org/10.1172/JCI71180" class="reftxt" title="">Article</a>&nbsp;|&nbsp;<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?holding=npg&amp;amp;cmd=Retrieve&amp;amp;db=PubMed&amp;amp;list_uids=24316975&amp;amp;dopt=Abstract" class="reftxt" title="Article on PubMed - ">PubMed</a>&nbsp;|</li><li id="bib47"><a name="bib47"><!-- . --></a>Kaur S, Soto-Pantoja DR, Stein EV, Liu C, Elkahloun AG, Pendrak ML <i>et al</i>. Thrombospondin-1 signaling through CD47 inhibits self-renewal by regulating c-Myc and other stem cell transcription factors. <span class="journal">Sci Rep</span> 2013; <span class="jnumber">3</span>: 1673.&nbsp;|&nbsp;<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?holding=npg&amp;amp;cmd=Retrieve&amp;amp;db=PubMed&amp;amp;list_uids=23591719&amp;amp;dopt=Abstract" class="reftxt" title="Article on PubMed - ">PubMed</a>&nbsp;|</li><li id="bib48"><a name="bib48"><!-- . --></a>Ritchie KJ, Walsh S, Sansom OJ, Henderson CJ, Wolf CR. Markedly enhanced colon tumorigenesis in Apc(Min) mice lacking glutathione S-transferase Pi. <span class="journal">Proc Natl Acad Sci USA</span> 2009; <span class="jnumber">106</span>: 20859&#x02013;20864.&nbsp;|&nbsp;<a href="http://dx.doi.org/10.1073/pnas.0911351106" class="reftxt" title="">Article</a>&nbsp;|&nbsp;<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?holding=npg&amp;amp;cmd=Retrieve&amp;amp;db=PubMed&amp;amp;list_uids=19915149&amp;amp;dopt=Abstract" class="reftxt" title="Article on PubMed - ">PubMed</a>&nbsp;|</li><li id="bib49"><a name="bib49"><!-- . --></a>Maeda K, Nishiguchi Y, Kang SM, Yashiro M, Onoda N, Sawada T <i>et al</i>. Expression of thrombospondin-1 inversely correlated with tumor vascularity and hematogenous metastasis in colon cancer. <span class="journal">Oncol Rep</span> 2001; <span class="jnumber">8</span>: 763&#x02013;766.&nbsp;|&nbsp;<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?holding=npg&amp;amp;cmd=Retrieve&amp;amp;db=PubMed&amp;amp;list_uids=11410779&amp;amp;dopt=Abstract" class="reftxt" title="Article on PubMed - ">PubMed</a>&nbsp;|&nbsp;<a href="http://links.isiglobalnet2.com/gateway/Gateway.cgi?&amp;amp;GWVersion=2&amp;amp;SrcAuth=Nature&amp;amp;SrcApp=Nature&amp;amp;DestLinkType=FullRecord&amp;amp;KeyUT=000169465000008&amp;amp;DestApp=WOS_CPL" class="reftxt" title="Article on ISI - ">ISI</a>&nbsp;|&nbsp;<a href="http://chemport.cas.org/cgi-bin/sdcgi?APP=ftslink&amp;action=reflink&amp;origin=npg&amp;version=1.0&amp;coi=1:STN:280:DC%2BD3MzkslygsA%3D%3D&amp;pissn={printIssn}&amp;pyear=2016&amp;md5=0e639b5f63823a7c1d9db7add95e1c36" class="reftxt" title="Article on CAS - ">CAS</a>&nbsp;|</li><li id="bib50"><a name="bib50"><!-- . --></a>Jo WS, Mizukami Y, Duerr EM, Zukerberg LR, Chung DC. Wnt signaling can repress thrombospondin-1 expression in colonic tumorigenesis. <span class="journal">Cancer Biol Ther</span> 2005; <span class="jnumber">4</span>: 1361&#x02013;1366.&nbsp;|&nbsp;<a href="http://dx.doi.org/10.4161/cbt.4.12.2201" class="reftxt" title="">Article</a>&nbsp;|&nbsp;<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?holding=npg&amp;amp;cmd=Retrieve&amp;amp;db=PubMed&amp;amp;list_uids=16258261&amp;amp;dopt=Abstract" class="reftxt" title="Article on PubMed - ">PubMed</a>&nbsp;|</li><li id="bib51"><a name="bib51"><!-- . --></a>Sundaram P, Hultine S, Smith LM, Dews M, Fox JL, Biyashev D <i>et al</i>. p53-responsive miR-194 inhibits thrombospondin-1 and promotes angiogenesis in colon cancers. <span class="journal">Cancer Res</span> 2011; <span class="jnumber">71</span>: 7490&#x02013;7501.&nbsp;|&nbsp;<a href="http://dx.doi.org/10.1158/0008-5472.CAN-11-1124" class="reftxt" title="">Article</a>&nbsp;|&nbsp;<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?holding=npg&amp;amp;cmd=Retrieve&amp;amp;db=PubMed&amp;amp;list_uids=22028325&amp;amp;dopt=Abstract" class="reftxt" title="Article on PubMed - ">PubMed</a>&nbsp;|</li><li id="bib52"><a name="bib52"><!-- . --></a>Rojas A, Meherem S, Kim YH, Washington MK, Willis JE, Markowitz SD <i>et al</i>. The aberrant methylation of TSP1 suppresses TGF-beta1 activation in colorectal cancer. <span class="journal">Int J Cancer</span> 2008; <span class="jnumber">123</span>: 14&#x02013;21.&nbsp;|&nbsp;<a href="http://dx.doi.org/10.1002/ijc.23608" class="reftxt" title="">Article</a>&nbsp;|&nbsp;<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?holding=npg&amp;amp;cmd=Retrieve&amp;amp;db=PubMed&amp;amp;list_uids=18425817&amp;amp;dopt=Abstract" class="reftxt" title="Article on PubMed - ">PubMed</a>&nbsp;|&nbsp;<a href="http://chemport.cas.org/cgi-bin/sdcgi?APP=ftslink&amp;action=reflink&amp;origin=npg&amp;version=1.0&amp;coi=1:CAS:528:DC%2BD1cXmtlantrY%3D&amp;pissn={printIssn}&amp;pyear=2016&amp;md5=56d39e6c5c0d9a83cf7df84015c8317c" class="reftxt" title="Article on CAS - ">CAS</a>&nbsp;|</li><li id="bib53"><a name="bib53"><!-- . --></a>Chen KY, Liu X, Bu P, Lin CS, Rakhilin N, Locasale JW <i>et al</i>. A metabolic signature of colon cancer initiating cells. <span class="journal">Conf Proc IEEE Eng Med Biol Soc</span> 2014; <span class="jnumber">2014</span>: 4759&#x02013;4762.&nbsp;|&nbsp;<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?holding=npg&amp;amp;cmd=Retrieve&amp;amp;db=PubMed&amp;amp;list_uids=25571056&amp;amp;dopt=Abstract" class="reftxt" title="Article on PubMed - ">PubMed</a>&nbsp;|</li><li id="bib54"><a name="bib54"><!-- . --></a>Mayers JR, Vander Heiden MG. Famine versus feast: understanding the metabolism of tumors <i>in vivo</i>. <span class="journal">Trends Biochem Sci</span> 2015; <span class="jnumber">40</span>: 130&#x02013;140.&nbsp;|&nbsp;<a href="http://dx.doi.org/10.1016/j.tibs.2015.01.004" class="reftxt" title="">Article</a>&nbsp;|&nbsp;<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?holding=npg&amp;amp;cmd=Retrieve&amp;amp;db=PubMed&amp;amp;list_uids=25639751&amp;amp;dopt=Abstract" class="reftxt" title="Article on PubMed - ">PubMed</a>&nbsp;|</li><li id="bib55"><a name="bib55"><!-- . --></a>Heinrichsen ET, Zhang H, Robinson JE, Ngo J, Diop S, Bodmer R <i>et al</i>. Metabolic and transcriptional response to a high-fat diet in Drosophila melanogaster. <span class="journal">Mol Metab</span> 2014; <span class="jnumber">3</span>: 42&#x02013;54.&nbsp;|&nbsp;<a href="http://dx.doi.org/10.1016/j.molmet.2013.10.003" class="reftxt" title="">Article</a>&nbsp;|&nbsp;<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?holding=npg&amp;amp;cmd=Retrieve&amp;amp;db=PubMed&amp;amp;list_uids=24567903&amp;amp;dopt=Abstract" class="reftxt" title="Article on PubMed - ">PubMed</a>&nbsp;|</li><li id="bib56"><a name="bib56"><!-- . --></a>Mulligan HD, Tisdale MJ. Metabolic substrate utilization by tumour and host tissues in cancer cachexia. <span class="journal">Biochem J.</span> 1991; <span class="jnumber">277</span>: Pt 2 321&#x02013;326.&nbsp;|&nbsp;<a href="http://dx.doi.org/10.1042/bj2770321" class="reftxt" title="">Article</a>&nbsp;|&nbsp;<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?holding=npg&amp;amp;cmd=Retrieve&amp;amp;db=PubMed&amp;amp;list_uids=1859359&amp;amp;dopt=Abstract" class="reftxt" title="Article on PubMed - ">PubMed</a>&nbsp;|</li><li id="bib57"><a name="bib57"><!-- . --></a>Levy J, Cacheux W, Bara MA, L'Hermitte A, Lepage P, Fraudeau M <i>et al</i>. Intestinal inhibition of Atg7 prevents tumour initiation through a microbiome-influenced immune response and suppresses tumour growth. <span class="journal">Nat Cell Biol</span> 2015; <span class="jnumber">17</span>: 1062&#x02013;1073.&nbsp;|&nbsp;<a href="http://www.nature.com/doifinder/10.1038/ncb3206" class="reftxt" title="Article on Article - ">Article</a>&nbsp;|&nbsp;<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?holding=npg&amp;amp;cmd=Retrieve&amp;amp;db=PubMed&amp;amp;list_uids=26214133&amp;amp;dopt=Abstract" class="reftxt" title="Article on PubMed - ">PubMed</a>&nbsp;|&nbsp;<a href="http://chemport.cas.org/cgi-bin/sdcgi?APP=ftslink&amp;action=reflink&amp;origin=npg&amp;version=1.0&amp;coi=1:CAS:528:DC%2BC2MXht1entLbN&amp;pissn={printIssn}&amp;pyear=2016&amp;md5=e7544831352ad12e163232f5f8c1dd26" class="reftxt" title="Article on CAS - ">CAS</a>&nbsp;|</li><li id="bib58"><a name="bib58"><!-- . --></a>Mariani F, Sena P, Roncucci L. Inflammatory pathways in the early steps of colorectal cancer development. <span class="journal">World J Gastroenterol</span> 2014; <span class="jnumber">20</span>: 9716&#x02013;9731.&nbsp;|&nbsp;<a href="http://dx.doi.org/10.3748/wjg.v20.i29.9716" class="reftxt" title="">Article</a>&nbsp;|&nbsp;<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?holding=npg&amp;amp;cmd=Retrieve&amp;amp;db=PubMed&amp;amp;list_uids=25110410&amp;amp;dopt=Abstract" class="reftxt" title="Article on PubMed - ">PubMed</a>&nbsp;|</li><li id="bib59"><a name="bib59"><!-- . --></a>Soto-Pantoja DR, Miller TW, Pendrak ML, Degraff WG, Sullivan C, Ridnour LA <i>et al</i>. CD47 deficiency confers cell and tissue radioprotection by activation of autophagy. <span class="journal">Autophagy</span> 2012; <span class="jnumber">8</span>: 1628&#x02013;1642.&nbsp;|&nbsp;<a href="http://dx.doi.org/10.4161/auto.21562" class="reftxt" title="">Article</a>&nbsp;|&nbsp;<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?holding=npg&amp;amp;cmd=Retrieve&amp;amp;db=PubMed&amp;amp;list_uids=22874555&amp;amp;dopt=Abstract" class="reftxt" title="Article on PubMed - ">PubMed</a>&nbsp;|&nbsp;<a href="http://chemport.cas.org/cgi-bin/sdcgi?APP=ftslink&amp;action=reflink&amp;origin=npg&amp;version=1.0&amp;coi=1:CAS:528:DC%2BC3sXivFOjsLc%3D&amp;pissn={printIssn}&amp;pyear=2016&amp;md5=0e334896997bf63a97ced33ed4f61105" class="reftxt" title="Article on CAS - ">CAS</a>&nbsp;|</li><li id="bib60"><a name="bib60"><!-- . --></a>Chowdhury R, Yeoh KK, Tian YM, Hillringhaus L, Bagg EA, Rose NR <i>et al</i>. The oncometabolite 2-hydroxyglutarate inhibits histone lysine demethylases. <span class="journal">EMBO Rep</span> 2011; <span class="jnumber">12</span>: 463&#x02013;469.&nbsp;|&nbsp;<a href="http://www.nature.com/doifinder/10.1038/embor.2011.43" class="reftxt" title="Article on Article - ">Article</a>&nbsp;|&nbsp;<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?holding=npg&amp;amp;cmd=Retrieve&amp;amp;db=PubMed&amp;amp;list_uids=21460794&amp;amp;dopt=Abstract" class="reftxt" title="Article on PubMed - ">PubMed</a>&nbsp;|&nbsp;<a href="http://links.isiglobalnet2.com/gateway/Gateway.cgi?&amp;amp;GWVersion=2&amp;amp;SrcAuth=Nature&amp;amp;SrcApp=Nature&amp;amp;DestLinkType=FullRecord&amp;amp;KeyUT=000289971000021&amp;amp;DestApp=WOS_CPL" class="reftxt" title="Article on ISI - ">ISI</a>&nbsp;|&nbsp;<a href="http://chemport.cas.org/cgi-bin/sdcgi?APP=ftslink&amp;action=reflink&amp;origin=npg&amp;version=1.0&amp;coi=1:CAS:528:DC%2BC3MXktFahs74%3D&amp;pissn={printIssn}&amp;pyear=2016&amp;md5=7bee6477bb9f088cc23e8c3a266ee167" class="reftxt" title="Article on CAS - ">CAS</a>&nbsp;|</li><li id="bib61"><a name="bib61"><!-- . --></a>Losman JA, Kaelin WGJr. What a difference a hydroxyl makes: mutant IDH, (R)-2-hydroxyglutarate, and cancer. <span class="journal">Genes Dev</span> 2013; <span class="jnumber">27</span>: 836&#x02013;852.&nbsp;|&nbsp;<a href="http://dx.doi.org/10.1101/gad.217406.113" class="reftxt" title="">Article</a>&nbsp;|&nbsp;<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?holding=npg&amp;amp;cmd=Retrieve&amp;amp;db=PubMed&amp;amp;list_uids=23630074&amp;amp;dopt=Abstract" class="reftxt" title="Article on PubMed - ">PubMed</a>&nbsp;|&nbsp;<a href="http://links.isiglobalnet2.com/gateway/Gateway.cgi?&amp;amp;GWVersion=2&amp;amp;SrcAuth=Nature&amp;amp;SrcApp=Nature&amp;amp;DestLinkType=FullRecord&amp;amp;KeyUT=000318215800002&amp;amp;DestApp=WOS_CPL" class="reftxt" title="Article on ISI - ">ISI</a>&nbsp;|&nbsp;<a href="http://chemport.cas.org/cgi-bin/sdcgi?APP=ftslink&amp;action=reflink&amp;origin=npg&amp;version=1.0&amp;coi=1:CAS:528:DC%2BC3sXnsl2gtro%3D&amp;pissn={printIssn}&amp;pyear=2016&amp;md5=8d9ae4f303138b1915e3a2acaa5b60bd" class="reftxt" title="Article on CAS - ">CAS</a>&nbsp;|</li><li id="bib62"><a name="bib62"><!-- . --></a>Metallo CM. Expanding the reach of cancer metabolomics. <span class="journal">Cancer Prev Res (Phila)</span> 2012; <span class="jnumber">5</span>: 1337&#x02013;1340.&nbsp;|&nbsp;<a href="http://dx.doi.org/10.1158/1940-6207.CAPR-12-0433" class="reftxt" title="">Article</a>&nbsp;|&nbsp;<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?holding=npg&amp;amp;cmd=Retrieve&amp;amp;db=PubMed&amp;amp;list_uids=23151806&amp;amp;dopt=Abstract" class="reftxt" title="Article on PubMed - ">PubMed</a>&nbsp;|</li><li id="bib63"><a name="bib63"><!-- . --></a>Wang D, Dubois RN. The role of COX-2 in intestinal inflammation and colorectal cancer. <span class="journal">Oncogene</span> 2010; <span class="jnumber">29</span>: 781&#x02013;788.&nbsp;|&nbsp;<a href="http://www.nature.com/doifinder/10.1038/onc.2009.421" class="reftxt" title="Article on Article - ">Article</a>&nbsp;|&nbsp;<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?holding=npg&amp;amp;cmd=Retrieve&amp;amp;db=PubMed&amp;amp;list_uids=19946329&amp;amp;dopt=Abstract" class="reftxt" title="Article on PubMed - ">PubMed</a>&nbsp;|&nbsp;<a href="http://links.isiglobalnet2.com/gateway/Gateway.cgi?&amp;amp;GWVersion=2&amp;amp;SrcAuth=Nature&amp;amp;SrcApp=Nature&amp;amp;DestLinkType=FullRecord&amp;amp;KeyUT=000274397800001&amp;amp;DestApp=WOS_CPL" class="reftxt" title="Article on ISI - ">ISI</a>&nbsp;|&nbsp;<a href="http://chemport.cas.org/cgi-bin/sdcgi?APP=ftslink&amp;action=reflink&amp;origin=npg&amp;version=1.0&amp;coi=1:CAS:528:DC%2BD1MXhsV2gtrfF&amp;pissn={printIssn}&amp;pyear=2016&amp;md5=bbfed51391c5cfddbc63044650fbd2f1" class="reftxt" title="Article on CAS - ">CAS</a>&nbsp;|</li><li id="bib64"><a name="bib64"><!-- . --></a>Harris RE. Cyclooxygenase-2 (cox-2) blockade in the chemoprevention of cancers of the colon, breast, prostate, and lung. <span class="journal">Inflammopharmacology</span> 2009; <span class="jnumber">17</span>: 55&#x02013;67.&nbsp;|&nbsp;<a href="http://dx.doi.org/10.1007/s10787-009-8049-8" class="reftxt" title="">Article</a>&nbsp;|&nbsp;<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?holding=npg&amp;amp;cmd=Retrieve&amp;amp;db=PubMed&amp;amp;list_uids=19340409&amp;amp;dopt=Abstract" class="reftxt" title="Article on PubMed - ">PubMed</a>&nbsp;|&nbsp;<a href="http://chemport.cas.org/cgi-bin/sdcgi?APP=ftslink&amp;action=reflink&amp;origin=npg&amp;version=1.0&amp;coi=1:CAS:528:DC%2BD1MXjvFOnsL8%3D&amp;pissn={printIssn}&amp;pyear=2016&amp;md5=9cbc7a99159f1876a33b7f7bf69b9344" class="reftxt" title="Article on CAS - ">CAS</a>&nbsp;|</li><li id="bib65"><a name="bib65"><!-- . --></a>Half E, Arber N. Colon cancer: preventive agents and the present status of chemoprevention. <span class="journal">Expert Opin Pharmacother</span> 2009; <span class="jnumber">10</span>: 211&#x02013;219.&nbsp;|&nbsp;<a href="http://dx.doi.org/10.1517/14656560802560153" class="reftxt" title="">Article</a>&nbsp;|&nbsp;<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?holding=npg&amp;amp;cmd=Retrieve&amp;amp;db=PubMed&amp;amp;list_uids=19236194&amp;amp;dopt=Abstract" class="reftxt" title="Article on PubMed - ">PubMed</a>&nbsp;|&nbsp;<a href="http://links.isiglobalnet2.com/gateway/Gateway.cgi?&amp;amp;GWVersion=2&amp;amp;SrcAuth=Nature&amp;amp;SrcApp=Nature&amp;amp;DestLinkType=FullRecord&amp;amp;KeyUT=000263339700005&amp;amp;DestApp=WOS_CPL" class="reftxt" title="Article on ISI - ">ISI</a>&nbsp;|</li><li id="bib66"><a name="bib66"><!-- . --></a>Yu CF, Whiteley L, Carryl O, Basson MD. Differential dietary effects on colonic and small bowel neoplasia in C57BL<span class="mb">&#x0002F;</span>6<span class="mb"><span class="mb">&thinsp;</span></span>J Apc Min<span class="mb">&#x0002F;</span><span class="mb">&#x0002B;</span> mice. <span class="journal">Dig Dis Sci</span> 2001; <span class="jnumber">46</span>: 1367&#x02013;1380.&nbsp;|&nbsp;<a href="http://dx.doi.org/10.1023/A:1010615215528" class="reftxt" title="">Article</a>&nbsp;|&nbsp;<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?holding=npg&amp;amp;cmd=Retrieve&amp;amp;db=PubMed&amp;amp;list_uids=11478486&amp;amp;dopt=Abstract" class="reftxt" title="Article on PubMed - ">PubMed</a>&nbsp;|&nbsp;<a href="http://chemport.cas.org/cgi-bin/sdcgi?APP=ftslink&amp;action=reflink&amp;origin=npg&amp;version=1.0&amp;coi=1:CAS:528:DC%2BD3MXlvFOhtbs%3D&amp;pissn={printIssn}&amp;pyear=2016&amp;md5=e7259ddec6f7f635bd1a50ebd698c773" class="reftxt" title="Article on CAS - ">CAS</a>&nbsp;|</li><li id="bib67"><a name="bib67"><!-- . --></a>Vargas AJ, Thompson PA. Diet and nutrient factors in colorectal cancer risk. <span class="journal">Nutr Clin Pract</span> 2012; <span class="jnumber">27</span>: 613&#x02013;623.&nbsp;|&nbsp;<a href="http://dx.doi.org/10.1177/0884533612454885" class="reftxt" title="">Article</a>&nbsp;|&nbsp;<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?holding=npg&amp;amp;cmd=Retrieve&amp;amp;db=PubMed&amp;amp;list_uids=22892274&amp;amp;dopt=Abstract" class="reftxt" title="Article on PubMed - ">PubMed</a>&nbsp;|</li><li id="bib68"><a name="bib68"><!-- . --></a>Lawler J, Sunday M, Thibert V, Duquette M, George EL, Rayburn H <i>et al</i>. Thrombospondin-1 is required for normal murine pulmonary homeostasis and its absence causes pneumonia. <span class="journal">J Clin Invest</span> 1998; <span class="jnumber">101</span>: 982&#x02013;992.&nbsp;|&nbsp;<a href="http://dx.doi.org/10.1172/JCI1684" class="reftxt" title="">Article</a>&nbsp;|&nbsp;<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?holding=npg&amp;amp;cmd=Retrieve&amp;amp;db=PubMed&amp;amp;list_uids=9486968&amp;amp;dopt=Abstract" class="reftxt" title="Article on PubMed - ">PubMed</a>&nbsp;|&nbsp;<a href="http://links.isiglobalnet2.com/gateway/Gateway.cgi?&amp;amp;GWVersion=2&amp;amp;SrcAuth=Nature&amp;amp;SrcApp=Nature&amp;amp;DestLinkType=FullRecord&amp;amp;KeyUT=000072445800010&amp;amp;DestApp=WOS_CPL" class="reftxt" title="Article on ISI - ">ISI</a>&nbsp;|&nbsp;<a href="http://chemport.cas.org/cgi-bin/sdcgi?APP=ftslink&amp;action=reflink&amp;origin=npg&amp;version=1.0&amp;coi=1:CAS:528:DyaK1cXhs1yqs7g%3D&amp;pissn={printIssn}&amp;pyear=2016&amp;md5=1534bd74b6b1dc9ffd44ece9751b1564" class="reftxt" title="Article on CAS - ">CAS</a>&nbsp;|</li></ol></div><div id="ack"><a class="backtotop" href="#top">Top<span class="hidden"> of page</span></a><h3>Acknowledgements</h3><p class="norm">This work was supported by the Intramural Research Program of the NIH<span class="mb">&#x0002F;</span>NCI (DDR), the Nutritional Science Research Group, Division of Cancer Prevention, NIH<span class="mb">&#x0002F;</span>NCI (NE) and the NCI Transition Career Development Award K22 1K22CA181274-01A1 (DSP).</p></div><div id="closenote"><p class="norm"><a href="/oncsis/journal/v5/n5/suppinfo/oncsis201637s1.html">Supplementary Information</a> accompanies this paper on the Oncogenesis website </p></div><div id="more">
+	<div id="open-end"><div id="open-left"><a href="http://creativecommons.org/licenses/by/4.0/"><img alt="" style="border:0;" src="/aj/images/CC-BY.jpg"/></a></div><p><i>Oncogenesis</i> is an open-access journal published by <i>Nature Publishing Group</i>. This work is licensed under a Creative Commons Attribution 4.0 International License. The images or other third party material in this article are included in the article&#x02019;s Creative Commons license, unless indicated otherwise in the credit line; if the material is not included under the Creative Commons license, users will need to obtain permission from the license holder to reproduce the material. To view a copy of this license, visit <a href="http://creativecommons.org/licenses/by/4.0/">http://creativecommons.org/licenses/by/4.0/</a>.</p></div></div><!-- articlebody end --></div></div><!-- end content --><div class="archive" id="journalnav"><h1 class="hidden">Main navigation</h1><!-- necessary for correct descending order heading hierarchy - do not remove! -->
+	<!-- whitespace removed to deal with IE5.0 PC bug. -->
+<map title="main journal navigation" id="main-journal-nav" class="journal-nav">
+<ul><li class="jn-home"><a href="/oncsis/index.html">Journal home</a></li>
+	<li class="jn-issue"><a href="/oncsis/journal/v6/n9/">Latest articles</a></li>
+	<li class="jn-archive"><a href="/oncsis/archive/index.html">Archive</a></li>
+	<li class="jn-browse"><a href="/oncsis/archive/subject.html">Browse by subject</a></li>
+	<!--<li class="jn-press-releases"><a href="/oncsis/about/press_releases.html">Press releases</a></li> -->
+	<li><a href="/oncsis/index.html#news-section">News</a></li>
+<li><a href="/oncsis/focus/index.html">Focuses</a></li>
+</ul>
+</map>
+	<!-- whitespace removed to deal with IE5.0 PC bug. -->
+<map title="supplementary journal navigation" id="supplementary-journal-nav" class="journal-nav supplementary">
+	<ul>
+		<li class="jn-online-submission"><a href="http://mts-oncsis.nature.com/cgi-bin/main.plex 
+" class="submission">Online submission</a></li>
+		<li class="jn-open-access"><a href="/oncsis/about/open_access.html">Open access</a></li>
+		<li class="jn-for-authors"><a href="/oncsis/about/for_authors.html">For authors</a></li>
+		<!-- li class="jn-for-referees"><a href="/oncsis/about/for_referees.html">For referees</a></li -->
+		<li class="jn-contact-eds"><a href="/oncsis/about/contact_eds.html">Contact editorial office</a></li>
+		<li class="jn-about-the-journal"><a href="/oncsis/about/index.html">About the journal</a></li>
+		<li class="jn-for-librarians"><a href="/libraries/">For librarians</a></li>
+		<li class="jn-advertising"><a href="/oncsis/about/advertising.html">Advertising</a></li>
+		<li class="jn-naturereprints"><a href="/reprints/">Reprints and permissions</a></li>
+		<li class="jn-contact-npg"><a href="/oncsis/about/contact_npg.html">Contact Springer Nature</a></li>
+		<li class="jn-customer-services"><a href="http://mse.force.com/nature">Customer services</a></li>
+		<li class="jn-site-features"><a href="/oncsis/about/site_features.html">Site features</a></li>
+	</ul>
+</map>
+	
+	
+	<h2 class="npg-resources"><abbr title="Springer Nature">Springer Nature</abbr> resources</h2>
+		<ul class="npg-resources">
+			<li><a href="http://www.nature.com/onc/">Oncogene</a></li>
+			<li><a href="http://www.nature.com/cdd/">Cell Death and Differentiation</a></li>
+			<li><a href="http://www.nature.com/cddis/">Cell Death and Disease</a></li>
+			<li><a href="http://www.nature.com/bjc/">British Journal of Cancer</a></li>
+			<li><a href="http://www.nature.com/nrc/">Nature Reviews Cancer</a></li>
+		</ul>
+		
+
+	 
+<div id="global-subject-areas">
+	<h2><span><abbr title="Nature Research">Nature Research</abbr> Journals</span></h2>	
+	<h3 class="view">by Subject Area</h3>
+		<ul class="category-list">
+		<li><h4>Chemistry</h4>
+            <ul>
+                <li><a href="/chemistry/index.html">Chemistry</a></li>
+                <li><a href="/drugdisc/index.html">Drug discovery</a></li>
+		<li><a href="/biotech/index.html">Biotechnology</a></li>
+		<li><a href="/materials/index.html">Materials</a></li>
+		<li><a href="/protometh/index.html">Methods &amp; Protocols</a></li>
+            </ul>
+        </li>        <li><h4>Clinical Practice &amp; Research</h4>
+            <ul>
+                <li><a href="/cancer/index.html">Cancer</a></li>
+                <li><a href="/cardio/index.html">Cardiovascular medicine</a></li>
+                <li><a href="/endocrinology/index.html" title="">Endocrinology</a></li>
+                <li><a href="/gastrohep/index.html">Gastroenterology &amp; Hepatology</a></li>
+		<li><a href="/protometh/index.html">Methods &amp; Protocols</a></li>
+                <li><a href="/pathology/index.html">Pathology &amp; Pathobiology</a></li>
+                <li><a href="/urology/index.html">Urology</a></li>
+
+            </ul>
+        </li>        <li><h4>Earth &amp; Environment</h4>
+            <ul>
+                <li><a href="/earthsciences/index.html">Earth sciences</a></li>
+                <li><a href="/evoeco/index.html">Evolution &amp; Ecology</a></li>
+	
+            </ul>
+        </li>        <li><h4>Life sciences</h4>
+            <ul>
+		<li><a href="/biotech/index.html">Biotechnology</a></li>
+                <li><a href="/cancer/index.html">Cancer</a></li>
+                <li><a href="/development/index.html">Development</a></li>
+                <li><a href="/drugdisc/index.html">Drug discovery</a></li>
+                <li><a href="/evoeco/index.html">Evolution &amp; Ecology</a></li>
+                <li><a href="/genetics/index.html">Genetics</a></li>
+                <li><a href="/immuno/index.html">Immunology</a></li>
+                <li><a href="/medicalresearch/index.html">Medical research</a></li>
+				<li><a href="/protometh/index.html">Methods &amp; Protocols</a></li>
+                <li><a href="/micro/index.html">Microbiology</a></li>
+                <li><a href="/molcellbio/index.html">Molecular cell biology</a></li>
+                <li><a href="/neurosci/index.html">Neuroscience</a></li>
+                <li><a href="/pharma/index.html">Pharmacology</a></li>
+                <li><a href="/sysbio/index.html">Systems biology</a></li>
+            </ul>
+        </li>        <li><h4>Physical sciences</h4>
+            <ul>
+				<li><a href="/physics/index.html">Physics</a></li>
+				<li><a href="/materials/index.html">Materials</a></li>
+            </ul>
+        </li>	</ul>
+	
+	<h3 class="view"><a href="/siteindex/index.html" title="View A to Z list of Nature Publishing Group journals">by A - Z Index</a></h3>
+</div>
+</div></div><!-- end content and journal nav --><div id="extranav"><h1 class="hidden">Extra navigation</h1><span class="page-header-spacer">.</span><div id="articlenav"><h2><span class="hidden">ARTICLE NAVIGATION - </span>FULL TEXT</h2><ul><li class="toc"><a class="toc" href="/oncsis/journal/v5/n5/index.html">Table of contents</a></li><li class="download-pdf"><a class="download-pdf" href="/oncsis/journal/v5/n5/pdf/oncsis201637a.pdf">Download PDF</a></li><li class="sendtofriend"><a class="sendtofriend" href="/foxtrot/svc/mailform?file=/oncsis/journal/v5/n5/full/oncsis201637a.html">Send to a friend</a></li>
+
+			
+
+
+	<li class="readcube"><a href="http://www.readcube.com/articles/10.1038/oncsis.2016.37" class="readcube">View interactive PDF in ReadCube</a></li>
+
+<li class="permissions"><a class="permissions" href="https://s100.copyright.com/AppDispatchServlet?publisherName=NPG&amp;publication=Oncogenesis&amp;title=Dietary fat overcomes the protective activity of thrombospondin-1 signaling in the ApcMin/+ model of colon cancer&amp;author=D R Soto-Pantoja, J M Sipes, G Martin-Manso, B Westwood, N L Morris et al.&amp;contentID=10.1038/oncsis.2016.37&amp;publicationDate=05/01/2016&amp;volumeNum=5&amp;issueNum=5&amp;cc=by">Rights and permissions</a></li>
+	<li class="cited"><a class="cited" href="/cited/cited.html?doi=10.1038/oncsis.2016.37">CrossRef lists 1 article
+		 citing this article</a></li>
+			<li><a class="page" href="#abs">Abstract</a></li><li><a class="page" href="#Introduction">Introduction</a></li><li><a class="page" href="#Results">Results</a></li><li><a class="page" href="#Discussion">Discussion</a></li><li><a class="page" href="#Materials-and-methods">Materials and methods</a></li><li><a class="page" href="#conflict-of-interest">Conflict of interest</a></li><li><a class="page" href="#References">References</a></li><li><a class="page" href="#ack">Acknowledgements</a></li><li><a href="/oncsis/journal/v5/n5/fig_tab/oncsis201637ft.html#figure-title">Figures and Tables</a></li><li><a href="/oncsis/journal/v5/n5/suppinfo/oncsis201637s1.html?url=/oncsis/journal/v5/n5/full/oncsis201637a.html">Supplementary info</a></li></ul><ul class="supplementary"><li><a href="/oncsis/journal/v5/n5/ris/oncsis201637a.ris">Export citation</a></li><li><a href="/oncsis/journal/v5/n5/ris/oncsis201637arefs.ris">Export references</a></li></ul><ul class="supplementary"><li><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=search&amp;term=Soto-Pantoja+D">Papers by Soto-Pantoja</a></li></ul></div>
+	
+	<!-- skyscraper ad -->
+<div class="ad-vert">
+ADVERTISEMENT<br />
+
+
+																																																																																																																																																															
+						
+																																																		<div class="adunit-leaderboard"> 
+			
+						
+			
+		
+							
+		
+													
+		
+										
+		
+													
+		
+										
+		
+													
+		
+										
+		
+													
+		
+										
+		
+													
+		
+										
+		
+													
+		
+		
+		
+													
+		
+		
+		
+													
+		
+		
+		
+													
+		
+										
+		
+													
+		
+		
+		
+													
+		
+		
+		
+													
+		
+		
+		
+													
+		
+										
+		
+													
+		
+										
+		
+									
+		
+	
+	
+		
+										
+					
+		
+										
+					
+		
+										
+					
+		
+										
+					
+		
+										
+					
+		
+																																		
+					
+		
+																																		
+					
+		
+										
+					
+		
+										
+									<div id="div-gpt-ad-2" class="div-gpt-ad adunit-leaderboard" data-gpt-unitpath="/285/oncsis.nature.com" data-gpt-sizes="160x600" data-gpt-targeting="type=oa;artid=oncsis201637a;issue=5;njreg=UK;pos=right;subjmeta=631,67,2327,327;techmeta=96,47,101,58;sz=160x600;tile=2">
+				<noscript>
+					<a href="//pubads.g.doubleclick.net/gampad/jump?iu=/285/oncsis.nature.com&amp;sz=160x600&amp;t=type=oa;artid=oncsis201637a;issue=5;njreg=UK;pos=right;subjmeta=631,67,2327,327;techmeta=96,47,101,58;sz=160x600;tile=2&amp;c=1084712113017518">
+						<img src="//pubads.g.doubleclick.net/gampad/ad?iu=/285/oncsis.nature.com&amp;sz=160x600&amp;t=type=oa;artid=oncsis201637a;issue=5;njreg=UK;pos=right;subjmeta=631,67,2327,327;techmeta=96,47,101,58;sz=160x600;tile=2&amp;c=1084712113017518" alt="Advertisement" /></a>
+				</noscript>
+			</div>
+
+			</div> 		 
+	 
+	
+			 </div>
+<!-- end skyscraper ad --></div>
+	<!-- global links -->
+	
+
+	
+
+
+
+<div class="cleardiv"><!-- --></div>
+
+
+	
+	
+	
+				
+
+			<p class="back-to-top hidden"><a href="#top" title="Return to the top of this page">Top</a></p>
+	
+	<div id="ftr" class="footer">
+					<div class="cope cope-bottom-align"><a href='http://publicationethics.org/' title='Committee on Publication Ethics - external website.'><img src='/aj/images/logo_cope.gif' alt='' /></a><br/>This journal is a member of and subscribes to the principles of the <a href='http://publicationethics.org/' alt=''>Committee on Publication Ethics</a>.</div>
+			<span class="cleardiv"><!-- --></span>
+							<ul id="footer-journal" class="narrow-journal-info">
+				<li class="journal-name">Oncogenesis</li>												<li class="eissn"><abbr title="Electronic International Standard Serial Number">ISSN (online)</abbr><span class="hidden">:</span> 2157-9024</li>											</ul>
+			<span class="cleardiv"><!-- --></span>
+		
+		<div class="footer-inner">
+
+		<div class="baseline-wrapper">
+													<ul class="footer-links baseline first">
+									<li><a href="/npg/">About us</a></li>
+														<li><a href="/npg_/contact/">Contact us</a></li>
+														<li><a href="/info/accessibility_statement.html">Accessibility statement</a></li>
+														<li><a href="/help/">Help</a></li>
+													</ul>
+							<ul class="footer-links baseline">
+									<li><a href="/info/privacy.html">Privacy policy</a></li>
+														<li><a href="/info/cookies.html">Use of cookies</a></li>
+														<li><a href="/info/legal_notice.html">Legal notice</a></li>
+														<li><a href="/info/tandc.html">Terms</a></li>
+													</ul>
+							<ul class="footer-links baseline last">
+									<li><a href="/naturejobs/">Nature<span class='hidden'> </span>jobs</a></li>
+														<li><a href="http://www.natureasia.com/">Nature Asia</a></li>
+														<li><a href="/scitable/">Nature Education</a></li>
+														<li><a href="/webfeeds/"><abbr title='RDF Site Summary'>RSS</abbr> web feeds</a></li>
+													</ul>
+			
+						<form action="/search/executeSearch" method="get" class="search-form baseline">
+				<fieldset>
+					<label for="footer-search">Search:</label>
+					<input type="text" id="footer-search" name="sp-q" value="" class="text" maxlength="200"/>
+					<input type="hidden" name="sp-p" value="all" />
+					<input type="hidden" name="sp-c" value="25" />
+					<input type="hidden" name="sp-m" value="0" />
+											<input type="hidden" name="sp-s" value="date_descending" />
+															<input type="submit" name="search" value="go" class="button" />
+				</fieldset>
+			</form>
+					</div>
+
+		<span class="cleardiv"><!-- --></span>
+
+					<div id="footer-copyright">
+				<ul class="logo">
+											<li>
+															<img width="140" height="15" alt="Springer Nature" class="logo-image" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAPoAAAAaCAQAAAA0oYk0AAAJO0lEQVR4Ae2aBXjdOBKAt8ztt2VmhmUuM8+M/OrtBt5d4btyu8zMzMzMzMzMzMzMTMk5fR6N/CTFbr4sr6ZJqtFobOm35JGs1ZKpsk5lndX+Tf+MVLo6bQf3wLdQGcn38CgcDaP+6fhxJLys5aGwoVkGt3KJavNXbd5k+AgqLXlGzfhHQ5+c6I15ibIXWV/S4S/ZOLUx/ACVTtmqYAHToQz/Q3NwLsyDeViqpgRdi3yMxlLKswWVw/Rcb3umoEkqKEjYsaAJW2EpS7COWAY9WFs8ksKOOBdPh+vxQbwNzsYVMMAoq4elbglbx7BmJltCk8Iu2aDjC3vUNcqe80HHWckrl64uMwfrbCncRbA+52k815rTWKxU+7gfyWwFUbCOPd+EXTzXmlW4mcc8yD9Y0DSG/ppdii/SsrCeTHcOi7dgP25ybPUyl/Eckhti1HhZuhU2Y22wkdGQJnCI/YDig+wtKq/0yHpxx79nl+FztPWcxn7oLCowyp52Q4fOlv8yXecy0VoCK2sfp/N3cK2SDmJFY2JPnzs83I2zmEf8eDuvhF9UdftAQ/EpbYEzaQGetdLtVtrB6x4Hd+abxRa3eSw+gVGZoXO3eqCHreBuz1W+K2tZQ+gsL6n+adDxQSmDJ9zQqcS6txN+e+gs+Gyut75DqAY6zracRml5I8qHTfzQWfBc/0hnIDg4K3S4vzrocLb3GqfVfKSz4Lthax90FjWOy+BRN3Q83p5HfnvoIvhG2CoDdLVIZ3/yxesCHS+gPfAweF47qcDByZGON0QWB+HDxmVuzgCdEQ+XEZOErkYYdj/jCQBqYwjhuKoQFDcs2Cxoqi2+x8tNCfvGd/A+W+A5tAccDi8ZXo9Ogw43cRk85IH+nFWnoqRtXHYCvFYliSH0UaybUDPoeCbuSafiW2KDBxVDx7cSfXFOVWGZUWGTNOg0dWXnNsAHtGa7IuhLC+t9vESaDZ2zQocrfNDxTG3zgxptvOcbUk7e+WyD73la8l5y1C5vJBENfrpHXTd0fJf/x8Em3ueCHrbTNe4SEKjEonBNo8dne+aJjNDVxoUFt/Hwvm9BP8vqBlor8QbeLA167PJ/us5JLuiRZoJxs+MzQ6+AAa7pvbIOfKlt9nMDrQH0KNFy4+qdPdD30d18YdySu13QVaBr7CYvIzwsK3Q4rmbQI81OYhW2ToUedecziW5/CGemQ6ep2v48eacL9KIAcVYqdJETXdDDvkajetUmdFTiWQ31QN8e94n/92vhRQF3uKDTEdrXWGNYPPLbQzcDSOrjhS4pGI4/FnX8ozSpeuhqokSnbugmJjU6HTq+wW9j1d6GrlB7eyfKpkP/JBguQn380M2ljWrvg67a43eJh/JWF3R8nKOjBU1Vf137F2jxm0MvN+i1KIJ+g9kXekUPAN+wCQuduryRHzpuozVbuKd3ykmjS9pmgL4N3wPtbUOnObJMTIduyXF+6LCLvA0r63ig7xDljuGIompjCW6yoYet8FdZhSSCxsm/NXQ8WHt83Y7ePbsNMIAnLBG8ao+6buiwHn6orQa7oId98QXt6dYs0TvN4RvHTxc0LYaOK7T/a/SE9r0IrqgZ9GAj/ER7PtYXvdOO0fV6ws9x/sCoJdfZ0GF6MoKGCyUm+G2h42Rj0B6SCTonnMbTEwstLoYO7+Cz8I69HBPo8BE+i29AhbGo2yQb9JIOPIXSsmLosJX2d7VMaIZstarQ8W18Ft81bL4JulYHPcqfE+e/DFvB1TZ0PIh1hagIl0os/1tBx7fwuUKOV+F8P+nQJagL8W3D5PmUHblPqU/a5gztyt7ToBuB0GuMlKEbHXhzFuj4E9wjQlub0F2Cv0j329Bxp6q8GgoV/BDAFQ7ovIytCFsX7GWRubzRbwDdlp+JHDtyH5l9IctdI5W1xLvETdiuGujP5PpxLR7ptg1bZIEOnXlnHS9LQjd2E56Mfa1HR+AFAj179O4SvIQtnNB3Lmj0+P4Ary2Gnm/G0z8+zUMIP9UeRtYGdAbmg85xuj969yY11FzEOKG/D1dgqWzvC3RbFGaGHiU8lpdGRdDHch6/ki0U2qDWoP+Cg9OhB8O15keBbq1nvobnY/le5opVhH4364JOYk0bpIz0H6hPRuj5Zguamvmwl7gJeiShqyDfbI/6YmtDxy3zzeY0xkd0/lmGlAl6N+nOBPTOhmad2oCO0/LNVBsjIL3cDx12YZ39yYeh096iswVvyAT9QJnPWJfrLda5flYgNy7fLJoLPhPAGaHjTvgJ7qsG8RkaiUzh2wUNXNF7tdCX8nPPQrnM0KOEJzmgR8nY1jy9NqCrcclVAVTkhqRDx2k+6HhntdC/CuulQ6ctZCbhj9KUExo83KzofXuZsahPBujRqPyQOwrvhPvhm+ROeI2gRwme1JpbMkLneeZnJ/SjRIe7FTYg1AwLuueDS7C+G3q+GX7u/+DiDEafdECPQHI04hNaNx16sJFRcjtOVmvibGOtdD3b4RdJ6GEr/FrXO1g2ncwPLiJhQ4mCbakINqo5dNxG/FDPTNDZ12ku6Ll+5sOAv8LH8IPjjM9nnpE207v3fqq2+mx5Izd03M3QlrqgwyhZ+pW0DVvH0gsqzE0sP3Qd+j3rYcFbPJ7NGThPjr4U5oNgHZ+f6MAIXW2rJXyRkzN+6J69936Gp21WBXrYF3+xoEcJtvV2iEA/MTt0x3p2ejr0sB685oC+i7a9LdEvz2v9ZSnQ+djZT1xmH8bwQ8fZhuXI+AF60Qu9rCXsLlOIlo/Vfz177+nQrVvDa7JDl20QgS7vPPzONSPhDbRWjKQ1PpIVuh0d48Fu6LC7qafFDug3OXffzHnkozTo/HUS37YPotCue9T1QzeDb1kp0Lrwpgd6VdqjLm2AS/EYPB+uoLNpP4VxgRxoxIKA5+xnMJwt5BsYjM1RjgKVIxrPDWIrPhg5r4XWdDe8dVLIMr91YiS0h2V0Nt4Lz+CL+AhdQYfQpkGnuJBH4li1CFfQ8shyMS1QVcc0Q7ZRU9hvSVs5Tcb3yUsi/TiUFQSHJaMgKBMp9JQKOJ/8BoiDxZJfHnvUFV20OrLSggao6Ai4CR7Cx/B2OAMXFp/poU25vrQCyqg8kjyVB8N1XzRHhTvgbrQr7BL93QZXwCKawyHlPyr9m/4PHvcrPqeuy6oAAAAASUVORK5CYII=" />
+														&#169; 2017 Macmillan Publishers Limited, part of Springer Nature. All Rights Reserved.
+						</li>
+										<li> partner of <a href="/info/partners.html">AGORA, HINARI, OARE, INASP, ORCID, CrossRef, COUNTER and COPE</a></li>				</ul>
+			</div>
+				</div>
+	</div>
+
+	</div></div><!-- close constrain divs -->
+
+	<!-- end global links -->
+
+	<!-- super body bottom -->
+<div id="div-gpt-ad-3" class="ad adunit-out-of-page div-gpt-ad out-of-page" data-gpt-unitpath="/285/oncsis.nature.com" data-gpt-targeting="type=oa;artid=oncsis201637a;issue=5;njreg=UK;pos=right;subjmeta=631,67,2327,327;techmeta=96,47,101,58;sz=160x600;tile=2"></div>
+<!-- super javascript -->
+
+
+	
+																																			
+																																														
+																																<script type="text/javascript" src="/super/scripts/jquery.js?c=1504600517903"></script>
+																																		<script type="text/javascript" src="/common/scripts/jquery/plugins/cookie.js?c=1504600517903"></script>
+																																		<script type="text/javascript" src="/common/scripts/message.js?c=1504600517903"></script>
+																																							<script type="text/javascript" src="http://content.readcube.com/ping?doi=10.1038/oncsis.2016.37&format=js&last_modified=2016-05-30"></script>
+																																		<script type="text/javascript" src="/common/scripts/jquery/plugins/baseline.jquery.js?c=1504600517903"></script>
+																																		<script type="text/javascript" src="/common/scripts/global.baseline.js?c=1504600517903"></script>
+																																		<script type="text/javascript" src="/super/scripts/tsedge/tsedge_instr-min.js?c=1504600517903?c=1504600517903"></script>
+						
+	
+	<script type="text/javascript"><!--//--><![CDATA[//><!--
+	(function($) {
+		$('a.popup-this').bind('click', function() {
+			window.open(this.href);
+			return false;
+		});
+	})(jQuery);
+	//--><!]]></script>
+
+	
+
+																																																																																																																																																																																																																																								
+<!--[if IE 6]>
+	<script type="text/javascript" src="/aj/scripts/ie-specific/ie-6.js?c=1504600517903"></script>
+<![endif]-->
+																																																																																																																																																																																																																																																																																																																																																																																																																																																																																
+ 
+
+			<!-- Nielsen/NetRatings SiteCensus V5.3 -->
+	<script type="text/javascript"><!--//--><![CDATA[//><!--
+		var _rsCI="us-nature";
+		var _rsCG="0";
+		var _rsDN="//secure-us.imrworldwide.com/";
+		var _rsPLfl=0;
+		var _rsSE=1;
+		var _rsSM=1.0;
+		var _rsCL=1;
+	//--><!]]></script>
+	<script type="text/javascript" src="/super/scripts/netratings/v53.js?c=1504600517903"></script> 	<noscript>
+		<div><img src="http://secure-us.imrworldwide.com/cgi-bin/m?ci=us-nature&amp;cg=0&amp;cc=1" alt="" /></div>
+	</noscript>
+
+
+
+
+
+	<script type="text/javascript" src="/common/scripts/global.webtrends.js"></script>
+	<noscript>
+		<div><img alt="" id="DCSIMG" width="1" height="1" src="//statse.webtrendslive.com/dcs0zztfg00000s969s37qoal_2f6z/njs.gif?dcsuri=/nojavascript&amp;WT.js=No&amp;WT.tv=10.2.55" /></div>
+	</noscript>
+
+<script src="https://verify.nature.com/verify/nature.js?nocallback=true"></script>
+<noscript>
+	<img src="https://verify.nature.com/verify/nature.png" alt="" width="0" height="0"/>
+</noscript>
+	</body>
+</html>

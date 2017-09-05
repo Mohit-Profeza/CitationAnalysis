@@ -1,0 +1,69 @@
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<script type="text/JavaScript" src="/retrieve/static/script/siteCatalystHelper.js"></script>
+<script type="text/JavaScript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.10.1/jquery.min.js"></script>
+<script src="https://assets.adobedtm.com/376c5346e33126fdb6b2dbac81e307cbacfd7935/satelliteLib-a986ae16a269f0e3b40c8a1e8e66d91745720dcd.js"></script>
+<title>Redirecting</title>
+<META http-equiv=Content-Type content="text/html; charset=utf-8">
+<LINK title="Default Styles" href="/retrieve/static/css/articleLocatorNew.css"
+	rel=stylesheet>
+<LINK title="Default Styles" href="/retrieve/static/css/updateForm.css" rel=stylesheet>
+<script language=JavaScript type="text/javascript">
+var timerStart = Date.now();
+var pageName = "Auto Article Locator";
+	function autoRedirectToURL() {
+		var url = '/retrieve/'+document.getElementById('resultName').value+'?Redirect='+document.getElementById('redirectURL').value+'&key='+document.getElementById('key').value
+		siteCatalyst.clickEventTrack(document.getElementById('id').value);
+		window.location = url;
+	}
+</script>
+</head>
+<body onload="autoRedirectToURL();">
+	<tr style="display:none;">
+  <td colspan="2">
+<input type="hidden" name="redirectURL" value="http%3A%2F%2Fwww.journals.elsevierhealth.com%2Fperiodicals%2Fajpa%2Fretrieve%2Fpii%2FS0002944010002324" id="redirectURL"/>  </td>
+</tr>
+
+	<tr style="display:none;">
+  <td colspan="2">
+<input type="hidden" name="key" value="1a63006cd2fb64d6b6a3dbe75585cf570b2d2860" id="key"/>  </td>
+</tr>
+
+	<tr style="display:none;">
+  <td colspan="2">
+<input type="hidden" name="id" value="S0002944010002324" id="id"/>  </td>
+</tr>
+
+	<tr style="display:none;">
+  <td colspan="2">
+<input type="hidden" name="resultName" value="articleSelectPrefsTemp" id="resultName"/>  </td>
+</tr>
+
+	
+	
+</body>
+<script>
+		siteCatalyst.pageDataLoad({
+			businessUnit : 'ELS:RP:ST',
+            environment : 'prod',
+            language : 'en',
+            loadTime : (Date.now()-timerStart).toString(),
+            loadTimestamp : Date.now().toString(),
+            name : pageName,
+            productName : 'IH',
+            type : 'NP-GP',
+            
+            accessType : 'ih:anon_guest',
+            ipAddress : '139.5.240.251'
+		});
+	</script>
+</html>

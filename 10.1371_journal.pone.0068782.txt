@@ -1,0 +1,1937 @@
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml"
+      xmlns:dc="http://purl.org/dc/terms/"
+      xmlns:doi="http://dx.doi.org/"
+      lang="en" xml:lang="en"
+      itemscope itemtype="http://schema.org/Article"
+      class="no-js">
+
+
+
+<head prefix="og: http://ogp.me/ns#">
+  <title>IDH1/IDH2 Mutations Define the Prognosis and Molecular Profiles of Patients with Gliomas: A Meta-Analysis</title>
+
+
+
+
+
+
+
+<link rel="stylesheet" href="/plosone/resource/compiled/asset_V7OLX4LSII2Y4DADFWUTOT572TJ6EECJ.css" />
+
+  <!-- allows for  extra head tags -->
+
+
+<!-- hello -->
+<link rel="stylesheet" type="text/css"
+      href="https://fonts.googleapis.com/css?family=Open+Sans:400,400i,600">
+
+<link media="print" rel="stylesheet" type="text/css"  href="/plosone/resource/css/print.css"/>
+    <script type="text/javascript">
+        var siteUrlPrefix = "/plosone/";
+    </script>
+<script src="/plosone/resource/compiled/asset_SC5JIUGEUPR4P4P6VBUINUVOVUSU3NRY.js"></script>
+
+  <link rel="shortcut icon" href="/plosone/resource/img/favicon.ico" type="image/x-icon"/>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+
+
+
+
+
+
+  <link rel="canonical" href="http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0068782" />
+  <meta name="description" content="Background Isocitrate dehydrogenase isoforms 1 and 2 (IDH1 and IDH2) mutations have received considerable attention since the discovery of their relation with human gliomas. The predictive value of IDH1 and IDH2 mutations in gliomas remains controversial. Here, we present the results of a meta-analysis of the associations between IDH mutations and both progression-free survival (PFS) and overall survival (OS) in gliomas. The interrelationship between the IDH mutations and MGMT promoter hypermethylation, EGFR amplification, codeletion of chromosomes 1p/19q and TP53 gene mutation were also revealed.  Methodology and Principal Findings An electronic literature search of public databases (PubMed, Embase databases) was performed. In total, 10 articles, including 12 studies in English, with 2,190 total cases were included in the meta-analysis. The IDH mutations were frequent in WHO grade II and III glioma (59.5%) and secondary glioblastomas (63.4%) and were less frequent in primary glioblastomas (7.13%). Our study provides evidence that IDH mutations are tightly associated with MGMT promoter hypermethylation (P&lt;0.001), 1p/19q codeletion (P&lt;0.001) and TP53 gene mutation (P&lt;0.001) but are mutually exclusive with EGFR amplification (P&lt;0.001). This meta-analysis showed that the combined hazard ratio (HR) estimate for overall survival and progression-free survival in patients with IDH mutations was 0.33 (95% CI: 0.25&ndash;0.42) and 0.38 (95% CI: 0.21&ndash;0.68), compared with glioma patients whose tumours harboured the wild-type IDH. Subgroup analyses based on tumour grade also revealed that the presence of IDH mutations was associated with a better outcome.  Conclusion Our study suggests that IDH mutations, which are closely linked to the genomic profile of gliomas, are potential prognostic biomarkers for gliomas." />
+
+  <meta name="keywords" content="Glioma,Meta-analysis,Point mutation,Mutation,Prognosis,Glioblastoma multiforme,Gene amplification,Mutation databases" />
+
+
+<meta name="citation_doi" content="10.1371/journal.pone.0068782"/>
+<meta name="citation_author" content="Peng Zou"/>
+  <meta name="citation_author_institution" content="Department of Neurosurgery, The First Affiliated Hospital, Nanjing Medical University, Nanjing, China"/>
+<meta name="citation_author" content="Haitao Xu"/>
+  <meta name="citation_author_institution" content="Department of Neurosurgery, The First Affiliated Hospital, Nanjing Medical University, Nanjing, China"/>
+<meta name="citation_author" content="Pin Chen"/>
+  <meta name="citation_author_institution" content="Department of Neurosurgery, The First Affiliated Hospital, Nanjing Medical University, Nanjing, China"/>
+<meta name="citation_author" content="Qing Yan"/>
+  <meta name="citation_author_institution" content="Department of Neurosurgery, The First Affiliated Hospital, Nanjing Medical University, Nanjing, China"/>
+<meta name="citation_author" content="Lin Zhao"/>
+  <meta name="citation_author_institution" content="Department of Neurosurgery, The First Affiliated Hospital, Nanjing Medical University, Nanjing, China"/>
+<meta name="citation_author" content="Peng Zhao"/>
+  <meta name="citation_author_institution" content="Department of Neurosurgery, The First Affiliated Hospital, Nanjing Medical University, Nanjing, China"/>
+<meta name="citation_author" content="Aihua Gu"/>
+  <meta name="citation_author_institution" content="School of Public Health, Nanjing Medical University, Nanjing, China"/>
+
+<meta name="citation_title" content="IDH1/IDH2 Mutations Define the Prognosis and Molecular Profiles of Patients with Gliomas: A Meta-Analysis"/>
+<meta itemprop="name" content="IDH1/IDH2 Mutations Define the Prognosis and Molecular Profiles of Patients with Gliomas: A Meta-Analysis"/>
+<meta name="citation_journal_title" content="PLOS ONE"/>
+<meta name="citation_journal_abbrev" content="PLOS ONE"/>
+<meta name="citation_date" content="Jul 22, 2013"/>
+<meta name="citation_firstpage" content="e68782"/>
+<meta name="citation_issue" content="7"/>
+<meta name="citation_volume" content="8"/>
+<meta name="citation_issn" content="1932-6203"/>
+<meta name="citation_publisher" content="Public Library of Science"/>
+
+  <meta name="citation_pdf_url" content="http://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0068782&type=printable">
+
+
+<meta name="dc.identifier" content="10.1371/journal.pone.0068782" />
+
+
+  <meta name="twitter:card" content="summary" />
+  <meta name="twitter:site" content="@plosone"/>
+    <meta name="twitter:title" content="IDH1/IDH2 Mutations Define the Prognosis and Molecular Profiles of Patients with Gliomas: A Meta-Analysis" />
+    <meta property="twitter:description" content="Background Isocitrate dehydrogenase isoforms 1 and 2 (IDH1 and IDH2) mutations have received considerable attention since the discovery of their relation with human gliomas. The predictive value of IDH1 and IDH2 mutations in gliomas remains controversial. Here, we present the results of a meta-analysis of the associations between IDH mutations and both progression-free survival (PFS) and overall survival (OS) in gliomas. The interrelationship between the IDH mutations and MGMT promoter hypermethylation, EGFR amplification, codeletion of chromosomes 1p/19q and TP53 gene mutation were also revealed.  Methodology and Principal Findings An electronic literature search of public databases (PubMed, Embase databases) was performed. In total, 10 articles, including 12 studies in English, with 2,190 total cases were included in the meta-analysis. The IDH mutations were frequent in WHO grade II and III glioma (59.5%) and secondary glioblastomas (63.4%) and were less frequent in primary glioblastomas (7.13%). Our study provides evidence that IDH mutations are tightly associated with MGMT promoter hypermethylation (P&lt;0.001), 1p/19q codeletion (P&lt;0.001) and TP53 gene mutation (P&lt;0.001) but are mutually exclusive with EGFR amplification (P&lt;0.001). This meta-analysis showed that the combined hazard ratio (HR) estimate for overall survival and progression-free survival in patients with IDH mutations was 0.33 (95% CI: 0.25&ndash;0.42) and 0.38 (95% CI: 0.21&ndash;0.68), compared with glioma patients whose tumours harboured the wild-type IDH. Subgroup analyses based on tumour grade also revealed that the presence of IDH mutations was associated with a better outcome.  Conclusion Our study suggests that IDH mutations, which are closely linked to the genomic profile of gliomas, are potential prognostic biomarkers for gliomas." />
+    <meta property="twitter:image" content="http://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0068782.g005&size=inline" />
+
+<meta property="og:type" content="article" />
+<meta property="og:url" content="http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0068782"/>
+<meta property="og:title" content="IDH1/IDH2 Mutations Define the Prognosis and Molecular Profiles of Patients with Gliomas: A Meta-Analysis"/>
+<meta property="og:description" content="Background Isocitrate dehydrogenase isoforms 1 and 2 (IDH1 and IDH2) mutations have received considerable attention since the discovery of their relation with human gliomas. The predictive value of IDH1 and IDH2 mutations in gliomas remains controversial. Here, we present the results of a meta-analysis of the associations between IDH mutations and both progression-free survival (PFS) and overall survival (OS) in gliomas. The interrelationship between the IDH mutations and MGMT promoter hypermethylation, EGFR amplification, codeletion of chromosomes 1p/19q and TP53 gene mutation were also revealed.  Methodology and Principal Findings An electronic literature search of public databases (PubMed, Embase databases) was performed. In total, 10 articles, including 12 studies in English, with 2,190 total cases were included in the meta-analysis. The IDH mutations were frequent in WHO grade II and III glioma (59.5%) and secondary glioblastomas (63.4%) and were less frequent in primary glioblastomas (7.13%). Our study provides evidence that IDH mutations are tightly associated with MGMT promoter hypermethylation (P&lt;0.001), 1p/19q codeletion (P&lt;0.001) and TP53 gene mutation (P&lt;0.001) but are mutually exclusive with EGFR amplification (P&lt;0.001). This meta-analysis showed that the combined hazard ratio (HR) estimate for overall survival and progression-free survival in patients with IDH mutations was 0.33 (95% CI: 0.25&ndash;0.42) and 0.38 (95% CI: 0.21&ndash;0.68), compared with glioma patients whose tumours harboured the wild-type IDH. Subgroup analyses based on tumour grade also revealed that the presence of IDH mutations was associated with a better outcome.  Conclusion Our study suggests that IDH mutations, which are closely linked to the genomic profile of gliomas, are potential prognostic biomarkers for gliomas."/>
+<meta property="og:image" content="http://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0068782.g005&size=inline"/>
+
+<meta name="citation_reference" content="citation_title=The 2007 WHO classification of tumours of the central nervous system;citation_author=DN Louis;citation_author=H Ohgaki;citation_author=OD Wiestler;citation_author=WK Cavenee;citation_author=PC Burger;citation_journal_title=Acta Neuropathol;citation_volume=114;citation_number=114;citation_first_page=97;citation_last_page=109;citation_publication_date=2007;"/>    
+<meta name="citation_reference" content="citation_title=Analysis of the IDH1 codon 132 mutation in brain tumors;citation_author=J Balss;citation_author=J Meyer;citation_author=W Mueller;citation_author=A Korshunov;citation_author=C Hartmann;citation_journal_title=Acta Neuropathol;citation_volume=116;citation_number=116;citation_first_page=597;citation_last_page=602;citation_publication_date=2008;"/>    
+<meta name="citation_reference" content="citation_title=An integrated genomic analysis of human glioblastoma multiforme;citation_author=DW Parsons;citation_author=S Jones;citation_author=X Zhang;citation_author=JC Lin;citation_author=RJ Leary;citation_journal_title=Science;citation_volume=321;citation_number=321;citation_first_page=1807;citation_last_page=1812;citation_publication_date=2008;"/>    
+<meta name="citation_reference" content="citation_title=IDH1 and IDH2 mutations in gliomas;citation_author=H Yan;citation_author=DW Parsons;citation_author=G Jin;citation_author=R McLendon;citation_author=BA Rasheed;citation_journal_title=N Engl J Med;citation_volume=360;citation_number=360;citation_first_page=765;citation_last_page=773;citation_publication_date=2009;"/>    
+<meta name="citation_reference" content="citation_title=Recurring mutations found by sequencing an acute myeloid leukemia genome;citation_author=ER Mardis;citation_author=L Ding;citation_author=DJ Dooling;citation_author=DE Larson;citation_author=MD McLellan;citation_journal_title=N Engl J Med;citation_volume=361;citation_number=361;citation_first_page=1058;citation_last_page=1066;citation_publication_date=2009;"/>    
+<meta name="citation_reference" content="citation_title=IDH1 mutations are early events in the development of astrocytomas and oligodendrogliomas;citation_author=T Watanabe;citation_author=S Nobusawa;citation_author=P Kleihues;citation_author=H Ohgaki;citation_journal_title=Am J Pathol;citation_volume=174;citation_number=174;citation_first_page=1149;citation_last_page=1153;citation_publication_date=2009;"/>    
+<meta name="citation_reference" content="citation_title=The common feature of leukemia-associated IDH1 and IDH2 mutations is a neomorphic enzyme activity converting alpha-ketoglutarate to 2-hydroxyglutarate;citation_author=PS Ward;citation_author=J Patel;citation_author=DR Wise;citation_author=O Abdel-Wahab;citation_author=BD Bennett;citation_journal_title=Cancer Cell;citation_volume=17;citation_number=17;citation_first_page=225;citation_last_page=234;citation_publication_date=2010;"/>    
+<meta name="citation_reference" content="citation_title=Type and frequency of IDH1 and IDH2 mutations are related to astrocytic and oligodendroglial differentiation and age: a study of 1,010 diffuse gliomas;citation_author=C Hartmann;citation_author=J Meyer;citation_author=J Balss;citation_author=D Capper;citation_author=W Mueller;citation_journal_title=Acta Neuropathol;citation_volume=118;citation_number=118;citation_first_page=469;citation_last_page=474;citation_publication_date=2009;"/>    
+<meta name="citation_reference" content="citation_title=Mutagenesis and Laue structures of enzyme intermediates: isocitrate dehydrogenase;citation_author=JM Bolduc;citation_author=DH Dyer;citation_author=WG Scott;citation_author=P Singer;citation_author=RM Sweet;citation_journal_title=Science;citation_volume=268;citation_number=268;citation_first_page=1312;citation_last_page=1318;citation_publication_date=1995;"/>    
+<meta name="citation_reference" content="citation_title=Regulation of singlet oxygen-induced apoptosis by cytosolic NADP+−dependent isocitrate dehydrogenase;citation_author=SY Kim;citation_author=SM Lee;citation_author=JK Tak;citation_author=KS Choi;citation_author=TK Kwon;citation_journal_title=Mol Cell Biochem;citation_volume=302;citation_number=302;citation_first_page=27;citation_last_page=34;citation_publication_date=2007;"/>    
+<meta name="citation_reference" content="citation_title=Glioma-derived mutations in IDH1 dominantly inhibit IDH1 catalytic activity and induce HIF-1alpha;citation_author=S Zhao;citation_author=Y Lin;citation_author=W Xu;citation_author=W Jiang;citation_author=Z Zha;citation_journal_title=Science;citation_volume=324;citation_number=324;citation_first_page=261;citation_last_page=265;citation_publication_date=2009;"/>    
+<meta name="citation_reference" content="citation_title=Molecular predictors of progression-free and overall survival in patients with newly diagnosed glioblastoma: a prospective translational study of the German Glioma Network;citation_author=M Weller;citation_author=J Felsberg;citation_author=C Hartmann;citation_author=H Berger;citation_author=JP Steinbach;citation_journal_title=J Clin Oncol;citation_volume=27;citation_number=27;citation_first_page=5743;citation_last_page=5750;citation_publication_date=2009;"/>    
+<meta name="citation_reference" content="citation_title=IDH1 mutations are present in the majority of common adult gliomas but rare in primary glioblastomas;citation_author=K Ichimura;citation_author=DM Pearson;citation_author=S Kocialkowski;citation_author=LM Backlund;citation_author=R Chan;citation_journal_title=Neuro Oncol;citation_volume=11;citation_number=11;citation_first_page=341;citation_last_page=347;citation_publication_date=2009;"/>    
+<meta name="citation_reference" content="citation_title=Cancer-associated IDH1 mutations produce 2-hydroxyglutarate;citation_author=L Dang;citation_author=DW White;citation_author=S Gross;citation_author=BD Bennett;citation_author=MA Bittinger;citation_journal_title=Nature;citation_volume=462;citation_number=462;citation_first_page=739;citation_last_page=744;citation_publication_date=2009;"/>    
+<meta name="citation_reference" content="citation_title=Oncometabolite 2-hydroxyglutarate is a competitive inhibitor of alpha-ketoglutarate-dependent dioxygenases;citation_author=W Xu;citation_author=H Yang;citation_author=Y Liu;citation_author=Y Yang;citation_author=P Wang;citation_journal_title=Cancer Cell;citation_volume=19;citation_number=19;citation_first_page=17;citation_last_page=30;citation_publication_date=2011;"/>    
+<meta name="citation_reference" content="citation_title=Intrinsic gene expression profiles of gliomas are a better predictor of survival than histology;citation_author=LA Gravendeel;citation_author=MC Kouwenhoven;citation_author=O Gevaert;citation_author=JJ de Rooi;citation_author=AP Stubbs;citation_journal_title=Cancer Res;citation_volume=69;citation_number=69;citation_first_page=9065;citation_last_page=9072;citation_publication_date=2009;"/>    
+<meta name="citation_reference" content="citation_title=IDH1 mutations as molecular signature and predictive factor of secondary glioblastomas;citation_author=S Nobusawa;citation_author=T Watanabe;citation_author=P Kleihues;citation_author=H Ohgaki;citation_journal_title=Clin Cancer Res;citation_volume=15;citation_number=15;citation_first_page=6002;citation_last_page=6007;citation_publication_date=2009;"/>    
+<meta name="citation_reference" content="citation_title=Isocitrate dehydrogenase 1 codon 132 mutation is an important prognostic biomarker in gliomas;citation_author=M Sanson;citation_author=Y Marie;citation_author=S Paris;citation_author=A Idbaih;citation_author=J Laffaire;citation_journal_title=J Clin Oncol;citation_volume=27;citation_number=27;citation_first_page=4150;citation_last_page=4154;citation_publication_date=2009;"/>    
+<meta name="citation_reference" content="citation_title=NOA-04 randomized phase III trial of sequential radiochemotherapy of anaplastic glioma with procarbazine, lomustine, and vincristine or temozolomide;citation_author=W Wick;citation_author=C Hartmann;citation_author=C Engel;citation_author=M Stoffels;citation_author=J Felsberg;citation_journal_title=J Clin Oncol;citation_volume=27;citation_number=27;citation_first_page=5874;citation_last_page=5880;citation_publication_date=2009;"/>    
+<meta name="citation_reference" content="citation_title=The prognostic IDH1( R132 ) mutation is associated with reduced NADP+−dependent IDH activity in glioblastoma;citation_author=FE Bleeker;citation_author=NA Atai;citation_author=S Lamba;citation_author=A Jonker;citation_author=D Rijkeboer;citation_journal_title=Acta Neuropathol;citation_volume=119;citation_number=119;citation_first_page=487;citation_last_page=494;citation_publication_date=2010;"/>    
+<meta name="citation_reference" content="citation_title=DNA methylation, isocitrate dehydrogenase mutation, and survival in glioma;citation_author=BC Christensen;citation_author=AA Smith;citation_author=S Zheng;citation_author=DC Koestler;citation_author=EA Houseman;citation_journal_title=J Natl Cancer Inst;citation_volume=103;citation_number=103;citation_first_page=143;citation_last_page=153;citation_publication_date=2011;"/>    
+
+<meta name="citation_reference" content="Shibahara I, Sonoda Y, Kanamori M, Saito R, Yamashita Y,  et al .. (2011) IDH1/2 gene status defines the prognosis and molecular profiles in patients with grade III gliomas. Int J Clin Oncol."/>
+<meta name="citation_reference" content="citation_title=Molecular prognostic factors of anaplastic oligodendroglial tumors and its relationship: a single institutional review of 77 patients from China;citation_author=S Li;citation_author=C Yan;citation_author=L Huang;citation_author=X Qiu;citation_author=Z Wang;citation_journal_title=Neuro Oncol;citation_volume=14;citation_number=14;citation_first_page=109;citation_last_page=116;citation_publication_date=2012;"/>    
+<meta name="citation_reference" content="citation_title=Significance of IDH mutations varies with tumor histology, grade, and genetics in Japanese glioma patients;citation_author=A Mukasa;citation_author=S Takayanagi;citation_author=K Saito;citation_author=J Shibahara;citation_author=Y Tabei;citation_journal_title=Cancer Sci;citation_volume=103;citation_number=103;citation_first_page=587;citation_last_page=592;citation_publication_date=2012;"/>    
+<meta name="citation_reference" content="citation_title=Correlation of IDH1 mutation with clinicopathologic factors and prognosis in primary glioblastoma: a report of 118 patients from China;citation_author=W Yan;citation_author=W Zhang;citation_author=G You;citation_author=Z Bao;citation_author=Y Wang;citation_journal_title=PLoS ONE;citation_volume=7;citation_number=7;citation_first_page=e30339;citation_publication_date=2012;"/>    
+<meta name="citation_reference" content="citation_title=Practical methods for incorporating summary time-to-event data into meta-analysis;citation_author=JF Tierney;citation_author=LA Stewart;citation_author=D Ghersi;citation_author=S Burdett;citation_author=MR Sydes;citation_journal_title=Trials;citation_volume=8;citation_number=8;citation_first_page=16;citation_publication_date=2007;"/>    
+<meta name="citation_reference" content="citation_title=Operating characteristics of a rank correlation test for publication bias;citation_author=CB Begg;citation_author=M Mazumdar;citation_journal_title=Biometrics;citation_volume=50;citation_number=50;citation_first_page=1088;citation_last_page=1101;citation_publication_date=1994;"/>    
+<meta name="citation_reference" content="citation_title=Bias in meta-analysis detected by a simple, graphical test;citation_author=M Egger;citation_author=G Davey Smith;citation_author=M Schneider;citation_author=C Minder;citation_journal_title=BMJ;citation_volume=315;citation_number=315;citation_first_page=629;citation_last_page=634;citation_publication_date=1997;"/>    
+<meta name="citation_reference" content="citation_title=Isocitrate dehydrogenase 1 and 2 mutations in cancer: alterations at a crossroads of cellular metabolism;citation_author=ZJ Reitman;citation_author=H Yan;citation_journal_title=J Natl Cancer Inst;citation_volume=102;citation_number=102;citation_first_page=932;citation_last_page=941;citation_publication_date=2010;"/>    
+<meta name="citation_reference" content="citation_title=MGMT: its role in cancer aetiology and cancer therapeutics;citation_author=SL Gerson;citation_journal_title=Nat Rev Cancer;citation_volume=4;citation_number=4;citation_first_page=296;citation_last_page=307;citation_publication_date=2004;"/>    
+<meta name="citation_reference" content="citation_title=MGMT gene silencing and benefit from temozolomide in glioblastoma;citation_author=ME Hegi;citation_author=AC Diserens;citation_author=T Gorlia;citation_author=MF Hamou;citation_author=N de Tribolet;citation_journal_title=N Engl J Med;citation_volume=352;citation_number=352;citation_first_page=997;citation_last_page=1003;citation_publication_date=2005;"/>    
+<meta name="citation_reference" content="citation_title=Effects of radiotherapy with concomitant and adjuvant temozolomide versus radiotherapy alone on survival in glioblastoma in a randomised phase III study: 5–year analysis of the EORTC-NCIC trial;citation_author=R Stupp;citation_author=ME Hegi;citation_author=WP Mason;citation_author=MJ van den Bent;citation_author=MJ Taphoorn;citation_journal_title=Lancet Oncol;citation_volume=10;citation_number=10;citation_first_page=459;citation_last_page=466;citation_publication_date=2009;"/>    
+<meta name="citation_reference" content="citation_title=Inactivation of the DNA-repair gene MGMT and the clinical response of gliomas to alkylating agents;citation_author=M Esteller;citation_author=J Garcia-Foncillas;citation_author=E Andion;citation_author=SN Goodman;citation_author=OF Hidalgo;citation_journal_title=N Engl J Med;citation_volume=343;citation_number=343;citation_first_page=1350;citation_last_page=1354;citation_publication_date=2000;"/>    
+<meta name="citation_reference" content="citation_title=Inactivation of the DNA repair gene O6-methylguanine-DNA methyltransferase by promoter hypermethylation is associated with G to A mutations in K-ras in colorectal tumorigenesis;citation_author=M Esteller;citation_author=M Toyota;citation_author=M Sanchez-Cespedes;citation_author=G Capella;citation_author=MA Peinado;citation_journal_title=Cancer Res;citation_volume=60;citation_number=60;citation_first_page=2368;citation_last_page=2371;citation_publication_date=2000;"/>    
+<meta name="citation_reference" content="citation_title=Promoter hypermethylation of the DNA repair gene O(6)-methylguanine-DNA methyltransferase is associated with the presence of G: C to A: T transition mutations in p53 in human colorectal tumorigenesis;citation_author=M Esteller;citation_author=RA Risques;citation_author=M Toyota;citation_author=G Capella;citation_author=V Moreno;citation_journal_title=Cancer Res;citation_volume=61;citation_number=61;citation_first_page=4689;citation_last_page=4692;citation_publication_date=2001;"/>    
+<meta name="citation_reference" content="citation_title=Genetic pathways to primary and secondary glioblastoma;citation_author=H Ohgaki;citation_author=P Kleihues;citation_journal_title=Am J Pathol;citation_volume=170;citation_number=170;citation_first_page=1445;citation_last_page=1453;citation_publication_date=2007;"/>    
+<meta name="citation_reference" content="citation_title=Protein phosphatase activity of PTEN inhibited the invasion of glioma cells with epidermal growth factor receptor mutation type III expression;citation_author=XM Cai;citation_author=BB Tao;citation_author=LY Wang;citation_author=YL Liang;citation_author=JW Jin;citation_journal_title=Int J Cancer;citation_volume=117;citation_number=117;citation_first_page=905;citation_last_page=912;citation_publication_date=2005;"/>    
+<meta name="citation_reference" content="citation_title=p53, the cellular gatekeeper for growth and division;citation_author=AJ Levine;citation_journal_title=Cell;citation_volume=88;citation_number=88;citation_first_page=323;citation_last_page=331;citation_publication_date=1997;"/>    
+<meta name="citation_reference" content="citation_title=Comprehensive genomic characterization defines human glioblastoma genes and core pathways;citation_journal_title=Nature;citation_volume=455;citation_number=455;citation_first_page=1061;citation_last_page=1068;"/>    
+<meta name="citation_reference" content="citation_title=Shared allelic losses on chromosomes 1p and 19q suggest a common origin of oligodendroglioma and oligoastrocytoma;citation_author=JA Kraus;citation_author=J Koopmann;citation_author=P Kaskel;citation_author=D Maintz;citation_author=S Brandner;citation_journal_title=J Neuropathol Exp Neurol;citation_volume=54;citation_number=54;citation_first_page=91;citation_last_page=95;citation_publication_date=1995;"/>    
+<meta name="citation_reference" content="citation_title=IDH1 R132H decreases proliferation of glioma cell lines in vitro and in vivo;citation_author=LB Bralten;citation_author=NK Kloosterhof;citation_author=R Balvers;citation_author=A Sacchetti;citation_author=L Lapre;citation_journal_title=Ann Neurol;citation_volume=69;citation_number=69;citation_first_page=455;citation_last_page=463;citation_publication_date=2011;"/>    
+<meta name="citation_reference" content="citation_title=Oxidative stress and apoptosis: impact on cancer therapy;citation_author=T Ozben;citation_journal_title=J Pharm Sci;citation_volume=96;citation_number=96;citation_first_page=2181;citation_last_page=2196;citation_publication_date=2007;"/>    
+
+
+<!-- DoubleClick overall ad setup script -->
+<script type='text/javascript'>
+  var googletag = googletag || {};
+  googletag.cmd = googletag.cmd || [];
+  (function() {
+    var gads = document.createElement('script');
+    gads.async = true;
+    gads.type = 'text/javascript';
+    var useSSL = 'https:' == document.location.protocol;
+    gads.src = (useSSL ? 'https:' : 'http:') +
+        '//www.googletagservices.com/tag/js/gpt.js';
+    var node = document.getElementsByTagName('script')[0];
+    node.parentNode.insertBefore(gads, node);
+  })();
+</script>
+
+<!-- DoubleClick ad slot setup script -->
+
+  <script id="doubleClickSetupScript" type='text/javascript'>
+    googletag.cmd.push(function() {
+  googletag.defineSlot('/75507958/PONE_728x90_ATF', [728, 90], 'div-gpt-ad-1458247671871-0').addService(googletag.pubads());
+  googletag.defineSlot('/75507958/PONE_160x600_BTF', [160, 600], 'div-gpt-ad-1458247671871-1').addService(googletag.pubads());
+      googletag.pubads().enableSingleRequest();
+      googletag.enableServices();
+    });
+  </script>
+
+
+
+<script type="text/javascript">
+    var WombatConfig = WombatConfig || {};
+    WombatConfig.resourcePath = "/plosone/resource/";
+    WombatConfig.imgPath = "/plosone/resource/img/";
+    WombatConfig.journalKey = "PLoSONE";
+    WombatConfig.figurePath = "/plosone/article/figure/image";
+    WombatConfig.figShareInstitutionString = "plos";
+    WombatConfig.doiResolverPrefix = "http://dx.plos.org/";
+</script>
+
+<script type="text/javascript">
+  var WombatConfig = WombatConfig || {};
+  WombatConfig.metrics = WombatConfig.metrics || {};
+  WombatConfig.metrics.referenceUrl      = "http://lagotto.io/plos";
+  WombatConfig.metrics.googleScholarUrl  = "http://scholar.google.com/scholar";
+  WombatConfig.metrics.googleScholarCitationUrl  = WombatConfig.metrics.googleScholarUrl + "?hl=en&lr=&cites=";
+  WombatConfig.metrics.crossrefUrl  = "http://www.crossref.org";
+</script><script src="//code.jquery.com/jquery-2.1.4.min.js" ></script>
+<script>window.jQuery || document.write('<script src="/plosone/resource/js/vendor/jquery-2.1.4.min.js""><\/script>')</script>
+
+          <script type="text/javascript" src="https://widgets.figshare.com/static/figshare.js"></script>
+
+
+
+
+
+
+
+
+
+
+<!--For Google Tag manager to be able to track site information  -->
+<script>
+
+  dataLayer = [{
+    'mobileSite': 'false',
+    'desktopSite': 'true'
+  }];
+
+</script>
+
+</head>
+
+
+
+<body class="article plosone">
+
+
+<!-- Google Tag Manager -->
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-TP26BH"
+                  height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+    new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+    j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+    '//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-TP26BH');</script>
+
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-MQQMGF"
+                  height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+    new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+    j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+    '//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-MQQMGF');</script>
+<!-- End Google Tag Manager -->
+
+<header>
+  <div id="topslot" class="head-top">
+
+<div class="center">
+<div class="title">Advertisement</div>
+<!-- DoubleClick Ad Zone -->
+  <div class='advertisement' id='div-gpt-ad-1458247671871-0' style='width:728px; height:90px;'>
+    <script type='text/javascript'>
+      googletag.cmd.push(function() { googletag.display('div-gpt-ad-1458247671871-0'); });
+    </script>
+  </div>
+</div>
+  </div>
+
+  <div id="user" class="nav">
+    <ul class="nav-user">
+
+
+
+
+      <li ><a href="http://www.plos.org">plos.org</a></li>
+
+
+        <li ><a href="https://community.plos.org/registration/new">create account</a></li>
+
+
+          <li class="highlighted"><a href="/plosone/user/secure/login?page=%2Fplosone%2Farticle%3Fid%3D10.1371%2Fjournal.pone.0068782">sign in</a></li>
+
+    </ul>
+  </div>
+  <div id="pagehdr">
+
+    <nav class="nav-main">
+
+
+
+
+<h1 class="logo">
+  <a href="/plosone/.">PLOS ONE</a>
+</h1>
+
+<section class="top-bar-section"> 
+
+<ul class="nav-elements">
+
+
+    <li class="multi-col-parent menu-section-header has-dropdown" id="publish">
+    Publish
+      <div class="dropdown mega ">
+        <ul class="multi-col" id="publish-dropdown-list">
+
+  <li class="menu-section-header " id="submissions">
+    <span class="menu-section-header-title">  Submissions </span>
+
+    <ul class="menu-section "
+        id="submissions-dropdown-list">
+      <li>
+    <a href="/plosone/s/getting-started" >Getting Started</a>
+  </li>
+
+      <li>
+    <a href="/plosone/s/submission-guidelines" >Submission Guidelines</a>
+  </li>
+
+      <li>
+    <a href="/plosone/s/figures" >Figures</a>
+  </li>
+
+      <li>
+    <a href="/plosone/s/tables" >Tables</a>
+  </li>
+
+      <li>
+    <a href="/plosone/s/supporting-information" >Supporting Information</a>
+  </li>
+
+      <li>
+    <a href="/plosone/s/latex" >LaTeX</a>
+  </li>
+
+      <li>
+    <a href="/plosone/s/revising-your-manuscript" >Revising Your Manuscript</a>
+  </li>
+
+      <li>
+    <a href="/plosone/s/submit-now" >Submit Now</a>
+  </li>
+
+    </ul>
+
+  </li>
+
+
+  <li class="menu-section-header " id="policies">
+    <span class="menu-section-header-title">  Policies </span>
+
+    <ul class="menu-section "
+        id="policies-dropdown-list">
+      <li>
+    <a href="/plosone/s/best-practices-in-research-reporting" >Best Practices in Research Reporting</a>
+  </li>
+
+      <li>
+    <a href="/plosone/s/human-subjects-research" >Human Subjects Research</a>
+  </li>
+
+      <li>
+    <a href="/plosone/s/animal-research" >Animal Research</a>
+  </li>
+
+      <li>
+    <a href="/plosone/s/competing-interests" >Competing Interests</a>
+  </li>
+
+      <li>
+    <a href="/plosone/s/disclosure-of-funding-sources" >Disclosure of Funding Sources</a>
+  </li>
+
+      <li>
+    <a href="/plosone/s/licenses-and-copyright" >Licenses and Copyright</a>
+  </li>
+
+      <li>
+    <a href="/plosone/s/data-availability" >Data Availability</a>
+  </li>
+
+      <li>
+    <a href="/plosone/s/materials-and-software-sharing" >Materials and Software Sharing</a>
+  </li>
+
+      <li>
+    <a href="/plosone/s/ethical-publishing-practice" >Ethical Publishing Practice</a>
+  </li>
+
+      <li>
+    <a href="/plosone/s/authorship" >Authorship</a>
+  </li>
+
+      <li>
+    <a href="/plosone/s/downloads-and-translations" >Downloads and Translations</a>
+  </li>
+
+    </ul>
+
+  </li>
+
+
+  <li class="menu-section-header " id="manuscript-review-and-publication">
+    <span class="menu-section-header-title">  Manuscript Review and Publication </span>
+
+    <ul class="menu-section "
+        id="manuscript-review-and-publication-dropdown-list">
+      <li>
+    <a href="/plosone/s/criteria-for-publication" >Criteria for Publication</a>
+  </li>
+
+      <li>
+    <a href="/plosone/s/editorial-and-peer-review-process" >Editorial and Peer Review Process</a>
+  </li>
+
+      <li>
+    <a href="/plosone/s/reviewer-guidelines" >Reviewer Guidelines</a>
+  </li>
+
+      <li>
+    <a href="/plosone/s/accepted-manuscripts" >Accepted Manuscripts</a>
+  </li>
+
+      <li>
+    <a href="/plosone/s/corrections-and-retractions" >Corrections and Retractions</a>
+  </li>
+
+      <li>
+    <a href="/plosone/s/comments" >Comments</a>
+  </li>
+
+      <li>
+    <a href="/plosone/s/article-level-metrics" >Article-Level Metrics</a>
+  </li>
+
+    </ul>
+
+  </li>
+        </ul>
+          <div class="calloutcontainer">
+
+
+
+  <h3 class="callout-headline">Submit Your Manuscript</h3>
+
+  <div class="action-contain">
+  <p class="callout-content">
+  Discover a faster, simpler path to publishing in a high-quality journal. <em>PLOS ONE</em> promises fair, rigorous peer review,
+  broad scope, and wide readership – a perfect fit for your research every time.
+  </p>
+
+  <p class="button-contain special">
+    <a class="button button-default" href="/plosone/static/publish">
+     Learn More
+    </a>
+    <a class="button-link" href="http://www.editorialmanager.com/pone/default.asp">
+      Submit Now
+    </a>
+  </p>
+  </div>  <!-- opens in siteMenuCalloutDescription -->
+
+
+          </div>
+      </div>
+    </li>
+
+
+
+  <li class="menu-section-header has-dropdown " id="about">
+    <span class="menu-section-header-title">  About </span>
+
+    <ul class="menu-section dropdown "
+        id="about-dropdown-list">
+      <li>
+    <a href="/plosone/static/publish" >Why Publish with PLOS ONE</a>
+  </li>
+
+      <li>
+    <a href="/plosone/s/journal-information" >Journal Information</a>
+  </li>
+
+      <li>
+    <a href="/plosone/s/staff-editors" >Staff Editors</a>
+  </li>
+
+      <li>
+    <a href="/plosone/static/editorial-board" >Editorial Board</a>
+  </li>
+
+      <li>
+    <a href="/plosone/s/section-editors" >Section Editors</a>
+  </li>
+
+      <li>
+    <a href="/plosone/s/advisory-groups" >Advisory Groups</a>
+  </li>
+
+      <li>
+    <a href="/plosone/s/publishing-information" >Publishing Information</a>
+  </li>
+
+      <li>
+    <a href="/plosone/s/publication-fees" >Publication Fees</a>
+  </li>
+
+      <li>
+    <a href="/plosone/s/press-and-media" >Press and Media</a>
+  </li>
+
+      <li>
+    <a href="/plosone/s/contact" >Contact</a>
+  </li>
+
+    </ul>
+
+  </li>
+
+  <li data-js-tooltip-hover="trigger" class="subject-area menu-section-header">
+  Browse
+  </li>
+
+
+
+
+  <li id="navsearch" class="head-search">
+    <form name="searchForm" action="/plosone/search" method="get">
+      <fieldset>
+        <legend>Search</legend>
+        <label for="search">Search</label>
+        <input id="search" type="text" name="q" placeholder="Search" required/>
+        <button id="headerSearchButton" type="submit"><span class="search-icon"></span></button>
+
+      </fieldset>
+      <input type="hidden" name="filterJournals" value="PLoSONE"/>
+    </form>
+
+    <a id="advSearch"
+       href="/plosone/search">
+      advanced search
+    </a>
+
+  </li>
+
+
+
+
+
+      </ul>     
+      </section>  
+    </nav>
+  </div>
+
+</header><section id="taxonomyContainer">
+
+<div id="taxonomy-browser" class="areas" data-search-url="/plosone/browse">
+  <div class="wrapper">
+    <div class="taxonomy-header">
+      Browse Subject Areas
+      <div id="subjInfo">?</div>
+      <div id="subjInfoText">
+        <p>Click through the PLOS taxonomy to find articles in your field.</p>
+        <p>For more information about PLOS Subject Areas, click
+          <a href="/plosone/s/help-using-this-site#loc-subject-areas">here</a>.
+        </p>
+      </div>
+    </div>
+    <div class="levels">
+      <div class="levels-container cf">
+        <div class="levels-position"></div>
+      </div>
+      <a href="#" class="prev"></a>
+      <a href="#" class="next active"></a>
+    </div>
+  </div>
+  <div class="taxonomy-browser-border-bottom"></div>
+</div></section>
+<main> <div class="set-grid">
+
+<header class="title-block">
+
+
+
+
+<ul id="almSignposts" class="signposts">
+  <li id="loadingMetrics">
+    <p>Loading metrics</p>
+  </li>
+</ul>
+
+<script type="text/template" id="signpostsGeneralErrorTemplate">
+  <li id="metricsError">Article metrics are unavailable at this time. Please try again later.</li>
+</script>
+
+<script type="text/template" id="signpostsNewArticleErrorTemplate">
+  <li></li><li></li><li id="tooSoon">Article metrics are unavailable for recently published articles.</li>
+</script>
+
+<script type="text/template" id="signpostsTemplate">
+    <li id="almSaves">
+      <%= s.numberFormat(saveCount, 0) %>
+      <div class="tools" data-js-tooltip-hover="trigger">
+        <a class="metric-term" href="/plosone/article/metrics?id=10.1371/journal.pone.0068782#savedHeader">Save</a>
+        <p class="saves-tip" data-js-tooltip-hover="target"><a href="/plosone/article/metrics?id=10.1371/journal.pone.0068782#savedHeader">Total Mendeley and CiteULike bookmarks.</a></p>
+      </div>
+    </li>
+
+    <li id="almCitations">
+      <%= s.numberFormat(citationCount, 0) %>
+      <div class="tools" data-js-tooltip-hover="trigger">
+        <a class="metric-term" href="/plosone/article/metrics?id=10.1371/journal.pone.0068782#citedHeader">Citation</a>
+        <p class="citations-tip" data-js-tooltip-hover="target"><a href="/plosone/article/metrics?id=10.1371/journal.pone.0068782#citedHeader">Paper's citation count computed by Scopus.</a></p>
+      </div>
+    </li>
+
+    <li id="almViews">
+      <%= s.numberFormat(viewCount, 0) %>
+      <div class="tools" data-js-tooltip-hover="trigger">
+        <a class="metric-term" href="/plosone/article/metrics?id=10.1371/journal.pone.0068782#viewedHeader">View</a>
+        <p class="views-tip" data-js-tooltip-hover="target"><a href="/plosone/article/metrics?id=10.1371/journal.pone.0068782#viewedHeader">Sum of PLOS and PubMed Central page views and downloads.</a></p>
+      </div>
+    </li>
+
+    <li id="almShares">
+      <%= s.numberFormat(shareCount, 0) %>
+      <div class="tools" data-js-tooltip-hover="trigger">
+        <a class="metric-term" href="/plosone/article/metrics?id=10.1371/journal.pone.0068782#discussedHeader">Share</a>
+        <p class="shares-tip" data-js-tooltip-hover="target"><a href="/plosone/article/metrics?id=10.1371/journal.pone.0068782#discussedHeader">Sum of Facebook and Twitter activity.</a></p>
+      </div>
+    </li>
+</script>
+
+    <div class="article-meta">
+
+<div class="classifications">
+  <p class="license-short" id="licenseShort">Open Access</p>
+  <p class="peer-reviewed" id="peerReviewed">Peer-reviewed</p>
+
+<div class="article-type" >
+  <p class="type-article" id="artType">Research Article</p>
+</div>
+
+
+</div>
+
+
+    </div>
+    <div class="article-title-etc">
+
+
+
+<div class="title-authors">
+  <h1 id="artTitle"><?xml version="1.0" encoding="UTF-8"?>IDH1/IDH2 Mutations Define the Prognosis and Molecular Profiles of Patients with Gliomas: A Meta-Analysis</h1>
+
+<ul class="author-list clearfix"  data-js-tooltip="tooltip_container" id="author-list">
+
+
+
+<li
+  data-js-tooltip="tooltip_trigger"
+  
+>
+   <a  data-author-id="0" class="author-name" >
+Peng Zou,</a>    <div id="author-meta-0" class="author-info" data-js-tooltip="tooltip_target">
+
+  
+  
+  <p id="authAffiliations-0"><span class="type">Affiliation</span>
+    Department of Neurosurgery, The First Affiliated Hospital, Nanjing Medical University, Nanjing, China
+  </p>
+
+      <a data-js-tooltip="tooltip_close" class="close" id="tooltipClose0"> &#x02A2F; </a>
+    </div>
+</li>
+
+<li
+  data-js-tooltip="tooltip_trigger"
+  
+>
+   <a  data-author-id="1" class="author-name" >
+Haitao Xu,</a>    <div id="author-meta-1" class="author-info" data-js-tooltip="tooltip_target">
+
+  
+  
+  <p id="authAffiliations-1"><span class="type">Affiliation</span>
+    Department of Neurosurgery, The First Affiliated Hospital, Nanjing Medical University, Nanjing, China
+  </p>
+
+      <a data-js-tooltip="tooltip_close" class="close" id="tooltipClose1"> &#x02A2F; </a>
+    </div>
+</li>
+
+<li
+  data-js-tooltip="tooltip_trigger"
+  
+>
+   <a  data-author-id="2" class="author-name" >
+Pin Chen,</a>    <div id="author-meta-2" class="author-info" data-js-tooltip="tooltip_target">
+
+  
+  
+  <p id="authAffiliations-2"><span class="type">Affiliation</span>
+    Department of Neurosurgery, The First Affiliated Hospital, Nanjing Medical University, Nanjing, China
+  </p>
+
+      <a data-js-tooltip="tooltip_close" class="close" id="tooltipClose2"> &#x02A2F; </a>
+    </div>
+</li>
+
+<li
+  data-js-tooltip="tooltip_trigger"
+  
+>
+   <a  data-author-id="3" class="author-name" >
+Qing Yan,</a>    <div id="author-meta-3" class="author-info" data-js-tooltip="tooltip_target">
+
+  
+  
+  <p id="authAffiliations-3"><span class="type">Affiliation</span>
+    Department of Neurosurgery, The First Affiliated Hospital, Nanjing Medical University, Nanjing, China
+  </p>
+
+      <a data-js-tooltip="tooltip_close" class="close" id="tooltipClose3"> &#x02A2F; </a>
+    </div>
+</li>
+
+<li
+  data-js-tooltip="tooltip_trigger"
+  
+>
+   <a  data-author-id="4" class="author-name" >
+Lin Zhao,</a>    <div id="author-meta-4" class="author-info" data-js-tooltip="tooltip_target">
+
+  
+  
+  <p id="authAffiliations-4"><span class="type">Affiliation</span>
+    Department of Neurosurgery, The First Affiliated Hospital, Nanjing Medical University, Nanjing, China
+  </p>
+
+      <a data-js-tooltip="tooltip_close" class="close" id="tooltipClose4"> &#x02A2F; </a>
+    </div>
+</li>
+
+<li
+  data-js-tooltip="tooltip_trigger"
+  
+>
+   <a  data-author-id="5" class="author-name" >
+Peng Zhao <span class="email">  </span>,</a>    <div id="author-meta-5" class="author-info" data-js-tooltip="tooltip_target">
+
+  
+  <p id="authCorresponding-5"> <span class="email">* E-mail:</span> <a href="mailto:zhaopeng@njmu.edu.cn">zhaopeng@njmu.edu.cn</a> (P. Zhao); <a href="mailto:aihuagu@njmu.edu.cn">aihuagu@njmu.edu.cn</a> (AG)</p>
+  <p id="authAffiliations-5"><span class="type">Affiliation</span>
+    Department of Neurosurgery, The First Affiliated Hospital, Nanjing Medical University, Nanjing, China
+  </p>
+
+      <a data-js-tooltip="tooltip_close" class="close" id="tooltipClose5"> &#x02A2F; </a>
+    </div>
+</li>
+
+<li
+  data-js-tooltip="tooltip_trigger"
+  
+>
+   <a  data-author-id="6" class="author-name" >
+Aihua Gu <span class="email">  </span></a>    <div id="author-meta-6" class="author-info" data-js-tooltip="tooltip_target">
+
+  
+  <p id="authCorresponding-6"> <span class="email">* E-mail:</span> <a href="mailto:zhaopeng@njmu.edu.cn">zhaopeng@njmu.edu.cn</a> (P. Zhao); <a href="mailto:aihuagu@njmu.edu.cn">aihuagu@njmu.edu.cn</a> (AG)</p>
+  <p id="authAffiliations-6"><span class="type">Affiliation</span>
+    School of Public Health, Nanjing Medical University, Nanjing, China
+  </p>
+
+      <a data-js-tooltip="tooltip_close" class="close" id="tooltipClose6"> &#x02A2F; </a>
+    </div>
+</li>
+
+</ul>
+
+</div>
+
+
+<div id="floatTitleTop" data-js-floater="title_author" class="float-title">
+  <div class="set-grid">
+    <div class="float-title-inner">
+      <h1><?xml version="1.0" encoding="UTF-8"?>IDH1/IDH2 Mutations Define the Prognosis and Molecular Profiles of Patients with Gliomas: A Meta-Analysis</h1>
+
+<ul id="floatAuthorList" data-js-floater="floated_authors">
+
+  <li data-float-index="1">Peng Zou,&nbsp;
+
+  </li>
+  <li data-float-index="2">Haitao Xu,&nbsp;
+
+  </li>
+  <li data-float-index="3">Pin Chen,&nbsp;
+
+  </li>
+  <li data-float-index="4">Qing Yan,&nbsp;
+
+  </li>
+  <li data-float-index="5">Lin Zhao,&nbsp;
+
+  </li>
+  <li data-float-index="6">Peng Zhao,&nbsp;
+
+  </li>
+  <li data-float-index="7">Aihua Gu
+
+  </li>
+
+</ul>
+
+
+
+    </div>
+    <div class="logo-close" id="titleTopCloser">
+      <img src="/plosone/resource/img/logo.plos.95.png" alt="PLOS" />
+      <div class="close-floater" title="close">x</div>
+    </div>
+  </div>
+</div>
+
+      <ul class="date-doi">
+        <li id="artPubDate">Published: July 22, 2013</li>
+        <li id="artDoi">
+<a   href="https://doi.org/10.1371/journal.pone.0068782">https://doi.org/10.1371/journal.pone.0068782</a>
+            </li>
+      </ul>
+
+    </div>
+  <div>
+
+  </div>
+</header>
+
+  <section class="article-body">
+
+
+
+<ul class="article-tabs">
+
+        <li class="tab-title active" id="tabArticle">
+          <a href="/plosone/article?id=10.1371/journal.pone.0068782" class="article-tab-1">Article</a>
+      </li>
+
+
+            <li class="tab-title " id="tabAuthors">
+          <a href="/plosone/article/authors?id=10.1371/journal.pone.0068782" class="article-tab-2">Authors</a>
+      </li>
+
+
+        <li class="tab-title " id="tabMetrics">
+          <a href="/plosone/article/metrics?id=10.1371/journal.pone.0068782" class="article-tab-3">Metrics</a>
+      </li>
+
+        <li class="tab-title " id="tabComments">
+          <a href="/plosone/article/comments?id=10.1371/journal.pone.0068782" class="article-tab-4">Comments</a>
+      </li>
+
+        <li class="tab-title " id="tabRelated">
+          <a href="/plosone/article/related?id=10.1371/journal.pone.0068782" class="article-tab-5">Related Content</a>
+      </li>
+
+</ul>
+
+    <div class="article-container">
+
+
+<div id="nav-article">
+  <ul class="nav-secondary">
+
+    <li class="nav-comments" id="nav-comments">
+      <a href="article/comments?id=10.1371/journal.pone.0068782">Reader Comments (0)</a>
+    </li>
+
+    <li class="nav-media" id="nav-media" data-doi="10.1371/journal.pone.0068782">
+      <a href="/plosone/article/related?id=10.1371/journal.pone.0068782">
+        Media Coverage <span id="media-coverage-count"></span>
+      </a>
+    </li>
+
+    <li id="nav-figures"><a href="#" data-doi="10.1371/journal.pone.0068782">Figures</a></li>
+  </ul>
+</div>
+
+<div id="figure-lightbox-container"></div>
+
+<script id="figure-lightbox-template" type="text/template">
+  <div id="figure-lightbox" class="reveal-modal full" data-reveal aria-hidden="true"
+       role="dialog">
+    <div class="lb-header">
+      <h1 id="lb-title"><%= articleTitle %></h1>
+
+      <div id="lb-authors">
+        <% authorList.split(',').forEach(function (author) { %>
+        <span><%= author.trim() %></span>
+        <% }) %>
+      </div>
+
+      <div class="lb-close" title="close">&nbsp;</div>
+    </div>
+    <div class="img-container">
+      <div class="loader"> <i class="fa-spinner"></i> </div>
+      <img class="main-lightbox-image" src=""/>
+      <aside id="figures-list">
+        <% figureList.each(function (ix, figure) { %>
+        <div class="change-img" data-doi="<%= figure.getAttribute('data-doi') %>">
+          <img class="aside-figure" src="/plosone/article/figure/image?size=inline&id=<%= figure.getAttribute('data-doi') %>" />
+        </div>
+        <% }) %>
+        <div class="dummy-figure">
+        </div>
+      </aside>
+    </div>
+    <div id="lightbox-footer">
+
+      <div id="btns-container" class="lightbox-row <% if(figureList.length <= 1) { print('one-figure-only') } %>">
+        <div class="fig-btns-container reset-zoom-wrapper left">
+          <span class="fig-btn reset-zoom-btn">Reset zoom</span>
+        </div>
+        <div class="zoom-slider-container">
+          <div class="range-slider-container">
+            <span id="lb-zoom-min"></span>
+            <div class="range-slider round" data-slider data-options="start: 20; end: 200; initial: 20;">
+              <span class="range-slider-handle" role="slider" tabindex="0"></span>
+              <span class="range-slider-active-segment"></span>
+              <input type="hidden">
+            </div>
+            <span id="lb-zoom-max"></span>
+          </div>
+        </div>
+        <% if(figureList.length > 1) { %>
+        <div class="fig-btns-container">
+          <span class="fig-btn all-fig-btn"><i class="icon icon-all"></i> All Figures</span>
+          <span class="fig-btn next-fig-btn"><i class="icon icon-next"></i> Next</span>
+          <span class="fig-btn prev-fig-btn"><i class="icon icon-prev"></i> Previous</span>
+        </div>
+        <% } %>
+      </div>
+      <div id="image-context">
+      </div>
+    </div>
+  </div>
+</script>
+
+<script id="image-context-template" type="text/template">
+  <div class="footer-text">
+    <div id="figure-description-wrapper">
+      <div id="view-more-wrapper" style="<% descriptionExpanded? print('display:none;') : '' %>">
+        <span id="figure-title"><%= title %></span>
+        <p id="figure-description">
+          <%= description %>&nbsp;&nbsp;
+        </p>
+        <span id="view-more">show more<i class="icon-arrow-right"></i></span>
+
+      </div>
+      <div id="view-less-wrapper" style="<% descriptionExpanded? print('display:inline-block;') : '' %>" >
+        <span id="figure-title"><%= title %></span>
+        <p id="full-figure-description">
+          <%= description %>&nbsp;&nbsp;
+          <span id="view-less">show less<i class="icon-arrow-left"></i></span>
+        </p>
+      </div>
+    </div>
+  </div>
+  <div id="show-context-container">
+    <a class="btn show-context" href="<%= showInContext(strippedDoi) %>">Show in Context</a>
+  </div>
+  <div id="download-buttons">
+    <h3>Download:</h3>
+    <div class="item">
+      <a href="/plosone/article/figure/image?size=original&download=&id=<%= doi %>" title="original image">
+        <span class="download-btn">TIFF</span>
+      </a>
+      <span class="file-size"><%= fileSizes.original %></span>
+    </div>
+    <div class="item">
+      <a href="/plosone/article/figure/image?size=large&download=&id=<%= doi %>" title="large image">
+        <span class="download-btn">PNG</span>
+      </a>
+      <span class="file-size"><%= fileSizes.large %></span>
+    </div>
+    <div class="item">
+      <a href="/plosone/article/figure/powerpoint?id=<%= doi %>" title="PowerPoint slide">
+        <span class="download-btn">PPT</span>
+      </a>
+    </div>
+
+  </div>
+</script>
+      <div class="article-content">
+
+
+
+
+
+
+
+
+<div id="figure-carousel-section">
+  <h2>Figures</h2>
+
+  <div id="figure-carousel">
+
+    <div class="carousel-wrapper">
+      <div class="slider">
+
+          <div class="carousel-item lightbox-figure" data-doi="10.1371/journal.pone.0068782.g001">
+
+                <img src="/plosone/article/figure/image?size=inline&amp;id=10.1371/journal.pone.0068782.g001"
+                     alt="Figure 1"
+                />
+
+            </div>
+
+          <div class="carousel-item lightbox-figure" data-doi="10.1371/journal.pone.0068782.t001">
+
+                <img src="/plosone/article/figure/image?size=inline&amp;id=10.1371/journal.pone.0068782.t001"
+                     alt="Table 1"
+                />
+
+            </div>
+
+          <div class="carousel-item lightbox-figure" data-doi="10.1371/journal.pone.0068782.t002">
+
+                <img src="/plosone/article/figure/image?size=inline&amp;id=10.1371/journal.pone.0068782.t002"
+                     alt="Table 2"
+                />
+
+            </div>
+
+          <div class="carousel-item lightbox-figure" data-doi="10.1371/journal.pone.0068782.g002">
+
+                <img src="/plosone/article/figure/image?size=inline&amp;id=10.1371/journal.pone.0068782.g002"
+                     alt="Figure 2"
+                />
+
+            </div>
+
+          <div class="carousel-item lightbox-figure" data-doi="10.1371/journal.pone.0068782.g003">
+
+                <img src="/plosone/article/figure/image?size=inline&amp;id=10.1371/journal.pone.0068782.g003"
+                     alt="Figure 3"
+                />
+
+            </div>
+
+          <div class="carousel-item lightbox-figure" data-doi="10.1371/journal.pone.0068782.t003">
+
+                <img src="/plosone/article/figure/image?size=inline&amp;id=10.1371/journal.pone.0068782.t003"
+                     alt="Table 3"
+                />
+
+            </div>
+
+          <div class="carousel-item lightbox-figure" data-doi="10.1371/journal.pone.0068782.g004">
+
+                <img src="/plosone/article/figure/image?size=inline&amp;id=10.1371/journal.pone.0068782.g004"
+                     alt="Figure 4"
+                />
+
+            </div>
+
+          <div class="carousel-item lightbox-figure" data-doi="10.1371/journal.pone.0068782.g005">
+
+                <img src="/plosone/article/figure/image?size=inline&amp;id=10.1371/journal.pone.0068782.g005"
+                     alt="Figure 5"
+                />
+
+            </div>
+      </div>
+    </div>
+
+    <div class="carousel-control">
+      <span class="button previous"></span>
+      <span class="button next"></span>
+    </div>
+    <div class="carousel-page-buttons">
+
+    </div>
+  </div>
+</div>
+
+
+        <div class="article-text" id="artText">
+        
+
+
+
+<div class="abstract toc-section"><a id="abstract0" name="abstract0" data-toc="abstract0" class="link-target" title="Abstract"></a><h2>Abstract</h2>
+<div id="section1" class="section toc-section"><a id="" name="" class="link-target" title="Background"></a>
+<h3>Background</h3>
+<a id="article1.front1.article-meta1.abstract1.sec1.p1" name="article1.front1.article-meta1.abstract1.sec1.p1" class="link-target"></a><p>Isocitrate dehydrogenase isoforms 1 and 2 (IDH1 and <em>IDH2</em>) mutations have received considerable attention since the discovery of their relation with human gliomas. The predictive value of IDH1 and <em>IDH2</em> mutations in gliomas remains controversial. Here, we present the results of a meta-analysis of the associations between IDH mutations and both progression-free survival (PFS) and overall survival (OS) in gliomas. The interrelationship between the IDH mutations and <em>MGMT</em> promoter hypermethylation, <em>EGFR</em> amplification, codeletion of chromosomes 1p/19q and <em>TP53</em> gene mutation were also revealed.</p>
+</div>
+
+<div id="section2" class="section toc-section"><a id="" name="" class="link-target" title="Methodology and Principal Findings"></a>
+<h3>Methodology and Principal Findings</h3>
+<a id="article1.front1.article-meta1.abstract1.sec2.p1" name="article1.front1.article-meta1.abstract1.sec2.p1" class="link-target"></a><p>An electronic literature search of public databases (PubMed, Embase databases) was performed. In total, 10 articles, including 12 studies in English, with 2,190 total cases were included in the meta-analysis. The IDH mutations were frequent in WHO grade II and III glioma (59.5%) and secondary glioblastomas (63.4%) and were less frequent in primary glioblastomas (7.13%). Our study provides evidence that IDH mutations are tightly associated with <em>MGMT</em> promoter hypermethylation (<em>P</em>&lt;0.001), 1p/19q codeletion (<em>P</em>&lt;0.001) and <em>TP53</em> gene mutation (<em>P</em>&lt;0.001) but are mutually exclusive with <em>EGFR</em> amplification (<em>P</em>&lt;0.001). This meta-analysis showed that the combined hazard ratio (HR) estimate for overall survival and progression-free survival in patients with <em>IDH</em> mutations was 0.33 (95% CI: 0.25–0.42) and 0.38 (95% CI: 0.21–0.68), compared with glioma patients whose tumours harboured the wild-type <em>IDH</em>. Subgroup analyses based on tumour grade also revealed that the presence of <em>IDH</em> mutations was associated with a better outcome.</p>
+</div>
+
+<div id="section3" class="section toc-section"><a id="" name="" class="link-target" title="Conclusion"></a>
+<h3>Conclusion</h3>
+<a id="article1.front1.article-meta1.abstract1.sec3.p1" name="article1.front1.article-meta1.abstract1.sec3.p1" class="link-target"></a><p>Our study suggests that IDH mutations, which are closely linked to the genomic profile of gliomas, are potential prognostic biomarkers for gliomas.</p>
+</div>
+</div>
+
+
+<div class="articleinfo"><p><strong>Citation: </strong>Zou P, Xu H, Chen P, Yan Q, Zhao L, Zhao P, et al.  (2013) IDH1/IDH2 Mutations Define the Prognosis and Molecular Profiles of Patients with Gliomas: A Meta-Analysis. PLoS ONE 8(7):
+        e68782.
+        https://doi.org/10.1371/journal.pone.0068782</p><p><strong>Editor: </strong>Isaac Yang, UCLA, United States of America</p><p><strong>Received: </strong>January 7, 2013; <strong>Accepted: </strong>May 31, 2013; <strong>Published: </strong> July 22, 2013</p><p><strong>Copyright: </strong> © 2013 Zou et al. This is an open-access article distributed under the terms of the Creative Commons Attribution License, which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.</p><p><strong>Funding: </strong>This work was supported by the National Natural Science Foundation of China (grant No. 81172694); the Grant for the 135 Key Medical Project of Jiangsu Province (No. XK201117); the practice innovation training program projects for the Jiangsu College students; and the Priority Academic Program Development of Jiangsu Higher Education Institutions. The funders had no role in study design, data collection and analysis.</p><p><strong>Competing interests: </strong> The authors have declared that no competing interests exist.</p></div>
+
+
+
+
+
+<div id="section1" class="section toc-section"><a id="s1" name="s1" data-toc="s1" class="link-target" title="Introduction"></a><h2>Introduction</h2><a id="article1.body1.sec1.p1" name="article1.body1.sec1.p1" class="link-target"></a><p>Gliomas, which are the most common primary intracranial tumours, are classified as grade I to grade IV, according to the 2007 WHO Classification of Tumours of the Central Nervous System <a href="#pone.0068782-Louis1" class="ref-tip">[1]</a>. Despite advances in diagnostic and therapeutic techniques, the prognosis for most glioma patients remains dismal. Histomorphological criteria alone are not sufficient to predict the clinical outcome of gliomas. Thus, new avenues must be taken to integrate the molecular advances with the histological assessment of gliomas.</p>
+<a id="article1.body1.sec1.p2" name="article1.body1.sec1.p2" class="link-target"></a><p>Recently, the sequencing of human gliomas has identified mutations in the isocitrate dehydrogenase 1 and 2 (<em>IDH1</em> and <em>IDH2</em>) genes <a href="#pone.0068782-Balss1" class="ref-tip">[2]</a>–<a href="#pone.0068782-Yan1" class="ref-tip">[4]</a>. <em>IDH</em> mutations are relatively glioma-specific. However, <em>IDH1</em> and <em>IDH2</em> mutations are also found in acute myeloid leukaemia (AML) <a href="#pone.0068782-Mardis1" class="ref-tip">[5]</a>. The <em>IDH</em> gene mutations are found frequently in malignant gliomas and are likely to be involved in the early stage of gliomagenesis, even before <em>TP53</em> mutations or loss of 1p and 19q <a href="#pone.0068782-Watanabe1" class="ref-tip">[6]</a>. The IDH1 mutations occur in the highly conserved residue R132, which is in the catalytic domain, where it binds to its substrate. The mutations in IDH2 consistently occur at the analogous amino acid R172 <a href="#pone.0068782-Ward1" class="ref-tip">[7]</a>, which is functionally equivalent to amino acid 132 of IDH1. <em>IDH1</em> mutations have been found in approximately 80% of grades II-III gliomas and secondary glioblastomas but have been found in less than 10% of primary glioblastomas <a href="#pone.0068782-Balss1" class="ref-tip">[2]</a>, <a href="#pone.0068782-Yan1" class="ref-tip">[4]</a>, <a href="#pone.0068782-Watanabe1" class="ref-tip">[6]</a>. The IDH2 mutations have also been described in gliomas, although at a lower frequency <a href="#pone.0068782-Yan1" class="ref-tip">[4]</a>, <a href="#pone.0068782-Hartmann1" class="ref-tip">[8]</a>. The IDH1 and IDH2 enzymes catalyse oxidative decarboxylation of isocitrate into α-ketoglutarate (aKG), thereby reducing NADP to NADPH <a href="#pone.0068782-Bolduc1" class="ref-tip">[9]</a>, <a href="#pone.0068782-Kim1" class="ref-tip">[10]</a>. The tumourigenic potential of a mutant IDH protein is under intense investigation. First, a heterozygous point mutation in codon 132 impairs the interaction of the enzyme with isocitrate both sterically and electrostatically, and the mutant IDH1 molecules dominantly inhibit the activity of wild-type IDH1 by forming a catalytically inactive heterodimer <a href="#pone.0068782-Zhao1" class="ref-tip">[11]</a>. Second, the mutations cause reduced formation of aKG and decreased cytoplasmic levels of aKG increase levels of hypoxia-inducible factor subunit HIF-1alpha <a href="#pone.0068782-Zhao1" class="ref-tip">[11]</a>–<a href="#pone.0068782-Ichimura1" class="ref-tip">[13]</a>, a component of the hypoxia-responsive transcription factor complex that facilitates tumour angiogenesis and growth. Third, heterozygous IDH mutations confer neomorphic enzyme activity rather than inactivating the enzyme; the mutant enzyme converts aKG to 2-hydroxyglutarate (2-HG) in the process of consuming NADPH <a href="#pone.0068782-Dang1" class="ref-tip">[14]</a>. The excess accumulation of 2-HG has been shown to be associated with tumour progression and leads to an elevated risk of malignant gliomas <a href="#pone.0068782-Dang1" class="ref-tip">[14]</a>, <a href="#pone.0068782-Xu1" class="ref-tip">[15]</a>.</p>
+<a id="article1.body1.sec1.p3" name="article1.body1.sec1.p3" class="link-target"></a><p>Recently, an increasing number of studies have evaluated the relative prognostic impact of IDH mutations and the clinical outcome of gliomas <a href="#pone.0068782-Gravendeel1" class="ref-tip">[16]</a>–<a href="#pone.0068782-Yan2" class="ref-tip">[25]</a>, with conflicting results due to the relatively small sample sizes in the studies. Here, we performed a meta-analysis to further clarify the prevalence of <em>IDH</em> mutations, their relationship to other genetic alterations and their impact on prognosis for glioma patients.</p>
+</div>
+
+<div id="section2" class="section toc-section"><a id="s2" name="s2" data-toc="s2" class="link-target" title="Methods"></a><h2>Methods</h2>
+<div id="section1" class="section toc-section"><a id="s2a" name="s2a" class="link-target" title="Identification of relevant studies"></a>
+<h3>Identification of relevant studies</h3>
+<a id="article1.body1.sec2.sec1.p1" name="article1.body1.sec2.sec1.p1" class="link-target"></a><p>A comprehensive literature search of the PubMed and Embase databases (last search updated in October 2012) was conducted to identify all studies that analysed the prognostic role of <em>IDH</em> mutations in patients with gliomas. The following keywords were used in various combinations: ‘prognosis’, ‘prognostic’, ‘survival’, ‘<em>IDH1</em>’ and ‘<em>IDH2</em>’. The reference lists from the relevant original articles and review articles were also examined for additional relevant publications.</p>
+</div>
+
+<div id="section2" class="section toc-section"><a id="s2b" name="s2b" class="link-target" title="Study eligibility"></a>
+<h3>Study eligibility</h3>
+<a id="article1.body1.sec2.sec2.p1" name="article1.body1.sec2.sec2.p1" class="link-target"></a><p>The studies eligible for inclusion in this meta-analysis had to meet the following criteria: (1) proven diagnosis of gliomas in humans; (2) evaluate the association between <em>IDH</em> mutations and the prognosis of glioma patients, e.g., progression-free survival (PFS) and overall survival (OS); (3) have a hazard ratio (HR) for OS or PFS, according to IDH mutations, either reported directly in the study or calculated from the data presented; (4) be the most recent or complete report if the same author or group reported results obtained from the same patient population in more than one article; and (5) be written in English.</p>
+<a id="article1.body1.sec2.sec2.p2" name="article1.body1.sec2.sec2.p2" class="link-target"></a><p>Reports considered ineligible for the meta-analysis were (1) reviews; (2) case reports; (3) about the association between another marker and outcome and data for IDH was not presented; and (4) lacking key information such as hazard ratio (HR), 95% confidence interval (CI) or survival curve.</p>
+</div>
+
+<div id="section3" class="section toc-section"><a id="s2c" name="s2c" class="link-target" title="Definitions and Data Extraction"></a>
+<h3>Definitions and Data Extraction</h3>
+<a id="article1.body1.sec2.sec3.p1" name="article1.body1.sec2.sec3.p1" class="link-target"></a><p>The PFS was defined as the time interval between the date of surgery and the date of tumour progression or the end of follow-up. The OS was defined as the time interval between the date of surgery and the end of follow-up or death. The following data from all eligible publications were extracted: the first author's name, year of publication, country, patient ethnicity, sample size, tumour grade, mutations and prognostic outcomes (PFS and OS). Any discrepancies were resolved through discussion amongst the authors.</p>
+</div>
+
+<div id="section4" class="section toc-section"><a id="s2d" name="s2d" class="link-target" title="Statistical Analysis"></a>
+<h3>Statistical Analysis</h3>
+<a id="article1.body1.sec2.sec4.p1" name="article1.body1.sec2.sec4.p1" class="link-target"></a><p>The correlations of <em>IDH1/2</em> mutations with <em>MGMT</em> promoter hypermethylation, <em>EGFR</em> amplification, codeletion of chromosomes 1p/19q and <em>TP53</em> gene mutation in gliomas were analysed using a two-sided χ<sup>2</sup> test. To estimate the overall effects, the outcomes were calculated as hazard ratios (HRs) with their respective 95% confidence intervals (CIs). Subgroup analyses were performed according to tumour grade. The impact of <em>IDH1/2</em> mutations on survival was considered statistically significant if the 95% CI for the summary HR did not overlap 1.0. By convention, an observed HR greater than 1 implied a worse prognosis for the group with <em>IDH</em> mutations. The statistical significance of the pooled HR was determined using the <em>Z</em> test (<em>P</em>&lt;0.05 was considered statistically significant). When HRs were not provided in a paper, the estimated value was derived from other data using the methods described by Tierney et al. <a href="#pone.0068782-Tierney1" class="ref-tip">[26]</a>. Moreover, when univariate and multivariate analyses of PFS and/or OS were available, the multivariate analyses were combined because the survival response was influenced by multiple factors. The heterogeneity between the studies was tested using the <em>Q</em>-statistic. When the <em>Q</em>-test reported a <em>P</em> value greater than 0.05, the fixed-effects model (Mantel–Haenszel method) was used; otherwise, the random effects model was chosen, according to the DerSimonian–Laird method. The <em>I<sup>2</sup></em>-statistic was also calculated to efficiently test heterogeneity (<em>I<sup>2</sup></em>&lt;25%, no heterogeneity; <em>I<sup>2</sup></em> = 25–50%, moderate heterogeneity; and <em>I<sup>2</sup></em> &gt;50%, large or extreme heterogeneity). Finally, a funnel plot and Egger's linear regression test were used to assess the potential publication bias <a href="#pone.0068782-Begg1" class="ref-tip">[27]</a>, <a href="#pone.0068782-Egger1" class="ref-tip">[28]</a>. All <em>P</em> values were two-sided. Statistical calculations were all performed using STATA version 11.0 software (Stata Corporation, College Station, TX).</p>
+</div>
+</div>
+
+<div id="section3" class="section toc-section"><a id="s3" name="s3" data-toc="s3" class="link-target" title="Results"></a><h2>Results</h2>
+<div id="section1" class="section toc-section"><a id="s3a" name="s3a" class="link-target" title="Studies included in the meta-analysis"></a>
+<h3>Studies included in the meta-analysis</h3>
+<a id="article1.body1.sec3.sec1.p1" name="article1.body1.sec3.sec1.p1" class="link-target"></a><p><a href="#pone-0068782-g001">Figure 1</a> shows the study selection procedure. By the initial literature search, 253 studies were relevant to the search terms. Of which, 175 were excluded because of obvious irrelevance by the step of screening the title and abstract. By reading through the full texts of the remaining and 68 studies were excluded (27 articles lacked usable data, 2 studies were overlapping data sets, 20 studies were not directly related to specific outcomes, 19 articles were not about IDH mutations). Overall, 10 articles, including 12 studies, published between 2009 and 2012 were used in the pooled analysis. <a href="#pone-0068782-t001">Table 1</a> lists the studies and their main characteristics. In the 12 studies, the range of the sample size was 49 to 407 patients. The 12 studies collected in this meta-analysis included 6 studies on Asians and 6 studies on Caucasians. One study examined grade II tumours, four studies examined grade III tumours, four studies examined grade IV tumours, one study examined grades II-IV tumours and two studies examined tumours of all grades. An HR for PFS and OS could be extracted from 7 and 11 of the studies, respectively. All survival data were available through multivariate analysis.</p>
+<a class="link-target" id="pone-0068782-g001" name="pone-0068782-g001"></a><div class="figure" data-doi="10.1371/journal.pone.0068782.g001"><div class="img-box"><a title="Click for larger image" href="article/figure/image?size=medium&amp;id=info:doi/10.1371/journal.pone.0068782.g001" data-doi="info:doi/10.1371/journal.pone.0068782" data-uri="info:doi/10.1371/journal.pone.0068782.g001"><img src="article/figure/image?size=inline&amp;id=info:doi/10.1371/journal.pone.0068782.g001" alt="thumbnail" class="thumbnail"></a><div class="expand"></div></div><div class="figure-inline-download">
+          Download:
+          <ul><li><div class="definition-label"><a href="article/figure/powerpoint?id=info:doi/10.1371/journal.pone.0068782.g001">
+                  PPT
+                </a></div><a href="article/figure/powerpoint?id=info:doi/10.1371/journal.pone.0068782.g001">
+                PowerPoint slide
+              </a></li><li><div class="definition-label"><a href="article/figure/image?download&amp;size=large&amp;id=info:doi/10.1371/journal.pone.0068782.g001">
+                  PNG
+                </a></div><a href="article/figure/image?download&amp;size=large&amp;id=info:doi/10.1371/journal.pone.0068782.g001">
+                larger image
+              </a></li><li><div class="definition-label"><a href="article/figure/image?download&amp;size=original&amp;id=info:doi/10.1371/journal.pone.0068782.g001">
+                  TIFF
+                </a></div><a href="article/figure/image?download&amp;size=original&amp;id=info:doi/10.1371/journal.pone.0068782.g001">
+                original image
+              </a></li></ul></div><div class="figcaption"><span>Figure 1. </span> A flow chart of the study selection procedure.</div><p class="caption_target"></p><p class="caption_object"><a href="https://doi.org/10.1371/journal.pone.0068782.g001">
+              https://doi.org/10.1371/journal.pone.0068782.g001</a></p></div><a class="link-target" id="pone-0068782-t001" name="pone-0068782-t001"></a><div class="figure" data-doi="10.1371/journal.pone.0068782.t001"><div class="img-box"><a title="Click for larger image" href="article/figure/image?size=medium&amp;id=info:doi/10.1371/journal.pone.0068782.t001" data-doi="info:doi/10.1371/journal.pone.0068782" data-uri="info:doi/10.1371/journal.pone.0068782.t001"><img src="article/figure/image?size=inline&amp;id=info:doi/10.1371/journal.pone.0068782.t001" alt="thumbnail" class="thumbnail"></a><div class="expand"></div></div><div class="figure-inline-download">
+          Download:
+          <ul><li><div class="definition-label"><a href="article/figure/powerpoint?id=info:doi/10.1371/journal.pone.0068782.t001">
+                  PPT
+                </a></div><a href="article/figure/powerpoint?id=info:doi/10.1371/journal.pone.0068782.t001">
+                PowerPoint slide
+              </a></li><li><div class="definition-label"><a href="article/figure/image?download&amp;size=large&amp;id=info:doi/10.1371/journal.pone.0068782.t001">
+                  PNG
+                </a></div><a href="article/figure/image?download&amp;size=large&amp;id=info:doi/10.1371/journal.pone.0068782.t001">
+                larger image
+              </a></li><li><div class="definition-label"><a href="article/figure/image?download&amp;size=original&amp;id=info:doi/10.1371/journal.pone.0068782.t001">
+                  TIFF
+                </a></div><a href="article/figure/image?download&amp;size=original&amp;id=info:doi/10.1371/journal.pone.0068782.t001">
+                original image
+              </a></li></ul></div><div class="figcaption"><span>Table 1. </span> Characteristics of studies included in the meta-analysis.</div><p class="caption_target"></p><p class="caption_object"><a href="https://doi.org/10.1371/journal.pone.0068782.t001">
+              https://doi.org/10.1371/journal.pone.0068782.t001</a></p></div></div>
+
+<div id="section2" class="section toc-section"><a id="s3b" name="s3b" class="link-target" title="Correlation of IDH mutations with genetic aberrations and grade of the gliomas"></a>
+<h3>Correlation of IDH mutations with genetic aberrations and grade of the gliomas</h3>
+<a id="article1.body1.sec3.sec2.p1" name="article1.body1.sec3.sec2.p1" class="link-target"></a><p>The χ<sup>2</sup> test were carried out to analyze the significance of the correlation of <em>IDH</em> mutations with other genetic alterations and glioma grade.</p>
+<a id="article1.body1.sec3.sec2.p2" name="article1.body1.sec3.sec2.p2" class="link-target"></a><p>The frequencies of <em>MGMT</em> promoter hypermethylation, <em>EGFR</em> amplification, codeletion of chromosomes 1p/19q and <em>TP53</em> gene mutation and their relationship with <em>IDH</em> mutations are shown in <a href="#pone-0068782-t002">Table 2</a>. We provide evidence that <em>IDH</em> mutations are closely associated with 1p/19q codeletion (<em>P</em>&lt;0.001), <em>TP53</em> gene mutation (<em>P</em>&lt;0.001), and <em>MGMT</em> promoter hypermethylation (<em>P</em>&lt;0.001), but they are mutually exclusive with <em>EGFR</em> amplification (<em>P</em>&lt;0.001). These data indicate that the <em>IDH</em> mutation rate is linked to the genomic profile of gliomas.</p>
+<a class="link-target" id="pone-0068782-t002" name="pone-0068782-t002"></a><div class="figure" data-doi="10.1371/journal.pone.0068782.t002"><div class="img-box"><a title="Click for larger image" href="article/figure/image?size=medium&amp;id=info:doi/10.1371/journal.pone.0068782.t002" data-doi="info:doi/10.1371/journal.pone.0068782" data-uri="info:doi/10.1371/journal.pone.0068782.t002"><img src="article/figure/image?size=inline&amp;id=info:doi/10.1371/journal.pone.0068782.t002" alt="thumbnail" class="thumbnail"></a><div class="expand"></div></div><div class="figure-inline-download">
+          Download:
+          <ul><li><div class="definition-label"><a href="article/figure/powerpoint?id=info:doi/10.1371/journal.pone.0068782.t002">
+                  PPT
+                </a></div><a href="article/figure/powerpoint?id=info:doi/10.1371/journal.pone.0068782.t002">
+                PowerPoint slide
+              </a></li><li><div class="definition-label"><a href="article/figure/image?download&amp;size=large&amp;id=info:doi/10.1371/journal.pone.0068782.t002">
+                  PNG
+                </a></div><a href="article/figure/image?download&amp;size=large&amp;id=info:doi/10.1371/journal.pone.0068782.t002">
+                larger image
+              </a></li><li><div class="definition-label"><a href="article/figure/image?download&amp;size=original&amp;id=info:doi/10.1371/journal.pone.0068782.t002">
+                  TIFF
+                </a></div><a href="article/figure/image?download&amp;size=original&amp;id=info:doi/10.1371/journal.pone.0068782.t002">
+                original image
+              </a></li></ul></div><div class="figcaption"><span>Table 2. </span> The association of <em>IDH</em> mutations with the genomic profile of the gliomas from the available published studies.</div><p class="caption_target"></p><p class="caption_object"><a href="https://doi.org/10.1371/journal.pone.0068782.t002">
+              https://doi.org/10.1371/journal.pone.0068782.t002</a></p></div><a id="article1.body1.sec3.sec2.p3" name="article1.body1.sec3.sec2.p3" class="link-target"></a><p>We found a strong correlation of <em>IDH</em> mutations with tumour grade. The <em>IDH</em> mutations were present in the majority of grades II and III glial tumours (59.5%) but were rare in primary GBM (7.13%, <em>P</em>&lt;0.001; <a href="#pone-0068782-t002">Table 2</a>). A higher rate of <em>IDH</em> mutations were found in secondary GBM (63.4%) than in primary GBM (7.13%, <em>P</em>&lt;0.001; <a href="#pone-0068782-t002">Table 2</a>).</p>
+</div>
+
+<div id="section3" class="section toc-section"><a id="s3c" name="s3c" class="link-target" title="Prognostic value of IDH mutations"></a>
+<h3>Prognostic value of IDH mutations</h3>
+<a id="article1.body1.sec3.sec3.p1" name="article1.body1.sec3.sec3.p1" class="link-target"></a><p>The pooled results of the meta-analysis showed that the <em>IDH</em> mutations were independent prognostic markers for improved OS (HR  = 0.33, 95% CI: 0.25–0.42, <em>P</em><sub>heterogeneity</sub>  = 0.204; <a href="#pone-0068782-g002">Figure 2</a>) and PFS (HR  = 0.38, 95% CI: 0.21–0.68, <em>P</em><sub>heterogeneity</sub>  = 0.000; <a href="#pone-0068782-g003">Figure 3</a>) in gliomas (<a href="#pone-0068782-t003">Table 3</a>). The subgroup analysis was performed according to tumour grade and ethnicity. In grades III and IV gliomas with <em>IDH</em> mutations, the overall HR for OS was 0.19 (95% CI: 0.11–0.35, <em>P</em><sub>heterogeneity</sub>  = 0.579) and 0.39 (95% CI: 0.27–0.56, <em>P</em><sub>heterogeneity</sub>  = 0.065), respectively, compared with wild-type <em>IDH</em> (<a href="#pone-0068782-t003">Table 3</a>). <em>IDH</em> mutations were a significant prognostic marker for PFS in grade III (HR  = 0.17, 95% CI: 0.05–0.58, <em>P</em><sub>heterogeneity</sub>  = 0.000) and grade IV gliomas (HR  = 0.67, 95% CI: 0.40–1.13, <em>P</em><sub>heterogeneity</sub>  = 0.000; <a href="#pone-0068782-t003">Table 3</a>). In Asians and Caucasians, the overall HR for OS was 0.37 (95% CI: 0.25–0.56, <em>P</em><sub>heterogeneity</sub>  = 0.066) and 0.30 (95% CI: 0.21–0.41, <em>P</em><sub>heterogeneity</sub>  = 0.684), respectively (<a href="#pone-0068782-t003">Table 3</a>). <em>IDH</em> mutations were a significant prognostic marker for PFS in Asians (HR  = 0.31, 95% CI: 0.11–0.84, <em>P</em><sub>heterogeneity</sub>  = 0.000; <a href="#pone-0068782-t003">Table 3</a>) and Caucasians (HR  = 0.52, 95% CI: 0.37–0.74, <em>P</em><sub>heterogeneity</sub>  = 0.512; <a href="#pone-0068782-t003">Table 3</a>).</p>
+<a class="link-target" id="pone-0068782-g002" name="pone-0068782-g002"></a><div class="figure" data-doi="10.1371/journal.pone.0068782.g002"><div class="img-box"><a title="Click for larger image" href="article/figure/image?size=medium&amp;id=info:doi/10.1371/journal.pone.0068782.g002" data-doi="info:doi/10.1371/journal.pone.0068782" data-uri="info:doi/10.1371/journal.pone.0068782.g002"><img src="article/figure/image?size=inline&amp;id=info:doi/10.1371/journal.pone.0068782.g002" alt="thumbnail" class="thumbnail"></a><div class="expand"></div></div><div class="figure-inline-download">
+          Download:
+          <ul><li><div class="definition-label"><a href="article/figure/powerpoint?id=info:doi/10.1371/journal.pone.0068782.g002">
+                  PPT
+                </a></div><a href="article/figure/powerpoint?id=info:doi/10.1371/journal.pone.0068782.g002">
+                PowerPoint slide
+              </a></li><li><div class="definition-label"><a href="article/figure/image?download&amp;size=large&amp;id=info:doi/10.1371/journal.pone.0068782.g002">
+                  PNG
+                </a></div><a href="article/figure/image?download&amp;size=large&amp;id=info:doi/10.1371/journal.pone.0068782.g002">
+                larger image
+              </a></li><li><div class="definition-label"><a href="article/figure/image?download&amp;size=original&amp;id=info:doi/10.1371/journal.pone.0068782.g002">
+                  TIFF
+                </a></div><a href="article/figure/image?download&amp;size=original&amp;id=info:doi/10.1371/journal.pone.0068782.g002">
+                original image
+              </a></li></ul></div><div class="figcaption"><span>Figure 2. </span> A forest plot of HR and 95% CI of the association between <em>IDH</em> mutations and OS of gliomas calculated from the multivariate Cox regression analyses.</div><p class="caption_target"></p><p class="caption_object"><a href="https://doi.org/10.1371/journal.pone.0068782.g002">
+              https://doi.org/10.1371/journal.pone.0068782.g002</a></p></div><a class="link-target" id="pone-0068782-g003" name="pone-0068782-g003"></a><div class="figure" data-doi="10.1371/journal.pone.0068782.g003"><div class="img-box"><a title="Click for larger image" href="article/figure/image?size=medium&amp;id=info:doi/10.1371/journal.pone.0068782.g003" data-doi="info:doi/10.1371/journal.pone.0068782" data-uri="info:doi/10.1371/journal.pone.0068782.g003"><img src="article/figure/image?size=inline&amp;id=info:doi/10.1371/journal.pone.0068782.g003" alt="thumbnail" class="thumbnail"></a><div class="expand"></div></div><div class="figure-inline-download">
+          Download:
+          <ul><li><div class="definition-label"><a href="article/figure/powerpoint?id=info:doi/10.1371/journal.pone.0068782.g003">
+                  PPT
+                </a></div><a href="article/figure/powerpoint?id=info:doi/10.1371/journal.pone.0068782.g003">
+                PowerPoint slide
+              </a></li><li><div class="definition-label"><a href="article/figure/image?download&amp;size=large&amp;id=info:doi/10.1371/journal.pone.0068782.g003">
+                  PNG
+                </a></div><a href="article/figure/image?download&amp;size=large&amp;id=info:doi/10.1371/journal.pone.0068782.g003">
+                larger image
+              </a></li><li><div class="definition-label"><a href="article/figure/image?download&amp;size=original&amp;id=info:doi/10.1371/journal.pone.0068782.g003">
+                  TIFF
+                </a></div><a href="article/figure/image?download&amp;size=original&amp;id=info:doi/10.1371/journal.pone.0068782.g003">
+                original image
+              </a></li></ul></div><div class="figcaption"><span>Figure 3. </span> A forest plot of HR and 95% CI of the association between <em>IDH</em> mutations and PFS of gliomas calculated from the multivariate Cox regression analyses.</div><p class="caption_target"></p><p class="caption_object"><a href="https://doi.org/10.1371/journal.pone.0068782.g003">
+              https://doi.org/10.1371/journal.pone.0068782.g003</a></p></div><a class="link-target" id="pone-0068782-t003" name="pone-0068782-t003"></a><div class="figure" data-doi="10.1371/journal.pone.0068782.t003"><div class="img-box"><a title="Click for larger image" href="article/figure/image?size=medium&amp;id=info:doi/10.1371/journal.pone.0068782.t003" data-doi="info:doi/10.1371/journal.pone.0068782" data-uri="info:doi/10.1371/journal.pone.0068782.t003"><img src="article/figure/image?size=inline&amp;id=info:doi/10.1371/journal.pone.0068782.t003" alt="thumbnail" class="thumbnail"></a><div class="expand"></div></div><div class="figure-inline-download">
+          Download:
+          <ul><li><div class="definition-label"><a href="article/figure/powerpoint?id=info:doi/10.1371/journal.pone.0068782.t003">
+                  PPT
+                </a></div><a href="article/figure/powerpoint?id=info:doi/10.1371/journal.pone.0068782.t003">
+                PowerPoint slide
+              </a></li><li><div class="definition-label"><a href="article/figure/image?download&amp;size=large&amp;id=info:doi/10.1371/journal.pone.0068782.t003">
+                  PNG
+                </a></div><a href="article/figure/image?download&amp;size=large&amp;id=info:doi/10.1371/journal.pone.0068782.t003">
+                larger image
+              </a></li><li><div class="definition-label"><a href="article/figure/image?download&amp;size=original&amp;id=info:doi/10.1371/journal.pone.0068782.t003">
+                  TIFF
+                </a></div><a href="article/figure/image?download&amp;size=original&amp;id=info:doi/10.1371/journal.pone.0068782.t003">
+                original image
+              </a></li></ul></div><div class="figcaption"><span>Table 3. </span> Main results of eligible studies evaluating IDH mutations and OS/PFS in gliomas.</div><p class="caption_target"></p><p class="caption_object"><a href="https://doi.org/10.1371/journal.pone.0068782.t003">
+              https://doi.org/10.1371/journal.pone.0068782.t003</a></p></div></div>
+
+<div id="section4" class="section toc-section"><a id="s3d" name="s3d" class="link-target" title="Test of Heterogeneity and Sensitivity Analyses"></a>
+<h3>Test of Heterogeneity and Sensitivity Analyses</h3>
+<a id="article1.body1.sec3.sec4.p1" name="article1.body1.sec3.sec4.p1" class="link-target"></a><p>Significant heterogeneity existed in the associations between <em>IDH</em> mutations and PFS (<em>P</em><sub>heterogeneity</sub>  = 0.000, <em>I<sup>2</sup></em> = 87.2%). However, stratification based on the glioma grade reduced the heterogeneity in the grade 4 subgroups (<em>P</em><sub>heterogeneity</sub>  = 0.563, <em>I<sup>2</sup></em> = 0.0%).</p>
+<a id="article1.body1.sec3.sec4.p2" name="article1.body1.sec3.sec4.p2" class="link-target"></a><p>In the sensitivity analysis, no single study influenced the pooled HR qualitatively, which suggests that the results of our meta-analysis are stable.</p>
+</div>
+
+<div id="section5" class="section toc-section"><a id="s3e" name="s3e" class="link-target" title="Publication Bias"></a>
+<h3>Publication Bias</h3>
+<a id="article1.body1.sec3.sec5.p1" name="article1.body1.sec3.sec5.p1" class="link-target"></a><p>We used Begg's funnel plot and Egger's test to assess the publication bias in the meta-analysis. In all studies, no funnel plot asymmetry was found. The results of the Egger's test did not show any evidence of publication bias (<em>P</em> = 0.939 for OS, <em>P</em> = 0.543 for PFS; <a href="#pone-0068782-g004">Figure 4</a> and <a href="#pone-0068782-g005">5</a>).</p>
+<a class="link-target" id="pone-0068782-g004" name="pone-0068782-g004"></a><div class="figure" data-doi="10.1371/journal.pone.0068782.g004"><div class="img-box"><a title="Click for larger image" href="article/figure/image?size=medium&amp;id=info:doi/10.1371/journal.pone.0068782.g004" data-doi="info:doi/10.1371/journal.pone.0068782" data-uri="info:doi/10.1371/journal.pone.0068782.g004"><img src="article/figure/image?size=inline&amp;id=info:doi/10.1371/journal.pone.0068782.g004" alt="thumbnail" class="thumbnail"></a><div class="expand"></div></div><div class="figure-inline-download">
+          Download:
+          <ul><li><div class="definition-label"><a href="article/figure/powerpoint?id=info:doi/10.1371/journal.pone.0068782.g004">
+                  PPT
+                </a></div><a href="article/figure/powerpoint?id=info:doi/10.1371/journal.pone.0068782.g004">
+                PowerPoint slide
+              </a></li><li><div class="definition-label"><a href="article/figure/image?download&amp;size=large&amp;id=info:doi/10.1371/journal.pone.0068782.g004">
+                  PNG
+                </a></div><a href="article/figure/image?download&amp;size=large&amp;id=info:doi/10.1371/journal.pone.0068782.g004">
+                larger image
+              </a></li><li><div class="definition-label"><a href="article/figure/image?download&amp;size=original&amp;id=info:doi/10.1371/journal.pone.0068782.g004">
+                  TIFF
+                </a></div><a href="article/figure/image?download&amp;size=original&amp;id=info:doi/10.1371/journal.pone.0068782.g004">
+                original image
+              </a></li></ul></div><div class="figcaption"><span>Figure 4. </span> A Begg's funnel plot for the publication bias test of the <em>IDH</em> mutations and OS of human gliomas.</div><p class="caption_target"></p><p class="caption_object"><a href="https://doi.org/10.1371/journal.pone.0068782.g004">
+              https://doi.org/10.1371/journal.pone.0068782.g004</a></p></div><a class="link-target" id="pone-0068782-g005" name="pone-0068782-g005"></a><div class="figure" data-doi="10.1371/journal.pone.0068782.g005"><div class="img-box"><a title="Click for larger image" href="article/figure/image?size=medium&amp;id=info:doi/10.1371/journal.pone.0068782.g005" data-doi="info:doi/10.1371/journal.pone.0068782" data-uri="info:doi/10.1371/journal.pone.0068782.g005"><img src="article/figure/image?size=inline&amp;id=info:doi/10.1371/journal.pone.0068782.g005" alt="thumbnail" class="thumbnail"></a><div class="expand"></div></div><div class="figure-inline-download">
+          Download:
+          <ul><li><div class="definition-label"><a href="article/figure/powerpoint?id=info:doi/10.1371/journal.pone.0068782.g005">
+                  PPT
+                </a></div><a href="article/figure/powerpoint?id=info:doi/10.1371/journal.pone.0068782.g005">
+                PowerPoint slide
+              </a></li><li><div class="definition-label"><a href="article/figure/image?download&amp;size=large&amp;id=info:doi/10.1371/journal.pone.0068782.g005">
+                  PNG
+                </a></div><a href="article/figure/image?download&amp;size=large&amp;id=info:doi/10.1371/journal.pone.0068782.g005">
+                larger image
+              </a></li><li><div class="definition-label"><a href="article/figure/image?download&amp;size=original&amp;id=info:doi/10.1371/journal.pone.0068782.g005">
+                  TIFF
+                </a></div><a href="article/figure/image?download&amp;size=original&amp;id=info:doi/10.1371/journal.pone.0068782.g005">
+                original image
+              </a></li></ul></div><div class="figcaption"><span>Figure 5. </span> A Begg's funnel plot for the publication bias test of the <em>IDH</em> mutations and PFS of human gliomas.</div><p class="caption_target"></p><p class="caption_object"><a href="https://doi.org/10.1371/journal.pone.0068782.g005">
+              https://doi.org/10.1371/journal.pone.0068782.g005</a></p></div></div>
+</div>
+
+<div id="section4" class="section toc-section"><a id="s4" name="s4" data-toc="s4" class="link-target" title="Discussion"></a><h2>Discussion</h2><a id="article1.body1.sec4.p1" name="article1.body1.sec4.p1" class="link-target"></a><p>The last decade has observed a remarkable increase in new molecular markers that are proving to be useful as potential prognostic and predictive markers. The detection of <em>IDH</em> mutations during exome-wide sequencing of glioblastomas represents a milestone in cancer biology <a href="http://www.plosone.org/article/info%3Adoi%2F10.1371%2Fjournal.pone.0032764-pone.0032764-Parsons1#pone.0032764-Parsons1">http://www.plosone.org/article/info%3Adoi%2F10.1371%2Fjournal.pone.0032764-pone.0032764-Parsons1#pone.0032764-Parsons1</a>. <em>IDH</em> mutations have an important role in many aspects of gliomas, including gliomagenesis and patient prognosis. IDH1 is localised to the cytoplasm and peroxisome, whereas IDH2 resides in the mitochondria. The <em>IDH</em> genes encode redox enzymes that decarboxylate isocitrate to α-ketoglutarate (aKG), resulting in the production of NADPH and participation in cellular metabolic processes such as glucose sensing, lipid metabolism, and oxidative respiration <a href="#pone.0068782-Kim1" class="ref-tip">[10]</a>, <a href="#pone.0068782-Reitman1" class="ref-tip">[29]</a>. The mutated IDH have a strongly decreased enzymatic activity, leading to lower aKG production, thereby increasing HIF-1alpha levels. In addition, IDH mutations cause a loss of native enzymatic activities and thus increase the ability to reduce α-ketoglutarate to 2-hydroxyglutarate <a href="#pone.0068782-Dang1" class="ref-tip">[14]</a>. The information on the relationship of <em>IDH</em> mutations to other genetic alterations and prognostic values is still limited. In our present study, we investigated molecular and prognostic features of gliomas with and without <em>IDH</em> mutations.</p>
+<a id="article1.body1.sec4.p2" name="article1.body1.sec4.p2" class="link-target"></a><p>We found IDH mutations were significantly correlated with glioma grade. IDH mutations were frequent in WHO grades II and III gliomas (59.5%) and in secondary glioblastomas (63.4%), but they only occur in a small fraction of primary glioblastomas (7.13%). The low frequency of IDH mutations in the gliomas with EGFR amplification most likely accounts for the low IDH mutations rate in primary glioblastomas compared with secondary glioblastomas <a href="#pone.0068782-Balss1" class="ref-tip">[2]</a>. This meta-analysis indicated that lower-grade gliomas had a different genetic aetiology from high-grade tumours and that IDH mutations occurred early in tumour development from a stem cell that can give rise to both astrocytes and oligodendrocytes.</p>
+<a id="article1.body1.sec4.p3" name="article1.body1.sec4.p3" class="link-target"></a><p>Our study suggested that IDH mutations were closely linked to the genomic profile of the gliomas. There were significant associations between <em>IDH</em> mutations and 1p/19q codeletion (<em>P</em>&lt;0.001), <em>TP53</em> gene mutation (<em>P</em>&lt;0.001) and <em>MGMT</em> promoter hypermethylation (<em>P</em>&lt;0.001), whereas an inverse association was observed between <em>IDH</em> mutations and <em>EGFR</em> amplification (<em>P</em>&lt;0.001). The DNA-repair enzyme MGMT removes alkyl groups from the O6 position of guanine, which is the site of several chemotherapy-induced DNA alkylations, and the epigenetic silencing of the <em>MGMT</em> gene by promoter hypermethylation is associated with diminished DNA-repair enzyme activity and increased sensitivity to alkylating agents such as nitrosourea and temozolomide <a href="#pone.0068782-Gerson1" class="ref-tip">[30]</a>–<a href="#pone.0068782-Stupp1" class="ref-tip">[32]</a>. In the present meta-analysis, mutated IDH were strongly correlated with a higher MGMT promoter hypermethylation. Promoter hypermethylation of the <em>MGMT</em> could explain the high percentage of the <em>IDH1</em> codon 132 G395A transition because <em>MGMT</em> promoter methylation has been demonstrated to be linked to the appearance of G to A mutations in <em>TP53</em> and K-Ras <a href="#pone.0068782-Esteller1" class="ref-tip">[33]</a>–<a href="#pone.0068782-Esteller3" class="ref-tip">[35]</a>. Therefore, <em>MGMT</em> promoter hypermethylation could explain the high rate of the <em>IDH1</em> codon 132 G395A transition. <em>EGFR</em> activation by amplification or mutation is one of the most frequent genetic lesions in gliomas, and higher-grade gliomas are genetically characterised by <em>EGFR</em> amplification <a href="#pone.0068782-Ohgaki1" class="ref-tip">[36]</a>. The overexpression of EGFR has been shown to promote glioma cell motility and invasion <a href="#pone.0068782-Cai1" class="ref-tip">[37]</a>. Our meta-analysis has shown an inverse association between <em>IDH</em> mutations and <em>EGFR</em> amplification. Therefore, the low proliferation rate accompanying <em>IDH</em> mutations can explain the correlation between <em>IDH</em> mutations and a favourable prognosis in glioma patients. The tumour protein p53 responds to diverse cellular stresses to regulate target genes that induce cell cycle arrest, apoptosis, DNA repair and genome stability, and p53 mutants often lead to cancer development and poor outcome <a href="#pone.0068782-Levine1" class="ref-tip">[38]</a>. <em>TP53</em> mutations are one of the most crucial factors in the development of malignant gliomas <a href="#pone.0068782-1" class="ref-tip">[39]</a>. Considering the <em>IDH</em> mutations correlated with mutant P53 protein, the inherent mechanism of a better prognosis for patients with <em>IDH</em> mutations requires further investigation. Co-deletion of chromosome 1p/19q, which is commonly observed in oligodendroglial tumours, is associated with a good prognosis and increased responsiveness to chemotherapy <a href="#pone.0068782-Ichimura1" class="ref-tip">[13]</a>, <a href="#pone.0068782-Kraus1" class="ref-tip">[40]</a>. These genetic changes often occur in a staged order during malignant transformation. Watanabe et al. <a href="#pone.0068782-Watanabe1" class="ref-tip">[6]</a> dissected multiple biopsies from the same glioma patients and found that there was no case in which <em>IDH</em> mutations had occurred after the acquisition of either a <em>TP53</em> mutation or 1p/19q codeletion, suggesting that <em>IDH</em> mutations were early events occurring during human gliomagenesis and may affect a common glial precursor cell population.</p>
+<a id="article1.body1.sec4.p4" name="article1.body1.sec4.p4" class="link-target"></a><p>Our meta-analysis have found that <em>IDH</em> mutations carry a very strong prognostic significance for PFS and OS. Subgroup analyses according to tumour grade also revealed that the presence of IDH mutations was associated with a better outcome. For patients with IDH mutations, longer OS was observed in patients with grades III and IV gliomas. The PFS in patients with mutated IDH and grades III or IV gliomas had a better prognosis, but this observation had no statistical significance in grade IV gliomas. In our meta-analysis all the survival data were available in the form of a multivariate analysis. Therefore, <em>IDH</em> mutations seem to be an independent favorable prognostic marker in glioma patients. The reasons for an improved outcome could potentially be related to the biological results of mutant IDH. First, mutant IDH1<em><sup>R132H</sup></em> overexpression in stably transfected glioma cell lines in vitro resulted in a marked decrease in proliferation rates, decreased Akt phosphorylation, altered morphology, and a more contact-dependent cell migration. The reduced proliferation is a consequence of the D-2-HG produced by IDH1<em><sup>R132H</sup></em>. Mice injected with IDH1<em><sup>R132H–GFP</sup></em>-expressing cells have prolonged survival compared to mice injected with cells expressing either IDH1<em><sup>wt–GFP</sup></em> or GFP <a href="#pone.0068782-Bralten1" class="ref-tip">[41]</a>. Second, the <em>IDH1</em> codon 132 mutations consume rather than produce NADPH. NADPH plays an important role in detoxification processes and scavenging oxygen radicals; the low NADPH levels may be less resistant to irradiation and chemotherapy, thus explaining the prolonged survival of patients with mutated glioblastoma <a href="#pone.0068782-Bleeker1" class="ref-tip">[20]</a>. Third, the substitution of R132 with any one of the six amino acids observed in gliomas (His, Ser, Gly, Cys, Val, and Leu) may have a dramatically reduced affinity for isocitrate and dominantly inhibit wild-type IDH1 activity through the formation of catalytically inactive heterodimers, making the cell more susceptible to the oxidative stress induced by chemotherapy and radiotherapy <a href="#pone.0068782-Ozben1" class="ref-tip">[42]</a>.</p>
+<a id="article1.body1.sec4.p5" name="article1.body1.sec4.p5" class="link-target"></a><p>The current meta-analysis has several limitations. First, because of limited data, we did not perform the stratification analyses with other variables. Second, the number of included studies was not sufficiently large enough for a comprehensive analysis. Therefore, a larger and well-designed study should be performed to further confirm the results.</p>
+<a id="article1.body1.sec4.p6" name="article1.body1.sec4.p6" class="link-target"></a><p>Our findings strongly suggest that <em>IDH</em> mutations are associated with other genetic alterations and carry a very strong prognostic significance for PFS and OS. Further studies on the biological results of mutant IDH should lead to a more comprehensive understanding of the association between <em>IDH</em> mutations and their impacts on the outcome of gliomas.</p>
+</div>
+
+
+
+<div class="contributions toc-section"><a id="authcontrib" name="authcontrib" data-toc="authcontrib" title="Author Contributions"></a><h2>Author Contributions</h2><p>Conceived and designed the experiments: P. Zou AG P. Zhao. Performed the experiments: P. Zou HX. Analyzed the data: P. Zou PC QY . Contributed reagents/materials/analysis tools: P. Zhao LZ. Wrote the paper: P. Zou AG P. Zhao.</p></div><div class="toc-section"><a id="references" name="references" class="link-target" data-toc="references" title="References"></a><h2>References</h2><ol class="references"><li id="ref1"><span class="order">1.
+            </span><a name="pone.0068782-Louis1" id="pone.0068782-Louis1" class="link-target"></a>Louis DN, Ohgaki H, Wiestler OD, Cavenee WK, Burger PC, et al. (2007) The 2007 WHO classification of tumours of the central nervous system. Acta Neuropathol 114: 97–109. <ul class="reflinks"><li><a href="#" data-author="Louis" data-cit="LouisDN%2C%20OhgakiH%2C%20WiestlerOD%2C%20CaveneeWK%2C%20BurgerPC%2C%20et%20al.%20%282007%29%20The%202007%20WHO%20classification%20of%20tumours%20of%20the%20central%20nervous%20system.%20Acta%20Neuropathol%20114%3A%2097%E2%80%93109." data-title="The%202007%20WHO%20classification%20of%20tumours%20of%20the%20central%20nervous%20system" target="_new" title="Go to article in CrossRef">
+                      View Article
+                    </a></li><li><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?db=PubMed&amp;cmd=Search&amp;doptcmdl=Citation&amp;defaultField=Title+Word&amp;term=Louis%5Bauthor%5D+AND+The+2007+WHO+classification+of+tumours+of+the+central+nervous+system" target="_new" title="Go to article in PubMed">
+                      PubMed/NCBI
+                    </a></li><li><a href="http://scholar.google.com/scholar_lookup?title=The+2007+WHO+classification+of+tumours+of+the+central+nervous+system&amp;author=Louis&amp;publication_year=2007" target="_new" title="Go to article in Google Scholar">
+                      Google Scholar
+                    </a></li></ul></li><li id="ref2"><span class="order">2.
+            </span><a name="pone.0068782-Balss1" id="pone.0068782-Balss1" class="link-target"></a>Balss J, Meyer J, Mueller W, Korshunov A, Hartmann C, et al. (2008) Analysis of the IDH1 codon 132 mutation in brain tumors. Acta Neuropathol 116: 597–602. <ul class="reflinks"><li><a href="#" data-author="Balss" data-cit="BalssJ%2C%20MeyerJ%2C%20MuellerW%2C%20KorshunovA%2C%20HartmannC%2C%20et%20al.%20%282008%29%20Analysis%20of%20the%20IDH1%20codon%20132%20mutation%20in%20brain%20tumors.%20Acta%20Neuropathol%20116%3A%20597%E2%80%93602." data-title="Analysis%20of%20the%20IDH1%20codon%20132%20mutation%20in%20brain%20tumors" target="_new" title="Go to article in CrossRef">
+                      View Article
+                    </a></li><li><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?db=PubMed&amp;cmd=Search&amp;doptcmdl=Citation&amp;defaultField=Title+Word&amp;term=Balss%5Bauthor%5D+AND+Analysis+of+the+IDH1+codon+132+mutation+in+brain+tumors" target="_new" title="Go to article in PubMed">
+                      PubMed/NCBI
+                    </a></li><li><a href="http://scholar.google.com/scholar_lookup?title=Analysis+of+the+IDH1+codon+132+mutation+in+brain+tumors&amp;author=Balss&amp;publication_year=2008" target="_new" title="Go to article in Google Scholar">
+                      Google Scholar
+                    </a></li></ul></li><li id="ref3"><span class="order">3.
+            </span><a name="pone.0068782-Parsons1" id="pone.0068782-Parsons1" class="link-target"></a>Parsons DW, Jones S, Zhang X, Lin JC, Leary RJ, et al. (2008) An integrated genomic analysis of human glioblastoma multiforme. Science 321: 1807–1812. <ul class="reflinks"><li><a href="#" data-author="Parsons" data-cit="ParsonsDW%2C%20JonesS%2C%20ZhangX%2C%20LinJC%2C%20LearyRJ%2C%20et%20al.%20%282008%29%20An%20integrated%20genomic%20analysis%20of%20human%20glioblastoma%20multiforme.%20Science%20321%3A%201807%E2%80%931812." data-title="An%20integrated%20genomic%20analysis%20of%20human%20glioblastoma%20multiforme" target="_new" title="Go to article in CrossRef">
+                      View Article
+                    </a></li><li><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?db=PubMed&amp;cmd=Search&amp;doptcmdl=Citation&amp;defaultField=Title+Word&amp;term=Parsons%5Bauthor%5D+AND+An+integrated+genomic+analysis+of+human+glioblastoma+multiforme" target="_new" title="Go to article in PubMed">
+                      PubMed/NCBI
+                    </a></li><li><a href="http://scholar.google.com/scholar_lookup?title=An+integrated+genomic+analysis+of+human+glioblastoma+multiforme&amp;author=Parsons&amp;publication_year=2008" target="_new" title="Go to article in Google Scholar">
+                      Google Scholar
+                    </a></li></ul></li><li id="ref4"><span class="order">4.
+            </span><a name="pone.0068782-Yan1" id="pone.0068782-Yan1" class="link-target"></a>Yan H, Parsons DW, Jin G, McLendon R, Rasheed BA, et al. (2009) IDH1 and IDH2 mutations in gliomas. N Engl J Med 360: 765–773. <ul class="reflinks"><li><a href="#" data-author="Yan" data-cit="YanH%2C%20ParsonsDW%2C%20JinG%2C%20McLendonR%2C%20RasheedBA%2C%20et%20al.%20%282009%29%20IDH1%20and%20IDH2%20mutations%20in%20gliomas.%20N%20Engl%20J%20Med%20360%3A%20765%E2%80%93773." data-title="IDH1%20and%20IDH2%20mutations%20in%20gliomas" target="_new" title="Go to article in CrossRef">
+                      View Article
+                    </a></li><li><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?db=PubMed&amp;cmd=Search&amp;doptcmdl=Citation&amp;defaultField=Title+Word&amp;term=Yan%5Bauthor%5D+AND+IDH1+and+IDH2+mutations+in+gliomas" target="_new" title="Go to article in PubMed">
+                      PubMed/NCBI
+                    </a></li><li><a href="http://scholar.google.com/scholar_lookup?title=IDH1+and+IDH2+mutations+in+gliomas&amp;author=Yan&amp;publication_year=2009" target="_new" title="Go to article in Google Scholar">
+                      Google Scholar
+                    </a></li></ul></li><li id="ref5"><span class="order">5.
+            </span><a name="pone.0068782-Mardis1" id="pone.0068782-Mardis1" class="link-target"></a>Mardis ER, Ding L, Dooling DJ, Larson DE, McLellan MD, et al. (2009) Recurring mutations found by sequencing an acute myeloid leukemia genome. N Engl J Med 361: 1058–1066. <ul class="reflinks"><li><a href="#" data-author="Mardis" data-cit="MardisER%2C%20DingL%2C%20DoolingDJ%2C%20LarsonDE%2C%20McLellanMD%2C%20et%20al.%20%282009%29%20Recurring%20mutations%20found%20by%20sequencing%20an%20acute%20myeloid%20leukemia%20genome.%20N%20Engl%20J%20Med%20361%3A%201058%E2%80%931066." data-title="Recurring%20mutations%20found%20by%20sequencing%20an%20acute%20myeloid%20leukemia%20genome" target="_new" title="Go to article in CrossRef">
+                      View Article
+                    </a></li><li><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?db=PubMed&amp;cmd=Search&amp;doptcmdl=Citation&amp;defaultField=Title+Word&amp;term=Mardis%5Bauthor%5D+AND+Recurring+mutations+found+by+sequencing+an+acute+myeloid+leukemia+genome" target="_new" title="Go to article in PubMed">
+                      PubMed/NCBI
+                    </a></li><li><a href="http://scholar.google.com/scholar_lookup?title=Recurring+mutations+found+by+sequencing+an+acute+myeloid+leukemia+genome&amp;author=Mardis&amp;publication_year=2009" target="_new" title="Go to article in Google Scholar">
+                      Google Scholar
+                    </a></li></ul></li><li id="ref6"><span class="order">6.
+            </span><a name="pone.0068782-Watanabe1" id="pone.0068782-Watanabe1" class="link-target"></a>Watanabe T, Nobusawa S, Kleihues P, Ohgaki H (2009) IDH1 mutations are early events in the development of astrocytomas and oligodendrogliomas. Am J Pathol 174: 1149–1153. <ul class="reflinks"><li><a href="#" data-author="Watanabe" data-cit="WatanabeT%2C%20NobusawaS%2C%20KleihuesP%2C%20OhgakiH%20%282009%29%20IDH1%20mutations%20are%20early%20events%20in%20the%20development%20of%20astrocytomas%20and%20oligodendrogliomas.%20Am%20J%20Pathol%20174%3A%201149%E2%80%931153." data-title="IDH1%20mutations%20are%20early%20events%20in%20the%20development%20of%20astrocytomas%20and%20oligodendrogliomas" target="_new" title="Go to article in CrossRef">
+                      View Article
+                    </a></li><li><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?db=PubMed&amp;cmd=Search&amp;doptcmdl=Citation&amp;defaultField=Title+Word&amp;term=Watanabe%5Bauthor%5D+AND+IDH1+mutations+are+early+events+in+the+development+of+astrocytomas+and+oligodendrogliomas" target="_new" title="Go to article in PubMed">
+                      PubMed/NCBI
+                    </a></li><li><a href="http://scholar.google.com/scholar_lookup?title=IDH1+mutations+are+early+events+in+the+development+of+astrocytomas+and+oligodendrogliomas&amp;author=Watanabe&amp;publication_year=2009" target="_new" title="Go to article in Google Scholar">
+                      Google Scholar
+                    </a></li></ul></li><li id="ref7"><span class="order">7.
+            </span><a name="pone.0068782-Ward1" id="pone.0068782-Ward1" class="link-target"></a>Ward PS, Patel J, Wise DR, Abdel-Wahab O, Bennett BD, et al. (2010) The common feature of leukemia-associated IDH1 and IDH2 mutations is a neomorphic enzyme activity converting alpha-ketoglutarate to 2-hydroxyglutarate. Cancer Cell 17: 225–234. <ul class="reflinks"><li><a href="#" data-author="Ward" data-cit="WardPS%2C%20PatelJ%2C%20WiseDR%2C%20Abdel-WahabO%2C%20BennettBD%2C%20et%20al.%20%282010%29%20The%20common%20feature%20of%20leukemia-associated%20IDH1%20and%20IDH2%20mutations%20is%20a%20neomorphic%20enzyme%20activity%20converting%20alpha-ketoglutarate%20to%202-hydroxyglutarate.%20Cancer%20Cell%2017%3A%20225%E2%80%93234." data-title="The%20common%20feature%20of%20leukemia-associated%20IDH1%20and%20IDH2%20mutations%20is%20a%20neomorphic%20enzyme%20activity%20converting%20alpha-ketoglutarate%20to%202-hydroxyglutarate" target="_new" title="Go to article in CrossRef">
+                      View Article
+                    </a></li><li><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?db=PubMed&amp;cmd=Search&amp;doptcmdl=Citation&amp;defaultField=Title+Word&amp;term=Ward%5Bauthor%5D+AND+The+common+feature+of+leukemia-associated+IDH1+and+IDH2+mutations+is+a+neomorphic+enzyme+activity+converting+alpha-ketoglutarate+to+2-hydroxyglutarate" target="_new" title="Go to article in PubMed">
+                      PubMed/NCBI
+                    </a></li><li><a href="http://scholar.google.com/scholar_lookup?title=The+common+feature+of+leukemia-associated+IDH1+and+IDH2+mutations+is+a+neomorphic+enzyme+activity+converting+alpha-ketoglutarate+to+2-hydroxyglutarate&amp;author=Ward&amp;publication_year=2010" target="_new" title="Go to article in Google Scholar">
+                      Google Scholar
+                    </a></li></ul></li><li id="ref8"><span class="order">8.
+            </span><a name="pone.0068782-Hartmann1" id="pone.0068782-Hartmann1" class="link-target"></a>Hartmann C, Meyer J, Balss J, Capper D, Mueller W, et al. (2009) Type and frequency of IDH1 and IDH2 mutations are related to astrocytic and oligodendroglial differentiation and age: a study of 1,010 diffuse gliomas. Acta Neuropathol 118: 469–474. <ul class="reflinks"><li><a href="#" data-author="Hartmann" data-cit="HartmannC%2C%20MeyerJ%2C%20BalssJ%2C%20CapperD%2C%20MuellerW%2C%20et%20al.%20%282009%29%20Type%20and%20frequency%20of%20IDH1%20and%20IDH2%20mutations%20are%20related%20to%20astrocytic%20and%20oligodendroglial%20differentiation%20and%20age%3A%20a%20study%20of%201%2C010%20diffuse%20gliomas.%20Acta%20Neuropathol%20118%3A%20469%E2%80%93474." data-title="Type%20and%20frequency%20of%20IDH1%20and%20IDH2%20mutations%20are%20related%20to%20astrocytic%20and%20oligodendroglial%20differentiation%20and%20age%3A%20a%20study%20of%201%2C010%20diffuse%20gliomas" target="_new" title="Go to article in CrossRef">
+                      View Article
+                    </a></li><li><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?db=PubMed&amp;cmd=Search&amp;doptcmdl=Citation&amp;defaultField=Title+Word&amp;term=Hartmann%5Bauthor%5D+AND+Type+and+frequency+of+IDH1+and+IDH2+mutations+are+related+to+astrocytic+and+oligodendroglial+differentiation+and+age%3A+a+study+of+1%2C010+diffuse+gliomas" target="_new" title="Go to article in PubMed">
+                      PubMed/NCBI
+                    </a></li><li><a href="http://scholar.google.com/scholar_lookup?title=Type+and+frequency+of+IDH1+and+IDH2+mutations+are+related+to+astrocytic+and+oligodendroglial+differentiation+and+age%3A+a+study+of+1%2C010+diffuse+gliomas&amp;author=Hartmann&amp;publication_year=2009" target="_new" title="Go to article in Google Scholar">
+                      Google Scholar
+                    </a></li></ul></li><li id="ref9"><span class="order">9.
+            </span><a name="pone.0068782-Bolduc1" id="pone.0068782-Bolduc1" class="link-target"></a>Bolduc JM, Dyer DH, Scott WG, Singer P, Sweet RM, et al. (1995) Mutagenesis and Laue structures of enzyme intermediates: isocitrate dehydrogenase. Science 268: 1312–1318. <ul class="reflinks"><li><a href="#" data-author="Bolduc" data-cit="BolducJM%2C%20DyerDH%2C%20ScottWG%2C%20SingerP%2C%20SweetRM%2C%20et%20al.%20%281995%29%20Mutagenesis%20and%20Laue%20structures%20of%20enzyme%20intermediates%3A%20isocitrate%20dehydrogenase.%20Science%20268%3A%201312%E2%80%931318." data-title="Mutagenesis%20and%20Laue%20structures%20of%20enzyme%20intermediates%3A%20isocitrate%20dehydrogenase" target="_new" title="Go to article in CrossRef">
+                      View Article
+                    </a></li><li><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?db=PubMed&amp;cmd=Search&amp;doptcmdl=Citation&amp;defaultField=Title+Word&amp;term=Bolduc%5Bauthor%5D+AND+Mutagenesis+and+Laue+structures+of+enzyme+intermediates%3A+isocitrate+dehydrogenase" target="_new" title="Go to article in PubMed">
+                      PubMed/NCBI
+                    </a></li><li><a href="http://scholar.google.com/scholar_lookup?title=Mutagenesis+and+Laue+structures+of+enzyme+intermediates%3A+isocitrate+dehydrogenase&amp;author=Bolduc&amp;publication_year=1995" target="_new" title="Go to article in Google Scholar">
+                      Google Scholar
+                    </a></li></ul></li><li id="ref10"><span class="order">10.
+            </span><a name="pone.0068782-Kim1" id="pone.0068782-Kim1" class="link-target"></a>Kim SY, Lee SM, Tak JK, Choi KS, Kwon TK, et al. (2007) Regulation of singlet oxygen-induced apoptosis by cytosolic NADP+−dependent isocitrate dehydrogenase. Mol Cell Biochem 302: 27–34. <ul class="reflinks"><li><a href="#" data-author="Kim" data-cit="KimSY%2C%20LeeSM%2C%20TakJK%2C%20ChoiKS%2C%20KwonTK%2C%20et%20al.%20%282007%29%20Regulation%20of%20singlet%20oxygen-induced%20apoptosis%20by%20cytosolic%20NADP%2B%E2%88%92dependent%20isocitrate%20dehydrogenase.%20Mol%20Cell%20Biochem%20302%3A%2027%E2%80%9334." data-title="Regulation%20of%20singlet%20oxygen-induced%20apoptosis%20by%20cytosolic%20NADP%2B%E2%88%92dependent%20isocitrate%20dehydrogenase" target="_new" title="Go to article in CrossRef">
+                      View Article
+                    </a></li><li><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?db=PubMed&amp;cmd=Search&amp;doptcmdl=Citation&amp;defaultField=Title+Word&amp;term=Kim%5Bauthor%5D+AND+Regulation+of+singlet+oxygen-induced+apoptosis+by+cytosolic+NADP%2B%E2%88%92dependent+isocitrate+dehydrogenase" target="_new" title="Go to article in PubMed">
+                      PubMed/NCBI
+                    </a></li><li><a href="http://scholar.google.com/scholar_lookup?title=Regulation+of+singlet+oxygen-induced+apoptosis+by+cytosolic+NADP%2B%E2%88%92dependent+isocitrate+dehydrogenase&amp;author=Kim&amp;publication_year=2007" target="_new" title="Go to article in Google Scholar">
+                      Google Scholar
+                    </a></li></ul></li><li id="ref11"><span class="order">11.
+            </span><a name="pone.0068782-Zhao1" id="pone.0068782-Zhao1" class="link-target"></a>Zhao S, Lin Y, Xu W, Jiang W, Zha Z, et al. (2009) Glioma-derived mutations in IDH1 dominantly inhibit IDH1 catalytic activity and induce HIF-1alpha. Science 324: 261–265. <ul class="reflinks"><li><a href="#" data-author="Zhao" data-cit="ZhaoS%2C%20LinY%2C%20XuW%2C%20JiangW%2C%20ZhaZ%2C%20et%20al.%20%282009%29%20Glioma-derived%20mutations%20in%20IDH1%20dominantly%20inhibit%20IDH1%20catalytic%20activity%20and%20induce%20HIF-1alpha.%20Science%20324%3A%20261%E2%80%93265." data-title="Glioma-derived%20mutations%20in%20IDH1%20dominantly%20inhibit%20IDH1%20catalytic%20activity%20and%20induce%20HIF-1alpha" target="_new" title="Go to article in CrossRef">
+                      View Article
+                    </a></li><li><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?db=PubMed&amp;cmd=Search&amp;doptcmdl=Citation&amp;defaultField=Title+Word&amp;term=Zhao%5Bauthor%5D+AND+Glioma-derived+mutations+in+IDH1+dominantly+inhibit+IDH1+catalytic+activity+and+induce+HIF-1alpha" target="_new" title="Go to article in PubMed">
+                      PubMed/NCBI
+                    </a></li><li><a href="http://scholar.google.com/scholar_lookup?title=Glioma-derived+mutations+in+IDH1+dominantly+inhibit+IDH1+catalytic+activity+and+induce+HIF-1alpha&amp;author=Zhao&amp;publication_year=2009" target="_new" title="Go to article in Google Scholar">
+                      Google Scholar
+                    </a></li></ul></li><li id="ref12"><span class="order">12.
+            </span><a name="pone.0068782-Weller1" id="pone.0068782-Weller1" class="link-target"></a>Weller M, Felsberg J, Hartmann C, Berger H, Steinbach JP, et al. (2009) Molecular predictors of progression-free and overall survival in patients with newly diagnosed glioblastoma: a prospective translational study of the German Glioma Network. J Clin Oncol 27: 5743–5750. <ul class="reflinks"><li><a href="#" data-author="Weller" data-cit="WellerM%2C%20FelsbergJ%2C%20HartmannC%2C%20BergerH%2C%20SteinbachJP%2C%20et%20al.%20%282009%29%20Molecular%20predictors%20of%20progression-free%20and%20overall%20survival%20in%20patients%20with%20newly%20diagnosed%20glioblastoma%3A%20a%20prospective%20translational%20study%20of%20the%20German%20Glioma%20Network.%20J%20Clin%20Oncol%2027%3A%205743%E2%80%935750." data-title="Molecular%20predictors%20of%20progression-free%20and%20overall%20survival%20in%20patients%20with%20newly%20diagnosed%20glioblastoma%3A%20a%20prospective%20translational%20study%20of%20the%20German%20Glioma%20Network" target="_new" title="Go to article in CrossRef">
+                      View Article
+                    </a></li><li><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?db=PubMed&amp;cmd=Search&amp;doptcmdl=Citation&amp;defaultField=Title+Word&amp;term=Weller%5Bauthor%5D+AND+Molecular+predictors+of+progression-free+and+overall+survival+in+patients+with+newly+diagnosed+glioblastoma%3A+a+prospective+translational+study+of+the+German+Glioma+Network" target="_new" title="Go to article in PubMed">
+                      PubMed/NCBI
+                    </a></li><li><a href="http://scholar.google.com/scholar_lookup?title=Molecular+predictors+of+progression-free+and+overall+survival+in+patients+with+newly+diagnosed+glioblastoma%3A+a+prospective+translational+study+of+the+German+Glioma+Network&amp;author=Weller&amp;publication_year=2009" target="_new" title="Go to article in Google Scholar">
+                      Google Scholar
+                    </a></li></ul></li><li id="ref13"><span class="order">13.
+            </span><a name="pone.0068782-Ichimura1" id="pone.0068782-Ichimura1" class="link-target"></a>Ichimura K, Pearson DM, Kocialkowski S, Backlund LM, Chan R, et al. (2009) IDH1 mutations are present in the majority of common adult gliomas but rare in primary glioblastomas. Neuro Oncol 11: 341–347. <ul class="reflinks"><li><a href="#" data-author="Ichimura" data-cit="IchimuraK%2C%20PearsonDM%2C%20KocialkowskiS%2C%20BacklundLM%2C%20ChanR%2C%20et%20al.%20%282009%29%20IDH1%20mutations%20are%20present%20in%20the%20majority%20of%20common%20adult%20gliomas%20but%20rare%20in%20primary%20glioblastomas.%20Neuro%20Oncol%2011%3A%20341%E2%80%93347." data-title="IDH1%20mutations%20are%20present%20in%20the%20majority%20of%20common%20adult%20gliomas%20but%20rare%20in%20primary%20glioblastomas" target="_new" title="Go to article in CrossRef">
+                      View Article
+                    </a></li><li><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?db=PubMed&amp;cmd=Search&amp;doptcmdl=Citation&amp;defaultField=Title+Word&amp;term=Ichimura%5Bauthor%5D+AND+IDH1+mutations+are+present+in+the+majority+of+common+adult+gliomas+but+rare+in+primary+glioblastomas" target="_new" title="Go to article in PubMed">
+                      PubMed/NCBI
+                    </a></li><li><a href="http://scholar.google.com/scholar_lookup?title=IDH1+mutations+are+present+in+the+majority+of+common+adult+gliomas+but+rare+in+primary+glioblastomas&amp;author=Ichimura&amp;publication_year=2009" target="_new" title="Go to article in Google Scholar">
+                      Google Scholar
+                    </a></li></ul></li><li id="ref14"><span class="order">14.
+            </span><a name="pone.0068782-Dang1" id="pone.0068782-Dang1" class="link-target"></a>Dang L, White DW, Gross S, Bennett BD, Bittinger MA, et al. (2009) Cancer-associated IDH1 mutations produce 2-hydroxyglutarate. Nature 462: 739–744. <ul class="reflinks"><li><a href="#" data-author="Dang" data-cit="DangL%2C%20WhiteDW%2C%20GrossS%2C%20BennettBD%2C%20BittingerMA%2C%20et%20al.%20%282009%29%20Cancer-associated%20IDH1%20mutations%20produce%202-hydroxyglutarate.%20Nature%20462%3A%20739%E2%80%93744." data-title="Cancer-associated%20IDH1%20mutations%20produce%202-hydroxyglutarate" target="_new" title="Go to article in CrossRef">
+                      View Article
+                    </a></li><li><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?db=PubMed&amp;cmd=Search&amp;doptcmdl=Citation&amp;defaultField=Title+Word&amp;term=Dang%5Bauthor%5D+AND+Cancer-associated+IDH1+mutations+produce+2-hydroxyglutarate" target="_new" title="Go to article in PubMed">
+                      PubMed/NCBI
+                    </a></li><li><a href="http://scholar.google.com/scholar_lookup?title=Cancer-associated+IDH1+mutations+produce+2-hydroxyglutarate&amp;author=Dang&amp;publication_year=2009" target="_new" title="Go to article in Google Scholar">
+                      Google Scholar
+                    </a></li></ul></li><li id="ref15"><span class="order">15.
+            </span><a name="pone.0068782-Xu1" id="pone.0068782-Xu1" class="link-target"></a>Xu W, Yang H, Liu Y, Yang Y, Wang P, et al. (2011) Oncometabolite 2-hydroxyglutarate is a competitive inhibitor of alpha-ketoglutarate-dependent dioxygenases. Cancer Cell 19: 17–30. <ul class="reflinks"><li><a href="#" data-author="Xu" data-cit="XuW%2C%20YangH%2C%20LiuY%2C%20YangY%2C%20WangP%2C%20et%20al.%20%282011%29%20Oncometabolite%202-hydroxyglutarate%20is%20a%20competitive%20inhibitor%20of%20alpha-ketoglutarate-dependent%20dioxygenases.%20Cancer%20Cell%2019%3A%2017%E2%80%9330." data-title="Oncometabolite%202-hydroxyglutarate%20is%20a%20competitive%20inhibitor%20of%20alpha-ketoglutarate-dependent%20dioxygenases" target="_new" title="Go to article in CrossRef">
+                      View Article
+                    </a></li><li><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?db=PubMed&amp;cmd=Search&amp;doptcmdl=Citation&amp;defaultField=Title+Word&amp;term=Xu%5Bauthor%5D+AND+Oncometabolite+2-hydroxyglutarate+is+a+competitive+inhibitor+of+alpha-ketoglutarate-dependent+dioxygenases" target="_new" title="Go to article in PubMed">
+                      PubMed/NCBI
+                    </a></li><li><a href="http://scholar.google.com/scholar_lookup?title=Oncometabolite+2-hydroxyglutarate+is+a+competitive+inhibitor+of+alpha-ketoglutarate-dependent+dioxygenases&amp;author=Xu&amp;publication_year=2011" target="_new" title="Go to article in Google Scholar">
+                      Google Scholar
+                    </a></li></ul></li><li id="ref16"><span class="order">16.
+            </span><a name="pone.0068782-Gravendeel1" id="pone.0068782-Gravendeel1" class="link-target"></a>Gravendeel LA, Kouwenhoven MC, Gevaert O, de Rooi JJ, Stubbs AP, et al. (2009) Intrinsic gene expression profiles of gliomas are a better predictor of survival than histology. Cancer Res 69: 9065–9072. <ul class="reflinks"><li><a href="#" data-author="Gravendeel" data-cit="GravendeelLA%2C%20KouwenhovenMC%2C%20GevaertO%2C%20de%20RooiJJ%2C%20StubbsAP%2C%20et%20al.%20%282009%29%20Intrinsic%20gene%20expression%20profiles%20of%20gliomas%20are%20a%20better%20predictor%20of%20survival%20than%20histology.%20Cancer%20Res%2069%3A%209065%E2%80%939072." data-title="Intrinsic%20gene%20expression%20profiles%20of%20gliomas%20are%20a%20better%20predictor%20of%20survival%20than%20histology" target="_new" title="Go to article in CrossRef">
+                      View Article
+                    </a></li><li><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?db=PubMed&amp;cmd=Search&amp;doptcmdl=Citation&amp;defaultField=Title+Word&amp;term=Gravendeel%5Bauthor%5D+AND+Intrinsic+gene+expression+profiles+of+gliomas+are+a+better+predictor+of+survival+than+histology" target="_new" title="Go to article in PubMed">
+                      PubMed/NCBI
+                    </a></li><li><a href="http://scholar.google.com/scholar_lookup?title=Intrinsic+gene+expression+profiles+of+gliomas+are+a+better+predictor+of+survival+than+histology&amp;author=Gravendeel&amp;publication_year=2009" target="_new" title="Go to article in Google Scholar">
+                      Google Scholar
+                    </a></li></ul></li><li id="ref17"><span class="order">17.
+            </span><a name="pone.0068782-Nobusawa1" id="pone.0068782-Nobusawa1" class="link-target"></a>Nobusawa S, Watanabe T, Kleihues P, Ohgaki H (2009) IDH1 mutations as molecular signature and predictive factor of secondary glioblastomas. Clin Cancer Res 15: 6002–6007. <ul class="reflinks"><li><a href="#" data-author="Nobusawa" data-cit="NobusawaS%2C%20WatanabeT%2C%20KleihuesP%2C%20OhgakiH%20%282009%29%20IDH1%20mutations%20as%20molecular%20signature%20and%20predictive%20factor%20of%20secondary%20glioblastomas.%20Clin%20Cancer%20Res%2015%3A%206002%E2%80%936007." data-title="IDH1%20mutations%20as%20molecular%20signature%20and%20predictive%20factor%20of%20secondary%20glioblastomas" target="_new" title="Go to article in CrossRef">
+                      View Article
+                    </a></li><li><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?db=PubMed&amp;cmd=Search&amp;doptcmdl=Citation&amp;defaultField=Title+Word&amp;term=Nobusawa%5Bauthor%5D+AND+IDH1+mutations+as+molecular+signature+and+predictive+factor+of+secondary+glioblastomas" target="_new" title="Go to article in PubMed">
+                      PubMed/NCBI
+                    </a></li><li><a href="http://scholar.google.com/scholar_lookup?title=IDH1+mutations+as+molecular+signature+and+predictive+factor+of+secondary+glioblastomas&amp;author=Nobusawa&amp;publication_year=2009" target="_new" title="Go to article in Google Scholar">
+                      Google Scholar
+                    </a></li></ul></li><li id="ref18"><span class="order">18.
+            </span><a name="pone.0068782-Sanson1" id="pone.0068782-Sanson1" class="link-target"></a>Sanson M, Marie Y, Paris S, Idbaih A, Laffaire J, et al. (2009) Isocitrate dehydrogenase 1 codon 132 mutation is an important prognostic biomarker in gliomas. J Clin Oncol 27: 4150–4154. <ul class="reflinks"><li><a href="#" data-author="Sanson" data-cit="SansonM%2C%20MarieY%2C%20ParisS%2C%20IdbaihA%2C%20LaffaireJ%2C%20et%20al.%20%282009%29%20Isocitrate%20dehydrogenase%201%20codon%20132%20mutation%20is%20an%20important%20prognostic%20biomarker%20in%20gliomas.%20J%20Clin%20Oncol%2027%3A%204150%E2%80%934154." data-title="Isocitrate%20dehydrogenase%201%20codon%20132%20mutation%20is%20an%20important%20prognostic%20biomarker%20in%20gliomas" target="_new" title="Go to article in CrossRef">
+                      View Article
+                    </a></li><li><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?db=PubMed&amp;cmd=Search&amp;doptcmdl=Citation&amp;defaultField=Title+Word&amp;term=Sanson%5Bauthor%5D+AND+Isocitrate+dehydrogenase+1+codon+132+mutation+is+an+important+prognostic+biomarker+in+gliomas" target="_new" title="Go to article in PubMed">
+                      PubMed/NCBI
+                    </a></li><li><a href="http://scholar.google.com/scholar_lookup?title=Isocitrate+dehydrogenase+1+codon+132+mutation+is+an+important+prognostic+biomarker+in+gliomas&amp;author=Sanson&amp;publication_year=2009" target="_new" title="Go to article in Google Scholar">
+                      Google Scholar
+                    </a></li></ul></li><li id="ref19"><span class="order">19.
+            </span><a name="pone.0068782-Wick1" id="pone.0068782-Wick1" class="link-target"></a>Wick W, Hartmann C, Engel C, Stoffels M, Felsberg J, et al. (2009) NOA-04 randomized phase III trial of sequential radiochemotherapy of anaplastic glioma with procarbazine, lomustine, and vincristine or temozolomide. J Clin Oncol 27: 5874–5880. <ul class="reflinks"><li><a href="#" data-author="Wick" data-cit="WickW%2C%20HartmannC%2C%20EngelC%2C%20StoffelsM%2C%20FelsbergJ%2C%20et%20al.%20%282009%29%20NOA-04%20randomized%20phase%20III%20trial%20of%20sequential%20radiochemotherapy%20of%20anaplastic%20glioma%20with%20procarbazine%2C%20lomustine%2C%20and%20vincristine%20or%20temozolomide.%20J%20Clin%20Oncol%2027%3A%205874%E2%80%935880." data-title="NOA-04%20randomized%20phase%20III%20trial%20of%20sequential%20radiochemotherapy%20of%20anaplastic%20glioma%20with%20procarbazine%2C%20lomustine%2C%20and%20vincristine%20or%20temozolomide" target="_new" title="Go to article in CrossRef">
+                      View Article
+                    </a></li><li><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?db=PubMed&amp;cmd=Search&amp;doptcmdl=Citation&amp;defaultField=Title+Word&amp;term=Wick%5Bauthor%5D+AND+NOA-04+randomized+phase+III+trial+of+sequential+radiochemotherapy+of+anaplastic+glioma+with+procarbazine%2C+lomustine%2C+and+vincristine+or+temozolomide" target="_new" title="Go to article in PubMed">
+                      PubMed/NCBI
+                    </a></li><li><a href="http://scholar.google.com/scholar_lookup?title=NOA-04+randomized+phase+III+trial+of+sequential+radiochemotherapy+of+anaplastic+glioma+with+procarbazine%2C+lomustine%2C+and+vincristine+or+temozolomide&amp;author=Wick&amp;publication_year=2009" target="_new" title="Go to article in Google Scholar">
+                      Google Scholar
+                    </a></li></ul></li><li id="ref20"><span class="order">20.
+            </span><a name="pone.0068782-Bleeker1" id="pone.0068782-Bleeker1" class="link-target"></a>Bleeker FE, Atai NA, Lamba S, Jonker A, Rijkeboer D, et al. (2010) The prognostic IDH1( R132 ) mutation is associated with reduced NADP+−dependent IDH activity in glioblastoma. Acta Neuropathol 119: 487–494. <ul class="reflinks"><li><a href="#" data-author="Bleeker" data-cit="BleekerFE%2C%20AtaiNA%2C%20LambaS%2C%20JonkerA%2C%20RijkeboerD%2C%20et%20al.%20%282010%29%20The%20prognostic%20IDH1%28%20R132%20%29%20mutation%20is%20associated%20with%20reduced%20NADP%2B%E2%88%92dependent%20IDH%20activity%20in%20glioblastoma.%20Acta%20Neuropathol%20119%3A%20487%E2%80%93494." data-title="The%20prognostic%20IDH1%28%20R132%20%29%20mutation%20is%20associated%20with%20reduced%20NADP%2B%E2%88%92dependent%20IDH%20activity%20in%20glioblastoma" target="_new" title="Go to article in CrossRef">
+                      View Article
+                    </a></li><li><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?db=PubMed&amp;cmd=Search&amp;doptcmdl=Citation&amp;defaultField=Title+Word&amp;term=Bleeker%5Bauthor%5D+AND+The+prognostic+IDH1%28+R132+%29+mutation+is+associated+with+reduced+NADP%2B%E2%88%92dependent+IDH+activity+in+glioblastoma" target="_new" title="Go to article in PubMed">
+                      PubMed/NCBI
+                    </a></li><li><a href="http://scholar.google.com/scholar_lookup?title=The+prognostic+IDH1%28+R132+%29+mutation+is+associated+with+reduced+NADP%2B%E2%88%92dependent+IDH+activity+in+glioblastoma&amp;author=Bleeker&amp;publication_year=2010" target="_new" title="Go to article in Google Scholar">
+                      Google Scholar
+                    </a></li></ul></li><li id="ref21"><span class="order">21.
+            </span><a name="pone.0068782-Christensen1" id="pone.0068782-Christensen1" class="link-target"></a>Christensen BC, Smith AA, Zheng S, Koestler DC, Houseman EA, et al. (2011) DNA methylation, isocitrate dehydrogenase mutation, and survival in glioma. J Natl Cancer Inst 103: 143–153. <ul class="reflinks"><li><a href="#" data-author="Christensen" data-cit="ChristensenBC%2C%20SmithAA%2C%20ZhengS%2C%20KoestlerDC%2C%20HousemanEA%2C%20et%20al.%20%282011%29%20DNA%20methylation%2C%20isocitrate%20dehydrogenase%20mutation%2C%20and%20survival%20in%20glioma.%20J%20Natl%20Cancer%20Inst%20103%3A%20143%E2%80%93153." data-title="DNA%20methylation%2C%20isocitrate%20dehydrogenase%20mutation%2C%20and%20survival%20in%20glioma" target="_new" title="Go to article in CrossRef">
+                      View Article
+                    </a></li><li><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?db=PubMed&amp;cmd=Search&amp;doptcmdl=Citation&amp;defaultField=Title+Word&amp;term=Christensen%5Bauthor%5D+AND+DNA+methylation%2C+isocitrate+dehydrogenase+mutation%2C+and+survival+in+glioma" target="_new" title="Go to article in PubMed">
+                      PubMed/NCBI
+                    </a></li><li><a href="http://scholar.google.com/scholar_lookup?title=DNA+methylation%2C+isocitrate+dehydrogenase+mutation%2C+and+survival+in+glioma&amp;author=Christensen&amp;publication_year=2011" target="_new" title="Go to article in Google Scholar">
+                      Google Scholar
+                    </a></li></ul></li><li id="ref22"><span class="order">22.
+            </span><a name="pone.0068782-Shibahara1" id="pone.0068782-Shibahara1" class="link-target"></a>Shibahara I, Sonoda Y, Kanamori M, Saito R, Yamashita Y, et al.. (2011) IDH1/2 gene status defines the prognosis and molecular profiles in patients with grade III gliomas. Int J Clin Oncol. <ul class="find-nolinks"></ul></li><li id="ref23"><span class="order">23.
+            </span><a name="pone.0068782-Li1" id="pone.0068782-Li1" class="link-target"></a>Li S, Yan C, Huang L, Qiu X, Wang Z, et al. (2012) Molecular prognostic factors of anaplastic oligodendroglial tumors and its relationship: a single institutional review of 77 patients from China. Neuro Oncol 14: 109–116. <ul class="reflinks"><li><a href="#" data-author="Li" data-cit="LiS%2C%20YanC%2C%20HuangL%2C%20QiuX%2C%20WangZ%2C%20et%20al.%20%282012%29%20Molecular%20prognostic%20factors%20of%20anaplastic%20oligodendroglial%20tumors%20and%20its%20relationship%3A%20a%20single%20institutional%20review%20of%2077%20patients%20from%20China.%20Neuro%20Oncol%2014%3A%20109%E2%80%93116." data-title="Molecular%20prognostic%20factors%20of%20anaplastic%20oligodendroglial%20tumors%20and%20its%20relationship%3A%20a%20single%20institutional%20review%20of%2077%20patients%20from%20China" target="_new" title="Go to article in CrossRef">
+                      View Article
+                    </a></li><li><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?db=PubMed&amp;cmd=Search&amp;doptcmdl=Citation&amp;defaultField=Title+Word&amp;term=Li%5Bauthor%5D+AND+Molecular+prognostic+factors+of+anaplastic+oligodendroglial+tumors+and+its+relationship%3A+a+single+institutional+review+of+77+patients+from+China" target="_new" title="Go to article in PubMed">
+                      PubMed/NCBI
+                    </a></li><li><a href="http://scholar.google.com/scholar_lookup?title=Molecular+prognostic+factors+of+anaplastic+oligodendroglial+tumors+and+its+relationship%3A+a+single+institutional+review+of+77+patients+from+China&amp;author=Li&amp;publication_year=2012" target="_new" title="Go to article in Google Scholar">
+                      Google Scholar
+                    </a></li></ul></li><li id="ref24"><span class="order">24.
+            </span><a name="pone.0068782-Mukasa1" id="pone.0068782-Mukasa1" class="link-target"></a>Mukasa A, Takayanagi S, Saito K, Shibahara J, Tabei Y, et al. (2012) Significance of IDH mutations varies with tumor histology, grade, and genetics in Japanese glioma patients. Cancer Sci 103: 587–592. <ul class="reflinks"><li><a href="#" data-author="Mukasa" data-cit="MukasaA%2C%20TakayanagiS%2C%20SaitoK%2C%20ShibaharaJ%2C%20TabeiY%2C%20et%20al.%20%282012%29%20Significance%20of%20IDH%20mutations%20varies%20with%20tumor%20histology%2C%20grade%2C%20and%20genetics%20in%20Japanese%20glioma%20patients.%20Cancer%20Sci%20103%3A%20587%E2%80%93592." data-title="Significance%20of%20IDH%20mutations%20varies%20with%20tumor%20histology%2C%20grade%2C%20and%20genetics%20in%20Japanese%20glioma%20patients" target="_new" title="Go to article in CrossRef">
+                      View Article
+                    </a></li><li><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?db=PubMed&amp;cmd=Search&amp;doptcmdl=Citation&amp;defaultField=Title+Word&amp;term=Mukasa%5Bauthor%5D+AND+Significance+of+IDH+mutations+varies+with+tumor+histology%2C+grade%2C+and+genetics+in+Japanese+glioma+patients" target="_new" title="Go to article in PubMed">
+                      PubMed/NCBI
+                    </a></li><li><a href="http://scholar.google.com/scholar_lookup?title=Significance+of+IDH+mutations+varies+with+tumor+histology%2C+grade%2C+and+genetics+in+Japanese+glioma+patients&amp;author=Mukasa&amp;publication_year=2012" target="_new" title="Go to article in Google Scholar">
+                      Google Scholar
+                    </a></li></ul></li><li id="ref25"><span class="order">25.
+            </span><a name="pone.0068782-Yan2" id="pone.0068782-Yan2" class="link-target"></a>Yan W, Zhang W, You G, Bao Z, Wang Y, et al. (2012) Correlation of IDH1 mutation with clinicopathologic factors and prognosis in primary glioblastoma: a report of 118 patients from China. PLoS ONE 7: e30339. <ul class="reflinks"><li><a href="#" data-author="Yan" data-cit="YanW%2C%20ZhangW%2C%20YouG%2C%20BaoZ%2C%20WangY%2C%20et%20al.%20%282012%29%20Correlation%20of%20IDH1%20mutation%20with%20clinicopathologic%20factors%20and%20prognosis%20in%20primary%20glioblastoma%3A%20a%20report%20of%20118%20patients%20from%20China.%20PLoS%20ONE%207%3A%20e30339." data-title="Correlation%20of%20IDH1%20mutation%20with%20clinicopathologic%20factors%20and%20prognosis%20in%20primary%20glioblastoma%3A%20a%20report%20of%20118%20patients%20from%20China" target="_new" title="Go to article in CrossRef">
+                      View Article
+                    </a></li><li><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?db=PubMed&amp;cmd=Search&amp;doptcmdl=Citation&amp;defaultField=Title+Word&amp;term=Yan%5Bauthor%5D+AND+Correlation+of+IDH1+mutation+with+clinicopathologic+factors+and+prognosis+in+primary+glioblastoma%3A+a+report+of+118+patients+from+China" target="_new" title="Go to article in PubMed">
+                      PubMed/NCBI
+                    </a></li><li><a href="http://scholar.google.com/scholar_lookup?title=Correlation+of+IDH1+mutation+with+clinicopathologic+factors+and+prognosis+in+primary+glioblastoma%3A+a+report+of+118+patients+from+China&amp;author=Yan&amp;publication_year=2012" target="_new" title="Go to article in Google Scholar">
+                      Google Scholar
+                    </a></li></ul></li><li id="ref26"><span class="order">26.
+            </span><a name="pone.0068782-Tierney1" id="pone.0068782-Tierney1" class="link-target"></a>Tierney JF, Stewart LA, Ghersi D, Burdett S, Sydes MR (2007) Practical methods for incorporating summary time-to-event data into meta-analysis. Trials 8: 16. <ul class="reflinks"><li><a href="#" data-author="Tierney" data-cit="TierneyJF%2C%20StewartLA%2C%20GhersiD%2C%20BurdettS%2C%20SydesMR%20%282007%29%20Practical%20methods%20for%20incorporating%20summary%20time-to-event%20data%20into%20meta-analysis.%20Trials%208%3A%2016." data-title="Practical%20methods%20for%20incorporating%20summary%20time-to-event%20data%20into%20meta-analysis" target="_new" title="Go to article in CrossRef">
+                      View Article
+                    </a></li><li><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?db=PubMed&amp;cmd=Search&amp;doptcmdl=Citation&amp;defaultField=Title+Word&amp;term=Tierney%5Bauthor%5D+AND+Practical+methods+for+incorporating+summary+time-to-event+data+into+meta-analysis" target="_new" title="Go to article in PubMed">
+                      PubMed/NCBI
+                    </a></li><li><a href="http://scholar.google.com/scholar_lookup?title=Practical+methods+for+incorporating+summary+time-to-event+data+into+meta-analysis&amp;author=Tierney&amp;publication_year=2007" target="_new" title="Go to article in Google Scholar">
+                      Google Scholar
+                    </a></li></ul></li><li id="ref27"><span class="order">27.
+            </span><a name="pone.0068782-Begg1" id="pone.0068782-Begg1" class="link-target"></a>Begg CB, Mazumdar M (1994) Operating characteristics of a rank correlation test for publication bias. Biometrics 50: 1088–1101. <ul class="reflinks"><li><a href="#" data-author="Begg" data-cit="BeggCB%2C%20MazumdarM%20%281994%29%20Operating%20characteristics%20of%20a%20rank%20correlation%20test%20for%20publication%20bias.%20Biometrics%2050%3A%201088%E2%80%931101." data-title="Operating%20characteristics%20of%20a%20rank%20correlation%20test%20for%20publication%20bias" target="_new" title="Go to article in CrossRef">
+                      View Article
+                    </a></li><li><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?db=PubMed&amp;cmd=Search&amp;doptcmdl=Citation&amp;defaultField=Title+Word&amp;term=Begg%5Bauthor%5D+AND+Operating+characteristics+of+a+rank+correlation+test+for+publication+bias" target="_new" title="Go to article in PubMed">
+                      PubMed/NCBI
+                    </a></li><li><a href="http://scholar.google.com/scholar_lookup?title=Operating+characteristics+of+a+rank+correlation+test+for+publication+bias&amp;author=Begg&amp;publication_year=1994" target="_new" title="Go to article in Google Scholar">
+                      Google Scholar
+                    </a></li></ul></li><li id="ref28"><span class="order">28.
+            </span><a name="pone.0068782-Egger1" id="pone.0068782-Egger1" class="link-target"></a>Egger M, Davey Smith G, Schneider M, Minder C (1997) Bias in meta-analysis detected by a simple, graphical test. BMJ 315: 629–634. <ul class="reflinks"><li><a href="#" data-author="Egger" data-cit="EggerM%2C%20Davey%20SmithG%2C%20SchneiderM%2C%20MinderC%20%281997%29%20Bias%20in%20meta-analysis%20detected%20by%20a%20simple%2C%20graphical%20test.%20BMJ%20315%3A%20629%E2%80%93634." data-title="Bias%20in%20meta-analysis%20detected%20by%20a%20simple%2C%20graphical%20test" target="_new" title="Go to article in CrossRef">
+                      View Article
+                    </a></li><li><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?db=PubMed&amp;cmd=Search&amp;doptcmdl=Citation&amp;defaultField=Title+Word&amp;term=Egger%5Bauthor%5D+AND+Bias+in+meta-analysis+detected+by+a+simple%2C+graphical+test" target="_new" title="Go to article in PubMed">
+                      PubMed/NCBI
+                    </a></li><li><a href="http://scholar.google.com/scholar_lookup?title=Bias+in+meta-analysis+detected+by+a+simple%2C+graphical+test&amp;author=Egger&amp;publication_year=1997" target="_new" title="Go to article in Google Scholar">
+                      Google Scholar
+                    </a></li></ul></li><li id="ref29"><span class="order">29.
+            </span><a name="pone.0068782-Reitman1" id="pone.0068782-Reitman1" class="link-target"></a>Reitman ZJ, Yan H (2010) Isocitrate dehydrogenase 1 and 2 mutations in cancer: alterations at a crossroads of cellular metabolism. J Natl Cancer Inst 102: 932–941. <ul class="reflinks"><li><a href="#" data-author="Reitman" data-cit="ReitmanZJ%2C%20YanH%20%282010%29%20Isocitrate%20dehydrogenase%201%20and%202%20mutations%20in%20cancer%3A%20alterations%20at%20a%20crossroads%20of%20cellular%20metabolism.%20J%20Natl%20Cancer%20Inst%20102%3A%20932%E2%80%93941." data-title="Isocitrate%20dehydrogenase%201%20and%202%20mutations%20in%20cancer%3A%20alterations%20at%20a%20crossroads%20of%20cellular%20metabolism" target="_new" title="Go to article in CrossRef">
+                      View Article
+                    </a></li><li><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?db=PubMed&amp;cmd=Search&amp;doptcmdl=Citation&amp;defaultField=Title+Word&amp;term=Reitman%5Bauthor%5D+AND+Isocitrate+dehydrogenase+1+and+2+mutations+in+cancer%3A+alterations+at+a+crossroads+of+cellular+metabolism" target="_new" title="Go to article in PubMed">
+                      PubMed/NCBI
+                    </a></li><li><a href="http://scholar.google.com/scholar_lookup?title=Isocitrate+dehydrogenase+1+and+2+mutations+in+cancer%3A+alterations+at+a+crossroads+of+cellular+metabolism&amp;author=Reitman&amp;publication_year=2010" target="_new" title="Go to article in Google Scholar">
+                      Google Scholar
+                    </a></li></ul></li><li id="ref30"><span class="order">30.
+            </span><a name="pone.0068782-Gerson1" id="pone.0068782-Gerson1" class="link-target"></a>Gerson SL (2004) MGMT: its role in cancer aetiology and cancer therapeutics. Nat Rev Cancer 4: 296–307. <ul class="reflinks"><li><a href="#" data-author="Gerson" data-cit="GersonSL%20%282004%29%20MGMT%3A%20its%20role%20in%20cancer%20aetiology%20and%20cancer%20therapeutics.%20Nat%20Rev%20Cancer%204%3A%20296%E2%80%93307." data-title="MGMT%3A%20its%20role%20in%20cancer%20aetiology%20and%20cancer%20therapeutics" target="_new" title="Go to article in CrossRef">
+                      View Article
+                    </a></li><li><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?db=PubMed&amp;cmd=Search&amp;doptcmdl=Citation&amp;defaultField=Title+Word&amp;term=Gerson%5Bauthor%5D+AND+MGMT%3A+its+role+in+cancer+aetiology+and+cancer+therapeutics" target="_new" title="Go to article in PubMed">
+                      PubMed/NCBI
+                    </a></li><li><a href="http://scholar.google.com/scholar_lookup?title=MGMT%3A+its+role+in+cancer+aetiology+and+cancer+therapeutics&amp;author=Gerson&amp;publication_year=2004" target="_new" title="Go to article in Google Scholar">
+                      Google Scholar
+                    </a></li></ul></li><li id="ref31"><span class="order">31.
+            </span><a name="pone.0068782-Hegi1" id="pone.0068782-Hegi1" class="link-target"></a>Hegi ME, Diserens AC, Gorlia T, Hamou MF, de Tribolet N, et al. (2005) MGMT gene silencing and benefit from temozolomide in glioblastoma. N Engl J Med 352: 997–1003. <ul class="reflinks"><li><a href="#" data-author="Hegi" data-cit="HegiME%2C%20DiserensAC%2C%20GorliaT%2C%20HamouMF%2C%20de%20TriboletN%2C%20et%20al.%20%282005%29%20MGMT%20gene%20silencing%20and%20benefit%20from%20temozolomide%20in%20glioblastoma.%20N%20Engl%20J%20Med%20352%3A%20997%E2%80%931003." data-title="MGMT%20gene%20silencing%20and%20benefit%20from%20temozolomide%20in%20glioblastoma" target="_new" title="Go to article in CrossRef">
+                      View Article
+                    </a></li><li><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?db=PubMed&amp;cmd=Search&amp;doptcmdl=Citation&amp;defaultField=Title+Word&amp;term=Hegi%5Bauthor%5D+AND+MGMT+gene+silencing+and+benefit+from+temozolomide+in+glioblastoma" target="_new" title="Go to article in PubMed">
+                      PubMed/NCBI
+                    </a></li><li><a href="http://scholar.google.com/scholar_lookup?title=MGMT+gene+silencing+and+benefit+from+temozolomide+in+glioblastoma&amp;author=Hegi&amp;publication_year=2005" target="_new" title="Go to article in Google Scholar">
+                      Google Scholar
+                    </a></li></ul></li><li id="ref32"><span class="order">32.
+            </span><a name="pone.0068782-Stupp1" id="pone.0068782-Stupp1" class="link-target"></a>Stupp R, Hegi ME, Mason WP, van den Bent MJ, Taphoorn MJ, et al. (2009) Effects of radiotherapy with concomitant and adjuvant temozolomide versus radiotherapy alone on survival in glioblastoma in a randomised phase III study: 5–year analysis of the EORTC-NCIC trial. Lancet Oncol 10: 459–466. <ul class="reflinks"><li><a href="#" data-author="Stupp" data-cit="StuppR%2C%20HegiME%2C%20MasonWP%2C%20van%20den%20BentMJ%2C%20TaphoornMJ%2C%20et%20al.%20%282009%29%20Effects%20of%20radiotherapy%20with%20concomitant%20and%20adjuvant%20temozolomide%20versus%20radiotherapy%20alone%20on%20survival%20in%20glioblastoma%20in%20a%20randomised%20phase%20III%20study%3A%205%E2%80%93year%20analysis%20of%20the%20EORTC-NCIC%20trial.%20Lancet%20Oncol%2010%3A%20459%E2%80%93466." data-title="Effects%20of%20radiotherapy%20with%20concomitant%20and%20adjuvant%20temozolomide%20versus%20radiotherapy%20alone%20on%20survival%20in%20glioblastoma%20in%20a%20randomised%20phase%20III%20study%3A%205%E2%80%93year%20analysis%20of%20the%20EORTC-NCIC%20trial" target="_new" title="Go to article in CrossRef">
+                      View Article
+                    </a></li><li><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?db=PubMed&amp;cmd=Search&amp;doptcmdl=Citation&amp;defaultField=Title+Word&amp;term=Stupp%5Bauthor%5D+AND+Effects+of+radiotherapy+with+concomitant+and+adjuvant+temozolomide+versus+radiotherapy+alone+on+survival+in+glioblastoma+in+a+randomised+phase+III+study%3A+5%E2%80%93year+analysis+of+the+EORTC-NCIC+trial" target="_new" title="Go to article in PubMed">
+                      PubMed/NCBI
+                    </a></li><li><a href="http://scholar.google.com/scholar_lookup?title=Effects+of+radiotherapy+with+concomitant+and+adjuvant+temozolomide+versus+radiotherapy+alone+on+survival+in+glioblastoma+in+a+randomised+phase+III+study%3A+5%E2%80%93year+analysis+of+the+EORTC-NCIC+trial&amp;author=Stupp&amp;publication_year=2009" target="_new" title="Go to article in Google Scholar">
+                      Google Scholar
+                    </a></li></ul></li><li id="ref33"><span class="order">33.
+            </span><a name="pone.0068782-Esteller1" id="pone.0068782-Esteller1" class="link-target"></a>Esteller M, Garcia-Foncillas J, Andion E, Goodman SN, Hidalgo OF, et al. (2000) Inactivation of the DNA-repair gene MGMT and the clinical response of gliomas to alkylating agents. N Engl J Med 343: 1350–1354. <ul class="reflinks"><li><a href="#" data-author="Esteller" data-cit="EstellerM%2C%20Garcia-FoncillasJ%2C%20AndionE%2C%20GoodmanSN%2C%20HidalgoOF%2C%20et%20al.%20%282000%29%20Inactivation%20of%20the%20DNA-repair%20gene%20MGMT%20and%20the%20clinical%20response%20of%20gliomas%20to%20alkylating%20agents.%20N%20Engl%20J%20Med%20343%3A%201350%E2%80%931354." data-title="Inactivation%20of%20the%20DNA-repair%20gene%20MGMT%20and%20the%20clinical%20response%20of%20gliomas%20to%20alkylating%20agents" target="_new" title="Go to article in CrossRef">
+                      View Article
+                    </a></li><li><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?db=PubMed&amp;cmd=Search&amp;doptcmdl=Citation&amp;defaultField=Title+Word&amp;term=Esteller%5Bauthor%5D+AND+Inactivation+of+the+DNA-repair+gene+MGMT+and+the+clinical+response+of+gliomas+to+alkylating+agents" target="_new" title="Go to article in PubMed">
+                      PubMed/NCBI
+                    </a></li><li><a href="http://scholar.google.com/scholar_lookup?title=Inactivation+of+the+DNA-repair+gene+MGMT+and+the+clinical+response+of+gliomas+to+alkylating+agents&amp;author=Esteller&amp;publication_year=2000" target="_new" title="Go to article in Google Scholar">
+                      Google Scholar
+                    </a></li></ul></li><li id="ref34"><span class="order">34.
+            </span><a name="pone.0068782-Esteller2" id="pone.0068782-Esteller2" class="link-target"></a>Esteller M, Toyota M, Sanchez-Cespedes M, Capella G, Peinado MA, et al. (2000) Inactivation of the DNA repair gene O6-methylguanine-DNA methyltransferase by promoter hypermethylation is associated with G to A mutations in K-ras in colorectal tumorigenesis. Cancer Res 60: 2368–2371. <ul class="reflinks"><li><a href="#" data-author="Esteller" data-cit="EstellerM%2C%20ToyotaM%2C%20Sanchez-CespedesM%2C%20CapellaG%2C%20PeinadoMA%2C%20et%20al.%20%282000%29%20Inactivation%20of%20the%20DNA%20repair%20gene%20O6-methylguanine-DNA%20methyltransferase%20by%20promoter%20hypermethylation%20is%20associated%20with%20G%20to%20A%20mutations%20in%20K-ras%20in%20colorectal%20tumorigenesis.%20Cancer%20Res%2060%3A%202368%E2%80%932371." data-title="Inactivation%20of%20the%20DNA%20repair%20gene%20O6-methylguanine-DNA%20methyltransferase%20by%20promoter%20hypermethylation%20is%20associated%20with%20G%20to%20A%20mutations%20in%20K-ras%20in%20colorectal%20tumorigenesis" target="_new" title="Go to article in CrossRef">
+                      View Article
+                    </a></li><li><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?db=PubMed&amp;cmd=Search&amp;doptcmdl=Citation&amp;defaultField=Title+Word&amp;term=Esteller%5Bauthor%5D+AND+Inactivation+of+the+DNA+repair+gene+O6-methylguanine-DNA+methyltransferase+by+promoter+hypermethylation+is+associated+with+G+to+A+mutations+in+K-ras+in+colorectal+tumorigenesis" target="_new" title="Go to article in PubMed">
+                      PubMed/NCBI
+                    </a></li><li><a href="http://scholar.google.com/scholar_lookup?title=Inactivation+of+the+DNA+repair+gene+O6-methylguanine-DNA+methyltransferase+by+promoter+hypermethylation+is+associated+with+G+to+A+mutations+in+K-ras+in+colorectal+tumorigenesis&amp;author=Esteller&amp;publication_year=2000" target="_new" title="Go to article in Google Scholar">
+                      Google Scholar
+                    </a></li></ul></li><li id="ref35"><span class="order">35.
+            </span><a name="pone.0068782-Esteller3" id="pone.0068782-Esteller3" class="link-target"></a>Esteller M, Risques RA, Toyota M, Capella G, Moreno V, et al. (2001) Promoter hypermethylation of the DNA repair gene O(6)-methylguanine-DNA methyltransferase is associated with the presence of G: C to A: T transition mutations in p53 in human colorectal tumorigenesis. Cancer Res 61: 4689–4692. <ul class="reflinks"><li><a href="#" data-author="Esteller" data-cit="EstellerM%2C%20RisquesRA%2C%20ToyotaM%2C%20CapellaG%2C%20MorenoV%2C%20et%20al.%20%282001%29%20Promoter%20hypermethylation%20of%20the%20DNA%20repair%20gene%20O%286%29-methylguanine-DNA%20methyltransferase%20is%20associated%20with%20the%20presence%20of%20G%3A%20C%20to%20A%3A%20T%20transition%20mutations%20in%20p53%20in%20human%20colorectal%20tumorigenesis.%20Cancer%20Res%2061%3A%204689%E2%80%934692." data-title="Promoter%20hypermethylation%20of%20the%20DNA%20repair%20gene%20O%286%29-methylguanine-DNA%20methyltransferase%20is%20associated%20with%20the%20presence%20of%20G%3A%20C%20to%20A%3A%20T%20transition%20mutations%20in%20p53%20in%20human%20colorectal%20tumorigenesis" target="_new" title="Go to article in CrossRef">
+                      View Article
+                    </a></li><li><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?db=PubMed&amp;cmd=Search&amp;doptcmdl=Citation&amp;defaultField=Title+Word&amp;term=Esteller%5Bauthor%5D+AND+Promoter+hypermethylation+of+the+DNA+repair+gene+O%286%29-methylguanine-DNA+methyltransferase+is+associated+with+the+presence+of+G%3A+C+to+A%3A+T+transition+mutations+in+p53+in+human+colorectal+tumorigenesis" target="_new" title="Go to article in PubMed">
+                      PubMed/NCBI
+                    </a></li><li><a href="http://scholar.google.com/scholar_lookup?title=Promoter+hypermethylation+of+the+DNA+repair+gene+O%286%29-methylguanine-DNA+methyltransferase+is+associated+with+the+presence+of+G%3A+C+to+A%3A+T+transition+mutations+in+p53+in+human+colorectal+tumorigenesis&amp;author=Esteller&amp;publication_year=2001" target="_new" title="Go to article in Google Scholar">
+                      Google Scholar
+                    </a></li></ul></li><li id="ref36"><span class="order">36.
+            </span><a name="pone.0068782-Ohgaki1" id="pone.0068782-Ohgaki1" class="link-target"></a>Ohgaki H, Kleihues P (2007) Genetic pathways to primary and secondary glioblastoma. Am J Pathol 170: 1445–1453. <ul class="reflinks"><li><a href="#" data-author="Ohgaki" data-cit="OhgakiH%2C%20KleihuesP%20%282007%29%20Genetic%20pathways%20to%20primary%20and%20secondary%20glioblastoma.%20Am%20J%20Pathol%20170%3A%201445%E2%80%931453." data-title="Genetic%20pathways%20to%20primary%20and%20secondary%20glioblastoma" target="_new" title="Go to article in CrossRef">
+                      View Article
+                    </a></li><li><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?db=PubMed&amp;cmd=Search&amp;doptcmdl=Citation&amp;defaultField=Title+Word&amp;term=Ohgaki%5Bauthor%5D+AND+Genetic+pathways+to+primary+and+secondary+glioblastoma" target="_new" title="Go to article in PubMed">
+                      PubMed/NCBI
+                    </a></li><li><a href="http://scholar.google.com/scholar_lookup?title=Genetic+pathways+to+primary+and+secondary+glioblastoma&amp;author=Ohgaki&amp;publication_year=2007" target="_new" title="Go to article in Google Scholar">
+                      Google Scholar
+                    </a></li></ul></li><li id="ref37"><span class="order">37.
+            </span><a name="pone.0068782-Cai1" id="pone.0068782-Cai1" class="link-target"></a>Cai XM, Tao BB, Wang LY, Liang YL, Jin JW, et al. (2005) Protein phosphatase activity of PTEN inhibited the invasion of glioma cells with epidermal growth factor receptor mutation type III expression. Int J Cancer 117: 905–912. <ul class="reflinks"><li><a href="#" data-author="Cai" data-cit="CaiXM%2C%20TaoBB%2C%20WangLY%2C%20LiangYL%2C%20JinJW%2C%20et%20al.%20%282005%29%20Protein%20phosphatase%20activity%20of%20PTEN%20inhibited%20the%20invasion%20of%20glioma%20cells%20with%20epidermal%20growth%20factor%20receptor%20mutation%20type%20III%20expression.%20Int%20J%20Cancer%20117%3A%20905%E2%80%93912." data-title="Protein%20phosphatase%20activity%20of%20PTEN%20inhibited%20the%20invasion%20of%20glioma%20cells%20with%20epidermal%20growth%20factor%20receptor%20mutation%20type%20III%20expression" target="_new" title="Go to article in CrossRef">
+                      View Article
+                    </a></li><li><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?db=PubMed&amp;cmd=Search&amp;doptcmdl=Citation&amp;defaultField=Title+Word&amp;term=Cai%5Bauthor%5D+AND+Protein+phosphatase+activity+of+PTEN+inhibited+the+invasion+of+glioma+cells+with+epidermal+growth+factor+receptor+mutation+type+III+expression" target="_new" title="Go to article in PubMed">
+                      PubMed/NCBI
+                    </a></li><li><a href="http://scholar.google.com/scholar_lookup?title=Protein+phosphatase+activity+of+PTEN+inhibited+the+invasion+of+glioma+cells+with+epidermal+growth+factor+receptor+mutation+type+III+expression&amp;author=Cai&amp;publication_year=2005" target="_new" title="Go to article in Google Scholar">
+                      Google Scholar
+                    </a></li></ul></li><li id="ref38"><span class="order">38.
+            </span><a name="pone.0068782-Levine1" id="pone.0068782-Levine1" class="link-target"></a>Levine AJ (1997) p53, the cellular gatekeeper for growth and division. Cell 88: 323–331. <ul class="reflinks"><li><a href="#" data-author="Levine" data-cit="LevineAJ%20%281997%29%20p53%2C%20the%20cellular%20gatekeeper%20for%20growth%20and%20division.%20Cell%2088%3A%20323%E2%80%93331." data-title="p53%2C%20the%20cellular%20gatekeeper%20for%20growth%20and%20division" target="_new" title="Go to article in CrossRef">
+                      View Article
+                    </a></li><li><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?db=PubMed&amp;cmd=Search&amp;doptcmdl=Citation&amp;defaultField=Title+Word&amp;term=Levine%5Bauthor%5D+AND+p53%2C+the+cellular+gatekeeper+for+growth+and+division" target="_new" title="Go to article in PubMed">
+                      PubMed/NCBI
+                    </a></li><li><a href="http://scholar.google.com/scholar_lookup?title=p53%2C+the+cellular+gatekeeper+for+growth+and+division&amp;author=Levine&amp;publication_year=1997" target="_new" title="Go to article in Google Scholar">
+                      Google Scholar
+                    </a></li></ul></li><li id="ref39"><span class="order">39.
+            </span><a name="pone.0068782-1" id="pone.0068782-1" class="link-target"></a>Comprehensive genomic characterization defines human glioblastoma genes and core pathways. Nature 455: 1061–1068. <ul class="reflinks"><li><a href="#" data-author="" data-cit="Comprehensive%20genomic%20characterization%20defines%20human%20glioblastoma%20genes%20and%20core%20pathways.%20Nature%20455%3A%201061%E2%80%931068." data-title="Comprehensive%20genomic%20characterization%20defines%20human%20glioblastoma%20genes%20and%20core%20pathways" target="_new" title="Go to article in CrossRef">
+                      View Article
+                    </a></li><li><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?db=PubMed&amp;cmd=Search&amp;doptcmdl=Citation&amp;defaultField=Title+Word&amp;term=Comprehensive+genomic+characterization+defines+human+glioblastoma+genes+and+core+pathways" target="_new" title="Go to article in PubMed">
+                      PubMed/NCBI
+                    </a></li><li><a href="http://scholar.google.com/scholar_lookup?title=Comprehensive+genomic+characterization+defines+human+glioblastoma+genes+and+core+pathways&amp;author=&amp;publication_year=" target="_new" title="Go to article in Google Scholar">
+                      Google Scholar
+                    </a></li></ul></li><li id="ref40"><span class="order">40.
+            </span><a name="pone.0068782-Kraus1" id="pone.0068782-Kraus1" class="link-target"></a>Kraus JA, Koopmann J, Kaskel P, Maintz D, Brandner S, et al. (1995) Shared allelic losses on chromosomes 1p and 19q suggest a common origin of oligodendroglioma and oligoastrocytoma. J Neuropathol Exp Neurol 54: 91–95. <ul class="reflinks"><li><a href="#" data-author="Kraus" data-cit="KrausJA%2C%20KoopmannJ%2C%20KaskelP%2C%20MaintzD%2C%20BrandnerS%2C%20et%20al.%20%281995%29%20Shared%20allelic%20losses%20on%20chromosomes%201p%20and%2019q%20suggest%20a%20common%20origin%20of%20oligodendroglioma%20and%20oligoastrocytoma.%20J%20Neuropathol%20Exp%20Neurol%2054%3A%2091%E2%80%9395." data-title="Shared%20allelic%20losses%20on%20chromosomes%201p%20and%2019q%20suggest%20a%20common%20origin%20of%20oligodendroglioma%20and%20oligoastrocytoma" target="_new" title="Go to article in CrossRef">
+                      View Article
+                    </a></li><li><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?db=PubMed&amp;cmd=Search&amp;doptcmdl=Citation&amp;defaultField=Title+Word&amp;term=Kraus%5Bauthor%5D+AND+Shared+allelic+losses+on+chromosomes+1p+and+19q+suggest+a+common+origin+of+oligodendroglioma+and+oligoastrocytoma" target="_new" title="Go to article in PubMed">
+                      PubMed/NCBI
+                    </a></li><li><a href="http://scholar.google.com/scholar_lookup?title=Shared+allelic+losses+on+chromosomes+1p+and+19q+suggest+a+common+origin+of+oligodendroglioma+and+oligoastrocytoma&amp;author=Kraus&amp;publication_year=1995" target="_new" title="Go to article in Google Scholar">
+                      Google Scholar
+                    </a></li></ul></li><li id="ref41"><span class="order">41.
+            </span><a name="pone.0068782-Bralten1" id="pone.0068782-Bralten1" class="link-target"></a>Bralten LB, Kloosterhof NK, Balvers R, Sacchetti A, Lapre L, et al. (2011) IDH1 R132H decreases proliferation of glioma cell lines in vitro and in vivo. Ann Neurol 69: 455–463. <ul class="reflinks"><li><a href="#" data-author="Bralten" data-cit="BraltenLB%2C%20KloosterhofNK%2C%20BalversR%2C%20SacchettiA%2C%20LapreL%2C%20et%20al.%20%282011%29%20IDH1%20R132H%20decreases%20proliferation%20of%20glioma%20cell%20lines%20in%20vitro%20and%20in%20vivo.%20Ann%20Neurol%2069%3A%20455%E2%80%93463." data-title="IDH1%20R132H%20decreases%20proliferation%20of%20glioma%20cell%20lines%20in%20vitro%20and%20in%20vivo" target="_new" title="Go to article in CrossRef">
+                      View Article
+                    </a></li><li><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?db=PubMed&amp;cmd=Search&amp;doptcmdl=Citation&amp;defaultField=Title+Word&amp;term=Bralten%5Bauthor%5D+AND+IDH1+R132H+decreases+proliferation+of+glioma+cell+lines+in+vitro+and+in+vivo" target="_new" title="Go to article in PubMed">
+                      PubMed/NCBI
+                    </a></li><li><a href="http://scholar.google.com/scholar_lookup?title=IDH1+R132H+decreases+proliferation+of+glioma+cell+lines+in+vitro+and+in+vivo&amp;author=Bralten&amp;publication_year=2011" target="_new" title="Go to article in Google Scholar">
+                      Google Scholar
+                    </a></li></ul></li><li id="ref42"><span class="order">42.
+            </span><a name="pone.0068782-Ozben1" id="pone.0068782-Ozben1" class="link-target"></a>Ozben T (2007) Oxidative stress and apoptosis: impact on cancer therapy. J Pharm Sci 96: 2181–2196. <ul class="reflinks"><li><a href="#" data-author="Ozben" data-cit="OzbenT%20%282007%29%20Oxidative%20stress%20and%20apoptosis%3A%20impact%20on%20cancer%20therapy.%20J%20Pharm%20Sci%2096%3A%202181%E2%80%932196." data-title="Oxidative%20stress%20and%20apoptosis%3A%20impact%20on%20cancer%20therapy" target="_new" title="Go to article in CrossRef">
+                      View Article
+                    </a></li><li><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?db=PubMed&amp;cmd=Search&amp;doptcmdl=Citation&amp;defaultField=Title+Word&amp;term=Ozben%5Bauthor%5D+AND+Oxidative+stress+and+apoptosis%3A+impact+on+cancer+therapy" target="_new" title="Go to article in PubMed">
+                      PubMed/NCBI
+                    </a></li><li><a href="http://scholar.google.com/scholar_lookup?title=Oxidative+stress+and+apoptosis%3A+impact+on+cancer+therapy&amp;author=Ozben&amp;publication_year=2007" target="_new" title="Go to article in Google Scholar">
+                      Google Scholar
+                    </a></li></ul></li></ol></div>
+
+
+
+          <div class="ref-tooltip">
+             <div class="ref_tooltip-content">
+
+             </div>
+          </div>
+
+        </div>
+      </div>
+    </div>
+
+    </section>
+    <aside class="article-aside">
+
+
+<!--[if IE 9]>
+<style>
+.dload-xml {margin-top: 38px}
+</style>
+<![endif]-->
+<div class="dload-menu">
+  <div class="dload-pdf">
+    <a href="/plosone/article/file?id=10.1371/journal.pone.0068782&type=printable"
+       id="downloadPdf" target="_blank">Download PDF</a>
+  </div>
+  <div data-js-tooltip-hover="trigger" class="dload-hover">&nbsp;
+    <ul class="dload-xml" data-js-tooltip-hover="target">
+      <li><a href="/plosone/article/citation?id=10.1371/journal.pone.0068782"
+             id="downloadCitation">Citation</a></li>
+      <li><a href="/plosone/article/file?id=10.1371/journal.pone.0068782&type=manuscript"
+             id="downloadXml">XML</a>
+      </li>
+    </ul>
+
+  </div>
+</div>
+
+<div class="aside-container">
+
+<div class="print-article" id="printArticle" data-js-tooltip-hover="trigger">
+
+  Print
+  <ul class="print-options" data-js-tooltip-hover="target">
+    <li>
+        <a href="#" onclick="window.print(); return false;" class="preventDefault" id="printBrowser" title="Print
+        Article">Print article</a>
+    </li>
+
+
+
+
+<li>
+<a title="Odyssey Press" href="https://www.odysseypress.com/onlinehost/reprint_order.php?type=A&amp;page=0&amp;journal=7&amp;doi=10.1371%2Fjournal.pone.0068782&amp;volume=&amp;issue=&amp;title=IDH1%2FIDH2%20Mutations%20Define%20the%20Prognosis%20and%20Molecular%20Profiles%20of%20Patients%20with%20Gliomas%3A%20A%20Meta-Analysis&amp;author_name=Peng%20Zou%2C%20Haitao%20Xu%2C%20Pin%20Chen%2C%20Qing%20Yan%2C%20Lin%20Zhao%2C%20Peng%20Zhao%2C%20Aihua%20Gu&amp;start_page=1&amp;end_page=7">EzReprint  </a>
+</li>
+
+  </ul>
+</div>
+
+<div class="share-article" id="shareArticle" data-js-tooltip-hover="trigger">
+  Share
+  <ul data-js-tooltip-hover="target" class="share-options">
+
+    <li><a href="http://www.reddit.com/submit?url=http%3A%2F%2Fdx.plos.org%2F10.1371%2Fjournal.pone.0068782" id="shareReddit" target="_blank" title="Submit to Reddit"><img src="/plosone/resource/img/icon.reddit.16.png" width="16" height="16" alt="Reddit">Reddit</a></li>
+
+    <li><a href="https://plus.google.com/share?url=http%3A%2F%2Fdx.plos.org%2F10.1371%2Fjournal.pone.0068782" id="shareGoogle" target="_blank" title="Share on Google+"><img src="/plosone/resource/img/icon.gplus.16.png" width="16" height="16" alt="Google+">Google+</a></li>
+
+    <li><a href="http://www.stumbleupon.com/submit?url=http%3A%2F%2Fdx.plos.org%2F10.1371%2Fjournal.pone.0068782"  id="shareStumble" target="_blank" title="Add to StumbleUpon"><img src="/plosone/resource/img/icon.stumble.16.png" width="16" height="16" alt="StumbleUpon">StumbleUpon</a></li>
+
+    <li><a href="http://www.facebook.com/share.php?u=http%3A%2F%2Fdx.plos.org%2F10.1371%2Fjournal.pone.0068782&t=IDH1/IDH2 Mutations Define the Prognosis and Molecular Profiles of Patients with Gliomas: A Meta-Analysis" id="shareFacebook" target="_blank" title="Share on Facebook"><img src="/plosone/resource/img/icon.fb.16.png" width="16" height="16" alt="Facebook">Facebook</a></li>
+
+
+
+<li><a href="http://www.linkedin.com/shareArticle?url=http%3A%2F%2Fdx.plos.org%2F10.1371%2Fjournal.pone.0068782&title=IDH1/IDH2 Mutations Define the Prognosis and Molecular Profiles of Patients with Gliomas: A Meta-Analysis&summary=Checkout this article I found at PLOS"  id="shareLinkedIn" target="_blank" title="Add to LinkedIn"><img src="/plosone/resource/img/icon.linkedin.16.png" width="16" height="16" alt="LinkedIn">LinkedIn</a></li>
+
+<li><a href="http://www.citeulike.org/posturl?url=http%3A%2F%2Fdx.plos.org%2F10.1371%2Fjournal.pone.0068782&title=IDH1/IDH2 Mutations Define the Prognosis and Molecular Profiles of Patients with Gliomas: A Meta-Analysis"  id="shareCiteULike" target="_blank" title="Add to CiteULike"><img src="/plosone/resource/img/icon.cul.16.png" width="16" height="16" alt="CiteULike">CiteULike</a></li>
+
+<li><a href="http://www.mendeley.com/import/?url=http%3A%2F%2Fdx.plos.org%2F10.1371%2Fjournal.pone.0068782"  id="shareMendeley" target="_blank" title="Add to Mendeley"><img src="/plosone/resource/img/icon.mendeley.16.png" width="16" height="16" alt="Mendeley">Mendeley</a></li>
+
+<li><a href="https://www.pubchase.com/library?add_aid=10.1371/journal.pone.0068782&source=plos"  id="sharePubChase" target="_blank" title="Add to PubChase"><img src="/plosone/resource/img/icon.pc.16.png" width="16" height="16" alt="PubChase">PubChase</a></li>
+
+  <li><a href="http://twitter.com/intent/tweet?url=http%3A%2F%2Fdx.plos.org%2F10.1371%2Fjournal.pone.0068782&text=%23PLOSONE%3A%20IDH1/IDH2 Mutations Define the Prognosis and Molecular Profiles of Patients with Gliomas: A Meta-Analysis" target="_blank" title="share on Twitter" id="twitter-share-link"><img src="/plosone/resource/img/icon.twtr.16.png" width="16" height="16" alt="Twitter">Twitter</a></li>
+
+<li><a href="/plosone/article/email?id=10.1371/journal.pone.0068782" id="shareEmail" title="Email this article"><img src="/plosone/resource/img/icon.email.16.png" width="16" height="16" alt="Email">Email</a></li>
+
+  </ul>
+</div></div>
+
+
+ <!-- Crossmark 2.0 widget -->
+<script src="https://crossmark-cdn.crossref.org/widget/v2.0/widget.js"></script>
+<a data-target="crossmark"><img width="150" src="http://crossmark-cdn.crossref.org/widget/v2.0/logos/CROSSMARK_BW_horizontal.svg"></a>
+<!-- End Crossmark 2.0 widget -->
+
+
+
+
+
+
+
+<div class="skyscraper-container">
+  <div class="title">Advertisement</div>
+<!-- DoubleClick Ad Zone -->
+  <div class='advertisement' id='div-gpt-ad-1458247671871-1' style='width:160px; height:600px;'>
+    <script type='text/javascript'>
+      googletag.cmd.push(function() { googletag.display('div-gpt-ad-1458247671871-1'); });
+    </script>
+  </div>
+</div>
+
+
+
+
+<div class="subject-areas-container">
+  <h3>Subject Areas <div id="subjInfo">?</div>
+    <div id="subjInfoText">
+        <p>For more information about PLOS Subject Areas, click
+          <a href="/plosone/s/help-using-this-site#loc-subject-areas">here</a>.</p>
+      <span class="inline-intro">We want your feedback.</span> Do these Subject Areas make sense for this article? Click the target next to the incorrect Subject Area and let us know. Thanks for your help!
+
+
+    </div>
+  </h3>
+  <ul id="subjectList">
+      <li>
+              <a class="taxo-term" title="Search for articles about Glioma"
+                 href="/plosone/search?filterSubjects=Glioma&filterJournals=PLoSONE&q=">Glioma</a>
+        <span class="taxo-flag">&nbsp;</span>
+        <div class="taxo-tooltip" data-categoryname="Glioma"><p class="taxo-explain">Is the Subject Area <strong>"Glioma"</strong> applicable to this article?
+          <button id="noFlag" data-action="remove">Yes</button>
+          <button id="flagIt" value="flagno" data-action="add">No</button></p>
+          <p class="taxo-confirm">Thanks for your feedback.</p>
+        </div>
+      </li>
+      <li>
+              <a class="taxo-term" title="Search for articles about Meta-analysis"
+                 href="/plosone/search?filterSubjects=Meta-analysis&filterJournals=PLoSONE&q=">Meta-analysis</a>
+        <span class="taxo-flag">&nbsp;</span>
+        <div class="taxo-tooltip" data-categoryname="Meta-analysis"><p class="taxo-explain">Is the Subject Area <strong>"Meta-analysis"</strong> applicable to this article?
+          <button id="noFlag" data-action="remove">Yes</button>
+          <button id="flagIt" value="flagno" data-action="add">No</button></p>
+          <p class="taxo-confirm">Thanks for your feedback.</p>
+        </div>
+      </li>
+      <li>
+              <a class="taxo-term" title="Search for articles about Point mutation"
+                 href="/plosone/search?filterSubjects=Point+mutation&filterJournals=PLoSONE&q=">Point mutation</a>
+        <span class="taxo-flag">&nbsp;</span>
+        <div class="taxo-tooltip" data-categoryname="Point mutation"><p class="taxo-explain">Is the Subject Area <strong>"Point mutation"</strong> applicable to this article?
+          <button id="noFlag" data-action="remove">Yes</button>
+          <button id="flagIt" value="flagno" data-action="add">No</button></p>
+          <p class="taxo-confirm">Thanks for your feedback.</p>
+        </div>
+      </li>
+      <li>
+              <a class="taxo-term" title="Search for articles about Mutation"
+                 href="/plosone/search?filterSubjects=Mutation&filterJournals=PLoSONE&q=">Mutation</a>
+        <span class="taxo-flag">&nbsp;</span>
+        <div class="taxo-tooltip" data-categoryname="Mutation"><p class="taxo-explain">Is the Subject Area <strong>"Mutation"</strong> applicable to this article?
+          <button id="noFlag" data-action="remove">Yes</button>
+          <button id="flagIt" value="flagno" data-action="add">No</button></p>
+          <p class="taxo-confirm">Thanks for your feedback.</p>
+        </div>
+      </li>
+      <li>
+              <a class="taxo-term" title="Search for articles about Prognosis"
+                 href="/plosone/search?filterSubjects=Prognosis&filterJournals=PLoSONE&q=">Prognosis</a>
+        <span class="taxo-flag">&nbsp;</span>
+        <div class="taxo-tooltip" data-categoryname="Prognosis"><p class="taxo-explain">Is the Subject Area <strong>"Prognosis"</strong> applicable to this article?
+          <button id="noFlag" data-action="remove">Yes</button>
+          <button id="flagIt" value="flagno" data-action="add">No</button></p>
+          <p class="taxo-confirm">Thanks for your feedback.</p>
+        </div>
+      </li>
+      <li>
+              <a class="taxo-term" title="Search for articles about Glioblastoma multiforme"
+                 href="/plosone/search?filterSubjects=Glioblastoma+multiforme&filterJournals=PLoSONE&q=">Glioblastoma multiforme</a>
+        <span class="taxo-flag">&nbsp;</span>
+        <div class="taxo-tooltip" data-categoryname="Glioblastoma multiforme"><p class="taxo-explain">Is the Subject Area <strong>"Glioblastoma multiforme"</strong> applicable to this article?
+          <button id="noFlag" data-action="remove">Yes</button>
+          <button id="flagIt" value="flagno" data-action="add">No</button></p>
+          <p class="taxo-confirm">Thanks for your feedback.</p>
+        </div>
+      </li>
+      <li>
+              <a class="taxo-term" title="Search for articles about Gene amplification"
+                 href="/plosone/search?filterSubjects=Gene+amplification&filterJournals=PLoSONE&q=">Gene amplification</a>
+        <span class="taxo-flag">&nbsp;</span>
+        <div class="taxo-tooltip" data-categoryname="Gene amplification"><p class="taxo-explain">Is the Subject Area <strong>"Gene amplification"</strong> applicable to this article?
+          <button id="noFlag" data-action="remove">Yes</button>
+          <button id="flagIt" value="flagno" data-action="add">No</button></p>
+          <p class="taxo-confirm">Thanks for your feedback.</p>
+        </div>
+      </li>
+      <li>
+              <a class="taxo-term" title="Search for articles about Mutation databases"
+                 href="/plosone/search?filterSubjects=Mutation+databases&filterJournals=PLoSONE&q=">Mutation databases</a>
+        <span class="taxo-flag">&nbsp;</span>
+        <div class="taxo-tooltip" data-categoryname="Mutation databases"><p class="taxo-explain">Is the Subject Area <strong>"Mutation databases"</strong> applicable to this article?
+          <button id="noFlag" data-action="remove">Yes</button>
+          <button id="flagIt" value="flagno" data-action="add">No</button></p>
+          <p class="taxo-confirm">Thanks for your feedback.</p>
+        </div>
+      </li>
+  </ul>
+</div>
+<div id="subjectErrors"></div>
+
+
+<div class="twitter-container">
+  <h3>Archived Tweets</h3>
+  <ul id="tweetList">
+
+  </ul>
+  <div class="load-more">Load more <span></span></div>
+  <div class="view-all"><a href="http://alm.plos.org/works/doi.org/10.1371/journal.pone.0068782?source_id=twitter">View all tweets</a>
+  </div>
+</div>
+
+<script type="text/template" id="twitterModuleItemTemplate">
+  <% _.each(items, function(item) { %>
+    <li>
+      <div class="tweet-info">
+        <a href="http://twitter.com/<%= item.user %>">
+          <span class="imgholder">
+            <img class="imgLoad" src="<%= item.user_profile_image %>">
+          </span>
+          <div class="tweetDate"><%= item.created_at %></div>
+          <div class="tweetUser">
+            <strong><%= item.user_name %></strong>
+            <span>@<%= item.user %></span>
+          </div>
+        </a>
+      </div>
+      <div class="tweetText">
+        <%= item.text %>
+      </div>
+      <div id="tweetActions">
+        <a class="tweet-reply" href="https://twitter.com/intent/tweet?in_reply_to<%= item.id %>&amp;text=@<%= item.user %>">
+          <div>&nbsp;</div> Reply
+        </a>
+        <a class="tweet-retweet" href="https://twitter.com/intent/retweet?tweet_id=<%= item.id %>">
+          <div>&nbsp;</div> Retweet
+        </a>
+        <a class="tweet-favorite" href="https://twitter.com/intent/favorite?tweet_id=<%= item.id %>">
+          <div>&nbsp;</div> Favorite
+        </a>
+      </div>
+    </li>
+  <% }); %>
+</script>
+
+    </aside>
+  </div>
+
+
+
+
+</main>
+
+<footer id="pageftr">
+  <div class="row">
+    <div class="brand-column">
+
+      <img src="/plosone/resource/img/logo-plos-footer.png" alt="PLOS" class="logo-footer"/>
+      <p class="nav-special">
+
+&nbsp;
+<!--
+  Webapp build:  3.3.5 at 20170725 by teamcity, commit: 
+  Service build: 2.2.3 at 20170626 by teamcity, commit: 
+  Enabled dev features: []
+  -->
+      </p>
+
+<ul class="nav-aux">
+  <li><a href="https://www.plos.org/privacy-policy" id="ftr-privacy">Privacy Policy</a></li>
+  <li><a href="https://www.plos.org/terms-of-use" id="ftr-terms">Terms of Use</a></li>
+  <li><a href="https://www.plos.org/advertise/" id="ftr-advertise">Advertise</a></li>
+  <li><a href="https://www.plos.org/media-inquiries" id="ftr-media">Media Inquiries</a></li>
+</ul>
+    </div>
+    <div class="link-column">
+
+<p class="nav-special"><a href="https://www.plos.org/publications/journals/">Publications</a></p>
+
+<div class="nav">
+  <ul>
+    <li><a href="/plosbiology/" id="ftr-bio">PLOS Biology</a></li>
+    <li><a href="/plosmedicine/" id="ftr-med">PLOS Medicine</a></li>
+    <li><a href="/ploscompbiol/" id="ftr-compbio">PLOS Computational Biology</a></li>
+    <li><a href="http://currents.plos.org" id="ftr-cur">PLOS Currents</a></li>
+    <li><a href="/plosgenetics/" id="ftr-gen">PLOS Genetics</a></li>
+    <li><a href="/plospathogens/" id="ftr-path">PLOS Pathogens</a></li>
+    <li><a href="/plosone/" id="ftr-one">PLOS ONE</a></li>
+    <li><a href="/plosntds/" id="ftr-ntds">PLOS Neglected Tropical Diseases</a></li>
+  </ul>
+</div>
+    </div>
+    <div class="link-column">
+
+<div class="nav nav-special">
+  <p><a href="https://www.plos.org" id="ftr-home">plos.org</a></p>
+
+  <p><a href="http://blogs.plos.org" id="ftr-blog">Blogs</a></p>
+
+  <p><a href="http://collections.plos.org" id="ftr-collections">Collections</a></p>
+
+  <p><a href="/plosone/feedback" id="ftr-feedback">Send us feedback</a></p>
+  <p><a href="/plosone/s/help-using-this-site"
+        id="ftr-help">Help using this site</a></p>
+  <p><a href="/plosone/lockss-manifest" id="ftr-lockss">LOCKSS</a></p>
+
+<p class="footer-non-profit-statement">PLOS is a nonprofit 501(c)(3) corporation, #C2354500, and is based in San Francisco, California, US</p></div>    </div>
+  </div>
+
+
+</footer>
+
+
+
+
+<script type="text/javascript">
+  var ArticleData = {
+    doi: '10.1371/journal.pone.0068782',
+    title: '<article-title xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" xmlns:xlink=\"http://www.w3.org/1999/xlink\">IDH1/IDH2 Mutations Define the Prognosis and Molecular Profiles of Patients with Gliomas: A Meta-Analysis<\/article-title>',
+    date: 'Jul 22, 2013'
+  };
+</script>
+
+
+
+
+
+
+
+<script type="text/javascript" async src="//platform.twitter.com/widgets.js"></script>
+
+
+
+
+
+<!-- This file should be loaded before the renderJs, to avoid conflicts with the FigShare, that implements the MathJax also. -->
+
+<!--  mathjax configuration options  -->
+<!-- more can be found at http://docs.mathjax.org/en/latest/ -->
+<script type="text/x-mathjax-config">
+MathJax.Hub.Config({
+  "HTML-CSS": {
+    scale: 100,
+    availableFonts: ["STIX","TeX"],
+    preferredFont: "STIX",
+    webFont: "STIX-Web",
+    linebreaks: { automatic: false }
+  },
+  jax: ["input/MathML", "output/HTML-CSS"]
+});
+</script>
+
+<script type="text/javascript" src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=MML_HTMLorMML"></script>
+
+<script src="/plosone/resource/compiled/asset_V4KEKJMAKU34D33A4HSQGT4JUZQJDCQS.js"></script>
+<div class="reveal-modal-bg"></div>
+</body>
+</html>

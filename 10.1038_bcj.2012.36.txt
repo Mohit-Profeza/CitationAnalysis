@@ -1,0 +1,930 @@
+
+	
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+		
+
+			
+		
+				
+				
+				
+								
+																																																																																														
+																																																												
+																						
+																																																		
+							
+
+
+
+
+
+
+
+
+
+
+								
+  						
+	
+	
+
+
+	
+
+
+
+
+
+
+
+	
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+<head>
+	<!-- super head top -->
+
+	<title>Blood Cancer Journal - Stromal cells expressing hedgehog-interacting protein regulate the proliferation of myeloid neoplasms</title><!--Blood Cancer Journal-->
+<!-- metadata and links -->
+
+	<meta name="robots" content="noarchive" />
+	
+	                
+	
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        
+               
+      
+
+
+
+
+
+
+
+
+
+
+        
+                
+
+
+ 
+
+
+
+
+
+									
+
+
+
+
+
+	
+				
+  
+
+
+
+
+	
+				
+         
+        
+  
+
+ 
+
+ 
+
+
+ 
+ 
+
+
+
+ 
+ 
+ 
+ 
+ <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<meta http-equiv="Content-Style-Type" content="text/css" />
+<meta name="robots" content="noarchive" />
+<meta name="keywords" content="BCJ, oncology, haematology, immunology, leukemia, stem cells, oncogenes, growth factors, apoptosis, therapy, fusion genes, lymphoma, hemopoiesis, murine models, clinical, translational biology
+" />
+<meta name="description" content="Blood Cancer Journal is a peer-reviewed, open access online journal publishing pre-clinical and clinical work in the field of hematology with ramifications into translational biology research down to new therapies" />
+
+<link rel="shortcut icon" href="http://www.nature.com/favicon.ico" />
+<link rel="home" href="/bcj/" title="home" />
+<link rel="copyright" href="/aj/copyright/" title="copyright" />
+<link rel="help" title="help" href="/common/accessibility_statement.html" />
+
+
+
+
+
+
+
+
+
+
+<script type="text/javascript"><!--//--><![CDATA[//><!--
+	var include = '';
+
+	var wp = '';
+	if (wp != '') include += 'wp='+wp;
+	include += ';';
+
+	var rf = '';
+	if (rf != '') include += "rf="+rf;
+	include += ';';
+
+	var sp = '';
+	if (sp != '') include += "sp="+sp;
+	include += ";";
+
+	var ps = '';
+	if (ps != '') include += "ps="+ps;
+	include += ";";
+
+	var adinf = "lg=no;";
+
+	if(include != ";;;;")
+	{
+		adinf = include;
+	}
+
+	var time = new Date();
+	ordval= (time.getTime());
+
+		ord=Math.random()*10000000000000000;
+//--><!]]></script>
+ 
+
+
+
+<!-- end metadata and links -->
+<!-- style -->
+
+																																																
+	<link rel="stylesheet" type="text/css" href="/common/includes/header/03/style/header.css" />	<link rel="stylesheet" type="text/css" href="/common/includes/footer/03/style/footer.css" />
+		    <link rel="stylesheet" type="text/css" href="/common/style/global.comments.css" />
+		    <link rel="stylesheet" type="text/css" href="//www.nature.com/common/style/global.mobile.css" />
+		    <link rel="stylesheet" type="text/css" href="/common/style/global.message.css" />
+		    <link rel="stylesheet" type="text/css" href="/common/style/layout.css" />
+		    <link rel="stylesheet" type="text/css" href="/common/style/layout_wide_banner.css" />
+		    <link rel="stylesheet" type="text/css" href="/common/style/main.css" />
+		    <link rel="stylesheet" type="text/css" href="/common/style/header_footer_smallfonts.css" />
+		    <link rel="stylesheet" type="text/css" href="/aj/style/group.css" />
+		    <link rel="stylesheet" type="text/css" href="/bcj/style/site.css" />
+	<style type="text/css" media="screen, projection, print"><!--/*--><![CDATA[/*><!--*/
+
+	
+	 		@import "/common/style/restrict_width/966px.css";
+					
+
+			#hdr .login-nav {background-image: url(/bcj/images/journal_header_v3.jpg);}
+		
+				
+/* end hide from mac ie */
+/*]]>*/--></style>
+
+<link rel="stylesheet" type="text/css" href="/common/style/print.css" media="print" title="Print Stylesheet" />
+
+<script type="text/javascript"><!--//--><![CDATA[//><!--
+	(function() {
+		var elements = [];
+					elements.push('.nojava');
+				var c = elements.join(', ') + ' { display: none; } ';
+		var s = document.createElement('style');
+		s.type = 'text/css';
+		if (s.styleSheet) {
+			s.styleSheet.cssText = c;
+		} else {
+			s.appendChild(document.createTextNode(c));
+		}
+
+		(function() {
+			var head = document.getElementsByTagName('head');
+			if (head && head[0]) {
+				head[0].appendChild(s);
+			} else {
+				setTimeout(arguments.callee, 10);
+			}
+		})();
+	})();
+//--><!]]></script>
+
+
+
+
+
+
+
+
+
+																																																																																																												
+																					
+																																																																																																												
+																									<!--[if IE 8]>
+																<link rel="stylesheet" type="text/css" href="/common/style/ie-specific/ie-8.css" />
+								<![endif]-->
+	
+																																																																																						<!--[if lte IE 7]>
+														<link rel="stylesheet" type="text/css" href="/common/includes/header/03/style/ie-specific/lte-ie-7.css" />
+					<link rel="stylesheet" type="text/css" href="/common/style/ie-specific/lte-ie-7.css" />
+					<link rel="stylesheet" type="text/css" href="/aj/style/ie-specific/lte-ie-7.css" />
+						<![endif]-->
+																																							
+																													<!--[if IE 7]>
+																<link rel="stylesheet" type="text/css" href="/common/includes/header/03/style/ie-specific/ie-7.css" />
+					<link rel="stylesheet" type="text/css" href="/common/style/ie-specific/ie-7.css" />
+					<link rel="stylesheet" type="text/css" href="/aj/style/ie-specific/ie-7.css" />
+								<![endif]-->
+	
+																																																																																																												
+																															<!--[if IE 6]>
+							<script type="text/javascript" src="/common/scripts/ie-specific/ie-6.js"></script>
+																<link rel="stylesheet" type="text/css" href="/common/includes/header/03/style/ie-specific/ie-6.css" />
+					<link rel="stylesheet" type="text/css" href="/common/includes/footer/03/style/ie-specific/ie-6.css" />
+					<link rel="stylesheet" type="text/css" href="/common/style/ie-specific/ie-6.css" />
+					<link rel="stylesheet" type="text/css" href="/aj/style/ie-specific/ie-6.css" />
+								<![endif]-->
+	
+ 
+<!-- end style -->
+
+	<!-- super head bottom -->
+	<!-- resource metadata -->
+			
+				 																										
+			
+				
+															
+		
+			<link title="schema(PRISM)" rel="schema.prism" href="http://prismstandard.org/namespaces/1.2/basic/" />
+																																																																		<meta name="prism.copyright" content="&#169; 2012 Nature Publishing Group" />
+					<meta name="prism.rightsAgent" content="permissions@nature.com" />
+					<meta name="prism.publicationDate" content="2012-09-01" />
+					<meta name="prism.volume" content="2" />
+					<meta name="prism.number" content="9" />
+					<meta name="prism.section" content="Original Article" />
+					<meta name="prism.startingPage" content="e87" />
+					<meta name="prism.endingPage" content="" />
+					<meta name="prism.publicationName" content="Blood Cancer Journal" />
+					<meta name="prism.issn" content="false" />
+					<meta name="prism.eIssn" content="false" />
+				
+			<link title="schema(DC)" rel="schema.dc" href="http://purl.org/dc/elements/1.1/" />
+																																																																																																																									<meta name="dc.publisher" content="Nature Publishing Group" />
+					<meta name="dc.language" content="en" />
+					<meta name="dc.rights" content="&#169; 2012 Nature Publishing Group" />
+					<meta name="dc.title" content="Stromal cells expressing hedgehog-interacting protein regulate the proliferation of myeloid neoplasms" />
+					<meta name="dc.creator" content="M Kobune" />
+					<meta name="dc.creator" content="S Iyama" />
+					<meta name="dc.creator" content="S Kikuchi" />
+					<meta name="dc.creator" content="H Horiguchi" />
+					<meta name="dc.creator" content="T Sato" />
+					<meta name="dc.creator" content="K Murase" />
+					<meta name="dc.creator" content="Y Kawano" />
+					<meta name="dc.creator" content="K Takada" />
+					<meta name="dc.creator" content="K Ono" />
+					<meta name="dc.creator" content="Y Kamihara" />
+					<meta name="dc.creator" content="T Hayashi" />
+					<meta name="dc.creator" content="K Miyanishi" />
+					<meta name="dc.creator" content="Y Sato" />
+					<meta name="dc.creator" content="R Takimoto" />
+					<meta name="dc.creator" content="J Kato" />
+					<meta name="dc.identifier" content="doi:10.1038/bcj.2012.36" />
+					<meta name="dc.date" content="2012-09-01" />
+					<meta name="dc.source" content="Blood Cancer Journal, Published online: 01 September 2012; | doi:10.1038/bcj.2012.36" />
+				
+																																																																																																																																									<meta name="citation_fulltext_world_readable" content="" />
+					<meta name="citation_publisher" content="Nature Publishing Group" />
+					<meta name="citation_author" content="M Kobune" />
+					<meta name="citation_author" content="S Iyama" />
+					<meta name="citation_author" content="S Kikuchi" />
+					<meta name="citation_author" content="H Horiguchi" />
+					<meta name="citation_author" content="T Sato" />
+					<meta name="citation_author" content="K Murase" />
+					<meta name="citation_author" content="Y Kawano" />
+					<meta name="citation_author" content="K Takada" />
+					<meta name="citation_author" content="K Ono" />
+					<meta name="citation_author" content="Y Kamihara" />
+					<meta name="citation_author" content="T Hayashi" />
+					<meta name="citation_author" content="K Miyanishi" />
+					<meta name="citation_author" content="Y Sato" />
+					<meta name="citation_author" content="R Takimoto" />
+					<meta name="citation_author" content="J Kato" />
+					<meta name="citation_title" content="Stromal cells expressing hedgehog-interacting protein regulate the proliferation of myeloid neoplasms" />
+					<meta name="citation_date" content="2012-09-01" />
+					<meta name="citation_online_date" content="2012-09-01" />
+					<meta name="citation_volume" content="2" />
+					<meta name="citation_issue" content="9" />
+					<meta name="citation_firstpage" content="e87" />
+					<meta name="citation_doi" content="doi:10.1038/bcj.2012.36" />
+					<meta name="citation_journal_title" content="Blood Cancer Journal" />
+																																																						<meta name="DCS.dcssip" content="www.nature.com" />
+					<meta name="WT.tz" content="US/Eastern" />
+					<meta name="Access" content="Yes" />
+					<meta name="WT.cg_n" content="Blood Cancer Journal" />
+					<meta name="WT.cg_s" content="Original Article" />
+					<meta name="WT.i_dcsvid" content="" />
+					<meta name="WT.ec_id" content="" />
+				
+	<meta name="emanating" content="139X5X240X251" />
+
+
+
+		
+
+		
+
+			
+					<script type="text/javascript" src="//nexus.ensighten.com/npg/Bootstrap.js"></script>
+		
+			</head>
+		<body class="www-nature-com-bcj" id="article">
+	<!-- super body top -->
+	
+	
+	<div id="header">
+	<!-- global links -->
+
+
+																		
+
+
+
+				</div><!-- /#header -->
+		<div id="constrain"><div class="constrain">
+
+<div id="hdr"  class="show-eu-cookie-notice" >
+				<div class="eu-cookie-notice">
+			<div class="cookie-wrapper">
+				<form method="post" action="">
+					<p class="content">
+						<span class="icon"></span>We use cookies to improve your experience with our site.
+						<span class="tools"><button type="submit" name="cookies" value="accepted">Accept and close</button> | <a href="/info/cookies.html">More info</a>.</span>
+					</p>
+				</form>
+			</div>
+		</div>
+				<div class="publications-search" id="top">
+			<div class="publications">
+				<ul>
+														<li class="first jumplink"><a href="#content">Jump&nbsp;to&nbsp;main&nbsp;content</a></li>
+										<li class="jumplink"><a href="#journalnav">Jump&nbsp;to&nbsp;navigation</a></li>
+																		<li class="nature-link"><a href="/">nature.com<span class="hidden"> homepage</span></a></li>
+																	<li class="pub1"><a href="/siteindex/">Publications&nbsp;A-Z&nbsp;index</a></li><li><a href="/browse/">Browse&nbsp;by&nbsp;subject</a></li>								
+																																																																																																																	</ul>
+			</div>	
+		</div>
+	
+	
+	<span class="cleardiv"><!-- --></span>
+
+			<div class="leaderboard-links">
+									
+																																							
+			
+							<div class="user-services">
+																					<ul class="list">
+																						<li class="us-link li1"><a href="/myaccount/">My account</a></li><li class="us-link li2"><a href="http://mts-bcj.nature.com/cgi-bin/main.plex" title="Submit  manuscript">Submit manuscript</a></li>															<li class="us-link li3"><a href="/register/" title="Register with Nature.com">Register</a></li><li class="us-link li4"><a href="/bcj/about/open_access.html" title="Open Access">Open Access</a></li>													</ul>
+																<span class="cleardiv"><!-- --></span>
+								</div>
+						
+							<!-- leaderboard ad -->
+				<div class="leaderboard">
+										<div class="padder">
+												
+
+																																																																																																																											
+						
+																																																		<div class="adunit-leaderboard"> 
+			
+						
+			
+		
+							
+		
+													
+		
+										
+		
+													
+		
+										
+		
+													
+		
+										
+		
+													
+		
+										
+		
+													
+		
+										
+		
+													
+		
+										
+		
+									
+		
+	
+	
+		
+										
+					
+		
+										
+					
+		
+										
+					
+		
+										
+					
+		
+										
+					
+		
+										
+					
+		
+										
+									<div id="div-gpt-ad-1" class="div-gpt-ad adunit-leaderboard" data-gpt-unitpath="/285/bcj.nature.com/archive" data-gpt-sizes="728x90" data-gpt-targeting="type=oa;artid=bcj201236a;issue=9;njreg=UK;pos=top;sz=728x90;tile=1">
+				<noscript>
+					<a href="//pubads.g.doubleclick.net/gampad/jump?iu=/285/bcj.nature.com/archive&amp;sz=728x90&amp;t=type=oa;artid=bcj201236a;issue=9;njreg=UK;pos=top;sz=728x90;tile=1&amp;c=5400693959966922">
+						<img src="//pubads.g.doubleclick.net/gampad/ad?iu=/285/bcj.nature.com/archive&amp;sz=728x90&amp;t=type=oa;artid=bcj201236a;issue=9;njreg=UK;pos=top;sz=728x90;tile=1&amp;c=5400693959966922" alt="Advertisement" /></a>
+				</noscript>
+			</div>
+
+			</div> 		 
+	 
+	
+			 					</div>
+				</div>
+				<!-- end leaderboard ad -->
+					</div>
+		
+		<span class="cleardiv"><!-- --></span>
+		
+	<div class="login-nav">
+		
+						
+							
+						
+																	<div class="logon">
+					<p><a href="/foxtrot/svc/login" class="login" title="login to Nature.com">Login</a><a class="cart" href="/ecommerce/cart/list.action">Cart</a> 
+					</p>
+									</div>
+													
+														
+		<a href="/bcj/" class="journal-header" title="Blood Cancer Journal homepage"><img src="/bcj/images/journal_header_v3.jpg" alt="Blood Cancer Journal homepage" style="display:block;" class="journal-header-image" /></a>		
+				
+				<form class="search" action="/search/executeSearch?" method="get">
+			<div>
+				<label for="searchtext">Search</label>
+									<input type="hidden" name="sp-q-1" value="BCJ" />
+								<input type="text" id="searchtext" name="sp-q" value="" maxlength="200"/>
+												<input type="hidden" name="sp-c" value="25" />
+												<input type="hidden" name="sp-m" value="0" />
+												<input type="hidden" name="sp-s" value="" />
+																								
+														<input type="hidden" name="sp-a" value="sp1001702d" />
+										<input type="hidden" name="sp-sfvl-field" value="subject|ujournal" />
+										<input type="hidden" name="sp-x-1" value="ujournal" />
+										<input type="hidden" name="sp-p-1" value="phrase" />
+										<input type="hidden" name="sp-p" value="all" />
+													<input type="submit" name="submit" class="button" value="go" title="search now" /> 					
+								<a href="/search/adv_search?sp-a=sp1001702d&amp;sp-x-1=ujournal&amp;sp-q-1=bcj">Advanced&nbsp;search</a>
+							</div>
+		</form>
+		
+							<span class="cleardiv"><!-- --></span>
+			</div>
+</div>
+
+
+				<div style="display:none;">
+	<!-- end global links -->
+</div>
+<div id="breadcrumb"><div><a href="/bcj/index.html">Journal home</a><span class="divider"> &#x0003E; </span><a href="/bcj/journal/v2/n9/index.html"> Archive</a><span class="divider"> &#x0003E; </span><a href="/bcj/journal/v2/n9/index.html#07092012">September 07 2012</a><span class="divider"> &#x0003E; </span><span class="thisitem">Full text</span></div></div>
+<!-- content and journal nav --><div id="content-journalnav"><!-- content --><div id="content"><h1 class="page-header">Original Article</h1>
+	
+<p id="cite">Citation: <i>Blood Cancer Journal</i> (2012) <b>2</b>, e87; doi:10.1038/bcj.2012.36<br/>Published online 7&nbsp;September&nbsp;2012</p>
+	
+<h2 id="atl">Stromal cells expressing hedgehog-interacting protein regulate the proliferation of myeloid neoplasms</h2>
+<p id="aug">M&nbsp;Kobune<sup><a title="affiliated with 1" href="#aff1">1</a></sup>, S&nbsp;Iyama<sup><a title="affiliated with 1" href="#aff1">1</a></sup>, S&nbsp;Kikuchi<sup><a title="affiliated with 1" href="#aff1">1</a></sup>, H&nbsp;Horiguchi<sup><a title="affiliated with 1" href="#aff1">1</a></sup>, T&nbsp;Sato<sup><a title="affiliated with 1" href="#aff1">1</a></sup>, K&nbsp;Murase<sup><a title="affiliated with 1" href="#aff1">1</a></sup>, Y&nbsp;Kawano<sup><a title="affiliated with 1" href="#aff1">1</a></sup>, K&nbsp;Takada<sup><a title="affiliated with 1" href="#aff1">1</a></sup>, K&nbsp;Ono<sup><a title="affiliated with 1" href="#aff1">1</a></sup>, Y&nbsp;Kamihara<sup><a title="affiliated with 1" href="#aff1">1</a></sup>, T&nbsp;Hayashi<sup><a title="affiliated with 1" href="#aff1">1</a></sup>, K&nbsp;Miyanishi<sup><a title="affiliated with 1" href="#aff1">1</a></sup>, Y&nbsp;Sato<sup><a title="affiliated with 1" href="#aff1">1</a></sup>, R&nbsp;Takimoto<sup><a title="affiliated with 1" href="#aff1">1</a></sup> and J&nbsp;Kato<sup><a title="affiliated with 1" href="#aff1">1</a></sup></p><div id="affiliations-notes"><p id="aff"><a name="aff1"><sup>1</sup></a>Fourth Department of Internal Medicine, Sapporo Medical University School of Medicine, Sapporo, Japan</p><p class="caff">Correspondence: Dr J Kato, Fourth Department of Internal Medicine, Sapporo Medical University School of Medicine, South-1, West-16 Chuo-ku, Sapporo 060-8543, Japan. E-mail: <a href="mailto:jkato@sapmed.ac.jp">jkato@sapmed.ac.jp</a></p><p class="prdates">Received 1&nbsp;May&nbsp;2012; Revised 1&nbsp;August&nbsp;2012; Accepted 7&nbsp;August&nbsp;2012</p></div>
+<div id="abs"><a class="backtotop" href="#top">Top<span class="hidden"> of page</span></a><h3>Abstract</h3><p class="abs lead">Aberrant reactivation of hedgehog (Hh) signaling has been described in a wide variety of human cancers including cancer stem cells. However, involvement of the Hh-signaling system in the bone marrow (BM) microenvironment during the development of myeloid neoplasms is unknown. In this study, we assessed the expression of Hh-related genes in primary human CD34<sup><span class="mb">&#x0002B;</span></sup> cells, CD34<sup><span class="mb">&#x0002B;</span></sup> blastic cells and BM stromal cells. Both Indian Hh (Ihh) and its signal transducer, smoothened (SMO), were expressed in CD34<sup><span class="mb">&#x0002B;</span></sup> acute myeloid leukemia (AML) and myelodysplastic syndrome (MDS)-derived cells. However, Ihh expression was relatively low in BM stromal cells. Remarkably, expression of the intrinsic Hh-signaling inhibitor, human Hh-interacting protein (HHIP) in AML<span class="mb">&#x0002F;</span>MDS-derived stromal cells was markedly lower than in healthy donor-derived stromal cells. Moreover, HHIP expression levels in BM stromal cells highly correlated with their supporting activity for SMO<sup><span class="mb">&#x0002B;</span></sup> leukemic cells. Knockdown of <i>HHIP</i> gene in stromal cells increased their supporting activity although control cells marginally supported SMO<sup><span class="mb">&#x0002B;</span></sup> leukemic cell proliferation. The demethylating agent, 5-aza-2&#x02032;-deoxycytidine rescued HHIP expression via demethylation of <i>HHIP</i> gene and reduced the leukemic cell-supporting activity of AML<span class="mb">&#x0002F;</span>MDS-derived stromal cells. This indicates that suppression of stromal HHIP could be associated with the proliferation of AML<span class="mb">&#x0002F;</span>MDS cells.</p><div class="keyw-abbr"><h4 class="keywords">Keywords: </h4><p class="keywords">acute myeloid leukemia (AML); myelodysplastic syndrome (MDS); human hedgehog-interacting protein (HHIP); stromal cells</p></div></div>
+<!-- articlebody start --><div id="articlebody"><div id="Introduction"><a class="backtotop" href="#top">Top<span class="hidden"> of page</span></a><h3>Introduction</h3><p class="norm">Recent massive parallel sequencing has enabled the analysis of whole genomes and transcriptomes from clinical samples derived from acute myeloid leukemia (AML) and myelodysplastic syndrome (MDS). Currently it is possible to comprehensively identify genetic mutations, including single base changes, deletions, insertions and genomic rearrangements in early events for AML<span class="mb">&#x0002F;</span>MDS development.<sup><!--bib1--><a href="#bib1">1</a></sup> As a hypothetical model, the molecular pathogenesis of AML requires cooperating mutations of several genes such as early mutation, class-I and class-II mutations.<sup><!--bib1--><a href="#bib1">1</a></sup> Early mutations are present in clinically silent pre-leukemic cells, and involve genes for nucleolar ribonucleoprotein, nucleophosmin (NPM1) and the RNA splicing machinery.<sup><!--bib2--><a href="#bib2">2</a>, <!--bib3--><a href="#bib3">3</a></sup> Class-I and class-II mutations are mainly present in leukemic cells.<sup><!--bib1--><a href="#bib1">1</a></sup> Class-I mutations constitutively activate genes in the kinase signaling pathways, including <i>FLT3, c-KIT, c-FMS</i> and <i>RAS</i>, which enhance the proliferation of leukemic cells, whereas class-II mutations inactivate hematopoietic transcription factors such as AML1, ASXL, TET2 and IDH, which are associated with epigenetic regulation of gene expression.<sup><!--bib4--><a href="#bib4">4</a></sup> Although combined genetic abnormalities are likely essential for the development of AML<span class="mb">&#x0002F;</span>MDS, aberrant function and chromosomal abnormality of human bone marrow (BM) stromal cells could be involved MDS development and subsequent secondary AML.<sup><!--bib5--><a href="#bib5">5</a></sup> Interestingly, impaired microRNA biogenesis in human BM stromal cells from MDS patients, with <i>Dicer1</i> and <i>Drosha</i> gene and protein downregulation, correlated with abnormal gene and microRNA expression.<sup><!--bib6--><a href="#bib6">6</a></sup> Moreover, mice genetically deficient for Dicer1 in BM stromal cells, developed dysplastic changes in hematopoietic cells, subsequent genetic mutations and eventually leukemic transformation.<sup><!--bib7--><a href="#bib7">7</a>, <!--bib8--><a href="#bib8">8</a></sup> Based on these findings, the function of BM stromal cells in AML<span class="mb">&#x0002F;</span>MDS has gained increasing attention in hemato-oncology.</p><p class="norm">We and others have demonstrated that the hedgehog (Hh) signaling pathway is important in the regulation of stem<span class="mb">&#x0002F;</span>progenitor cell expansion and lymphocyte differentiation.<sup><!--bib9--><a href="#bib9">9</a>, <!--bib10--><a href="#bib10">10</a>, <!--bib11--><a href="#bib11">11</a></sup> In particular, Indian Hh (Ihh), its receptor patched (Ptc) and a constitutively active signal transducer, smoothened (SMO), are expressed in cord blood (CB) CD34<sup><span class="mb">&#x0002B;</span></sup> cells and BM stromal cells. Furthermore, changes in the cytokine expression profile of human stromal cells treated with Ihh ligand derived from CD34<sup><span class="mb">&#x0002B;</span></sup> cells through Hh receptor complex signaling induced the proliferation of hematopoietic stem<span class="mb">&#x0002F;</span>progenitor cells.<sup><!--bib11--><a href="#bib11">11</a></sup></p><p class="norm">Thus, Hh acts on stromal cells to regulate hematopoietic stem<span class="mb">&#x0002F;</span>progenitor cells. However, conditional SMO overactivation has no significant effect on self-renewal and function of adult hematopoietic stem cells although expansion of Bcr-Abl-positive leukemic stem cells is dependent on Hh pathway activation <i>in vivo</i>.<sup><!--bib12--><a href="#bib12">12</a>, <!--bib13--><a href="#bib13">13</a>, <!--bib14--><a href="#bib14">14</a></sup> Therefore, it is controversial whether Hh signaling is self-limiting in hematopoietic<span class="mb">&#x0002F;</span>leukemic stem cell expansion in BM where there is continuous Hh stimulation.<sup><!--bib15--><a href="#bib15">15</a>, <!--bib16--><a href="#bib16">16</a></sup></p><p class="norm">Aberrant Hh ligand expression has been described in human cancers<sup><!--bib17--><a href="#bib17">17</a>, <!--bib18--><a href="#bib18">18</a>, <!--bib19--><a href="#bib19">19</a></sup> including leukemia.<sup><!--bib14--><a href="#bib14">14</a>, <!--bib20--><a href="#bib20">20</a></sup> We recently demonstrated that Hh ligand induced proliferation of AML cells in an autocrine manner.<sup><!--bib21--><a href="#bib21">21</a></sup> Hh-interacting protein (HIP), a membrane-associated or soluble glycoprotein that binds Hh ligand with an affinity comparable to the Ptc receptor, functions as an endogenous Hh ligand inhibitor.<sup><!--bib22--><a href="#bib22">22</a>, <!--bib23--><a href="#bib23">23</a></sup></p><p class="norm">Importantly, reduced expression of the human HIP (<i>HHIP</i>) gene was observed in several tumor cells<sup><!--bib24--><a href="#bib24">24</a>, <!--bib25--><a href="#bib25">25</a></sup> and may represent a mechanism for the induction of ectopic Hh signaling. However, whether aberrant expression of HHIP levels in BM can contribute to the development of myeloid malignancy is unknown.</p><p class="norm">Here, we examined the expression of Ihh, SMO and HHIP in primary CD34<sup><span class="mb">&#x0002B;</span></sup> hematopoietic cells, acute leukemic cells and BM stromal cells, the major stromal growth factors required for the expansion of hematopoietic stem<span class="mb">&#x0002F;</span>progenitor cells, and the role of HHIP on stromal function in the regulation and inhibition of leukemic cell proliferation.</p></div><div id="Materials-and-methods"><a class="backtotop" href="#top">Top<span class="hidden"> of page</span></a><h3>Materials and methods</h3><h4 class="norm">Reagents and cell lines</h4><p class="follows-h4">Recombinant murine HIP (mHIP) was obtained from R&amp;D Systems (Minneapolis, MN, USA). 5-Aza-2&#x02032;-deoxycytidine (5-aza-dC) was obtained from Sigma (St Louis, MO, USA). Total RNA derived from mobilized peripheral blood (PB), BM or CB CD34<sup><span class="mb">&#x0002B;</span></sup> cells was purchased from AllCells, LLC (Toronto, Ontario, Canada). Human myeloid leukemic cell lines K562, HEL and KG-1 were cultured in RPMI1640 containing 10<span class="mb">&#x00025;</span> heat-inactivated fetal calf serum (Gibco BRL, Rockville, MD, USA), 2<span class="mb"><span class="mb">&thinsp;</span></span>mM<span class="mb">&#x0002F;</span>L-glutamine, 0.1<span class="mb">&#x00025;</span> penicillin (100<span class="mb"><span class="mb">&thinsp;</span></span>U<span class="mb">&#x0002F;</span>ml) and streptomycin (100<span class="mb"><span class="mb">&thinsp;</span></span>mg<span class="mb">&#x0002F;</span>ml). CD34<sup><span class="mb">&#x0002B;</span></sup> leukemic cell lines, such as Kasumi-1, Kasumi-3 and TF-1 (American Type Culture Collection, Manassa, VA, USA), were cultured in RPMI1640 containing 20<span class="mb">&#x00025;</span> heat-inactivated fetal calf serum, 2<span class="mb"><span class="mb">&thinsp;</span></span>mM<span class="mb">&#x0002F;</span>L-glutamine, 1<span class="mb"><span class="mb">&thinsp;</span></span>mM pyruvate, 0.1<span class="mb">&#x00025;</span> penicillin (100<span class="mb"><span class="mb">&thinsp;</span></span>U<span class="mb">&#x0002F;</span>ml) and streptomycin (100<span class="mb"><span class="mb">&thinsp;</span></span>mg<span class="mb">&#x0002F;</span>ml). For long-term culture of TF-1, 10<span class="mb"><span class="mb">&thinsp;</span></span>U<span class="mb">&#x0002F;</span>ml interleukin-3 (IL-3, R&amp;D systems) was added to the complete medium. In some experiments, HEL, Kasumi-1, Kasumi-3 and TF-1 were cocultured with human stromal cells in StemPro-34 serum-free medium (Life Technologies, Tokyo, Japan).</p><div class="norm"><!-- . --></div><h4 class="norm">Primary human stromal cells, hTERT-stromal cells (HTS) and clones</h4><p class="follows-h4">Human BM was obtained by aspiration from the posterior iliac crest of healthy adult volunteers (age from 30 to 40), AML and MDS patients after informed consent. Informed consent from the Sapporo Medical University institutional review board was provided according to the Declaration of Helsinki. Human primary stromal cells were prepared as described previously.<sup><!--bib26--><a href="#bib26">26</a></sup> Only proliferative cells within 10 passages were used in this study and senescent stromal cells were excluded for analyses. The HTS and the HTS clones were established by retrovirus-mediated gene transfer of the human telomerase catalytic subunit (<i>hTERT</i>) gene as described previously.<sup><!--bib26--><a href="#bib26">26</a>, <!--bib27--><a href="#bib27">27</a></sup></p><div class="norm"><!-- . --></div><h4 class="norm">Separation of primary CD34<sup><span class="mb">&#x0002B;</span></sup> leukemic cells and CD271<sup><span class="mb">&#x0002B;</span></sup>CD45<sup>&#x02212;</sup> mesenchymal stromal cells</h4><p class="follows-h4">Primary CD34<sup><span class="mb">&#x0002B;</span></sup> cells or CD271<sup><span class="mb">&#x0002B;</span></sup>CD45<sup>&#x02212;</sup> mesenchymal cells were obtained from patients with AML, MDS or lymphoma (stage I or II) as a control sample by BM aspiration after obtaining informed consent. Low-density (&#60;1.077<span class="mb"><span class="mb">&thinsp;</span></span>g<span class="mb">&#x0002F;</span>ml) mononuclear cells (MNCs) were separated by Histopaque-1077 (Sigma-Aldrich, Tokyo, Japan). Purification of CD34<sup><span class="mb">&#x0002B;</span></sup> cells was by positive selection using MACS Direct CD34 Progenitor Cell Isolation Kit (Miltenyi Biotech, Bergish-Gladbach, Germany). For purification of CD271<sup><span class="mb">&#x0002B;</span></sup>CD45<sup>&#x02212;</sup> mesenchymal stromal cells, BM MNCs were labeled with phycoerythrin (PE)-conjugated CD45 antibody and CD45<sup>&#x02212;</sup> cells were separated by negative selection using anti-PE microbeads as previously described.<sup><!--bib28--><a href="#bib28">28</a></sup> Subsequently, the CD271<sup><span class="mb">&#x0002B;</span></sup> fraction was purified by CD271 Micro Bead Kit (Miltenyi Biotech, Bergish-Gladbach, Germany) (allophycocyanin (APC)).</p><div class="norm"><!-- . --></div><h4 class="norm">Coculture of CD34<sup><span class="mb">&#x0002B;</span></sup> leukemic cells or primary CB CD34<sup><span class="mb">&#x0002B;</span></sup> cells with human stromal cells</h4><p class="follows-h4">Two hundred thousand parental populations of primary human stromal cells, HTS or HTS clones were plated in 25<span class="mb"><span class="mb">&thinsp;</span></span>cm<sup>2</sup> plates in long-term culture medium.<sup><!--bib26--><a href="#bib26">26</a></sup> Forty-eight hours after plating, cells were washed five times with phosphate-buffered saline (PBS) before addition of leukemic cell lines, CB CD34<sup><span class="mb">&#x0002B;</span></sup> cells (Takara, Tokyo, Japan) or primary CD34<sup><span class="mb">&#x0002B;</span></sup> leukemic cells. Twenty thousand primary CD34<sup><span class="mb">&#x0002B;</span></sup> leukemic cells or CB CD34<sup><span class="mb">&#x0002B;</span></sup> cells were seeded on a monolayer of human stromal cells pre-established in 10<span class="mb"><span class="mb">&thinsp;</span></span>ml of StemPro-34 serum-free medium (Life Technologies), supplemented with 10<span class="mb"><span class="mb">&thinsp;</span></span>ng<span class="mb">&#x0002F;</span>ml human stem cell factor (SCF, R&amp;D Systems). The coculture was maintained by adding the same amount of SCF every week for 4 weeks. At the end of 4 weeks of coculture, hematopoietic cells that had expanded above the stromal cells were collected as the cobblestone area formation underneath the stromal layer was not observed in this culture.<sup><!--bib26--><a href="#bib26">26</a></sup> Adherent hematopoietic cells on the stromal layer were removed with PBS, and dissociated hematopoietic cells were mixed with nonadherent hematopoietic cells. Stromal layers were treated with two further cycles of pipetting. To avoid the presence of stromal cells in the resulting cell suspensions, a 30-min adhesion procedure was performed at 37<span class="mb"><span class="mb">&thinsp;</span></span>&#x000B0;C as described previously.<sup><!--bib26--><a href="#bib26">26</a>, <!--bib29--><a href="#bib29">29</a></sup></p><div class="norm"><!-- . --></div><h4 class="norm">Clonogenic assay and replating assay of primary hematopoietic or leukemic cells</h4><p class="follows-h4">The clonogenic assay of primary hematopoietic cells was performed using MethoCult GF H4434V (Stem Cell Technologies, Vancouver, British Columbia, Canada). For the replating assay, 2 &#x000D7; 10<sup>4</sup> CD34<sup><span class="mb">&#x0002B;</span></sup> leukemic cells per plate were placed into methylcellulose (MethoCult GF H4434V) in the presence or absence of 100<span class="mb"><span class="mb">&thinsp;</span></span>&#x003BC;g<span class="mb">&#x0002F;</span>ml mHIP. For serial replating, cells were harvested from the methylcellulose, and 2 &#x000D7; 10<sup>4</sup> cells per plate were replated at 7-day intervals.<sup><!--bib30--><a href="#bib30">30</a>, <!--bib31--><a href="#bib31">31</a></sup> The total numbers of colony-forming units in culture (CFU-C) and leukemia colony-forming cells were determined by microscopy.<sup><!--bib11--><a href="#bib11">11</a></sup></p><div class="norm"><!-- . --></div><h4 class="norm">Analysis of Ihh and related gene mRNA expression</h4><p class="follows-h4">For reverse transcription (RT) reactions, total RNA was prepared from cells using the QIAGEN RNeasy kit (Chatsworth, CA, USA). Total RNA (1<span class="mb"><span class="mb">&thinsp;</span></span>&#x003BC;g) was reverse transcribed by SuperScriptII (Invitrogen, Tokyo, Japan). For low numbers of separated primary cells, the RT reaction was directly conducted using TaqMan Gene Expression Cells-to-CT Kit (Applied Biosystems, Tokyo, Japan). PCR was performed using the Advantage GC 2 Polymerase Mix (Clontech, Tokyo, Japan) with primers specific for Ihh (5&#x02032;-TGCGGGCCGGGTCGGGTGGTG-3&#x02032; and 5&#x02032;-GCCGCCCGTCTTGGCTGC-3&#x02032;), Ptc (5&#x02032;-CTGTTGGCATAGGAGTGGAGTTCACC-3&#x02032; and 5&#x02032;-CTGCTGGGCCTCGTAGTGCCGAAGC-3&#x02032;), SMO (5&#x02032;-CAGAACATCAAGTTCAACAGTTCAGGC-3&#x02032; and 5&#x02032;-ATAGGTGAGGACCACAAACCAAACCACACC-3&#x02032;) or human glyceraldehyde 3-phosphate dehydrogenase (GAPDH) (5&#x02032;-ACATCAAGAAGGTGGTGAAGCAGG-3&#x02032; and 5&#x02032;-CTCTCCCTCTTGTGCTCTTGCTGG-3&#x02032;) as previously reported.<sup><!--bib11--><a href="#bib11">11</a></sup> PCR amplification was performed with 30 cycles of 94<span class="mb"><span class="mb">&thinsp;</span></span>&#x000B0;C for 15<span class="mb"><span class="mb">&thinsp;</span></span>s, 58<span class="mb"><span class="mb">&thinsp;</span></span>&#x000B0;C for 30<span class="mb"><span class="mb">&thinsp;</span></span>s and 68<span class="mb"><span class="mb">&thinsp;</span></span>&#x000B0;C for 60<span class="mb"><span class="mb">&thinsp;</span></span>s. The PCR products were separated on a 2<span class="mb">&#x00025;</span> agarose gel. For real-time RT-PCR analyses, Taqman Assays IDs of Ihh, HHIP, GAPDH, or 18<span class="mb"><span class="mb">&thinsp;</span></span>S (Applied Biosystems, Tokyo, Japan) were Hs00745531_s1, Hs00368450_m1, Hs9999905_m1 or Hs99999901_s1, respectively. The other Taqman Assays IDs are shown in supplementary Table 1. Real-time PCR was performed in triplicate using the Taqman PRISM7700 Sequence Detection System (PE Applied Biosystems) in a 50-&#x003BC;l reaction volume. Relative gene expression was calculated as the signal ratio of target gene (<i>FAM</i>) to <i>GAPDH</i> cDNA.</p><div class="norm"><!-- . --></div><h4 class="norm">Phenotypic characterization of human stromal cells</h4><p class="follows-h4">The phenotype of human primary stromal cells, HTS and HTS clones were determined by analyzing the expression of <span class="mb">&#x003B1;</span>-smooth muscle actin (<span class="mb">&#x003B1;</span>-SMA) and ALP (alkaline phosphatase). PE-conjugated CD105 (Ancell, Bayport, MN, USA) or CD166 (BD Bioscience, Tokyo, Japan), fluorescein isothiocyanate (FITC)-conjugated anti-<span class="mb">&#x003B1;</span>-SMA (Clone 1A4, Sigma), CD31 (BD Bioscience), CD14, CD45 (BD Bioscience) monoclonal antibodies (mAb) or isotype controls (Chemicon, Temecula, CA, USA) were utilized. For flow cytometric analysis of <span class="mb">&#x003B1;</span>-SMA, stromal cells were washed in PBS three times and fixed with 3.7<span class="mb">&#x00025;</span> (v<span class="mb">&#x0002F;</span>v) formaldehyde in PBS at 4<span class="mb"><span class="mb">&thinsp;</span></span>&#x000B0;C for 10<span class="mb"><span class="mb">&thinsp;</span></span>min. Cells were permeabilized with Perm buffer I containing saponin (BD Bioscience) in PBS at 4<span class="mb"><span class="mb">&thinsp;</span></span>&#x000B0;C for 30<span class="mb"><span class="mb">&thinsp;</span></span>min with FITC-conjugate anti-<span class="mb">&#x003B1;</span>-SMA and anti CD105-PE or isotype control (Chemicon). Labeled cells were analyzed by flow cytometry (FACSCalibur or FACSCanto: Becton Dickinson, Mountain View, CA, USA) and dead cells were gated out by propidium iodide (PI) staining.</p><div class="norm"><!-- . --></div><h4 class="norm">Drug cytotoxic assay</h4><p class="follows-h4">To assess the contribution of Hh signaling on cells, 0&#x02013;100<span class="mb"><span class="mb">&thinsp;</span></span>&#x003BC;g<span class="mb">&#x0002F;</span>ml mHIP was added to each well and incubated for 48<span class="mb"><span class="mb">&thinsp;</span></span>h. The surviving cells were assessed by Annexin V-FITC Apoptosis Detection Kit (Medical and Biological Laboratories, Tokyo, Japan) and Premix WST-1 assay Cell Proliferation Assay System (Takara). The WST-1 assay is based on the mitochondrial conversion of WST-1 to yellowish formazan, being indicative of the number of viable cells.<sup><!--bib32--><a href="#bib32">32</a></sup> The number of viable cells was evaluated by absorbance at OD450<span class="mb"><span class="mb">&thinsp;</span></span>nm (Abs) using a Model 680 microplate reader (Bio-Rad Laboratories, Tokyo, Japan).</p><div class="norm"><!-- . --></div><h4 class="norm">Determination of cell cycle</h4><p class="follows-h4">Cell cycle analysis was performed by staining with equal volumes of 2<span class="mb"><span class="mb">&thinsp;</span></span>mg<span class="mb">&#x0002F;</span>ml RNase A in PBS and 0.6<span class="mb">&#x00025;</span> NP40 containing 0.1<span class="mb"><span class="mb">&thinsp;</span></span>mg<span class="mb">&#x0002F;</span>ml PI (Calbiochem, La Jolla, CA, USA) in PBS at 4<span class="mb"><span class="mb">&thinsp;</span></span>&#x000B0;C for 30<span class="mb"><span class="mb">&thinsp;</span></span>min. Thereafter, cell cycle distribution was analyzed by flow cytometry. Doublet particles were gated out by plotting FL2-W versus FL2-A in a dot plot as previously described.<sup><!--bib10--><a href="#bib10">10</a></sup></p><div class="norm"><!-- . --></div><h4 class="norm">Transduction of short hairpin RNA (shRNA) against HHIP in stromal cells</h4><p class="follows-h4">Gene-specific shRNA vector of HuSH29mer shRNA construct against HHIP, catalog number TR304118 (tube ID, TI316456; TI316446; TI316468) was purchased from OriGene Inc. (Rockville, MD, USA) and TR20003 was utilized as a negative control. Retroviral supernatant was produced from phoenix-AMPHO cells (American Type Culture Collection) after transfection with purified plasmid DNA (Qiagen, Tokyo, Japan) in Lipofectamine 2000 transfection reagent (Life Technologies).<sup><!--bib11--><a href="#bib11">11</a></sup> The viral supernatants containing HHIP shRNA, TR20003 (control: shRNA empty pRS vector), TI316465, TI316466 or TI316468 were used to infect HTS-5, HTS-6, hTERT-stromal cell clones or primary stromal cells. After gene transduction of TR20003, TI316465, TI316466 or TI316468, transduced stromal cells (Cont-HTS-5, TI 65-HTS-5, TI 66-HTS-5 or TI 68-HTS-5; Cont-HTS-6, TI 65-HTS-6, TI 66-HTS-6 or TI 68-HTS-6) were selected with 3<span class="mb"><span class="mb">&thinsp;</span></span>&#x003BC;g<span class="mb">&#x0002F;</span>ml puromycin. The levels of mRNA of HHIP after transduction of shRNA were analyzed by real-time RT-PCR.</p><div class="norm"><!-- . --></div><h4 class="norm">Bisulfite modification and methylation-specific PCR (MSP)</h4><p class="follows-h4">Bisulfite modification of genomic DNA (0.5<span class="mb"><span class="mb">&thinsp;</span></span>&#x003BC;g) was performed using Methylamp Universal Methylated DNA kit according to manufacturer&#x02019;s instructions (Epigentek Group Inc., Brooklyn, NY, USA). Bisulphite modification of genomic DNA and MSP analysis were performed as described previously,<sup><!--bib25--><a href="#bib25">25</a></sup> using primers corresponding to the HHIP promoter region sequences. HHIP methylation primer pair (5&#x02032;-AAGATCTTTGAGGACTTGAGCTTC-3&#x02032; and 5&#x02032;-CGCAGGCTCCTCTCTCCTCCCCGCTT-3&#x02032;, product 299 size) and unmethylation primer pair (5&#x02032;-AAGATTTTTGAGGATTTGAGTTTT-3&#x02032; and 5&#x02032;-CACAAACTCCTCTCTCCTCCCCACTT-3&#x02032;, product 299 size) were used. PCR amplification was performed using 30 cycles of 94<span class="mb"><span class="mb">&thinsp;</span></span>&#x000B0;C for 30<span class="mb"><span class="mb">&thinsp;</span></span>s, 58<span class="mb"><span class="mb">&thinsp;</span></span>&#x000B0;C for 30<span class="mb"><span class="mb">&thinsp;</span></span>s and 68<span class="mb"><span class="mb">&thinsp;</span></span>&#x000B0;C for 40<span class="mb"><span class="mb">&thinsp;</span></span>s for methylated DNA and using 30 cycles of 94<span class="mb"><span class="mb">&thinsp;</span></span>&#x000B0;C for 30<span class="mb"><span class="mb">&thinsp;</span></span>s, 53<span class="mb"><span class="mb">&thinsp;</span></span>&#x000B0;C for 30<span class="mb"><span class="mb">&thinsp;</span></span>s and 68<span class="mb"><span class="mb">&thinsp;</span></span>&#x000B0;C for 40<span class="mb"><span class="mb">&thinsp;</span></span>s for unmethylated DNA.</p><div class="norm"><!-- . --></div><h4 class="norm">5-aza-dC treatment of human stromal cells</h4><p class="follows-h4">Human stromal cells were treated with 2<span class="mb"><span class="mb">&thinsp;</span></span>&#x003BC;M of 5-aza-dC (Sigma) on day &#x02212;6 and day &#x02212;3 before coculture with hematopoietic cells.<sup><!--bib33--><a href="#bib33">33</a></sup> Stromal cells were washed with 1 &#x000D7; PBS three times, and then used for coculture with leukemic cells.</p><div class="norm"><!-- . --></div><h4 class="norm">Immunoblot analysis</h4><p class="follows-h4">Ten microliter of supernatant or 50<span class="mb"><span class="mb">&thinsp;</span></span>&#x003BC;g of lysate from stromal cells was subjected to electrophoresis on a 10<span class="mb">&#x00025;</span> SDS-polyacrylamide gel and transferred to PVDF membranes using semidry transfer apparatus (Bio-Rad Laboratories). Cell lysate was prepared in a buffer containing 50<span class="mb"><span class="mb">&thinsp;</span></span>mM Tris-HCl (pH 7.4), 0.5<span class="mb">&#x00025;</span> NP40, 150<span class="mb"><span class="mb">&thinsp;</span></span>mM NaCl and a protease inhibitor mixture (Roche Diagnostics, Tokyo, Japan). Anti-HHIP mAb (ab56406: Abcam Inc., Tokyo, Japan) and anti-&#x003B2;-actin mAb (Zymed Laboratories Inc, South San Francisco, CA, USA) were utilized as primary Abs. Proteins were visualized using the enhanced chemiluminescence method (GE Healthcare Life Sciences, Tokyo, Japan).</p><div class="norm"><!-- . --></div><h4 class="norm">Statistical analysis</h4><p class="follows-h4">Each data set was first evaluated for normality of distribution by the Komolgorov&#x02013;Smirnov test to decide whether a non-parametric rank-based analysis or a parametric analysis should be used. Two groups were compared by either the Wilcoxon signed-rank test or the Student&#x02019;s <i>t</i>-test (two-tailed test). Results are expressed as the mean&#x000B1;s.d.</p><div class="norm"><!-- . --></div></div><div id="Results"><a class="backtotop" href="#top">Top<span class="hidden"> of page</span></a><h3>Results</h3><h4 class="norm">The expression level of various factors in stromal cells and their supporting activity of CB clonogenic cells</h4><p class="follows-h4">We first analyzed the mRNA expression of various soluble growth factors, such as Ihh, SCF, thrombopoietin (TPO), FLT3-ligand (FL), interleukin-6 (IL-6), angiopoietin-1 (Ang-1), bone morphogenetic protein 2 (BMP-2), Wnt5A and HHIP in nine stromal clones (HTS-1 to HTS-9 cells) and the number of CFU-C derived from CB CD34<sup><span class="mb">&#x0002B;</span></sup> cells after coculture with HTS stromal clones.<sup><!--bib27--><a href="#bib27">27</a></sup> However, expression of the soluble factors by stromal cells did not correlate with the supporting activity of CB-derived CFU-C (<!--fig1--><a href="#fig1">Figure 1a</a>).<sup><!--bib27--><a href="#bib27">27</a></sup> Unexpectedly, endogenous HHIP expression in BM stromal cell clones negatively correlated with the number of CB CFU-C after coculture (<!--fig1--><a href="#fig1">Figure 1a</a>). We previously demonstrated that Ihh and signal transducer SMO were highly expressed in CB CD34<sup><span class="mb">&#x0002B;</span></sup> cells<sup><!--bib11--><a href="#bib11">11</a></sup> and CD34<sup><span class="mb">&#x0002B;</span></sup> leukemic cell lines.<sup><!--bib21--><a href="#bib21">21</a></sup> Recombinant mHIP is highly homologs with HHIP and mHIP can inhibit human Ihh activity.<sup><!--bib10--><a href="#bib10">10</a>, <!--bib22--><a href="#bib22">22</a></sup> Addition of recombinant mHIP into the coculture of CB CD34<sup><span class="mb">&#x0002B;</span></sup> cells and human stromal cells, significantly reduced the number of clonogenic cells (<!--fig1--><a href="#fig1">Figure 1b</a>). Thus, we compared the expression levels of Ihh and HHIP in hematopoietic cells and stromal cells to understand the inhibitory mechanism of Hh signaling in the BM microenvironment. As shown in <!--fig1--><a href="#fig1">Figure 1c</a>, Ihh expression in PB, BM or CB CD34<sup><span class="mb">&#x0002B;</span></sup> cells was markedly higher than in primary human stromal cells and HTS. In contrast, HHIP expression in the stromal cell population was dramatically higher than in PB, BM or CB CD34<sup><span class="mb">&#x0002B;</span></sup> cells (<!--fig1--><a href="#fig1">Figure 1d</a>), suggesting that HHIP expressed by stromal cells inhibited Ihh signaling in hematopoietic cells when the two cell types were present in the BM microenvironment.</p><div class="norm"><!-- . --></div><div id="fig1" class="figure-table"><h5 class="norm"><a href="/bcj/journal/v2/n9/fig_tab/bcj201236f1.html#figure-title">Figure 1.</a></h5><a href="/bcj/journal/v2/n9/fig_tab/bcj201236f1.html#figure-title"><img alt="Figure 1 - Unfortunately we are unable to provide accessible alternative text for this. If you require assistance to access this image, please contact help@nature.com or the author" class="thumb" src="/bcj/journal/v2/n9/thumbs/bcj201236f1th.jpg"/></a><p>The expression of Ihh and HHIP in CD34<sup><span class="mb">&#x0002B;</span></sup> hematopoietic cells and primary and telomerized BM stromal cells. (<b>a</b>) Correlation between the number of CFU-C and various soluble factors expressed by HTS clones. A significant reverse correlation between the number of CFU-C and expression level of HHIP in BM stromal cell clones was observed. <i>X</i> axis indicates the ratio of target mRNA to GAPDH mRNA in HTS clones by real-time PCR. (<b>b</b>) The effect of recombinant mHIP on the proliferation of clonogenic cells upon coculture with an hTERT-stromal clone 6 (HTS-6). The coculture was supplemented with 10<span class="mb"><span class="mb">&thinsp;</span></span>ng<span class="mb">&#x0002F;</span>ml SCF with or without mHIP. <i>X</i> axis indicates the concentration of mHIP and <i>Y</i> axis indicates the number of CFU-C. Data represent three independent experiments, performed in triplicate. Results are expressed as means&#x000B1;s.d. (<b>c</b>) Endogenous Ihh expression levels in PB, BM or CB CD34<sup><span class="mb">&#x0002B;</span></sup> cells, primary stromal cells or human hTERT-stromal cells were analyzed by real-time PCR. (<b>d</b>) Endogenous HHIP expression levels were analyzed by real-time PCR. The expression level of GAPDH was used as an internal standard.</p><a class="full" href="/bcj/journal/v2/n9/fig_tab/bcj201236f1.html#figure-title">Full figure and legend (109<abbr title="Kilobyte">K</abbr>)</a><div class="cleardiv"><!-- clearing div --></div></div><br class="clear"/><h4 class="norm">Expression of Hh-related genes and the effect of recombinant mHIP on leukemic cells</h4><p class="follows-h4">We investigated whether recombinant mHIP could affect the proliferation of leukemic cells by examining the expression of Ihh and SMO in leukemic cell lines. Ihh was detected in all the leukemic cell lines examined (<!--fig2--><a href="#fig2">Figure 2a</a>). However, the receptor component, SMO, was only detected in four out of six CD34<sup><span class="mb">&#x0002B;</span></sup> leukemic cell lines or erythroleukemic cell lines (Kasumi-1, Kasumi-3, TF-1 and HEL). We next investigated the CD34<sup><span class="mb">&#x0002B;</span></sup> fraction of BM cells derived from AML and MDS patients (<!--tbl1--><a href="#tbl1">Table 1</a>). Ihh and SMO expression were detected in primary AML cells and MDS cells (<!--fig2--><a href="#fig2">Figure 2b</a>). The significance of Hh signaling in leukemic cells was examined by the addition of recombinant mHIP to the supernatant of leukemic cell lines in stroma-free conditions. As a result, the percentage survival of SMO<sup><span class="mb">&#x0002B;</span></sup> leukemic cells was significantly decreased in a dose-dependant manner, although the percentage survival of SMO negative leukemic cells was not affected by mHIP (<!--fig2--><a href="#fig2">Figure 2c</a>). Annexin V<span class="mb">&#x0002F;</span>PI assay revealed that mHIP-induced apoptosis in SMO<sup><span class="mb">&#x0002B;</span></sup> leukemic cell lines (<!--fig2--><a href="#fig2">Figure 2d</a>). We further assessed the effect of mHIP on primary leukemic cells. The replating capacity of CD34<sup><span class="mb">&#x0002B;</span></sup> fraction of leukemic cells derived from three AML patients (<!--tbl1--><a href="#tbl1">Table 1</a>) was reduced by mHIP treatment and the effect of mHIP on leukemic colony numbers was pronounced in second replating (<!--fig2--><a href="#fig2">Figure 2e</a>). This suggests that Hh signaling contributes to the proliferation and self-renewal capacity of leukemic cells <i>in vitro</i>.</p><div class="norm"><!-- . --></div><div id="fig2" class="figure-table"><h5 class="norm"><a href="/bcj/journal/v2/n9/fig_tab/bcj201236f2.html#figure-title">Figure 2.</a></h5><a href="/bcj/journal/v2/n9/fig_tab/bcj201236f2.html#figure-title"><img alt="Figure 2 - Unfortunately we are unable to provide accessible alternative text for this. If you require assistance to access this image, please contact help@nature.com or the author" class="thumb" src="/bcj/journal/v2/n9/thumbs/bcj201236f2th.jpg"/></a><p>The effect of mHIP on leukemic cell lines in stroma-free conditions. (<b>a</b>) The expression of Ihh and SMO mRNA in six leukemic cell lines was analyzed by RT-PCR. The expression of GAPDH was used as an internal standard. (<b>b</b>) Ihh and SMO expression in the CD34<sup><span class="mb">&#x0002B;</span></sup> fraction of primary AML<span class="mb">&#x0002F;</span>MDS cells was analyzed by RT-PCR. Lane number 1&#x02013;11 indicates the patient number suffering from AML or MDS (RA: refractory anemia; RAEB: refractory anemia with excess blast). H<sub>2</sub>O was used as a negative control. (<b>c</b>) Cytotoxic assay of leukemic cell lines. <i>X</i> axis indicates the concentration of recombinant mHIP and <i>Y</i> axis indicates <span class="mb">&#x00025;</span> survival of the cells. The number of surviving cells was assessed by WST-1 assay. (<b>d</b>) Double staining annexin V<span class="mb">&#x0002F;</span>PI assay of leukemic cell lines 48<span class="mb"><span class="mb">&thinsp;</span></span>h after exposure of mHIP. &#x02018;Control&#x02019; indicates controls of unlabeled Kasumi-1 cells and single color controls of PI and Annexin V-FITC staining. Left panels indicate vehicle-treated control and right panels indicate mHIP-treated cells. <i>X</i> axis indicates Annexin V-FITC-positive cells and <i>Y</i> axis indicates PI-positive cells. (<b>e</b>) The replating capacity of the CD34<sup><span class="mb">&#x0002B;</span></sup> fraction of primary leukemic cells derived from patient ID no. 1, 3 and 6 was analyzed in the presence or absence of mHIP. Unlike control cultures (Vehicle), cultures with mHIP showed reduced replating capacity over three replatings (only two replatings are shown). Similar results were obtained in two independent experiments, each performed in triplicate. Results are expressed as means&#x000B1;s.d.</p><a class="full" href="/bcj/journal/v2/n9/fig_tab/bcj201236f2.html#figure-title">Full figure and legend (225<abbr title="Kilobyte">K</abbr>)</a><div class="cleardiv"><!-- clearing div --></div></div><br class="clear"/><div id="tbl1" class="figure-table"><h5 class="norm"><a href="/bcj/journal/v2/n9/fig_tab/bcj201236t1.html#figure-title">Table 1 - Karyotype of BM cells and clinical outcome in AML and MDS patients.</a></h5><a href="/bcj/journal/v2/n9/fig_tab/bcj201236t1.html#figure-title"><img alt="Table 1 - Karyotype of BM cells and clinical outcome in AML and MDS patients - Unfortunately we are unable to provide accessible alternative text for this. If you require assistance to access this image, please contact help@nature.com or the author" class="thumb" src="/common/images/table_thumb.gif"/></a><a href="/bcj/journal/v2/n9/fig_tab/bcj201236t1.html#figure-title" class="full">Full table </a><div class="cleardiv"><!-- clearing div --></div></div><br class="clear"/><h4 class="norm">The phenotype and expression of HHIP in stromal cells derived from AML<span class="mb">&#x0002F;</span>MDS</h4><p class="follows-h4">To investigate the HHIP expression in hematological disorders, we established stromal cells derived from AML or MDS patients. The stromal cell phenotype was determined by flow cytometric analysis. All stromal cells expressed the stromal antigen markers CD105 and CD166 (<!--fig3--><a href="#fig3">Figures 3a and b</a>), but did not express CD31, CD14 or CD45, markers of either endothelial cells (<!--fig3--><a href="#fig3">Figure 3b</a>) or stromal macrophages (<!--fig3--><a href="#fig3">Figure 3c</a>). Most AML stromal (AML st) cells expressed cytoplasmic <span class="mb">&#x003B1;</span>-SMA (<!--fig3--><a href="#fig3">Figure 3a</a>), a marker of myofibroblastic stromal cells although an <span class="mb">&#x003B1;</span>-SMA low-expressing population was also detected in MDS stromal (MDS st)-8 and MDS st-9 cells. We next examined the expression level of HHIP in patients BM stromal cells by real-time PCR. Interestingly, both AML and MDS-derived stromal cells expressed significantly low levels of HHIP compared with healthy volunteer-derived stromal cells or HTS as a human stromal cell line (<!--fig3--><a href="#fig3">Figure 3d</a>). Recently, it was demonstrated that primary human BM mesenchymal stromal cells were highly enriched in the CD271<sup><span class="mb">&#x0002B;</span></sup><span class="mb">&#x0002F;</span>CD45<sup>&#x02212;</sup> cell fraction.<sup><!--bib34--><a href="#bib34">34</a></sup> Hence, we separated a primary uncultured stromal cell fraction using negative selection of CD45-PE and positive selection of CD271-APC (<!--fig3--><a href="#fig3">Figure 3e</a>) when sufficient numbers of BM mononuclear cells were available. The collected cells were directly transcribed using TaqMan Gene Expression Cells-to-CT Kit. The BM MNSs from lymphoma patients were used as controls. The level of stromal HHIP expression in AML<span class="mb">&#x0002F;</span>MDS was significantly lower than in lymphoma patients without BM involvement (<!--fig3--><a href="#fig3">Figure 3e</a>). Collectively, these results strongly indicated that HHIP expression was reduced in AML<span class="mb">&#x0002F;</span>MDS-derived stromal cells in the BM environment.</p><div class="norm"><!-- . --></div><div id="fig3" class="figure-table"><h5 class="norm"><a href="/bcj/journal/v2/n9/fig_tab/bcj201236f3.html#figure-title">Figure 3.</a></h5><a href="/bcj/journal/v2/n9/fig_tab/bcj201236f3.html#figure-title"><img alt="Figure 3 - Unfortunately we are unable to provide accessible alternative text for this. If you require assistance to access this image, please contact help@nature.com or the author" class="thumb" src="/bcj/journal/v2/n9/thumbs/bcj201236f3th.jpg"/></a><p>Immunophenotypical analysis and HHIP expression of primary stromal cells derived from AML<span class="mb">&#x0002F;</span>MDS patients. (<b>a</b>) Immunophenotypical analysis of stromal cells derived from AML<span class="mb">&#x0002F;</span>MDS patients. <i>X</i> axis indicates <span class="mb">&#x003B1;</span>-SMA-FITC and <i>Y</i> axis indicates CD105-PE. (<b>b</b>) Additional immunophenotypical analysis of CD31-FITC and CD166-PE (ALCAM) antibodies. Data shown are representative of one experiment of three showing similar results. (<b>c</b>) Immunophenotypical analysis of CD45-FITC and CD14-PE antibodies. (<b>d</b>) HHIP expression in BM stromal cells was analyzed by real-time PCR. Lane number 1&#x02013;11 indicates each patient number. Lane 12 and 13 indicate HHIP expression in primary BM stromal cells derived from different healthy volunteers. Lane 14 indicates hTERT-stromal cells (around 30 population doubling after <i>hTERT</i> gene transfer). <i>Y</i> axis indicates the ratio of HHIP to GAPDH mRNA. (<b>e</b>) HHIP expression in primary uncultured CD271<sup><span class="mb">&#x0002B;</span></sup>CD45<sup>&#x02212;</sup> cells. The percentage of CD271<sup><span class="mb">&#x0002B;</span></sup>CD45<sup>&#x02212;</sup> cells before selection was analyzed by CD271-APC<span class="mb">&#x0002F;</span>CD45-PE (upper panel). Cell debris and dead cells were excluded from the analysis based on scatter signals and PI fluorescence. BM mononuclear cells were negatively selected by CD45-PE<span class="mb">&#x0002F;</span>anti-PE microbeads (lower left panel) and positively selected by CD271-APC<span class="mb">&#x0002F;</span>anti-APC microbeads (lower right panel) when sufficient numbers of BM MNCs were obtained (number 1, 3, 6, 9 and 10). Purified CD271<sup><span class="mb">&#x0002B;</span></sup>CD45<sup>&#x02212;</sup> cells were directly transcribed and HHIP expression was analyzed by real-time PCR. BM MNCs obtained from lymphoma patients without BM involvement were used as a control for BM cells (number 15 and 16).</p><a class="full" href="/bcj/journal/v2/n9/fig_tab/bcj201236f3.html#figure-title">Full figure and legend (193<abbr title="Kilobyte">K</abbr>)</a><div class="cleardiv"><!-- clearing div --></div></div><br class="clear"/><h4 class="norm">Leukemic cell-supporting activity of BM-derived stromal clones</h4><p class="follows-h4">We next elucidated the relationship between expression levels of stromal HHIP and its leukemic cell-supporting activity. The stromal HHIP expression in nine HTS clones was analyzed by real-time PCR (Supplementary Figure 1a). HTS clones, SMO<sup><span class="mb">&#x0002B;</span></sup> leukemic cell lines Kasumi-1, Kasumi-3, HEL and TF-1, and SMO<sup>&#x02212;</sup> leukemic cell lines KG-1 and K562 were cocultured for 4 weeks in serum-free medium to exclude any effects of serum-derived factors. The number of proliferating leukemic cells was assessed. Stromal HHIP expression negatively correlated with the number of SMO<sup><span class="mb">&#x0002B;</span></sup> leukemic cells after coculture although no correlation was observed in SMO<sup>&#x02212;</sup> leukemic cell lines, suggesting stromal HHIP is a negative regulator of SMO<sup><span class="mb">&#x0002B;</span></sup> leukemic cell proliferation (<!--fig4--><a href="#fig4">Figure 4a</a>). Further detailed analysis was undertaken using the HTS-5 cell line, which expressed the highest level of HHIP and HTS-6, which expressed the lowest level of HHIP, among nine human stromal clones (Supplementary Figure 1a). Regarding the phenotype, HTS-5 is composed of osteoblastic stromal cells and HTS-6 is composed of fibroblastic stromal cells as previously reported (Supplementary Figure 1b).<sup><!--bib27--><a href="#bib27">27</a></sup> HTS-5 (HHIP-high) did not support proliferation of SMO<sup><span class="mb">&#x0002B;</span></sup> leukemic cells (<!--fig4--><a href="#fig4">Figure 4b</a>). In contrast, HTS-6 (HHIP-low) readily supported the proliferation of SMO<sup><span class="mb">&#x0002B;</span></sup> leukemic cells (<!--fig4--><a href="#fig4">Figure 4b</a>) although these SMO<sup><span class="mb">&#x0002B;</span></sup> leukemic cells did not proliferate without stromal cells in serum-free medium (<!--fig4--><a href="#fig4">Figure 4b</a>). Regarding SMO<sup>&#x02212;</sup> leukemic cell lines, both K562 and KG-1 readily proliferated on HTS-5 and HTS-6. We then analyzed the potential mechanism of leukemic cell-supporting activity of the two different stromal clones. Annexin V<span class="mb">&#x0002F;</span>PI analysis of leukemic and stromal cell cocultures revealed that HTS-5 cells induced higher apoptosis in SMO<sup><span class="mb">&#x0002B;</span></sup> leukemic cell lines such as HEL and TF-1 than HTS-6, although no major differences were observed for Kasumi-1 and Kasumi-3, suggesting that stromal HHIP correlated with apoptosis in some SMO<sup><span class="mb">&#x0002B;</span></sup> leukemic cell lines (<!--fig4--><a href="#fig4">Figure 4c</a>). Cell cycle analysis of cocultured leukemic cells revealed high levels of cell cycle entry in SMO<sup><span class="mb">&#x0002B;</span></sup> leukemic cells, but not SMO<sup>&#x02212;</sup> cells, in coculture with HTS-6 (HHIP-low) that was significantly higher than with HTS-5 (HHIP-high) (<i>P</i>&#60;0.05), suggesting that HHIP contributed to cell cycle entry suppression in SMO<sup><span class="mb">&#x0002B;</span></sup> leukemic cells (<!--fig4--><a href="#fig4">Figure 4d</a>). We further evaluated the possibility of whether stromal HHIP affected differentiation of SMO<sup><span class="mb">&#x0002B;</span></sup> leukemic cells 4 weeks after coculture with HHIP-high stromal cells (HTS-5) as these SMO<sup><span class="mb">&#x0002B;</span></sup> leukemic cells were reported to possess differentiation potential.<sup><!--bib35--><a href="#bib35">35</a>, <!--bib36--><a href="#bib36">36</a></sup> The expression of lineage makers was not significantly different after coculture (Supplementary Figure 2), suggesting stromal HHIP did not affect differentiation of SMO<sup><span class="mb">&#x0002B;</span></sup> leukemic cell lines. Collectively, these results suggested that stromal HHIP could suppress the proliferation of SMO<sup><span class="mb">&#x0002B;</span></sup> leukemic cells.</p><div class="norm"><!-- . --></div><div id="fig4" class="figure-table"><h5 class="norm"><a href="/bcj/journal/v2/n9/fig_tab/bcj201236f4.html#figure-title">Figure 4.</a></h5><a href="/bcj/journal/v2/n9/fig_tab/bcj201236f4.html#figure-title"><img alt="Figure 4 - Unfortunately we are unable to provide accessible alternative text for this. If you require assistance to access this image, please contact help@nature.com or the author" class="thumb" src="/bcj/journal/v2/n9/thumbs/bcj201236f4th.jpg"/></a><p>The supporting activity of BM-derived stromal clones on leukemic cells in aserum-free medium. (<b>a</b>) The correlation between the cell number of cocultured leukemic cell lines and the expression level of stromal HHIP in HTS clones. A significant reverse correlation was observed in four SMO<sup><span class="mb">&#x0002B;</span></sup> leukemic cell lines, but not in SMO<sup>&#x02212;</sup> leukemic cells lines such as KG-1 and K562. (<b>b</b>) The growth of SMO<sup><span class="mb">&#x0002B;</span></sup> leukemia cell lines in coculture with stroma free (st (&#x02212;)), HTS-5 (HHIP highest) or HTS-6 (HHIP lowest) stromal layer for 4 weeks. Twenty thousand leukemic cells were added to serum-free culture medium. For TF-1 culturing, 10<span class="mb"><span class="mb">&thinsp;</span></span>ng<span class="mb">&#x0002F;</span>ml of SCF was added every week. <i>Y</i> axis indicates the absolute number of cells from each culture system. <span class="mb">&#x0002A;</span><i>P</i>&#60;0.05, HTS-5 vs HTS-6. (<b>c</b>) The difference between the percentage of apoptotic cells on coculture with HTS-5 and HTS-6 by Annexin V<span class="mb">&#x0002F;</span>PI assay. <i>X</i> axis indicates Annexin V-FITC-positive cells and <i>Y</i> axis indicates PI-positive cells. &#x02018;Control&#x02019; indicates controls of unlabeled Kasumi-1 cells and single color controls of PI and Annexin V-FITC. HTS-5: left panel; HTS-6: right panel. Data shown are from one representative experiment of three showing similar results. (<b>d</b>) Cell cycle analysis of leukemic cells by PI staining. Four SMO<sup><span class="mb">&#x0002B;</span></sup> leukemic cell lines and two SMO<sup>&#x02212;</sup> leukemic cell lines (K562 and KG-1) were cocultured with HTS-5 or HTS-6 for 1 week and cell cycle entry of leukemic cells was analyzed. Data shown are from one representative experiment of three showing similar results.</p><a class="full" href="/bcj/journal/v2/n9/fig_tab/bcj201236f4.html#figure-title">Full figure and legend (230<abbr title="Kilobyte">K</abbr>)</a><div class="cleardiv"><!-- clearing div --></div></div><br class="clear"/><h4 class="norm">shRNA-mediated inhibition of the <i>HHIP</i> gene on the leukemic cell-supporting activity of stromal cells</h4><p class="follows-h4">To confirm that stromal HHIP is critical for the leukemic cell-supporting activity of BM stromal cells, we analyzed the effect of shRNA-mediated inhibition of stromal HHIP before coculture. HHIP shRNA expression vector or control vector (shRNA empty pRS vector) were transduced into HTS-5 and the following HHIP shRNA-transfected or control vector-transfected cell lines were established: TI 65-HTS-5, TI 66-HTS-5, TI 68-HTS-5 and Cont-HTS-5. Although HHIP expression levels were significantly decreased in all three HHIP shRNA-transduced stromal cell lines, the strongest reduction was observed in TI 66-HTS-5 (<!--fig5--><a href="#fig5">Figure 5a</a>). Subsequently, we conducted the coculture experiment in serum-free medium over 4 weeks using SMO<sup><span class="mb">&#x0002B;</span></sup> leukemic cell lines, Kasumi-1, Kasumi-3, HEL and TF-1 and evaluated the number of proliferative cells above the stromal layer. SMO<sup><span class="mb">&#x0002B;</span></sup> leukemic cells did not proliferate in serum-free medium without stromal cells present, and only modestly in the presence of control vector-transfected Cont-HTS-5 cells (<!--fig5--><a href="#fig5">Figure 5b</a>). In contrast, SMO<sup><span class="mb">&#x0002B;</span></sup> leukemic cells proliferated significantly when cocultured with HHIP shRNA-transduced stromal cells. This indicated that stromal HHIP is an important suppressor of leukemic cell proliferation and that reduced levels of HHIP in human stromal cells may allow the uncontrolled proliferation of SMO<sup><span class="mb">&#x0002B;</span></sup> leukemic cells.</p><div class="norm"><!-- . --></div><div id="fig5" class="figure-table"><h5 class="norm"><a href="/bcj/journal/v2/n9/fig_tab/bcj201236f5.html#figure-title">Figure 5.</a></h5><a href="/bcj/journal/v2/n9/fig_tab/bcj201236f5.html#figure-title"><img alt="Figure 5 - Unfortunately we are unable to provide accessible alternative text for this. If you require assistance to access this image, please contact help@nature.com or the author" class="thumb" src="/bcj/journal/v2/n9/thumbs/bcj201236f5th.jpg"/></a><p>The effect of HHIP knockdown on the leukemia-supporting activity of stromal cells. (<b>a</b>) HHIP shRNA expression vectors or control vector (shRNA empty pRS vector) were transduced into HTS-5. The expression of HHIP in Cont-HTS-5 (Control), TI 65-HTS-5 (TI 65), TI 66-HTS-5 (TI 66) or TI 68-HTS-5 (TI 68) was analyzed by real-time PCR. (<b>b</b>) The growth of SMO<sup><span class="mb">&#x0002B;</span></sup> leukemic cell lines, Kasumi-1, Kasumi-3, HEL and TF-1 in coculture with control, TI 65, TI 66 or TI 68 stromal cells in a serum-free medium. The absolute number of cells was counted after 4 weeks coculture. The initial number of cells was 2 &#x000D7; 10<sup>4</sup>. Data shown are from one representative experiment of three showing similar results. <span class="mb">&#x0002A;</span><i>P</i>&#60;0.01, control vs TI 65, TI 66, or TI 68.</p><a class="full" href="/bcj/journal/v2/n9/fig_tab/bcj201236f5.html#figure-title">Full figure and legend (70<abbr title="Kilobyte">K</abbr>)</a><div class="cleardiv"><!-- clearing div --></div></div><br class="clear"/><h4 class="norm">Promoter methylation of HHIP-low expressing stromal cells and the effect of demethylating regent</h4><p class="follows-h4">In the present study, a reduction in stromal HHIP expression was associated with the acquisition of leukemic cell-supporting activity in stromal cells. However, the mechanism of HHIP reduction is not clear. We investigated the methylation status of the HHIP promoter region, as a CpG island was previously described in the HHIP promoter.<sup><!--bib25--><a href="#bib25">25</a></sup> In addition, we investigated the effect of a demethylating regent, 5-aza-dC, on stromal supporting activity. For this experiment, HHIP-low HTS-6, <span class="mb">&#x003B1;</span>-SMA<sup><span class="mb">&#x0002B;</span></sup> primary AML stromal cell 1 (AML st-1) and <span class="mb">&#x003B1;</span>-SMA<sup><span class="mb">&#x0002B;</span></sup><span class="mb">&#x0002F;</span>ALP<sup><span class="mb">&#x0002B;</span></sup> MDS st-9 were used (<!--fig6--><a href="#fig6">Figure 6a</a>), because these two primary AML<span class="mb">&#x0002F;</span>MDS-derived stromal cells could be readily propagated. First, we assessed the expression of HHIP mRNA in BM stromal cells by real-time RT-PCR before or after 5-aza-dC treatment. An increase in HHIP mRNA expression in all stromal cells was observed following 5-aza-dC treatment (<!--fig6--><a href="#fig6">Figures 6a and i</a>). Methylation of the promoter region of the <i>HHIP</i> gene in these three stromal cell lines was detected by the bisulphite modification of genomic DNA and MSP analysis before 5-aza-dC treatment. <i>HHIP</i> gene expression was restored following 5-aza-dC treatment (<!--fig6--><a href="#fig6">Figures 6a and ii</a>). Methylation of the HHIP promoter was observed in other HHIP-reduced stromal cells, including telomerized stromal clones and other AML<span class="mb">&#x0002F;</span>MDS-derived stromal cells (Supplementary Figure 3). Quantitative analysis of HHIP and major hematopoietic growth factors by real-time PCR demonstrated no significant changes in expression levels of SCF, TPO and FL (<!--fig6--><a href="#fig6">Figure 6b</a>), consistent with previous reports showing that promoter methylation of CpG islands were not observed in mesenchymal stromal cells.<sup><!--bib37--><a href="#bib37">37</a></sup> In addition, the expression of other cytokines including IL-6, Angiopoietin-1, Ihh and Wnt5A were unchanged in stromal cells after 5-aza-dC treatment (data not shown). These results suggested that the promoter methylation of HHIP partly contributed to the HHIP reduction observed in BM stromal cells without a change in the expression of cytokines involved in stem<span class="mb">&#x0002F;</span>progenitor cell support.</p><div class="norm"><!-- . --></div><div id="fig6" class="figure-table"><h5 class="norm"><a href="/bcj/journal/v2/n9/fig_tab/bcj201236f6.html#figure-title">Figure 6.</a></h5><a href="/bcj/journal/v2/n9/fig_tab/bcj201236f6.html#figure-title"><img alt="Figure 6 - Unfortunately we are unable to provide accessible alternative text for this. If you require assistance to access this image, please contact help@nature.com or the author" class="thumb" src="/bcj/journal/v2/n9/thumbs/bcj201236f6th.jpg"/></a><p>Methylation of HHIP promoter of HHIP-reduced stromal cells. (<b>a</b>) Reactivation of HHIP expression by 5-aza-dC treatment in HTS-6, primary AML st-1 or MDS st-9. HTS-5 was used as a negative control. (i) The restoration of HHIP expression was analyzed by real-time RT-PCR. Open bars represent HHIP mRNA expression in non-treated stromal cells and closed bars represent 5-aza-dC-treated stromal cells. <span class="mb">&#x0002A;</span><i>P</i>&#60;0.05, HHIP<span class="mb">&#x0002F;</span>GAPDH mRNA levels in non-treated cells vs that in 5-aza-dC-treated cells. (ii) Upper panel indicates methylation in the promoter region of the <i>HHIP</i> gene in stromal cell lines with or without 5-aza-dC treatment by MSP analysis. Lower panel indicates MSP analysis of HHIP promoter lesion in control methylated DNA and bisulfite treated DNA provided by Methylamp Universal Methylated DNA kit. Maker indicates 100<span class="mb"><span class="mb">&thinsp;</span></span>bp DNA ladder. Data shown are from one representative experiment of two showing similar results. &#x02018;M&#x02019; represents methylated cytosine and &#x02018;U&#x02019; represents non-methylated cytosine that was converted to uracil after bisulfite treatment. (<b>b</b>) The changes in expression levels of SCF, TPO and FL after 5-aza-dC treatment were examined by real-time PCR. The expression levels of GAPDH mRNA were used as a standard. Open bars represent mRNA expression in non-treated stromal cells and closed bars represent that in 5-aza-dC-treated stromal cells.</p><a class="full" href="/bcj/journal/v2/n9/fig_tab/bcj201236f6.html#figure-title">Full figure and legend (95<abbr title="Kilobyte">K</abbr>)</a><div class="cleardiv"><!-- clearing div --></div></div><br class="clear"/><h4 class="norm">Reduction of leukemic cell-supporting activity of primary leukemia-associated stromal cells after HHIP reactivation</h4><p class="follows-h4">We examined whether leukemic cell-supporting activity could be reduced by reactivation of HHIP in HHIP-low expressing stromal cells. HHIP-low-expressing stromal cells, HTS-6, primary AML st-1 and MDS st-9 were used. These stromal cells were treated twice with 2<span class="mb"><span class="mb">&thinsp;</span></span>&#x003BC;M 5-aza-dC on day &#x02212;3 and &#x02212;6 before coculture with leukemic cells. We also conducted shRNA-mediated inhibition of HHIP mRNA levels in pre-5-aza-dC-treated HTS-6 cells. Real-time PCR and immunoblot analysis revealed that HHIP expression was increased in HTS-6 after pretreatment with 5-aza-dC, whereas the elevation of HHIP mRNA was reduced in HHIP shRNA-transduced HTS-6 (<!--fig7--><a href="#fig7">Figure 7a</a>). Subsequently, we examined the proliferation of leukemic cells after 4 weeks coculture with 5-aza-dC pretreated HTS-6 and 5-aza-dC pretreated HHIP shRNA-transduced HTS-6 in serum-free medium. The growth of SMO<sup><span class="mb">&#x0002B;</span></sup> leukemic cell lines was significantly reduced when cocultured with 5-aza-dC pretreated HTS-6, and this effect was negated by HHIP shRNA transfer into HTS-6 (<!--fig7--><a href="#fig7">Figure 7b</a>).</p><div id="fig7" class="figure-table"><h5 class="norm"><a href="/bcj/journal/v2/n9/fig_tab/bcj201236f7.html#figure-title">Figure 7.</a></h5><a href="/bcj/journal/v2/n9/fig_tab/bcj201236f7.html#figure-title"><img alt="Figure 7 - Unfortunately we are unable to provide accessible alternative text for this. If you require assistance to access this image, please contact help@nature.com or the author" class="thumb" src="/bcj/journal/v2/n9/thumbs/bcj201236f7th.jpg"/></a><p>The leukemia-supporting activity in HHIP-low stromal clones (HTS-6) and primary AML<span class="mb">&#x0002F;</span>MDS-derived stromal cells after modulation of stromal HHIP expression. (<b>a</b>) HHIP shRNA expression retrovirus vector was transduced into HTS-6, establishing TI66-HTS-6. HTS-6 and TI66-HTS-6 were exposed to 5-aza-dC and washed with PBS before use. The expression of HHIP in HTS-6, 5-aza-dC pretreated HTS-6 and TI66-HTS-6 was confirmed by (i) real-time PCR and (ii) immunoblot analysis. (<b>b</b>) SMO<sup><span class="mb">&#x0002B;</span></sup> leukemic cell lines, Kasumi-1, Kasumi-3, HEL and TF-1 were cocultured with HTS-6 or 5-aza-dC-pretreated HTS-6 and HHIP knockdown TI66-HTS-6 in serum-free medium for 4 weeks. <span class="mb">&#x0002A;</span><i>P</i>&#60;0.05, HTS-6 vs 5-aza-dC pretreated HTS-6. <sup><span class="mb">&#x02020;</span></sup><i>P</i>&#60;0.05, 5-aza-dC pretreated HTS-6 vs 5-aza-dC-pretreated TI66-HTS-6. &#x02018;Pre-5-aza-dC&#x02019; indicates coculture with 5-aza-dC-pretreated stromal cells, &#x02018;HHIP shRNA (<span class="mb">&#x0002B;</span>)&#x02019; indicates coculture with TI 66-HTS-6 and &#x02018;HHIP shRNA (&#x02212;)&#x02019; indicates coculture with mock-transfected Cont-HTS-6. (<b>c</b>) The replating capacity of CD34<sup><span class="mb">&#x0002B;</span></sup> fraction of primary leukemic cells cocultured with AML<span class="mb">&#x0002F;</span>MDS-derived stromal cells was analyzed. The primary CD34<sup><span class="mb">&#x0002B;</span></sup> leukemic cells derived from patient ID no. 1, 3 and 6 was cocultured with (i) primary AML st-1 and 5-aza-dC pretreated AML st-1 cells or (ii) primary MDS st-9 and 5-aza-dC-pretreated MDS st-9 cells with transduction of control or HHIP shRNA expression vector. Four weeks after coculture, 2 &#x000D7; 10<sup>4</sup> leukemic cells cocultured on a stromal layer were placed into methylcellulose. <i>Y</i> axis indicates the number of colonies per 2 &#x000D7; 10<sup>4</sup> cells. <span class="mb">&#x0002A;</span><i>P</i>&#60;0.05, primary AML<span class="mb">&#x0002F;</span>MDS-derived stromal cells vs 5-aza-dC pretreated stromal cells (Student&#x02019;s <i>t</i>-test, two-tailed). <sup><span class="mb">&#x02020;</span></sup><i>P</i>&#60;0.05, 5-aza-dC-pretreated AML<span class="mb">&#x0002F;</span>MDS-derived stromal cells vs 5-aza-dC-pretreated AML<span class="mb">&#x0002F;</span>MDS-derived stromal cells with HHIP shRNA transduction. Data shown are from three independent experiments, each done in triplicate. Results are expressed as means&#x000B1;s.d.</p><a class="full" href="/bcj/journal/v2/n9/fig_tab/bcj201236f7.html#figure-title">Full figure and legend (123<abbr title="Kilobyte">K</abbr>)</a><div class="cleardiv"><!-- clearing div --></div></div><br class="clear"/><p class="norm">We next examined whether these effects could be observed using coculture between primary AML<span class="mb">&#x0002F;</span>MDS-derived stromal cells and primary CD34<sup><span class="mb">&#x0002B;</span></sup> leukemic cells. The replating capacity of the primary CD34<sup><span class="mb">&#x0002B;</span></sup> leukemic cells was significantly reduced following coculture with 5-aza-dC-pretreated AML st-1 or MDS st-9, compared with non-treated stromal cells. Remarkably, this reduction of replating capacity by 5-aza-dC pretreatment was partially but significantly restored following transduction with an HHIP shRNA expression vector (<!--fig7--><a href="#fig7">Figure 7c</a>). These results indicated that 5-aza-dC pretreatment restored HHIP expression and concomitantly reduced leukemic cell-supporting activity in primary AML<span class="mb">&#x0002F;</span>MDS-derived stromal cells. Moreover, this effect was significantly negated by HHIP shRNA transfer. Thus, HHIP expression in primary stromal cells could be highly associated with leukemic cell-supporting activity.</p></div><div id="Discussion"><a class="backtotop" href="#top">Top<span class="hidden"> of page</span></a><h3>Discussion</h3><p class="norm">In the present study, we demonstrated that stromal HHIP expression could suppress leukemic cell proliferation. HHIP expression in AML<span class="mb">&#x0002F;</span>MDS-derived BM stromal cells was significantly reduced, and these low HHIP-expressing stromal cells readily supported the proliferation of leukemic cells. Moreover, 5-aza-dC pretreatment partially restored HHIP expression and leukemic cell proliferation on coculture was concomitantly reduced, indicating that aberrant reduction of HHIP expression is associated with the leukemic cell-supporting activity of BM stromal cells.</p><p class="norm">It was previously suggested that genetic abnormalities are necessary for the development of MDS and AML, and genetic aberrations, such as single base changes, deletions, insertions and genomic rearrangements, could be detected in early events during AML<span class="mb">&#x0002F;</span>MDS development.<sup><!--bib38--><a href="#bib38">38</a></sup> However, it remains unclear how genetic aberrations could be induced in BM. Mice with conditional knockout of Dicer1 or Sbds in BM stromal cells developed dysplastic changes in hematopoietic cells, subsequent genetic mutations, and eventually leukemic transformation.<sup><!--bib7--><a href="#bib7">7</a>, <!--bib8--><a href="#bib8">8</a></sup> This suggests that stromal dysfunction may be an early event in the development of AML<span class="mb">&#x0002F;</span>MDS. Consistent with these findings, the reduction of stromal HHIP expression was observed in AML samples and MDS samples. Thus, reduction may be an early event in AML<span class="mb">&#x0002F;</span>MDS patients.</p><p class="norm">The precise molecular mechanism of how stromal HHIP reduction could contribute to the proliferation of leukemic cells remains unclear. In this regard, we and others have demonstrated that Hh ligands, including Ihh and sonic Hh, are highly expressed in CD34<sup><span class="mb">&#x0002B;</span></sup> stem<span class="mb">&#x0002F;</span>progenitor cells.<sup><!--bib9--><a href="#bib9">9</a>, <!--bib11--><a href="#bib11">11</a></sup> Moreover, Hh stimulates the cell cycle of hematopoietic stem<span class="mb">&#x0002F;</span>progenitor cells and erythroid progenitor cells in an autocrine or paracrine manner.<sup><!--bib21--><a href="#bib21">21</a>, <!--bib39--><a href="#bib39">39</a>, <!--bib40--><a href="#bib40">40</a>, <!--bib41--><a href="#bib41">41</a></sup> However, it is unclear how Hh signaling is self-limiting in BM microenvironment.<sup><!--bib15--><a href="#bib15">15</a>, <!--bib16--><a href="#bib16">16</a></sup> In the present study, we found that HHIP is highly expressed in primary stromal cells, but not in primary PB, BM or CB CD34<sup><span class="mb">&#x0002B;</span></sup> hematopoietic cells (<!--fig1--><a href="#fig1">Figure 1d</a>), suggesting that stromal HHIP is part of an inhibitory system of Hh signaling (<!--fig1--><a href="#fig1">Figures 1a and b</a>). Hh signaling has no significant effects on adult hematopoietic stem cell function <i>in vivo</i>.<sup><!--bib12--><a href="#bib12">12</a>, <!--bib42--><a href="#bib42">42</a></sup> Whether the Hh pathway has an important role in malignant hematopoiesis is controversial.<sup><!--bib43--><a href="#bib43">43</a></sup> The expansion of Bcr-Abl-positive leukemic stem cells was dependent on Hh pathway activation<sup><!--bib13--><a href="#bib13">13</a>, <!--bib14--><a href="#bib14">14</a></sup> although Hh signaling is not required for the development of MLL-AF9-mediated AML.<sup><!--bib44--><a href="#bib44">44</a></sup> Collectively, the high level of stromal HHIP expression in BM could suppress the proliferation of Hh signaling-dependent leukemic cells.</p><p class="norm">Understanding the mechanisms of reduced stromal HHIP in leukemia is a critical step towards future therapies. In this regard, we focused on the marked reduction of HHIP expression in several human stromal cell clones and AML<span class="mb">&#x0002F;</span>MDS-associated stromal cells (<!--fig1--><a href="#fig1">Figure 1a</a>, Supplementary Figure 1a and <!--fig3--><a href="#fig3">Figure 3c</a>). Analysis of the methylation status of the HHIP promoter region determined that the HHIP promoter was methylated in HHIP-low stromal cells (<!--fig6--><a href="#fig6">Figure 6a</a> and Supplementary Figure 3). These results were consistent with previous reports demonstrating that a 5&#x02032; CpG island existed in the HHIP promoter lesion, and that methylation of the HHIP promoter is detected in some types of tumors.<sup><!--bib25--><a href="#bib25">25</a>, <!--bib45--><a href="#bib45">45</a></sup> Although the demethylating agent 5-aza-dC has begun to be used in the treatment of AML<span class="mb">&#x0002F;</span>MDS and genes involved in the regulation of DNA methylation (<i>DNMT3A</i>, <i>IDH1<span class="mb">&#x0002F;</span>IDH2</i> and <i>TET2</i>) are found to be mutated in MDS,<sup><!--bib46--><a href="#bib46">46</a></sup> the precise molecular mechanism how 5-aza-dC mediates its effects is still unclear especially regarding BM microenvironment.<sup><!--bib47--><a href="#bib47">47</a>, <!--bib48--><a href="#bib48">48</a></sup> Hence, we tested the effects of 5-aza-dC on the leukemic cell-supporting activity of primary AML<span class="mb">&#x0002F;</span>MDS-derived cells. Remarkably, HHIP expression in stromal cells was restored following 5-aza-dC treatment and their leukemic cell-supporting activity was concomitantly reduced and associated with demethylation of the HHIP promoter (<!--fig6--><a href="#fig6">Figure 6a</a> and <!--fig7--><a href="#fig7">Figure 7c</a>). Although several transcription factors and adhesion molecules could be associated with the efficacy of 5-aza-dC in the treatment of AML<span class="mb">&#x0002F;</span>MDS,<sup><!--bib49--><a href="#bib49">49</a>, <!--bib50--><a href="#bib50">50</a></sup> stromal HHIP may be an important target for 5-aza-dC. Genome-wide analysis, transcriptomes analysis or non coding RNA analysis of AML<span class="mb">&#x0002F;</span>MDS-derived stromal cells are required to fully elucidate the mechanisms in future studies.</p><p class="norm">In conclusion, stromal HHIP expression was reduced in AML<span class="mb">&#x0002F;</span>MDS-derived stromal cells. The reduction of stromal HHIP expression may correlate with the proliferation of leukemic cells. Thus, aberrant stromal HHIP reduction could contribute to the progression of AML<span class="mb">&#x0002F;</span>MDS.</p></div>
+				<span class="cleardiv"><!-- --></span>
+				<div id="conflict-of-interest"><a class="backtotop" href="#top">Top<span class="hidden"> of page</span></a><h3>Conflict of interest</h3><p class="norm">The authors declare no conflict of interest.</p></div><div id="References"><a class="backtotop" href="#top">Top<span class="hidden"> of page</span></a><h3>References</h3>
+	<ol class="norm"><li id="bib1"><a name="bib1"><!-- . --></a>Deguchi K, Gilliland DG. Cooperativity between mutations in tyrosine kinases and in hematopoietic transcription factors in AML. <span class="journal">Leukemia</span> 2002; <span class="jnumber">16</span>: 740&#x02013;744.&nbsp;|&nbsp;<a href="http://www.nature.com/doifinder/10.1038/sj.leu.2402500" class="reftxt" title="Article on Article - ">Article</a>&nbsp;|&nbsp;<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?holding=npg&amp;amp;cmd=Retrieve&amp;amp;db=PubMed&amp;amp;list_uids=11960359&amp;amp;dopt=Abstract" class="reftxt" title="Article on PubMed - ">PubMed</a>&nbsp;|&nbsp;<a href="http://links.isiglobalnet2.com/gateway/Gateway.cgi?&amp;amp;GWVersion=2&amp;amp;SrcAuth=Nature&amp;amp;SrcApp=Nature&amp;amp;DestLinkType=FullRecord&amp;amp;KeyUT=000175193000041&amp;amp;DestApp=WOS_CPL" class="reftxt" title="Article on ISI - ">ISI</a>&nbsp;|&nbsp;<a href="http://chemport.cas.org/cgi-bin/sdcgi?APP=ftslink&amp;action=reflink&amp;origin=npg&amp;version=1.0&amp;coi=1:CAS:528:DC%2BD38XjvFGms7o%3D&amp;pissn={printIssn}&amp;pyear=2012&amp;md5=db8a77a2ed132f18003868d017807167" class="reftxt" title="Article on CAS - ">CAS</a>&nbsp;|</li><li id="bib2"><a name="bib2"><!-- . --></a>Yoshida K, Sanada M, Shiraishi Y, Nowak D, Nagata Y, Yamamoto R <i>et al</i>. Frequent pathway mutations of splicing machinery in myelodysplasia. <span class="journal">Nature</span> 2011; <span class="jnumber">478</span>: 64&#x02013;69.&nbsp;|&nbsp;<a href="http://www.nature.com/doifinder/10.1038/nature10496" class="reftxt" title="Article on Article - ">Article</a>&nbsp;|&nbsp;<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?holding=npg&amp;amp;cmd=Retrieve&amp;amp;db=PubMed&amp;amp;list_uids=21909114&amp;amp;dopt=Abstract" class="reftxt" title="Article on PubMed - ">PubMed</a>&nbsp;|&nbsp;<a href="http://links.isiglobalnet2.com/gateway/Gateway.cgi?&amp;amp;GWVersion=2&amp;amp;SrcAuth=Nature&amp;amp;SrcApp=Nature&amp;amp;DestLinkType=FullRecord&amp;amp;KeyUT=000295575400035&amp;amp;DestApp=WOS_CPL" class="reftxt" title="Article on ISI - ">ISI</a>&nbsp;|&nbsp;<a href="http://chemport.cas.org/cgi-bin/sdcgi?APP=ftslink&amp;action=reflink&amp;origin=npg&amp;version=1.0&amp;coi=1:CAS:528:DC%2BC3MXhtFGnur3M&amp;pissn={printIssn}&amp;pyear=2012&amp;md5=392712cbf142e237492f3538daccabf3" class="reftxt" title="Article on CAS - ">CAS</a>&nbsp;|</li><li id="bib3"><a name="bib3"><!-- . --></a>Papaemmanuil E, Cazzola M, Boultwood J, Malcovati L, Vyas P, Bowen D <i>et al</i>. Somatic SF3B1 mutation in myelodysplasia with ring sideroblasts. <span class="journal">N Engl J Med</span> 2011; <span class="jnumber">365</span>: 1384&#x02013;1395.&nbsp;|&nbsp;<a href="http://dx.doi.org/10.1056/NEJMoa1103283" class="reftxt" title="">Article</a>&nbsp;|&nbsp;<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?holding=npg&amp;amp;cmd=Retrieve&amp;amp;db=PubMed&amp;amp;list_uids=21995386&amp;amp;dopt=Abstract" class="reftxt" title="Article on PubMed - ">PubMed</a>&nbsp;|&nbsp;<a href="http://links.isiglobalnet2.com/gateway/Gateway.cgi?&amp;amp;GWVersion=2&amp;amp;SrcAuth=Nature&amp;amp;SrcApp=Nature&amp;amp;DestLinkType=FullRecord&amp;amp;KeyUT=000295782500006&amp;amp;DestApp=WOS_CPL" class="reftxt" title="Article on ISI - ">ISI</a>&nbsp;|&nbsp;<a href="http://chemport.cas.org/cgi-bin/sdcgi?APP=ftslink&amp;action=reflink&amp;origin=npg&amp;version=1.0&amp;coi=1:CAS:528:DC%2BC3MXhtlals7jN&amp;pissn={printIssn}&amp;pyear=2012&amp;md5=32288438986912fc978d65e5925f0416" class="reftxt" title="Article on CAS - ">CAS</a>&nbsp;|</li><li id="bib4"><a name="bib4"><!-- . --></a>Wang L, Gural A, Sun XJ, Zhao X, Perna F, Huang G <i>et al</i>. The leukemogenicity of AML1-ETO is dependent on site-specific lysine acetylation. <span class="journal">Science</span> 2011; <span class="jnumber">333</span>: 765&#x02013;769.&nbsp;|&nbsp;<a href="http://dx.doi.org/10.1126/science.1201662" class="reftxt" title="">Article</a>&nbsp;|&nbsp;<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?holding=npg&amp;amp;cmd=Retrieve&amp;amp;db=PubMed&amp;amp;list_uids=21764752&amp;amp;dopt=Abstract" class="reftxt" title="Article on PubMed - ">PubMed</a>&nbsp;|&nbsp;<a href="http://links.isiglobalnet2.com/gateway/Gateway.cgi?&amp;amp;GWVersion=2&amp;amp;SrcAuth=Nature&amp;amp;SrcApp=Nature&amp;amp;DestLinkType=FullRecord&amp;amp;KeyUT=000293512100046&amp;amp;DestApp=WOS_CPL" class="reftxt" title="Article on ISI - ">ISI</a>&nbsp;|&nbsp;<a href="http://chemport.cas.org/cgi-bin/sdcgi?APP=ftslink&amp;action=reflink&amp;origin=npg&amp;version=1.0&amp;coi=1:CAS:528:DC%2BC3MXps1SgtLc%3D&amp;pissn={printIssn}&amp;pyear=2012&amp;md5=f0b9fa8d761eb84ff916cfddd370b69e" class="reftxt" title="Article on CAS - ">CAS</a>&nbsp;|</li><li id="bib5"><a name="bib5"><!-- . --></a>Blau O, Baldus CD, Hofmann WK, Thiel G, Nolte F, Burmeister T <i>et al</i>. Mesenchymal stromal cells of myelodysplastic syndrome and acute myeloid leukemia patients have distinct genetic abnormalities compared with leukemic blasts. <span class="journal">Blood</span> 2011; <span class="jnumber">118</span>: 5583&#x02013;5592.&nbsp;|&nbsp;<a href="http://dx.doi.org/10.1182/blood-2011-03-343467" class="reftxt" title="">Article</a>&nbsp;|&nbsp;<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?holding=npg&amp;amp;cmd=Retrieve&amp;amp;db=PubMed&amp;amp;list_uids=21948175&amp;amp;dopt=Abstract" class="reftxt" title="Article on PubMed - ">PubMed</a>&nbsp;|</li><li id="bib6"><a name="bib6"><!-- . --></a>Santamaria C, Muntion S, Roson B, Blanco B, Lopez-Villar O, Carrancio S <i>et al</i>. Impaired expression of DICER, DROSHA, SBDS and some microRNAs in mesenchymal stromal cells from myelodysplastic syndromes patients. <span class="journal">Haematologica</span> 2012; <span class="jnumber">97</span>: 1218&#x02013;1224.</li><li id="bib7"><a name="bib7"><!-- . --></a>Raaijmakers MH, Mukherjee S, Guo S, Zhang S, Kobayashi T, Schoonmaker JA <i>et al</i>. Bone progenitor dysfunction induces myelodysplasia and secondary leukaemia. <span class="journal">Nature</span> 2011; <span class="jnumber">464</span>: 852&#x02013;857.</li><li id="bib8"><a name="bib8"><!-- . --></a>Schmidt T, Kharabi Masouleh B, Loges S, Cauwenberghs S, Fraisl P, Maes C <i>et al</i>. Loss or Inhibition of Stromal-Derived PlGF Prolongs Survival of Mice with Imatinib-Resistant Bcr-Abl1(<span class="mb">&#x0002B;</span>) Leukemia. <span class="journal">Cancer Cell</span> 2011; <span class="jnumber">19</span>: 740&#x02013;753.&nbsp;|&nbsp;<a href="http://dx.doi.org/10.1016/j.ccr.2011.05.007" class="reftxt" title="">Article</a>&nbsp;|&nbsp;<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?holding=npg&amp;amp;cmd=Retrieve&amp;amp;db=PubMed&amp;amp;list_uids=21665148&amp;amp;dopt=Abstract" class="reftxt" title="Article on PubMed - ">PubMed</a>&nbsp;|</li><li id="bib9"><a name="bib9"><!-- . --></a>Bhardwaj G, Murdoch B, Wu D, Baker DP, Williams KP, Chadwick K <i>et al</i>. Sonic hedgehog induces the proliferation of primitive human hematopoietic cells via BMP regulation. <span class="journal">Nat Immunol</span> 2001; <span class="jnumber">2</span>: 172&#x02013;180.&nbsp;|&nbsp;<a href="http://www.nature.com/doifinder/10.1038/84282" class="reftxt" title="Article on Article - ">Article</a>&nbsp;|&nbsp;<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?holding=npg&amp;amp;cmd=Retrieve&amp;amp;db=PubMed&amp;amp;list_uids=11175816&amp;amp;dopt=Abstract" class="reftxt" title="Article on PubMed - ">PubMed</a>&nbsp;|&nbsp;<a href="http://links.isiglobalnet2.com/gateway/Gateway.cgi?&amp;amp;GWVersion=2&amp;amp;SrcAuth=Nature&amp;amp;SrcApp=Nature&amp;amp;DestLinkType=FullRecord&amp;amp;KeyUT=000166778700018&amp;amp;DestApp=WOS_CPL" class="reftxt" title="Article on ISI - ">ISI</a>&nbsp;|&nbsp;<a href="http://chemport.cas.org/cgi-bin/sdcgi?APP=ftslink&amp;action=reflink&amp;origin=npg&amp;version=1.0&amp;coi=1:CAS:528:DC%2BD3MXhtVOlsbo%3D&amp;pissn={printIssn}&amp;pyear=2012&amp;md5=4e009fd6f096aa3c82d4f6eb5374050d" class="reftxt" title="Article on CAS - ">CAS</a>&nbsp;|</li><li id="bib10"><a name="bib10"><!-- . --></a>Kobune M, Kato J, Kawano Y, Sasaki K, Uchida H, Takada K <i>et al</i>. Adenoviral vector-mediated transfer of the Indian hedgehog gene modulates lymphomyelopoiesis <i>in vivo</i>. <span class="journal">Stem Cells</span> 2008; <span class="jnumber">26</span>: 534&#x02013;542.&nbsp;|&nbsp;<a href="http://dx.doi.org/10.1634/stemcells.2007-0741" class="reftxt" title="">Article</a>&nbsp;|&nbsp;<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?holding=npg&amp;amp;cmd=Retrieve&amp;amp;db=PubMed&amp;amp;list_uids=17962696&amp;amp;dopt=Abstract" class="reftxt" title="Article on PubMed - ">PubMed</a>&nbsp;|&nbsp;<a href="http://chemport.cas.org/cgi-bin/sdcgi?APP=ftslink&amp;action=reflink&amp;origin=npg&amp;version=1.0&amp;coi=1:CAS:528:DC%2BD1cXjt1Wls7o%3D&amp;pissn={printIssn}&amp;pyear=2012&amp;md5=cb6da3255b6f499cb8f245230d5c9c6b" class="reftxt" title="Article on CAS - ">CAS</a>&nbsp;|</li><li id="bib11"><a name="bib11"><!-- . --></a>Kobune M, Ito Y, Kawano Y, Sasaki K, Uchida H, Nakamura K <i>et al</i>. Indian hedgehog gene transfer augments hematopoietic support of human stromal cells including NOD<span class="mb">&#x0002F;</span>SCID-beta2m-<span class="mb">&#x0002F;</span>- repopulating cells. <span class="journal">Blood</span> 2004; <span class="jnumber">104</span>: 1002&#x02013;1009.&nbsp;|&nbsp;<a href="http://dx.doi.org/10.1182/blood-2003-09-3347" class="reftxt" title="">Article</a>&nbsp;|&nbsp;<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?holding=npg&amp;amp;cmd=Retrieve&amp;amp;db=PubMed&amp;amp;list_uids=15105288&amp;amp;dopt=Abstract" class="reftxt" title="Article on PubMed - ">PubMed</a>&nbsp;|&nbsp;<a href="http://links.isiglobalnet2.com/gateway/Gateway.cgi?&amp;amp;GWVersion=2&amp;amp;SrcAuth=Nature&amp;amp;SrcApp=Nature&amp;amp;DestLinkType=FullRecord&amp;amp;KeyUT=000223145800022&amp;amp;DestApp=WOS_CPL" class="reftxt" title="Article on ISI - ">ISI</a>&nbsp;|&nbsp;<a href="http://chemport.cas.org/cgi-bin/sdcgi?APP=ftslink&amp;action=reflink&amp;origin=npg&amp;version=1.0&amp;coi=1:CAS:528:DC%2BD2cXmslKgs70%3D&amp;pissn={printIssn}&amp;pyear=2012&amp;md5=9cf37b233311df8d12539ac49c4a8058" class="reftxt" title="Article on CAS - ">CAS</a>&nbsp;|</li><li id="bib12"><a name="bib12"><!-- . --></a>Gao J, Graves S, Koch U, Liu S, Jankovic V, Buonamici S <i>et al</i>. Hedgehog signaling is dispensable for adult hematopoietic stem cell function. <span class="journal">Cell Stem Cell</span> 2009; <span class="jnumber">4</span>: 548&#x02013;558.&nbsp;|&nbsp;<a href="http://dx.doi.org/10.1016/j.stem.2009.03.015" class="reftxt" title="">Article</a>&nbsp;|&nbsp;<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?holding=npg&amp;amp;cmd=Retrieve&amp;amp;db=PubMed&amp;amp;list_uids=19497283&amp;amp;dopt=Abstract" class="reftxt" title="Article on PubMed - ">PubMed</a>&nbsp;|&nbsp;<a href="http://links.isiglobalnet2.com/gateway/Gateway.cgi?&amp;amp;GWVersion=2&amp;amp;SrcAuth=Nature&amp;amp;SrcApp=Nature&amp;amp;DestLinkType=FullRecord&amp;amp;KeyUT=000266793600017&amp;amp;DestApp=WOS_CPL" class="reftxt" title="Article on ISI - ">ISI</a>&nbsp;|&nbsp;<a href="http://chemport.cas.org/cgi-bin/sdcgi?APP=ftslink&amp;action=reflink&amp;origin=npg&amp;version=1.0&amp;coi=1:CAS:528:DC%2BD1MXnt1Ggtbw%3D&amp;pissn={printIssn}&amp;pyear=2012&amp;md5=a6f97db9269cabeb1f06514864835b40" class="reftxt" title="Article on CAS - ">CAS</a>&nbsp;|</li><li id="bib13"><a name="bib13"><!-- . --></a>Dierks C, Beigi R, Guo GR, Zirlik K, Stegert MR, Manley P <i>et al</i>. Expansion of Bcr-Abl-positive leukemic stem cells is dependent on Hedgehog pathway activation. <span class="journal">Cancer Cell</span> 2008; <span class="jnumber">14</span>: 238&#x02013;249.&nbsp;|&nbsp;<a href="http://dx.doi.org/10.1016/j.ccr.2008.08.003" class="reftxt" title="">Article</a>&nbsp;|&nbsp;<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?holding=npg&amp;amp;cmd=Retrieve&amp;amp;db=PubMed&amp;amp;list_uids=18772113&amp;amp;dopt=Abstract" class="reftxt" title="Article on PubMed - ">PubMed</a>&nbsp;|&nbsp;<a href="http://links.isiglobalnet2.com/gateway/Gateway.cgi?&amp;amp;GWVersion=2&amp;amp;SrcAuth=Nature&amp;amp;SrcApp=Nature&amp;amp;DestLinkType=FullRecord&amp;amp;KeyUT=000259313600007&amp;amp;DestApp=WOS_CPL" class="reftxt" title="Article on ISI - ">ISI</a>&nbsp;|&nbsp;<a href="http://chemport.cas.org/cgi-bin/sdcgi?APP=ftslink&amp;action=reflink&amp;origin=npg&amp;version=1.0&amp;coi=1:CAS:528:DC%2BD1cXhtFKnu73J&amp;pissn={printIssn}&amp;pyear=2012&amp;md5=8488a24a1c2878a3bb139da24b6bfd87" class="reftxt" title="Article on CAS - ">CAS</a>&nbsp;|</li><li id="bib14"><a name="bib14"><!-- . --></a>Zhao C, Chen A, Jamieson CH, Fereshteh M, Abrahamsson A, Blum J <i>et al</i>. Hedgehog signalling is essential for maintenance of cancer stem cells in myeloid leukaemia. <span class="journal">Nature</span> 2009; <span class="jnumber">458</span>: 776&#x02013;779.&nbsp;|&nbsp;<a href="http://www.nature.com/doifinder/10.1038/nature07737" class="reftxt" title="Article on Article - ">Article</a>&nbsp;|&nbsp;<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?holding=npg&amp;amp;cmd=Retrieve&amp;amp;db=PubMed&amp;amp;list_uids=19169242&amp;amp;dopt=Abstract" class="reftxt" title="Article on PubMed - ">PubMed</a>&nbsp;|&nbsp;<a href="http://links.isiglobalnet2.com/gateway/Gateway.cgi?&amp;amp;GWVersion=2&amp;amp;SrcAuth=Nature&amp;amp;SrcApp=Nature&amp;amp;DestLinkType=FullRecord&amp;amp;KeyUT=000265193600044&amp;amp;DestApp=WOS_CPL" class="reftxt" title="Article on ISI - ">ISI</a>&nbsp;|&nbsp;<a href="http://chemport.cas.org/cgi-bin/sdcgi?APP=ftslink&amp;action=reflink&amp;origin=npg&amp;version=1.0&amp;coi=1:CAS:528:DC%2BD1MXht1egsrY%3D&amp;pissn={printIssn}&amp;pyear=2012&amp;md5=a2c04f5c0693f796c5d38efd3960a404" class="reftxt" title="Article on CAS - ">CAS</a>&nbsp;|</li><li id="bib15"><a name="bib15"><!-- . --></a>Gal H, Amariglio N, Trakhtenbrot L, Jacob-Hirsh J, Margalit O, Avigdor A <i>et al</i>. Gene expression profiles of AML derived stem cells; similarity to hematopoietic stem cells. <span class="journal">Leukemia</span> 2006; <span class="jnumber">20</span>: 2147&#x02013;2154.&nbsp;|&nbsp;<a href="http://www.nature.com/doifinder/10.1038/sj.leu.2404401" class="reftxt" title="Article on Article - ">Article</a>&nbsp;|&nbsp;<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?holding=npg&amp;amp;cmd=Retrieve&amp;amp;db=PubMed&amp;amp;list_uids=17039238&amp;amp;dopt=Abstract" class="reftxt" title="Article on PubMed - ">PubMed</a>&nbsp;|&nbsp;<a href="http://links.isiglobalnet2.com/gateway/Gateway.cgi?&amp;amp;GWVersion=2&amp;amp;SrcAuth=Nature&amp;amp;SrcApp=Nature&amp;amp;DestLinkType=FullRecord&amp;amp;KeyUT=000242245200009&amp;amp;DestApp=WOS_CPL" class="reftxt" title="Article on ISI - ">ISI</a>&nbsp;|&nbsp;<a href="http://chemport.cas.org/cgi-bin/sdcgi?APP=ftslink&amp;action=reflink&amp;origin=npg&amp;version=1.0&amp;coi=1:CAS:528:DC%2BD28Xht1akurrO&amp;pissn={printIssn}&amp;pyear=2012&amp;md5=c0ae735e1a9baf72bae589a3213bf1ed" class="reftxt" title="Article on CAS - ">CAS</a>&nbsp;|</li><li id="bib16"><a name="bib16"><!-- . --></a>Essers MA, Trumpp A. Targeting leukemic stem cells by breaking their dormancy. <span class="journal">Mol Oncol</span> 2010; <span class="jnumber">4</span>: 443&#x02013;450.&nbsp;|&nbsp;<a href="http://dx.doi.org/10.1016/j.molonc.2010.06.001" class="reftxt" title="">Article</a>&nbsp;|&nbsp;<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?holding=npg&amp;amp;cmd=Retrieve&amp;amp;db=PubMed&amp;amp;list_uids=20599449&amp;amp;dopt=Abstract" class="reftxt" title="Article on PubMed - ">PubMed</a>&nbsp;|</li><li id="bib17"><a name="bib17"><!-- . --></a>Lee CJ, Dosch J, Simeone DM. Pancreatic cancer stem cells. <span class="journal">J Clin Oncol</span> 2008; <span class="jnumber">26</span>: 2806&#x02013;2812.&nbsp;|&nbsp;<a href="http://dx.doi.org/10.1200/JCO.2008.16.6702" class="reftxt" title="">Article</a>&nbsp;|&nbsp;<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?holding=npg&amp;amp;cmd=Retrieve&amp;amp;db=PubMed&amp;amp;list_uids=18539958&amp;amp;dopt=Abstract" class="reftxt" title="Article on PubMed - ">PubMed</a>&nbsp;|</li><li id="bib18"><a name="bib18"><!-- . --></a>Clement V, Sanchez P, de Tribolet N, Radovanovic I, Ruiz i Altaba A. HEDGEHOG-GLI1 signaling regulates human glioma growth, cancer stem cell self-renewal, and tumorigenicity. <span class="journal">Curr Biol</span> 2007; <span class="jnumber">17</span>: 165&#x02013;172.&nbsp;|&nbsp;<a href="http://dx.doi.org/10.1016/j.cub.2006.11.033" class="reftxt" title="">Article</a>&nbsp;|&nbsp;<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?holding=npg&amp;amp;cmd=Retrieve&amp;amp;db=PubMed&amp;amp;list_uids=17196391&amp;amp;dopt=Abstract" class="reftxt" title="Article on PubMed - ">PubMed</a>&nbsp;|&nbsp;<a href="http://links.isiglobalnet2.com/gateway/Gateway.cgi?&amp;amp;GWVersion=2&amp;amp;SrcAuth=Nature&amp;amp;SrcApp=Nature&amp;amp;DestLinkType=FullRecord&amp;amp;KeyUT=000243811200026&amp;amp;DestApp=WOS_CPL" class="reftxt" title="Article on ISI - ">ISI</a>&nbsp;|&nbsp;<a href="http://chemport.cas.org/cgi-bin/sdcgi?APP=ftslink&amp;action=reflink&amp;origin=npg&amp;version=1.0&amp;coi=1:CAS:528:DC%2BD2sXnslOmuw%3D%3D&amp;pissn={printIssn}&amp;pyear=2012&amp;md5=2b25a636d4cbec5db2b4316f731c1c04" class="reftxt" title="Article on CAS - ">CAS</a>&nbsp;|</li><li id="bib19"><a name="bib19"><!-- . --></a>Berman DM, Karhadkar SS, Hallahan AR, Pritchard JI, Eberhart CG, Watkins DN <i>et al</i>. Medulloblastoma growth inhibition by hedgehog pathway blockade. <span class="journal">Science</span> 2002; <span class="jnumber">297</span>: 1559&#x02013;1561.&nbsp;|&nbsp;<a href="http://dx.doi.org/10.1126/science.1073733" class="reftxt" title="">Article</a>&nbsp;|&nbsp;<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?holding=npg&amp;amp;cmd=Retrieve&amp;amp;db=PubMed&amp;amp;list_uids=12202832&amp;amp;dopt=Abstract" class="reftxt" title="Article on PubMed - ">PubMed</a>&nbsp;|&nbsp;<a href="http://links.isiglobalnet2.com/gateway/Gateway.cgi?&amp;amp;GWVersion=2&amp;amp;SrcAuth=Nature&amp;amp;SrcApp=Nature&amp;amp;DestLinkType=FullRecord&amp;amp;KeyUT=000177697300059&amp;amp;DestApp=WOS_CPL" class="reftxt" title="Article on ISI - ">ISI</a>&nbsp;|&nbsp;<a href="http://chemport.cas.org/cgi-bin/sdcgi?APP=ftslink&amp;action=reflink&amp;origin=npg&amp;version=1.0&amp;coi=1:CAS:528:DC%2BD38XmslSjtLc%3D&amp;pissn={printIssn}&amp;pyear=2012&amp;md5=bc4d2c19af82af68a6b2521a6d1d567f" class="reftxt" title="Article on CAS - ">CAS</a>&nbsp;|</li><li id="bib20"><a name="bib20"><!-- . --></a>Lin TL, Wang QH, Brown P, Peacock C, Merchant AA, Brennan S <i>et al</i>. Self-renewal of acute lymphocytic leukemia cells is limited by the Hedgehog pathway inhibitors cyclopamine and IPI-926. <span class="journal">PLoS One</span> 2010; <span class="jnumber">5</span>: e15262.&nbsp;|&nbsp;<a href="http://dx.doi.org/10.1371/journal.pone.0015262" class="reftxt" title="">Article</a>&nbsp;|&nbsp;<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?holding=npg&amp;amp;cmd=Retrieve&amp;amp;db=PubMed&amp;amp;list_uids=21203400&amp;amp;dopt=Abstract" class="reftxt" title="Article on PubMed - ">PubMed</a>&nbsp;|</li><li id="bib21"><a name="bib21"><!-- . --></a>Kobune M, Takimoto R, Murase K, Iyama S, Sato T, Kikuchi S <i>et al</i>. Drug resistance is dramatically restored by hedgehog inhibitors in CD34<span class="mb">&#x0002B;</span> leukemic cells. <span class="journal">Cancer Sci</span> 2009; <span class="jnumber">100</span>: 948&#x02013;955.&nbsp;|&nbsp;<a href="http://dx.doi.org/10.1111/j.1349-7006.2009.01111.x" class="reftxt" title="">Article</a>&nbsp;|&nbsp;<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?holding=npg&amp;amp;cmd=Retrieve&amp;amp;db=PubMed&amp;amp;list_uids=19245435&amp;amp;dopt=Abstract" class="reftxt" title="Article on PubMed - ">PubMed</a>&nbsp;|&nbsp;<a href="http://chemport.cas.org/cgi-bin/sdcgi?APP=ftslink&amp;action=reflink&amp;origin=npg&amp;version=1.0&amp;coi=1:CAS:528:DC%2BD1MXls1Srurs%3D&amp;pissn={printIssn}&amp;pyear=2012&amp;md5=36c4a491510cf989b67ce99479ae7668" class="reftxt" title="Article on CAS - ">CAS</a>&nbsp;|</li><li id="bib22"><a name="bib22"><!-- . --></a>Chuang PT, McMahon AP. Vertebrate Hedgehog signalling modulated by induction of a Hedgehog-binding protein. <span class="journal">Nature</span> 1999; <span class="jnumber">397</span>: 617&#x02013;621.&nbsp;|&nbsp;<a href="http://www.nature.com/doifinder/10.1038/17611" class="reftxt" title="Article on Article - ">Article</a>&nbsp;|&nbsp;<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?holding=npg&amp;amp;cmd=Retrieve&amp;amp;db=PubMed&amp;amp;list_uids=10050855&amp;amp;dopt=Abstract" class="reftxt" title="Article on PubMed - ">PubMed</a>&nbsp;|&nbsp;<a href="http://links.isiglobalnet2.com/gateway/Gateway.cgi?&amp;amp;GWVersion=2&amp;amp;SrcAuth=Nature&amp;amp;SrcApp=Nature&amp;amp;DestLinkType=FullRecord&amp;amp;KeyUT=000078738500050&amp;amp;DestApp=WOS_CPL" class="reftxt" title="Article on ISI - ">ISI</a>&nbsp;|&nbsp;<a href="http://chemport.cas.org/cgi-bin/sdcgi?APP=ftslink&amp;action=reflink&amp;origin=npg&amp;version=1.0&amp;coi=1:CAS:528:DyaK1MXhtlyitLg%3D&amp;pissn={printIssn}&amp;pyear=2012&amp;md5=340feebfa83042516cfb4b513ea3ece9" class="reftxt" title="Article on CAS - ">CAS</a>&nbsp;|</li><li id="bib23"><a name="bib23"><!-- . --></a>Bosanac I, Maun HR, Scales SJ, Wen X, Lingel A, Bazan JF <i>et al</i>. The structure of SHH in complex with HHIP reveals a recognition role for the Shh pseudo active site in signaling. <span class="journal">Nat Struct Mol Biol</span> 2009; <span class="jnumber">16</span>: 691&#x02013;697.&nbsp;|&nbsp;<a href="http://www.nature.com/doifinder/10.1038/nsmb.1632" class="reftxt" title="Article on Article - ">Article</a>&nbsp;|</li><li id="bib24"><a name="bib24"><!-- . --></a>Martin ST, Sato N, Dhara S, Chang R, Hustinx SR, Abe T <i>et al</i>. Aberrant methylation of the Human Hedgehog interacting protein (HHIP) gene in pancreatic neoplasms. <span class="journal">Cancer Biol Ther</span> 2005; <span class="jnumber">4</span>: 728&#x02013;733.</li><li id="bib25"><a name="bib25"><!-- . --></a>Taniguchi H, Yamamoto H, Akutsu N, Nosho K, Adachi Y, Imai K <i>et al</i>. Transcriptional silencing of hedgehog-interacting protein by CpG hypermethylation and chromatic structure in human gastrointestinal cancer. <span class="journal">J Pathol</span> 2007; <span class="jnumber">213</span>: 131&#x02013;139.&nbsp;|&nbsp;<a href="http://dx.doi.org/10.1002/path.2216" class="reftxt" title="">Article</a>&nbsp;|&nbsp;<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?holding=npg&amp;amp;cmd=Retrieve&amp;amp;db=PubMed&amp;amp;list_uids=17724792&amp;amp;dopt=Abstract" class="reftxt" title="Article on PubMed - ">PubMed</a>&nbsp;|&nbsp;<a href="http://links.isiglobalnet2.com/gateway/Gateway.cgi?&amp;amp;GWVersion=2&amp;amp;SrcAuth=Nature&amp;amp;SrcApp=Nature&amp;amp;DestLinkType=FullRecord&amp;amp;KeyUT=000250239100002&amp;amp;DestApp=WOS_CPL" class="reftxt" title="Article on ISI - ">ISI</a>&nbsp;|&nbsp;<a href="http://chemport.cas.org/cgi-bin/sdcgi?APP=ftslink&amp;action=reflink&amp;origin=npg&amp;version=1.0&amp;coi=1:CAS:528:DC%2BD2sXhtlWjsL3L&amp;pissn={printIssn}&amp;pyear=2012&amp;md5=2dc22067bc34a67bb63462657160fd35" class="reftxt" title="Article on CAS - ">CAS</a>&nbsp;|</li><li id="bib26"><a name="bib26"><!-- . --></a>Kawano Y, Kobune M, Yamaguchi M, Nakamura K, Ito Y, Sasaki K <i>et al</i>. <i>Ex vivo</i> expansion of human umbilical cord hematopoietic progenitor cells using a coculture system with human telomerase catalytic subunit (hTERT)-transfected human stromal cells. <span class="journal">Blood</span> 2003; <span class="jnumber">101</span>: 532&#x02013;540.&nbsp;|&nbsp;<a href="http://dx.doi.org/10.1182/blood-2002-04-1268" class="reftxt" title="">Article</a>&nbsp;|&nbsp;<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?holding=npg&amp;amp;cmd=Retrieve&amp;amp;db=PubMed&amp;amp;list_uids=12393449&amp;amp;dopt=Abstract" class="reftxt" title="Article on PubMed - ">PubMed</a>&nbsp;|&nbsp;<a href="http://links.isiglobalnet2.com/gateway/Gateway.cgi?&amp;amp;GWVersion=2&amp;amp;SrcAuth=Nature&amp;amp;SrcApp=Nature&amp;amp;DestLinkType=FullRecord&amp;amp;KeyUT=000180384800025&amp;amp;DestApp=WOS_CPL" class="reftxt" title="Article on ISI - ">ISI</a>&nbsp;|&nbsp;<a href="http://chemport.cas.org/cgi-bin/sdcgi?APP=ftslink&amp;action=reflink&amp;origin=npg&amp;version=1.0&amp;coi=1:CAS:528:DC%2BD3sXkvVWrsw%3D%3D&amp;pissn={printIssn}&amp;pyear=2012&amp;md5=2ac08a9a3a0df35bf670e7ae14503f26" class="reftxt" title="Article on CAS - ">CAS</a>&nbsp;|</li><li id="bib27"><a name="bib27"><!-- . --></a>Kobune M, Kato J, Chiba H, Kawano Y, Tanaka M, Takimoto R <i>et al</i>. Telomerized human bone marrow-derived cell clones maintain the phenotype of hematopoietic-supporting osteoblastic and myofibroblastic stromal cells after long-term culture. <span class="journal">Exp Hematol</span> 2005; <span class="jnumber">33</span>: 1544&#x02013;1553.</li><li id="bib28"><a name="bib28"><!-- . --></a>Kobune M, Kawano Y, Takahashi S, Takada K, Murase K, Iyama S <i>et al</i>. Interaction with human stromal cells enhances CXCR4 expression and engraftment of cord blood Lin(-)CD34(-) cells. <span class="journal">Exp Hematol</span> 2008; <span class="jnumber">36</span>: 1121&#x02013;1131.&nbsp;|&nbsp;<a href="http://dx.doi.org/10.1016/j.exphem.2008.04.007" class="reftxt" title="">Article</a>&nbsp;|&nbsp;<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?holding=npg&amp;amp;cmd=Retrieve&amp;amp;db=PubMed&amp;amp;list_uids=18562079&amp;amp;dopt=Abstract" class="reftxt" title="Article on PubMed - ">PubMed</a>&nbsp;|&nbsp;<a href="http://chemport.cas.org/cgi-bin/sdcgi?APP=ftslink&amp;action=reflink&amp;origin=npg&amp;version=1.0&amp;coi=1:CAS:528:DC%2BD1cXhtVens7%2FF&amp;pissn={printIssn}&amp;pyear=2012&amp;md5=e96dc4a8fd9cf6a6f8e1b621bbb0e3b7" class="reftxt" title="Article on CAS - ">CAS</a>&nbsp;|</li><li id="bib29"><a name="bib29"><!-- . --></a>Gan OI, Murdoch B, Larochelle A, Dick JE. Differential maintenance of primitive human SCID-repopulating cells, clonogenic progenitors, and long-term culture-initiating cells after incubation on human bone marrow stromal cells. <span class="journal">Blood</span> 1997; <span class="jnumber">90</span>: 641&#x02013;650.&nbsp;|&nbsp;<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?holding=npg&amp;amp;cmd=Retrieve&amp;amp;db=PubMed&amp;amp;list_uids=9226164&amp;amp;dopt=Abstract" class="reftxt" title="Article on PubMed - ">PubMed</a>&nbsp;|&nbsp;<a href="http://chemport.cas.org/cgi-bin/sdcgi?APP=ftslink&amp;action=reflink&amp;origin=npg&amp;version=1.0&amp;coi=1:CAS:528:DyaK2sXksF2jtrw%3D&amp;pissn={printIssn}&amp;pyear=2012&amp;md5=245e9cbe439338049e0410277f4697c5" class="reftxt" title="Article on CAS - ">CAS</a>&nbsp;|</li><li id="bib30"><a name="bib30"><!-- . --></a>Cammenga J, Niebuhr B, Horn S, Bergholz U, Putz G, Buchholz F <i>et al</i>. RUNX1 DNA-binding mutants, associated with minimally differentiated acute myelogenous leukemia, disrupt myeloid differentiation. <span class="journal">Cancer Res</span> 2007; <span class="jnumber">67</span>: 537&#x02013;545.&nbsp;|&nbsp;<a href="http://dx.doi.org/10.1158/0008-5472.CAN-06-1903" class="reftxt" title="">Article</a>&nbsp;|&nbsp;<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?holding=npg&amp;amp;cmd=Retrieve&amp;amp;db=PubMed&amp;amp;list_uids=17234761&amp;amp;dopt=Abstract" class="reftxt" title="Article on PubMed - ">PubMed</a>&nbsp;|&nbsp;<a href="http://chemport.cas.org/cgi-bin/sdcgi?APP=ftslink&amp;action=reflink&amp;origin=npg&amp;version=1.0&amp;coi=1:CAS:528:DC%2BD2sXmtVKltQ%3D%3D&amp;pissn={printIssn}&amp;pyear=2012&amp;md5=4a6fbd0bcce7edc171ddbb80a21332ce" class="reftxt" title="Article on CAS - ">CAS</a>&nbsp;|</li><li id="bib31"><a name="bib31"><!-- . --></a>Roman-Gomez J, Castillejo JA, Jimenez A, Cervantes F, Boque C, Hermosin L <i>et al</i>. Cadherin-13, a mediator of calcium-dependent cell-cell adhesion, is silenced by methylation in chronic myeloid leukemia and correlates with pretreatment risk profile and cytogenetic response to interferon alfa. <span class="journal">J Clin Oncol</span> 2003; <span class="jnumber">21</span>: 1472&#x02013;1479.&nbsp;|&nbsp;<a href="http://dx.doi.org/10.1200/JCO.2003.08.166" class="reftxt" title="">Article</a>&nbsp;|&nbsp;<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?holding=npg&amp;amp;cmd=Retrieve&amp;amp;db=PubMed&amp;amp;list_uids=12697869&amp;amp;dopt=Abstract" class="reftxt" title="Article on PubMed - ">PubMed</a>&nbsp;|&nbsp;<a href="http://links.isiglobalnet2.com/gateway/Gateway.cgi?&amp;amp;GWVersion=2&amp;amp;SrcAuth=Nature&amp;amp;SrcApp=Nature&amp;amp;DestLinkType=FullRecord&amp;amp;KeyUT=000182300200009&amp;amp;DestApp=WOS_CPL" class="reftxt" title="Article on ISI - ">ISI</a>&nbsp;|</li><li id="bib32"><a name="bib32"><!-- . --></a>Kobune M, Chiba H, Kato J, Kato K, Nakamura K, Kawano Y <i>et al</i>. Wnt3<span class="mb">&#x0002F;</span>RhoA<span class="mb">&#x0002F;</span>ROCK signaling pathway is involved in adhesion-mediated drug resistance of multiple myeloma in an autocrine mechanism. <span class="journal">Mol Cancer Ther</span> 2007; <span class="jnumber">6</span>: 1774&#x02013;1784.&nbsp;|&nbsp;<a href="http://dx.doi.org/10.1158/1535-7163.MCT-06-0684" class="reftxt" title="">Article</a>&nbsp;|&nbsp;<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?holding=npg&amp;amp;cmd=Retrieve&amp;amp;db=PubMed&amp;amp;list_uids=17575106&amp;amp;dopt=Abstract" class="reftxt" title="Article on PubMed - ">PubMed</a>&nbsp;|&nbsp;<a href="http://chemport.cas.org/cgi-bin/sdcgi?APP=ftslink&amp;action=reflink&amp;origin=npg&amp;version=1.0&amp;coi=1:CAS:528:DC%2BD2sXmsFCru7s%3D&amp;pissn={printIssn}&amp;pyear=2012&amp;md5=bd688b328fe68cb5c0d5e6706ade1030" class="reftxt" title="Article on CAS - ">CAS</a>&nbsp;|</li><li id="bib33"><a name="bib33"><!-- . --></a>Cameron EE, Bachman KE, Myohanen S, Herman JG, Baylin SB. Synergy of demethylation and histone deacetylase inhibition in the re-expression of genes silenced in cancer. <span class="journal">Nat Genet</span> 1999; <span class="jnumber">21</span>: 103&#x02013;107.&nbsp;|&nbsp;<a href="http://www.nature.com/doifinder/10.1038/5047" class="reftxt" title="Article on Article - ">Article</a>&nbsp;|&nbsp;<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?holding=npg&amp;amp;cmd=Retrieve&amp;amp;db=PubMed&amp;amp;list_uids=9916800&amp;amp;dopt=Abstract" class="reftxt" title="Article on PubMed - ">PubMed</a>&nbsp;|&nbsp;<a href="http://links.isiglobalnet2.com/gateway/Gateway.cgi?&amp;amp;GWVersion=2&amp;amp;SrcAuth=Nature&amp;amp;SrcApp=Nature&amp;amp;DestLinkType=FullRecord&amp;amp;KeyUT=000077960700018&amp;amp;DestApp=WOS_CPL" class="reftxt" title="Article on ISI - ">ISI</a>&nbsp;|&nbsp;<a href="http://chemport.cas.org/cgi-bin/sdcgi?APP=ftslink&amp;action=reflink&amp;origin=npg&amp;version=1.0&amp;coi=1:CAS:528:DyaK1MXltlWjtA%3D%3D&amp;pissn={printIssn}&amp;pyear=2012&amp;md5=5e89f064d85d9590fbf70dbffaec17e0" class="reftxt" title="Article on CAS - ">CAS</a>&nbsp;|</li><li id="bib34"><a name="bib34"><!-- . --></a>Tormin A, Li O, Brune JC, Walsh S, Schutz B, Ehinger M <i>et al</i>. CD146 expression on primary nonhematopoietic bone marrow stem cells is correlated with <i>in situ</i> localization. <span class="journal">Blood</span> 2011; <span class="jnumber">117</span>: 5067&#x02013;5077.&nbsp;|&nbsp;<a href="http://dx.doi.org/10.1182/blood-2010-08-304287" class="reftxt" title="">Article</a>&nbsp;|&nbsp;<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?holding=npg&amp;amp;cmd=Retrieve&amp;amp;db=PubMed&amp;amp;list_uids=21415267&amp;amp;dopt=Abstract" class="reftxt" title="Article on PubMed - ">PubMed</a>&nbsp;|</li><li id="bib35"><a name="bib35"><!-- . --></a>Kitamura T, Tange T, Terasawa T, Chiba S, Kuwaki T, Miyagawa K <i>et al</i>. Establishment and characterization of a unique human cell line that proliferates dependently on GM-CSF, IL-3, or erythropoietin. <span class="journal">J Cell Physiol</span> 1989; <span class="jnumber">140</span>: 323&#x02013;334.&nbsp;|&nbsp;<a href="http://dx.doi.org/10.1002/jcp.1041400219" class="reftxt" title="">Article</a>&nbsp;|&nbsp;<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?holding=npg&amp;amp;cmd=Retrieve&amp;amp;db=PubMed&amp;amp;list_uids=2663885&amp;amp;dopt=Abstract" class="reftxt" title="Article on PubMed - ">PubMed</a>&nbsp;|&nbsp;<a href="http://links.isiglobalnet2.com/gateway/Gateway.cgi?&amp;amp;GWVersion=2&amp;amp;SrcAuth=Nature&amp;amp;SrcApp=Nature&amp;amp;DestLinkType=FullRecord&amp;amp;KeyUT=A1989AF94700018&amp;amp;DestApp=WOS_CPL" class="reftxt" title="Article on ISI - ">ISI</a>&nbsp;|&nbsp;<a href="http://chemport.cas.org/cgi-bin/sdcgi?APP=ftslink&amp;action=reflink&amp;origin=npg&amp;version=1.0&amp;coi=1:CAS:528:DyaL1MXltFentrk%3D&amp;pissn={printIssn}&amp;pyear=2012&amp;md5=cb59e6470d1bdf7a16a1cad534798002" class="reftxt" title="Article on CAS - ">CAS</a>&nbsp;|</li><li id="bib36"><a name="bib36"><!-- . --></a>Asou H, Tashiro S, Hamamoto K, Otsuji A, Kita K, Kamada N. Establishment of a human acute myeloid leukemia cell line (Kasumi-1) with 8;21 chromosome translocation. <span class="journal">Blood</span> 1991; <span class="jnumber">77</span>: 2031&#x02013;2036.&nbsp;|&nbsp;<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?holding=npg&amp;amp;cmd=Retrieve&amp;amp;db=PubMed&amp;amp;list_uids=2018839&amp;amp;dopt=Abstract" class="reftxt" title="Article on PubMed - ">PubMed</a>&nbsp;|&nbsp;<a href="http://links.isiglobalnet2.com/gateway/Gateway.cgi?&amp;amp;GWVersion=2&amp;amp;SrcAuth=Nature&amp;amp;SrcApp=Nature&amp;amp;DestLinkType=FullRecord&amp;amp;KeyUT=A1991FJ95700026&amp;amp;DestApp=WOS_CPL" class="reftxt" title="Article on ISI - ">ISI</a>&nbsp;|&nbsp;<a href="http://chemport.cas.org/cgi-bin/sdcgi?APP=ftslink&amp;action=reflink&amp;origin=npg&amp;version=1.0&amp;coi=1:STN:280:By6B3cfkt1Q%3D&amp;pissn={printIssn}&amp;pyear=2012&amp;md5=99af88f796421afd97ba41a153ffc655" class="reftxt" title="Article on CAS - ">CAS</a>&nbsp;|</li><li id="bib37"><a name="bib37"><!-- . --></a>Koch CM, Suschek CV, Lin Q, Bork S, Goergens M, Joussen S <i>et al</i>. Specific age-associated DNA methylation changes in human dermal fibroblasts. <span class="journal">PLoS One</span> 2011; <span class="jnumber">6</span>: e16679.</li><li id="bib38"><a name="bib38"><!-- . --></a>Bergsagel PL, Kuehl WM. Comprehensive Identification of Somatic Mutations in Chronic Lymphocytic Leukemia. <span class="journal">Cancer Cell</span> 2011; <span class="jnumber">20</span>: 5&#x02013;7.</li><li id="bib39"><a name="bib39"><!-- . --></a>Dierks C, Grbic J, Zirlik K, Beigi R, Englund NP, Guo GR <i>et al</i>. Essential role of stromally induced hedgehog signaling in B-cell malignancies. <span class="journal">Nat Med</span> 2007; <span class="jnumber">13</span>: 944&#x02013;951.&nbsp;|&nbsp;<a href="http://www.nature.com/doifinder/10.1038/nm1614" class="reftxt" title="Article on Article - ">Article</a>&nbsp;|&nbsp;<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?holding=npg&amp;amp;cmd=Retrieve&amp;amp;db=PubMed&amp;amp;list_uids=17632527&amp;amp;dopt=Abstract" class="reftxt" title="Article on PubMed - ">PubMed</a>&nbsp;|&nbsp;<a href="http://links.isiglobalnet2.com/gateway/Gateway.cgi?&amp;amp;GWVersion=2&amp;amp;SrcAuth=Nature&amp;amp;SrcApp=Nature&amp;amp;DestLinkType=FullRecord&amp;amp;KeyUT=000248674600025&amp;amp;DestApp=WOS_CPL" class="reftxt" title="Article on ISI - ">ISI</a>&nbsp;|&nbsp;<a href="http://chemport.cas.org/cgi-bin/sdcgi?APP=ftslink&amp;action=reflink&amp;origin=npg&amp;version=1.0&amp;coi=1:CAS:528:DC%2BD2sXos1Cjsb0%3D&amp;pissn={printIssn}&amp;pyear=2012&amp;md5=58fe5f537fc4b21a1c5458e497bb01cb" class="reftxt" title="Article on CAS - ">CAS</a>&nbsp;|</li><li id="bib40"><a name="bib40"><!-- . --></a>Peacock CD, Wang Q, Gesell GS, Corcoran-Schwartz IM, Jones E, Kim J <i>et al</i>. Hedgehog signaling maintains a tumor stem cell compartment in multiple myeloma. <span class="journal">Proc Natl Acad Sci USA</span> 2007; <span class="jnumber">104</span>: 4048&#x02013;4053.&nbsp;|&nbsp;<a href="http://dx.doi.org/10.1073/pnas.0611682104" class="reftxt" title="">Article</a>&nbsp;|&nbsp;<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?holding=npg&amp;amp;cmd=Retrieve&amp;amp;db=PubMed&amp;amp;list_uids=17360475&amp;amp;dopt=Abstract" class="reftxt" title="Article on PubMed - ">PubMed</a>&nbsp;|&nbsp;<a href="http://chemport.cas.org/cgi-bin/sdcgi?APP=ftslink&amp;action=reflink&amp;origin=npg&amp;version=1.0&amp;coi=1:CAS:528:DC%2BD2sXjt12gsbs%3D&amp;pissn={printIssn}&amp;pyear=2012&amp;md5=3bb122ad734928c584e29911ccbd8429" class="reftxt" title="Article on CAS - ">CAS</a>&nbsp;|</li><li id="bib41"><a name="bib41"><!-- . --></a>Detmer K, Walker AN, Jenkins TM, Steele TA, Dannawi H. Erythroid differentiation <i>in vitro</i> is blocked by cyclopamine, an inhibitor of hedgehog signaling. <span class="journal">Blood Cells Mol Dis</span> 2000; <span class="jnumber">26</span>: 360&#x02013;372.&nbsp;|&nbsp;<a href="http://dx.doi.org/10.1006/bcmd.2000.0318" class="reftxt" title="">Article</a>&nbsp;|&nbsp;<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?holding=npg&amp;amp;cmd=Retrieve&amp;amp;db=PubMed&amp;amp;list_uids=11042037&amp;amp;dopt=Abstract" class="reftxt" title="Article on PubMed - ">PubMed</a>&nbsp;|&nbsp;<a href="http://links.isiglobalnet2.com/gateway/Gateway.cgi?&amp;amp;GWVersion=2&amp;amp;SrcAuth=Nature&amp;amp;SrcApp=Nature&amp;amp;DestLinkType=FullRecord&amp;amp;KeyUT=000089957500011&amp;amp;DestApp=WOS_CPL" class="reftxt" title="Article on ISI - ">ISI</a>&nbsp;|&nbsp;<a href="http://chemport.cas.org/cgi-bin/sdcgi?APP=ftslink&amp;action=reflink&amp;origin=npg&amp;version=1.0&amp;coi=1:CAS:528:DC%2BD3cXnsVGnt7g%3D&amp;pissn={printIssn}&amp;pyear=2012&amp;md5=0c516234f48d701dd7c2a1764ca6a881" class="reftxt" title="Article on CAS - ">CAS</a>&nbsp;|</li><li id="bib42"><a name="bib42"><!-- . --></a>Von Hoff DD, LoRusso PM, Rudin CM, Reddy JC, Yauch RL, Tibes R <i>et al</i>. Inhibition of the hedgehog pathway in advanced basal-cell carcinoma. <span class="journal">N Engl J Med</span> 2009; <span class="jnumber">361</span>: 1164&#x02013;1172.&nbsp;|&nbsp;<a href="http://dx.doi.org/10.1056/NEJMoa0905360" class="reftxt" title="">Article</a>&nbsp;|&nbsp;<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?holding=npg&amp;amp;cmd=Retrieve&amp;amp;db=PubMed&amp;amp;list_uids=19726763&amp;amp;dopt=Abstract" class="reftxt" title="Article on PubMed - ">PubMed</a>&nbsp;|&nbsp;<a href="http://links.isiglobalnet2.com/gateway/Gateway.cgi?&amp;amp;GWVersion=2&amp;amp;SrcAuth=Nature&amp;amp;SrcApp=Nature&amp;amp;DestLinkType=FullRecord&amp;amp;KeyUT=000269828000007&amp;amp;DestApp=WOS_CPL" class="reftxt" title="Article on ISI - ">ISI</a>&nbsp;|&nbsp;<a href="http://chemport.cas.org/cgi-bin/sdcgi?APP=ftslink&amp;action=reflink&amp;origin=npg&amp;version=1.0&amp;coi=1:CAS:528:DC%2BD1MXhtFOjsLnP&amp;pissn={printIssn}&amp;pyear=2012&amp;md5=a21cd35835a0d15e9c659ad5bf54be4d" class="reftxt" title="Article on CAS - ">CAS</a>&nbsp;|</li><li id="bib43"><a name="bib43"><!-- . --></a>Mar BG, Amakye D, Aifantis I, Buonamici S. The controversial role of the Hedgehog pathway in normal and malignant hematopoiesis. <span class="journal">Leukemia</span> 2011; <span class="jnumber">25</span>: 1665&#x02013;1673.&nbsp;|&nbsp;<a href="http://www.nature.com/doifinder/10.1038/leu.2011.143" class="reftxt" title="Article on Article - ">Article</a>&nbsp;|&nbsp;<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?holding=npg&amp;amp;cmd=Retrieve&amp;amp;db=PubMed&amp;amp;list_uids=21660044&amp;amp;dopt=Abstract" class="reftxt" title="Article on PubMed - ">PubMed</a>&nbsp;|&nbsp;<a href="http://links.isiglobalnet2.com/gateway/Gateway.cgi?&amp;amp;GWVersion=2&amp;amp;SrcAuth=Nature&amp;amp;SrcApp=Nature&amp;amp;DestLinkType=FullRecord&amp;amp;KeyUT=000296922100001&amp;amp;DestApp=WOS_CPL" class="reftxt" title="Article on ISI - ">ISI</a>&nbsp;|</li><li id="bib44"><a name="bib44"><!-- . --></a>Hofmann I, Stover EH, Cullen DE, Mao J, Morgan KJ, Lee BH <i>et al</i>. Hedgehog signaling is dispensable for adult murine hematopoietic stem cell function and hematopoiesis. <span class="journal">Cell Stem Cell</span> 2009; <span class="jnumber">4</span>: 559&#x02013;567.&nbsp;|&nbsp;<a href="http://dx.doi.org/10.1016/j.stem.2009.03.016" class="reftxt" title="">Article</a>&nbsp;|&nbsp;<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?holding=npg&amp;amp;cmd=Retrieve&amp;amp;db=PubMed&amp;amp;list_uids=19497284&amp;amp;dopt=Abstract" class="reftxt" title="Article on PubMed - ">PubMed</a>&nbsp;|&nbsp;<a href="http://links.isiglobalnet2.com/gateway/Gateway.cgi?&amp;amp;GWVersion=2&amp;amp;SrcAuth=Nature&amp;amp;SrcApp=Nature&amp;amp;DestLinkType=FullRecord&amp;amp;KeyUT=000266793600018&amp;amp;DestApp=WOS_CPL" class="reftxt" title="Article on ISI - ">ISI</a>&nbsp;|&nbsp;<a href="http://chemport.cas.org/cgi-bin/sdcgi?APP=ftslink&amp;action=reflink&amp;origin=npg&amp;version=1.0&amp;coi=1:CAS:528:DC%2BD1MXnt1Ggtbo%3D&amp;pissn={printIssn}&amp;pyear=2012&amp;md5=04a28b579f151a55a73aac2ee6e678c5" class="reftxt" title="Article on CAS - ">CAS</a>&nbsp;|</li><li id="bib45"><a name="bib45"><!-- . --></a>Shahi MH, Afzal M, Sinha S, Eberhart CG, Rey JA, Fan X <i>et al</i>. Human hedgehog interacting protein expression and promoter methylation in medulloblastoma cell lines and primary tumor samples. <span class="journal">J Neurooncol</span> 2011; <span class="jnumber">103</span>: 287&#x02013;296.</li><li id="bib46"><a name="bib46"><!-- . --></a>Graubert T, Walter MJ. Genetics of myelodysplastic syndromes: new insights. <span class="journal">Hematology Am Soc Hematol Educ Program</span> 2011; <span class="jnumber">2011</span>: 543&#x02013;549.&nbsp;|&nbsp;<a href="http://dx.doi.org/10.1182/asheducation-2011.1.543" class="reftxt" title="">Article</a>&nbsp;|&nbsp;<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?holding=npg&amp;amp;cmd=Retrieve&amp;amp;db=PubMed&amp;amp;list_uids=22160087&amp;amp;dopt=Abstract" class="reftxt" title="Article on PubMed - ">PubMed</a>&nbsp;|</li><li id="bib47"><a name="bib47"><!-- . --></a>Fabiani E, Leone G, Giachelia M, D&#x02019;Alo F, Greco M, Criscuolo M <i>et al</i>. Analysis of genome-wide methylation and gene expression induced by 5-aza-2&#x02032;-deoxycytidine identifies BCL2L10 as a frequent methylation target in acute myeloid leukemia. <span class="journal">Leuk Lymphoma</span> 2010; <span class="jnumber">51</span>: 2275&#x02013;2284.&nbsp;|&nbsp;<a href="http://dx.doi.org/10.3109/10428194.2010.528093" class="reftxt" title="">Article</a>&nbsp;|&nbsp;<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?holding=npg&amp;amp;cmd=Retrieve&amp;amp;db=PubMed&amp;amp;list_uids=21077739&amp;amp;dopt=Abstract" class="reftxt" title="Article on PubMed - ">PubMed</a>&nbsp;|&nbsp;<a href="http://links.isiglobalnet2.com/gateway/Gateway.cgi?&amp;amp;GWVersion=2&amp;amp;SrcAuth=Nature&amp;amp;SrcApp=Nature&amp;amp;DestLinkType=FullRecord&amp;amp;KeyUT=000285004300020&amp;amp;DestApp=WOS_CPL" class="reftxt" title="Article on ISI - ">ISI</a>&nbsp;|</li><li id="bib48"><a name="bib48"><!-- . --></a>Mori N, Yoshinaga K, Tomita K, Ohwashi M, Kondoh T, Shimura H <i>et al</i>. Aberrant methylation of the RIZ1 gene in myelodysplastic syndrome and acute myeloid leukemia. <span class="journal">Leuk Res</span> 2011; <span class="jnumber">35</span>: 516&#x02013;521.</li><li id="bib49"><a name="bib49"><!-- . --></a>Deneberg S, Guardiola P, Lennartsson A, Qu Y, Gaidzik V, Blanchet O <i>et al</i>. Prognostic DNA methylation patterns in cytogenetically normal acute myeloid leukemia are predefined by stem cell chromatin marks. <span class="journal">Blood</span> 2011; <span class="jnumber">118</span>: 5573&#x02013;5582.</li><li id="bib50"><a name="bib50"><!-- . --></a>Ward PS, Patel J, Wise DR, Abdel-Wahab O, Bennett BD, Coller HA <i>et al</i>. The common feature of leukemia-associated IDH1 and IDH2 mutations is a neomorphic enzyme activity converting alpha-ketoglutarate to 2-hydroxyglutarate. <span class="journal">Cancer Cell</span> 2010; <span class="jnumber">17</span>: 225&#x02013;234.&nbsp;|&nbsp;<a href="http://dx.doi.org/10.1016/j.ccr.2010.01.020" class="reftxt" title="">Article</a>&nbsp;|&nbsp;<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?holding=npg&amp;amp;cmd=Retrieve&amp;amp;db=PubMed&amp;amp;list_uids=20171147&amp;amp;dopt=Abstract" class="reftxt" title="Article on PubMed - ">PubMed</a>&nbsp;|&nbsp;<a href="http://links.isiglobalnet2.com/gateway/Gateway.cgi?&amp;amp;GWVersion=2&amp;amp;SrcAuth=Nature&amp;amp;SrcApp=Nature&amp;amp;DestLinkType=FullRecord&amp;amp;KeyUT=000275804200005&amp;amp;DestApp=WOS_CPL" class="reftxt" title="Article on ISI - ">ISI</a>&nbsp;|&nbsp;<a href="http://chemport.cas.org/cgi-bin/sdcgi?APP=ftslink&amp;action=reflink&amp;origin=npg&amp;version=1.0&amp;coi=1:CAS:528:DC%2BC3cXlsVWqtLg%3D&amp;pissn={printIssn}&amp;pyear=2012&amp;md5=798b0b1555a55762731cba0c213a45e4" class="reftxt" title="Article on CAS - ">CAS</a>&nbsp;|</li></ol></div><div id="ack"><a class="backtotop" href="#top">Top<span class="hidden"> of page</span></a><h3>Acknowledgements</h3><p class="norm">The manuscript has been carefully reviewed by an experienced medical editor in NAI Inc. This work was supported in part by a grant from the Ministry of Health, Labor and Welfare of Japan to MK.</p><p class="norm"><b>Author contributions</b></p><p class="norm">MK designed the experiments and performed flow cytometry and drafted paper; SI, SK, HH, TS performed the experiments, analyzed the data; KM, YK, KT, KO, YK and HT followed patients and obtain informed consent; KM helped statistic analysis of the data; YS and RT helped to analyze the data. JK extensively edited the paper.</p></div><div id="closenote"><p class="norm"><a href="/bcj/journal/v2/n9/suppinfo/bcj201236s1.html">Supplementary Information</a> accompanies the paper on Blood Cancer Journal website </p></div><div id="more">
+	
+	<div id="open-end">
+	<div id="open-left"><a href="http://creativecommons.org/licenses/by-nc-sa/3.0/"><img src="/aj/images/ccl_logo.jpg" style="height:31px; width:88px; border:0;" alt="" /></a></div>
+	<p> This work is licensed under a Creative Commons Attribution-NonCommercial-Share Alike 3.0 Unported License.<br />	To view a copy of this license, visit <a href="http://creativecommons.org/licenses/by-nc-sa/3.0/">http://creativecommons.org/licenses/by-nc-sa/3.0/</a></p>
+</div></div><!-- articlebody end --></div></div><!-- end content --><div class="archive" id="journalnav"><h1 class="hidden">Main navigation</h1><!-- necessary for correct descending order heading hierarchy - do not remove! -->
+	<!-- whitespace removed to deal with IE5.0 PC bug. -->
+<map title="main journal navigation" id="main-journal-nav" class="journal-nav">
+<ul>
+	<li class="jn-home"><a href="/bcj/index.html">Journal home</a></li>
+	<li class="jn-issue"><a href="/bcj/journal/v7/n9/">Latest articles</a></li>
+	<li class="jn-archive"><a href="/bcj/archive/index.html">Archive</a></li>
+	<!-- <li class="jn-press-releases"><a href="/bcj/about/press_releases.html">Press releases</a></li> -->
+</ul>
+</map>
+	<!-- whitespace removed to deal with IE5.0 PC bug. -->
+<map title="supplementary journal navigation" id="supplementary-journal-nav" class="journal-nav supplementary">
+	<ul>
+		<li class="jn-online-submission"><a href="http://mts-bcj.nature.com/" class="submission">Online submission</a></li>
+		<li class="jn-open-access"><a href="/bcj/about/open_access.html">Open access</a></li>
+		<li class="jn-for-authors"><a href="/bcj/about/for_authors.html">For authors</a></li>
+		<li class="jn-for-referees"><a href="/bcj/about/for_referees.html">For referees</a></li>
+		<li class="jn-contact-eds"><a href="/bcj/about/contact_eds.html">Contact editorial office</a></li>
+		<li class="jn-about-the-journal"><a href="/bcj/about/index.html">About the journal</a></li>
+		<li class="jn-for-librarians"><a href="/libraries/">For librarians</a></li>
+		<li class="jn-advertising"><a href="/bcj/about/advertising.html">Advertising</a></li>
+		<li class="jn-naturereprints"><a href="/reprints/">Reprints and permissions</a></li>
+		<li class="jn-contact-npg"><a href="/bcj/about/contact_npg.html">Contact Springer Nature</a></li>
+		<li class="jn-customer-services"><a href="http://mse.force.com/nature/">Customer services</a></li>
+		<li class="jn-site-features"><a href="/bcj/about/site_features.html">Site features</a></li>
+	</ul>
+</map>
+	
+	
+	<h2 class="npg-resources"><abbr title="Springer Nature">Springer Nature</abbr> resources</h2>
+		<ul class="npg-resources">
+			<li><a href="/leu/">Leukemia</a></li>
+			<li><a href="/bjc/">British Journal of Cancer</a></li>
+			<li><a href="/bmt/">Bone Marrow Transplantation</a></li>
+			<li><a href="/nrc/">Nature Reviews Cancer</a></li>
+			<li><a href="/nrclinonc/">Nature Reviews Clinical Oncology</a></li>
+			<li><a href="/nm/">Nature Medicine</a></li>
+		</ul>
+	 
+<div id="global-subject-areas">
+	<h2><span><abbr title="Nature Research">Nature Research</abbr> Journals</span></h2>	
+	<h3 class="view">by Subject Area</h3>
+		<ul class="category-list">
+		<li><h4>Chemistry</h4>
+            <ul>
+                <li><a href="/chemistry/index.html">Chemistry</a></li>
+                <li><a href="/drugdisc/index.html">Drug discovery</a></li>
+		<li><a href="/biotech/index.html">Biotechnology</a></li>
+		<li><a href="/materials/index.html">Materials</a></li>
+		<li><a href="/protometh/index.html">Methods &amp; Protocols</a></li>
+            </ul>
+        </li>        <li><h4>Clinical Practice &amp; Research</h4>
+            <ul>
+                <li><a href="/cancer/index.html">Cancer</a></li>
+                <li><a href="/cardio/index.html">Cardiovascular medicine</a></li>
+                <li><a href="/endocrinology/index.html" title="">Endocrinology</a></li>
+                <li><a href="/gastrohep/index.html">Gastroenterology &amp; Hepatology</a></li>
+		<li><a href="/protometh/index.html">Methods &amp; Protocols</a></li>
+                <li><a href="/pathology/index.html">Pathology &amp; Pathobiology</a></li>
+                <li><a href="/urology/index.html">Urology</a></li>
+
+            </ul>
+        </li>        <li><h4>Earth &amp; Environment</h4>
+            <ul>
+                <li><a href="/earthsciences/index.html">Earth sciences</a></li>
+                <li><a href="/evoeco/index.html">Evolution &amp; Ecology</a></li>
+	
+            </ul>
+        </li>        <li><h4>Life sciences</h4>
+            <ul>
+		<li><a href="/biotech/index.html">Biotechnology</a></li>
+                <li><a href="/cancer/index.html">Cancer</a></li>
+                <li><a href="/development/index.html">Development</a></li>
+                <li><a href="/drugdisc/index.html">Drug discovery</a></li>
+                <li><a href="/evoeco/index.html">Evolution &amp; Ecology</a></li>
+                <li><a href="/genetics/index.html">Genetics</a></li>
+                <li><a href="/immuno/index.html">Immunology</a></li>
+                <li><a href="/medicalresearch/index.html">Medical research</a></li>
+				<li><a href="/protometh/index.html">Methods &amp; Protocols</a></li>
+                <li><a href="/micro/index.html">Microbiology</a></li>
+                <li><a href="/molcellbio/index.html">Molecular cell biology</a></li>
+                <li><a href="/neurosci/index.html">Neuroscience</a></li>
+                <li><a href="/pharma/index.html">Pharmacology</a></li>
+                <li><a href="/sysbio/index.html">Systems biology</a></li>
+            </ul>
+        </li>        <li><h4>Physical sciences</h4>
+            <ul>
+				<li><a href="/physics/index.html">Physics</a></li>
+				<li><a href="/materials/index.html">Materials</a></li>
+            </ul>
+        </li>	</ul>
+	
+	<h3 class="view"><a href="/siteindex/index.html" title="View A to Z list of Nature Publishing Group journals">by A - Z Index</a></h3>
+</div>
+</div></div><!-- end content and journal nav --><div id="extranav"><h1 class="hidden">Extra navigation</h1><span class="page-header-spacer">.</span><div id="articlenav"><h2><span class="hidden">ARTICLE NAVIGATION - </span>FULL TEXT</h2><ul><li class="toc"><a class="toc" href="/bcj/journal/v2/n9/index.html">Table of contents</a></li><li class="download-pdf"><a class="download-pdf" href="/bcj/journal/v2/n9/pdf/bcj201236a.pdf">Download PDF</a></li><li class="sendtofriend"><a class="sendtofriend" href="/foxtrot/svc/mailform?file=/bcj/journal/v2/n9/full/bcj201236a.html">Send to a friend</a></li>
+
+			
+
+
+	<li class="readcube"><a href="http://www.readcube.com/articles/10.1038/bcj.2012.36" class="readcube">View interactive PDF in ReadCube</a></li>
+
+<li class="permissions"><a class="permissions" href="https://s100.copyright.com/AppDispatchServlet?publisherName=NPG&amp;publication=Blood+Cancer+Journal&amp;title=Stromal cells expressing hedgehog-interacting protein regulate the proliferation of myeloid neoplasms&amp;author=M Kobune, S Iyama, S Kikuchi, H Horiguchi, T Sato et al.&amp;contentID=10.1038/bcj.2012.36&amp;publicationDate=09/01/2012&amp;volumeNum=2&amp;issueNum=9&amp;cc=y">Rights and permissions</a></li>
+	<li class="cited"><a class="cited" href="/cited/cited.html?doi=10.1038/bcj.2012.36">CrossRef lists 13 article
+		s citing this article</a></li>
+	<li class="cited"><a class="cited" href="http://www.scopus.com/inward/record.url?eid=&amp;partnerID=65">Scopus lists 16 articles citing this article</a></li><li class="save last"><a href="http://www.connotea.org/add?uri=http://www.nature.com/bcj/journal/v2/n9/full/bcj201236a.html" class="save">Save this link</a></li><li><a class="page" href="#abs">Abstract</a></li><li><a class="page" href="#Introduction">Introduction</a></li><li><a class="page" href="#Materials-and-methods">Materials and methods</a></li><li><a class="page" href="#Results">Results</a></li><li><a class="page" href="#Discussion">Discussion</a></li><li><a class="page" href="#conflict-of-interest">Conflict of interest</a></li><li><a class="page" href="#References">References</a></li><li><a class="page" href="#ack">Acknowledgements</a></li><li><a href="/bcj/journal/v2/n9/fig_tab/bcj201236ft.html#figure-title">Figures and Tables</a></li><li><a href="/bcj/journal/v2/n9/suppinfo/bcj201236s1.html?url=/bcj/journal/v2/n9/full/bcj201236a.html">Supplementary info</a></li></ul><ul class="supplementary"><li><a href="/bcj/journal/v2/n9/ris/bcj201236a.ris">Export citation</a></li><li><a href="/bcj/journal/v2/n9/ris/bcj201236arefs.ris">Export references</a></li></ul><ul class="supplementary"><li><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=search&amp;term=Kobune+M">Papers by Kobune</a></li></ul></div>
+	
+	<!-- skyscraper ad -->
+<div class="ad-vert">
+ADVERTISEMENT<br />
+
+
+																																																																																																																											
+						
+																																																		<div class="adunit-leaderboard"> 
+			
+						
+			
+		
+							
+		
+													
+		
+										
+		
+													
+		
+										
+		
+													
+		
+										
+		
+													
+		
+										
+		
+													
+		
+										
+		
+													
+		
+										
+		
+									
+		
+	
+	
+		
+										
+					
+		
+										
+					
+		
+										
+					
+		
+										
+					
+		
+										
+					
+		
+										
+					
+		
+										
+									<div id="div-gpt-ad-2" class="div-gpt-ad adunit-leaderboard" data-gpt-unitpath="/285/bcj.nature.com/archive" data-gpt-sizes="160x600" data-gpt-targeting="type=oa;artid=bcj201236a;issue=9;njreg=UK;pos=right;sz=160x600;tile=2">
+				<noscript>
+					<a href="//pubads.g.doubleclick.net/gampad/jump?iu=/285/bcj.nature.com/archive&amp;sz=160x600&amp;t=type=oa;artid=bcj201236a;issue=9;njreg=UK;pos=right;sz=160x600;tile=2&amp;c=4471911458239005">
+						<img src="//pubads.g.doubleclick.net/gampad/ad?iu=/285/bcj.nature.com/archive&amp;sz=160x600&amp;t=type=oa;artid=bcj201236a;issue=9;njreg=UK;pos=right;sz=160x600;tile=2&amp;c=4471911458239005" alt="Advertisement" /></a>
+				</noscript>
+			</div>
+
+			</div> 		 
+	 
+	
+			 </div>
+<!-- end skyscraper ad --></div>
+	<!-- global links -->
+	
+
+	
+
+
+
+<div class="cleardiv"><!-- --></div>
+
+
+	
+	
+	
+				
+
+			<p class="back-to-top hidden"><a href="#top" title="Return to the top of this page">Top</a></p>
+	
+	<div id="ftr" class="footer">
+					<div class="cope cope-bottom-align"><a href='http://publicationethics.org/' title='Committee on Publication Ethics - external website.'><img src='/aj/images/logo_cope.gif' alt='' /></a><br/>This journal is a member of and subscribes to the principles of the <a href='http://publicationethics.org/' alt=''>Committee on Publication Ethics</a>.</div>
+			<span class="cleardiv"><!-- --></span>
+							<ul id="footer-journal" class="narrow-journal-info">
+				<li class="journal-name">Blood Cancer Journal</li>												<li class="eissn"><abbr title="Electronic International Standard Serial Number">ISSN (online)</abbr><span class="hidden">:</span> 2044-5385</li>											</ul>
+			<span class="cleardiv"><!-- --></span>
+		
+		<div class="footer-inner">
+
+		<div class="baseline-wrapper">
+													<ul class="footer-links baseline first">
+									<li><a href="/npg/">About us</a></li>
+														<li><a href="/npg_/contact/">Contact us</a></li>
+														<li><a href="/info/accessibility_statement.html">Accessibility statement</a></li>
+														<li><a href="/help/">Help</a></li>
+													</ul>
+							<ul class="footer-links baseline">
+									<li><a href="/info/privacy.html">Privacy policy</a></li>
+														<li><a href="/info/cookies.html">Use of cookies</a></li>
+														<li><a href="/info/legal_notice.html">Legal notice</a></li>
+														<li><a href="/info/tandc.html">Terms</a></li>
+													</ul>
+							<ul class="footer-links baseline last">
+									<li><a href="/naturejobs/">Nature<span class='hidden'> </span>jobs</a></li>
+														<li><a href="http://www.natureasia.com/">Nature Asia</a></li>
+														<li><a href="/scitable/">Nature Education</a></li>
+														<li><a href="/webfeeds/"><abbr title='RDF Site Summary'>RSS</abbr> web feeds</a></li>
+													</ul>
+			
+						<form action="/search/executeSearch" method="get" class="search-form baseline">
+				<fieldset>
+					<label for="footer-search">Search:</label>
+					<input type="text" id="footer-search" name="sp-q" value="" class="text" maxlength="200"/>
+					<input type="hidden" name="sp-p" value="all" />
+					<input type="hidden" name="sp-c" value="25" />
+					<input type="hidden" name="sp-m" value="0" />
+											<input type="hidden" name="sp-s" value="date_descending" />
+															<input type="submit" name="search" value="go" class="button" />
+				</fieldset>
+			</form>
+					</div>
+
+		<span class="cleardiv"><!-- --></span>
+
+					<div id="footer-copyright">
+				<ul class="logo">
+											<li>
+															<img width="140" height="15" alt="Springer Nature" class="logo-image" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAPoAAAAaCAQAAAA0oYk0AAAJO0lEQVR4Ae2aBXjdOBKAt8ztt2VmhmUuM8+M/OrtBt5d4btyu8zMzMzMzMzMzMzMTMk5fR6N/CTFbr4sr6ZJqtFobOm35JGs1ZKpsk5lndX+Tf+MVLo6bQf3wLdQGcn38CgcDaP+6fhxJLys5aGwoVkGt3KJavNXbd5k+AgqLXlGzfhHQ5+c6I15ibIXWV/S4S/ZOLUx/ACVTtmqYAHToQz/Q3NwLsyDeViqpgRdi3yMxlLKswWVw/Rcb3umoEkqKEjYsaAJW2EpS7COWAY9WFs8ksKOOBdPh+vxQbwNzsYVMMAoq4elbglbx7BmJltCk8Iu2aDjC3vUNcqe80HHWckrl64uMwfrbCncRbA+52k815rTWKxU+7gfyWwFUbCOPd+EXTzXmlW4mcc8yD9Y0DSG/ppdii/SsrCeTHcOi7dgP25ybPUyl/Eckhti1HhZuhU2Y22wkdGQJnCI/YDig+wtKq/0yHpxx79nl+FztPWcxn7oLCowyp52Q4fOlv8yXecy0VoCK2sfp/N3cK2SDmJFY2JPnzs83I2zmEf8eDuvhF9UdftAQ/EpbYEzaQGetdLtVtrB6x4Hd+abxRa3eSw+gVGZoXO3eqCHreBuz1W+K2tZQ+gsL6n+adDxQSmDJ9zQqcS6txN+e+gs+Gyut75DqAY6zracRml5I8qHTfzQWfBc/0hnIDg4K3S4vzrocLb3GqfVfKSz4Lthax90FjWOy+BRN3Q83p5HfnvoIvhG2CoDdLVIZ3/yxesCHS+gPfAweF47qcDByZGON0QWB+HDxmVuzgCdEQ+XEZOErkYYdj/jCQBqYwjhuKoQFDcs2Cxoqi2+x8tNCfvGd/A+W+A5tAccDi8ZXo9Ogw43cRk85IH+nFWnoqRtXHYCvFYliSH0UaybUDPoeCbuSafiW2KDBxVDx7cSfXFOVWGZUWGTNOg0dWXnNsAHtGa7IuhLC+t9vESaDZ2zQocrfNDxTG3zgxptvOcbUk7e+WyD73la8l5y1C5vJBENfrpHXTd0fJf/x8Em3ueCHrbTNe4SEKjEonBNo8dne+aJjNDVxoUFt/Hwvm9BP8vqBlor8QbeLA167PJ/us5JLuiRZoJxs+MzQ6+AAa7pvbIOfKlt9nMDrQH0KNFy4+qdPdD30d18YdySu13QVaBr7CYvIzwsK3Q4rmbQI81OYhW2ToUedecziW5/CGemQ6ep2v48eacL9KIAcVYqdJETXdDDvkajetUmdFTiWQ31QN8e94n/92vhRQF3uKDTEdrXWGNYPPLbQzcDSOrjhS4pGI4/FnX8ozSpeuhqokSnbugmJjU6HTq+wW9j1d6GrlB7eyfKpkP/JBguQn380M2ljWrvg67a43eJh/JWF3R8nKOjBU1Vf137F2jxm0MvN+i1KIJ+g9kXekUPAN+wCQuduryRHzpuozVbuKd3ykmjS9pmgL4N3wPtbUOnObJMTIduyXF+6LCLvA0r63ig7xDljuGIompjCW6yoYet8FdZhSSCxsm/NXQ8WHt83Y7ePbsNMIAnLBG8ao+6buiwHn6orQa7oId98QXt6dYs0TvN4RvHTxc0LYaOK7T/a/SE9r0IrqgZ9GAj/ER7PtYXvdOO0fV6ws9x/sCoJdfZ0GF6MoKGCyUm+G2h42Rj0B6SCTonnMbTEwstLoYO7+Cz8I69HBPo8BE+i29AhbGo2yQb9JIOPIXSsmLosJX2d7VMaIZstarQ8W18Ft81bL4JulYHPcqfE+e/DFvB1TZ0PIh1hagIl0os/1tBx7fwuUKOV+F8P+nQJagL8W3D5PmUHblPqU/a5gztyt7ToBuB0GuMlKEbHXhzFuj4E9wjQlub0F2Cv0j329Bxp6q8GgoV/BDAFQ7ovIytCFsX7GWRubzRbwDdlp+JHDtyH5l9IctdI5W1xLvETdiuGujP5PpxLR7ptg1bZIEOnXlnHS9LQjd2E56Mfa1HR+AFAj179O4SvIQtnNB3Lmj0+P4Ary2Gnm/G0z8+zUMIP9UeRtYGdAbmg85xuj969yY11FzEOKG/D1dgqWzvC3RbFGaGHiU8lpdGRdDHch6/ki0U2qDWoP+Cg9OhB8O15keBbq1nvobnY/le5opVhH4364JOYk0bpIz0H6hPRuj5Zguamvmwl7gJeiShqyDfbI/6YmtDxy3zzeY0xkd0/lmGlAl6N+nOBPTOhmad2oCO0/LNVBsjIL3cDx12YZ39yYeh096iswVvyAT9QJnPWJfrLda5flYgNy7fLJoLPhPAGaHjTvgJ7qsG8RkaiUzh2wUNXNF7tdCX8nPPQrnM0KOEJzmgR8nY1jy9NqCrcclVAVTkhqRDx2k+6HhntdC/CuulQ6ctZCbhj9KUExo83KzofXuZsahPBujRqPyQOwrvhPvhm+ROeI2gRwme1JpbMkLneeZnJ/SjRIe7FTYg1AwLuueDS7C+G3q+GX7u/+DiDEafdECPQHI04hNaNx16sJFRcjtOVmvibGOtdD3b4RdJ6GEr/FrXO1g2ncwPLiJhQ4mCbakINqo5dNxG/FDPTNDZ12ku6Ll+5sOAv8LH8IPjjM9nnpE207v3fqq2+mx5Izd03M3QlrqgwyhZ+pW0DVvH0gsqzE0sP3Qd+j3rYcFbPJ7NGThPjr4U5oNgHZ+f6MAIXW2rJXyRkzN+6J69936Gp21WBXrYF3+xoEcJtvV2iEA/MTt0x3p2ejr0sB685oC+i7a9LdEvz2v9ZSnQ+djZT1xmH8bwQ8fZhuXI+AF60Qu9rCXsLlOIlo/Vfz177+nQrVvDa7JDl20QgS7vPPzONSPhDbRWjKQ1PpIVuh0d48Fu6LC7qafFDug3OXffzHnkozTo/HUS37YPotCue9T1QzeDb1kp0Lrwpgd6VdqjLm2AS/EYPB+uoLNpP4VxgRxoxIKA5+xnMJwt5BsYjM1RjgKVIxrPDWIrPhg5r4XWdDe8dVLIMr91YiS0h2V0Nt4Lz+CL+AhdQYfQpkGnuJBH4li1CFfQ8shyMS1QVcc0Q7ZRU9hvSVs5Tcb3yUsi/TiUFQSHJaMgKBMp9JQKOJ/8BoiDxZJfHnvUFV20OrLSggao6Ai4CR7Cx/B2OAMXFp/poU25vrQCyqg8kjyVB8N1XzRHhTvgbrQr7BL93QZXwCKawyHlPyr9m/4PHvcrPqeuy6oAAAAASUVORK5CYII=" />
+														&#169; 2017 Macmillan Publishers Limited, part of Springer Nature. All Rights Reserved.
+						</li>
+										<li> partner of <a href="/info/partners.html">AGORA, HINARI, OARE, INASP, ORCID, CrossRef, COUNTER and COPE</a></li>				</ul>
+			</div>
+				</div>
+	</div>
+
+	</div></div><!-- close constrain divs -->
+
+	<!-- end global links -->
+
+
+	<!-- super body bottom -->
+<div id="div-gpt-ad-3" class="ad adunit-out-of-page div-gpt-ad out-of-page" data-gpt-unitpath="/285/bcj.nature.com/archive" data-gpt-targeting="type=oa;artid=bcj201236a;issue=9;njreg=UK;pos=right;sz=160x600;tile=2"></div>
+<!-- super javascript -->
+
+
+	
+																																			
+																																														
+																																<script type="text/javascript" src="/super/scripts/jquery.js?c=1504603589141"></script>
+																																		<script type="text/javascript" src="/common/scripts/jquery/plugins/cookie.js?c=1504603589141"></script>
+																																		<script type="text/javascript" src="/common/scripts/message.js?c=1504603589141"></script>
+																																							<script type="text/javascript" src="http://content.readcube.com/ping?doi=10.1038/bcj.2012.36&format=js&last_modified=2012-09-07"></script>
+																																		<script type="text/javascript" src="/common/scripts/jquery/plugins/baseline.jquery.js?c=1504603589141"></script>
+																																		<script type="text/javascript" src="/common/scripts/global.baseline.js?c=1504603589141"></script>
+																																		<script type="text/javascript" src="/super/scripts/tsedge/tsedge_instr-min.js?c=1504603589141?c=1504603589141"></script>
+						
+	
+	<script type="text/javascript"><!--//--><![CDATA[//><!--
+	(function($) {
+		$('a.popup-this').bind('click', function() {
+			window.open(this.href);
+			return false;
+		});
+	})(jQuery);
+	//--><!]]></script>
+
+	
+
+																																																																																																																																																																																																																																								
+<!--[if IE 6]>
+	<script type="text/javascript" src="/aj/scripts/ie-specific/ie-6.js?c=1504603589141"></script>
+<![endif]-->
+																																																																																																																																																																																																																																																																																																																																																																																																																																																																																
+ 
+
+			<!-- Nielsen/NetRatings SiteCensus V5.3 -->
+	<script type="text/javascript"><!--//--><![CDATA[//><!--
+		var _rsCI="us-nature";
+		var _rsCG="0";
+		var _rsDN="//secure-us.imrworldwide.com/";
+		var _rsPLfl=0;
+		var _rsSE=1;
+		var _rsSM=1.0;
+		var _rsCL=1;
+	//--><!]]></script>
+	<script type="text/javascript" src="/super/scripts/netratings/v53.js?c=1504603589141"></script> 	<noscript>
+		<div><img src="http://secure-us.imrworldwide.com/cgi-bin/m?ci=us-nature&amp;cg=0&amp;cc=1" alt="" /></div>
+	</noscript>
+
+
+
+
+
+	<script type="text/javascript" src="/common/scripts/global.webtrends.js"></script>
+	<noscript>
+		<div><img alt="" id="DCSIMG" width="1" height="1" src="//statse.webtrendslive.com/dcs0zztfg00000s969s37qoal_2f6z/njs.gif?dcsuri=/nojavascript&amp;WT.js=No&amp;WT.tv=10.2.55" /></div>
+	</noscript>
+
+<script src="https://verify.nature.com/verify/nature.js?nocallback=true"></script>
+<noscript>
+	<img src="https://verify.nature.com/verify/nature.png" alt="" width="0" height="0"/>
+</noscript>
+	</body>
+</html>

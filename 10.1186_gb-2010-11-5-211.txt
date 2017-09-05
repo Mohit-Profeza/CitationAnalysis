@@ -1,0 +1,946 @@
+<!DOCTYPE html>
+<html lang="en" class="no-js">
+    <head>
+        <title>Cancer genomics identifies determinants of tumor biology | Genome Biology | Full Text</title>
+
+        
+    
+        
+    
+
+
+        
+        
+    
+    <meta name="journal_id" content='13059'/>
+    
+    <meta name="dc.title" content='Cancer genomics identifies determinants of tumor biology'/>
+    
+    <meta name="dc.description" content='Unbiased sequencing and analysis of human tumors is revealing unsuspected somatic changes that, upon further study, are elucidating aspects of tumor biology and identifying new biomarkers.'/>
+    
+    <meta name="dc.source" content='Genome Biology 2010 11:5'/>
+    
+    <meta name="dc.format" content='text/html'/>
+    
+    <meta name="dc.publisher" content='BioMed Central'/>
+    
+    <meta name="dc.date" content='2010-05-05'/>
+    
+    <meta name="dc.type" content='ReviewPaper'/>
+    
+    <meta name="dc.language" content='En'/>
+    
+    <meta name="dc.copyright" content='2010 BioMed Central Ltd.'/>
+    
+    <meta name="dc.rightsAgent" content='reprints@biomedcentral.com'/>
+    
+    <meta name="prism.issn" content='1474-760X'/>
+    
+    <meta name="prism.publicationName" content='Genome Biology'/>
+    
+    <meta name="prism.publicationDate" content='2010-05-05'/>
+    
+    <meta name="prism.volume" content='11'/>
+    
+    <meta name="prism.number" content='5'/>
+    
+    <meta name="prism.section" content='ReviewPaper'/>
+    
+    <meta name="prism.startingPage" content='211'/>
+    
+    <meta name="prism.copyright" content='2010 BioMed Central Ltd.'/>
+    
+    <meta name="prism.rightsAgent" content='reprints@biomedcentral.com'/>
+    
+    <meta name="prism.url" content='https://genomebiology.biomedcentral.com/articles/10.1186/gb-2010-11-5-211'/>
+    
+    <meta name="citation_pdf_url" content='https://genomebiology.biomedcentral.com/track/pdf/10.1186/gb-2010-11-5-211?site=genomebiology.biomedcentral.com'/>
+    
+    <meta name="citation_abstract_html_url" content='https://genomebiology.biomedcentral.com/articles/10.1186/gb-2010-11-5-211'/>
+    
+    <meta name="citation_fulltext_html_url" content='https://genomebiology.biomedcentral.com/articles/10.1186/gb-2010-11-5-211'/>
+    
+    <meta name="citation_journal_title" content='Genome Biology'/>
+    
+    <meta name="citation_publisher" content='BioMed Central'/>
+    
+    <meta name="citation_issn" content='1474-760X'/>
+    
+    <meta name="citation_title" content='Cancer genomics identifies determinants of tumor biology'/>
+    
+    <meta name="citation_volume" content='11'/>
+    
+    <meta name="citation_issue" content='5'/>
+    
+    <meta name="citation_date" content='2010/05/05'/>
+    
+    <meta name="citation_publication_date" content='2010/05/05'/>
+    
+    <meta name="citation_firstpage" content='211'/>
+    
+    <meta name="citation_article_type" content='Review'/>
+    
+    <meta name="citation_fulltext_world_readable" content=''/>
+    
+    <meta name="dc.creator" content='Elaine R Mardis'/>
+    
+    <meta name="dc.subject" content='Animal Genetics and Genomics'/>
+    
+    <meta name="dc.subject" content='Human Genetics'/>
+    
+    <meta name="dc.subject" content='Plant Genetics &amp; Genomics'/>
+    
+    <meta name="dc.subject" content='Microbial Genetics and Genomics'/>
+    
+    <meta name="dc.subject" content='Bioinformatics'/>
+    
+    <meta name="dc.subject" content='Evolutionary Biology'/>
+    
+    <meta name="citation_author" content='Elaine R Mardis'/>
+    
+    <meta name="citation_author_institution" content='The Genome Center, Washington University School of Medicine, St Louis, USA'/>
+    
+    <meta name="citation_reference" content='citation_journal_title=Science; citation_title=On the origin of cancer cells.; citation_author=O Warburg; citation_volume=123; citation_publication_date=1956; citation_pages=309-314; citation_doi=10.1126/science.123.3191.309; citation_id=CR1;'/>
+    
+    <meta name="citation_reference" content='citation_journal_title=Science; citation_title=A turning point in cancer research: sequencing the human genome.; citation_author=R Dulbecco; citation_volume=231; citation_publication_date=1986; citation_pages=1055-1056; citation_doi=10.1126/science.3945817; citation_id=CR2;'/>
+    
+    <meta name="citation_reference" content='citation_journal_title=Science; citation_title=An integrated genomic analysis of human glioblastoma multiforme.; citation_author=DW Parsons; citation_author=S Jones; citation_author=X Zhang; citation_author=JC Lin; citation_author=RJ Leary; citation_author=P Angenendt; citation_author=P Mankoo; citation_author=H Carter; citation_author=IM Siu; citation_author=GL Gallia; citation_author=A Olivi; citation_author=R McLendon; citation_author=BA Rasheed; citation_author=S Keir; citation_author=T Nikolskaya; citation_author=Y Nikolsky; citation_author=DA Busam; citation_author=H Tekleab; citation_author=LA Diaz; citation_author=J Hartigan; citation_author=DR Smith; citation_author=RL Strausberg; citation_author=SK Marie; citation_author=SM Shinjo; citation_author=H Yan; citation_author=GJ Riggins; citation_author=DD Bigner; citation_author=R Karchin; citation_author=N Papadopoulos; citation_author=G Parmigiani; citation_volume=321; citation_publication_date=2008; citation_pages=1807-1812; citation_doi=10.1126/science.1164382; citation_id=CR3;'/>
+    
+    <meta name="citation_reference" content='citation_journal_title=N Engl J Med; citation_title=IDH1 and IDH2 mutations in gliomas.; citation_author=H Yan; citation_author=DW Parsons; citation_author=G Jin; citation_author=R McLendon; citation_author=BA Rasheed; citation_author=W Yuan; citation_author=I Kos; citation_author=I Batinic-Haberle; citation_author=S Jones; citation_author=GJ Riggins; citation_author=H Friedman; citation_author=A Friedman; citation_author=D Reardon; citation_author=J Herndon; citation_author=KW Kinzler; citation_author=VE Velculescu; citation_author=B Vogelstein; citation_author=DD Bigner; citation_volume=360; citation_publication_date=2009; citation_pages=765-773; citation_doi=10.1056/NEJMoa0808710; citation_id=CR4;'/>
+    
+    <meta name="citation_reference" content='citation_journal_title=Hum Mutat; citation_title=IDH1 mutations at residue p.R132 (IDH1(R132)) occur frequently in high-grade gliomas but not in other solid tumors.; citation_author=FE Bleeker; citation_author=S Lamba; citation_author=S Leenstra; citation_author=D Troost; citation_author=T Hulsebos; citation_author=WP Vandertop; citation_author=M Frattini; citation_author=F Molinari; citation_author=M Knowles; citation_author=A Cerrato; citation_author=M Rodolfo; citation_author=A Scarpa; citation_author=L Felicioni; citation_author=F Buttitta; citation_author=S Malatesta; citation_author=A Marchetti; citation_author=A Bardelli; citation_volume=30; citation_publication_date=2009; citation_pages=7-11; citation_doi=10.1002/humu.20937; citation_id=CR5;'/>
+    
+    <meta name="citation_reference" content='citation_journal_title=Acta Neuropathol; citation_title=Analysis of the IDH1 codon 132 mutation in brain tumors.; citation_author=J Balss; citation_author=J Meyer; citation_author=W Mueller; citation_author=A Korshunov; citation_author=C Hartmann; citation_author=A von Deimling; citation_volume=116; citation_publication_date=2008; citation_pages=597-602; citation_doi=10.1007/s00401-008-0455-2; citation_id=CR6;'/>
+    
+    <meta name="citation_reference" content='citation_journal_title=Acta Neuropathol; citation_title=Type and frequency of IDH1 and IDH2 mutations are related to astrocytic and oligodendroglial differentiation and age: a study of 1,010 diffuse gliomas.; citation_author=C Hartmann; citation_author=J Meyer; citation_author=J Balss; citation_author=D Capper; citation_author=W Mueller; citation_author=A Christians; citation_author=J Felsberg; citation_author=M Wolter; citation_author=C Mawrin; citation_author=W Wick; citation_author=M Weller; citation_author=C Herold-Mende; citation_author=A Unterberg; citation_author=JW Jeuken; citation_author=P Wesseling; citation_author=G Reifenberger; citation_author=A von Deimling; citation_volume=118; citation_publication_date=2009; citation_pages=469-474; citation_doi=10.1007/s00401-009-0561-9; citation_id=CR7;'/>
+    
+    <meta name="citation_reference" content='citation_journal_title=Am J Pathol; citation_title=IDH1 mutations are early events in the development of astrocytomas and oligodendrogliomas.; citation_author=T Watanabe; citation_author=S Nobusawa; citation_author=P Kleihues; citation_author=H Ohgaki; citation_volume=174; citation_publication_date=2009; citation_pages=1149-1153; citation_doi=10.2353/ajpath.2009.080958; citation_id=CR8;'/>
+    
+    <meta name="citation_reference" content='citation_journal_title=J Biol Chem; citation_title=Structures of human cytosolic NADP-dependent isocitrate dehydrogenase reveal a novel self-regulatory mechanism of activity.; citation_author=X Xu; citation_author=J Zhao; citation_author=Z Xu; citation_author=B Peng; citation_author=Q Huang; citation_author=E Arnold; citation_author=J Ding; citation_volume=279; citation_publication_date=2004; citation_pages=33946-33957; citation_doi=10.1074/jbc.M404298200; citation_id=CR9;'/>
+    
+    <meta name="citation_reference" content='citation_journal_title=Science; citation_title=Glioma-derived mutations in IDH1 dominantly inhibit IDH1 catalytic activity and induce HIF-1alpha.; citation_author=S Zhao; citation_author=Y Lin; citation_author=W Xu; citation_author=W Jiang; citation_author=Z Zha; citation_author=P Wang; citation_author=W Yu; citation_author=Z Li; citation_author=L Gong; citation_author=Y Peng; citation_author=J Ding; citation_author=Q Lei; citation_author=KL Guan; citation_author=Y Xiong; citation_volume=324; citation_publication_date=2009; citation_pages=261-265; citation_doi=10.1126/science.1170944; citation_id=CR10;'/>
+    
+    <meta name="citation_reference" content='citation_journal_title=Nature; citation_title=Cancer-associated IDH1 mutations produce 2-hydroxyglutarate.; citation_author=L Dang; citation_author=DW White; citation_author=S Gross; citation_author=BD Bennett; citation_author=MA Bittinger; citation_author=EM Driggers; citation_author=VR Fantin; citation_author=HG Jang; citation_author=S Jin; citation_author=MC Keenan; citation_author=KM Marks; citation_author=RM Prins; citation_author=PS Ward; citation_author=KE Yen; citation_author=LM Liau; citation_author=JD Rabinowitz; citation_author=LC Cantley; citation_author=CB Thompson; citation_author=MG Vander Heiden; citation_author=SM Su; citation_volume=462; citation_publication_date=2009; citation_pages=739-744; citation_doi=10.1038/nature08617; citation_id=CR11;'/>
+    
+    <meta name="citation_reference" content='citation_journal_title=N Engl J Med; citation_title=Recurring mutations found by sequencing an acute myeloid leukemia genome.; citation_author=ER Mardis; citation_author=L Ding; citation_author=DJ Dooling; citation_author=DE Larson; citation_author=MD McLellan; citation_author=K Chen; citation_author=DC Koboldt; citation_author=RS Fulton; citation_author=KD Delehaunty; citation_author=SD McGrath; citation_author=LA Fulton; citation_author=DP Locke; citation_author=VJ Magrini; citation_author=RM Abbott; citation_author=TL Vickery; citation_author=JS Reed; citation_author=JS Robinson; citation_author=T Wylie; citation_author=SM Smith; citation_author=L Carmichael; citation_author=JM Eldred; citation_author=CC Harris; citation_author=J Walker; citation_author=JB Peck; citation_author=F Du; citation_author=AF Dukes; citation_author=GE Sanderson; citation_author=AM Brummett; citation_author=E Clark; citation_author=JF McMichael; citation_volume=361; citation_publication_date=2009; citation_pages=1058-1066; citation_doi=10.1056/NEJMoa0903840; citation_id=CR12;'/>
+    
+    <meta name="citation_reference" content='IDH1 mutations are detected in 9.3% of all AML and are strongly associated with intermediate risk karyotype and unfavourable prognosis: a study of 999 patients. American Society of Hematology. [
+                    http://ash.confex.com/ash/2009/webprogram/Paper25668.html
+                    
+                  ]'/>
+    
+    <meta name="citation_reference" content='citation_journal_title=J Exp Med; citation_title=Cancer-associated metabolite 2-hydroxyglutarate accumulates in acute myelogenous leukemia with isocitrate dehydrogenase 1 and 2 mutations.; citation_author=S Gross; citation_author=RA Cairns; citation_author=MD Minden; citation_author=EM Driggers; citation_author=MA Bittinger; citation_author=HG Jang; citation_author=M Sasaki; citation_author=S Jin; citation_author=DP Schenkein; citation_author=SM Su; citation_author=L Dang; citation_author=VR Fantin; citation_author=TW Mak; citation_volume=207; citation_publication_date=2010; citation_pages=339-344; citation_doi=10.1084/jem.20092506; citation_id=CR14;'/>
+    
+    <meta name="citation_reference" content='citation_journal_title=Cancer Cell; citation_title=The common feature of leukemia-associated IDH1 and IDH2 mutations is a neomorphic enzyme activity converting alpha-ketoglutarate to 2-hydroxyglutarate.; citation_author=PS Ward; citation_author=J Patel; citation_author=DR Wise; citation_author=O Abdel-Wahab; citation_author=BD Bennett; citation_author=HA Coller; citation_author=JR Cross; citation_author=VR Fantin; citation_author=CV Hedvat; citation_author=AE Perl; citation_author=JD Rabinowitz; citation_author=M Carroll; citation_author=SM Su; citation_author=KA Sharp; citation_author=RL Levine; citation_author=CB Thompson; citation_volume=17; citation_publication_date=2010; citation_pages=225-234; citation_doi=10.1016/j.ccr.2010.01.020; citation_id=CR15;'/>
+    
+    <meta name="citation_reference" content='citation_journal_title=Nature; citation_title=Mutational evolution in a lobular breast tumour profiled at single nucleotide resolution.; citation_author=SP Shah; citation_author=RD Morin; citation_author=J Khattra; citation_author=L Prentice; citation_author=T Pugh; citation_author=A Burleigh; citation_author=A Delaney; citation_author=K Gelmon; citation_author=R Guliany; citation_author=J Senz; citation_author=C Steidl; citation_author=RA Holt; citation_author=S Jones; citation_author=M Sun; citation_author=G Leung; citation_author=R Moore; citation_author=T Severson; citation_author=GA Taylor; citation_author=AE Teschendorff; citation_author=K Tse; citation_author=G Turashvili; citation_author=R Varhol; citation_author=RL Warren; citation_author=P Watson; citation_author=Y Zhao; citation_author=C Caldas; citation_author=D Huntsman; citation_author=M Hirst; citation_author=MA Marra; citation_author=S Aparicio; citation_volume=461; citation_publication_date=2009; citation_pages=809-813; citation_doi=10.1038/nature08489; citation_id=CR16;'/>
+    
+    <meta name="citation_reference" content='citation_journal_title=Nature; citation_title=Genome remodelling in a basal-like breast cancer metastasis and xenograft.; citation_author=L Ding; citation_author=MJ Ellis; citation_author=S Li; citation_author=DE Larson; citation_author=K Chen; citation_author=JW Wallis; citation_author=CC Harris; citation_author=MD McLellan; citation_author=RS Fulton; citation_author=LL Fulton; citation_author=RM Abbott; citation_author=J Hoog; citation_author=DJ Dooling; citation_author=DC Koboldt; citation_author=H Schmidt; citation_author=J Kalicki; citation_author=Q Zhang; citation_author=L Chen; citation_author=L Ling; citation_author=MC Wendl; citation_author=JF McMichael; citation_author=VJ Magrini; citation_author=L Cook; citation_author=SD McGrath; citation_author=TL Vickery; citation_author=E Appelbaum; citation_author=K DeSchryver; citation_author=S Davies; citation_author=T Guintoli; citation_author=L Lin; citation_volume=464; citation_publication_date=2010; citation_pages=999-1005; citation_doi=10.1038/nature08989; citation_id=CR17;'/>
+    
+    <meta name="citation_reference" content='citation_journal_title=Proc Natl Acad Sci USA; citation_title=Reconstruction of functionally normal and malignant human breast tissues in mice.; citation_author=C Kuperwasser; citation_author=T Chavarria; citation_author=M Wu; citation_author=G Magrane; citation_author=JW Gray; citation_author=L Carey; citation_author=A Richardson; citation_author=RA Weinberg; citation_volume=101; citation_publication_date=2004; citation_pages=4966-4971; citation_doi=10.1073/pnas.0401064101; citation_id=CR18;'/>
+    
+    <meta name="citation_reference" content='citation_title=Loss of CSMD1 expression is associated with high tumour grade and poor survival in invasive ductal breast carcinoma.; citation_inbook_title=Breast Cancer Res Treat; citation_author=M Kamal; citation_author=AM Shaaban; citation_author=L Zhang; citation_author=C Walker; citation_author=S Gray; citation_author=N Thakker; citation_author=C Toomes; citation_author=V Speirs; citation_author=SM Bell; citation_publication_date=2009; citation_id=CR19;'/>
+    
+    <meta name="citation_reference" content='citation_journal_title=Nat Methods; citation_title=BreakDancer: an algorithm for high-resolution mapping of genomic structural variation.; citation_author=K Chen; citation_author=JW Wallis; citation_author=MD McLellan; citation_author=DE Larson; citation_author=JM Kalicki; citation_author=CS Pohl; citation_author=SD McGrath; citation_author=MC Wendl; citation_author=Q Zhang; citation_author=DP Locke; citation_author=X Shi; citation_author=RS Fulton; citation_author=TJ Ley; citation_author=RK Wilson; citation_author=L Ding; citation_author=ER Mardis; citation_volume=6; citation_publication_date=2009; citation_pages=677-681; citation_doi=10.1038/nmeth.1363; citation_id=CR20;'/>
+    
+    <meta name="citation_reference" content='citation_journal_title=J Biol Chem; citation_title=Loss of alpha-catenin decreases the strength of single E-cadherin bonds between human cancer cells.; citation_author=S Bajpai; citation_author=Y Feng; citation_author=R Krishnamurthy; citation_author=GD Longmore; citation_author=D Wirtz; citation_volume=284; citation_publication_date=2009; citation_pages=18252-18259; citation_doi=10.1074/jbc.M109.000661; citation_id=CR21;'/>
+    
+    <meta name="citation_reference" content='citation_journal_title=Sci Transl Med; citation_title=Development of personalized tumor biomarkers using massively parallel sequencing.; citation_author=RJ Leary; citation_author=Kinde I; citation_author=Diehl F; citation_author=Schmidt K; citation_author=Clouser C; citation_author=Duncan C; citation_author=Antipova A; citation_author=Lee C; citation_author=McKernan K; citation_author=Vega FM De La; citation_author=Kinzler KW; citation_author=Vogelstein B; citation_author=Diaz LA; citation_author=Velculescu VE; citation_volume=2; citation_publication_date=2010; citation_pages=20ra14; citation_id=CR22;'/>
+    
+    <meta name="citation_reference" content='citation_journal_title=Nature; citation_title=Transcriptome sequencing to detect gene fusions in cancer.; citation_author=CA Maher; citation_author=C Kumar-Sinha; citation_author=X Cao; citation_author=S Kalyana-Sundaram; citation_author=B Han; citation_author=X Jing; citation_author=L Sam; citation_author=T Barrette; citation_author=N Palanisamy; citation_author=AM Chinnaiyan; citation_volume=458; citation_publication_date=2009; citation_pages=97-101; citation_doi=10.1038/nature07638; citation_id=CR23;'/>
+    
+    <meta name="citation_reference" content='citation_journal_title=Proc Natl Acad Sci USA; citation_title=Chimeric transcript discovery by paired-end transcriptome sequencing.; citation_author=CA Maher; citation_author=N Palanisamy; citation_author=JC Brenner; citation_author=X Cao; citation_author=S Kalyana-Sundaram; citation_author=S Luo; citation_author=I Khrebtukova; citation_author=TR Barrette; citation_author=C Grasso; citation_author=J Yu; citation_author=RJ Lonigro; citation_author=G Schroth; citation_author=C Kumar-Sinha; citation_author=AM Chinnaiyan; citation_volume=106; citation_publication_date=2009; citation_pages=12353-12358; citation_doi=10.1073/pnas.0904720106; citation_id=CR24;'/>
+    
+    <meta name="citation_reference" content='citation_journal_title=Science; citation_title=Induced chromosomal proximity and gene fusions in prostate cancer.; citation_author=RS Mani; citation_author=SA Tomlins; citation_author=K Callahan; citation_author=A Ghosh; citation_author=MK Nyati; citation_author=S Varambally; citation_author=N Palanisamy; citation_author=AM Chinnaiyan; citation_volume=326; citation_publication_date=2009; citation_pages=1230; citation_doi=10.1126/science.1178124; citation_id=CR25;'/>
+    
+    <meta name="citation_reference" content='citation_journal_title=N Engl J Med; citation_title=Mutation of FOXL2 in granulosa-cell tumors of the ovary.; citation_author=SP Shah; citation_author=M K&#246;bel; citation_author=J Senz; citation_author=RD Morin; citation_author=BA Clarke; citation_author=KC Wiegand; citation_author=G Leung; citation_author=A Zayed; citation_author=E Mehl; citation_author=SE Kalloger; citation_author=M Sun; citation_author=R Giuliany; citation_author=E Yorida; citation_author=S Jones; citation_author=R Varhol; citation_author=KD Swenerton; citation_author=D Miller; citation_author=PB Clement; citation_author=C Crane; citation_author=J Madore; citation_author=D Provencher; citation_author=P Leung; citation_author=A DeFazio; citation_author=J Khattra; citation_author=G Turashvili; citation_author=Y Zhao; citation_author=T Zeng; citation_author=JN Glover; citation_author=B Vanderhyden; citation_author=C Zhao; citation_volume=360; citation_publication_date=2009; citation_pages=2719-2729; citation_doi=10.1056/NEJMoa0902542; citation_id=CR26;'/>
+    
+    <meta name="citation_reference" content='citation_journal_title=Nat Methods; citation_title=Target-enrichment strategies for next-generation sequencing.; citation_author=L Mamanova; citation_author=AJ Coffey; citation_author=CE Scott; citation_author=I Kozarewa; citation_author=EH Turner; citation_author=A Kumar; citation_author=E Howard; citation_author=J Shendure; citation_author=DJ Turner; citation_volume=7; citation_publication_date=2010; citation_pages=111-118; citation_doi=10.1038/nmeth.1419; citation_id=CR27;'/>
+    
+    <meta name="prism.doi" content='10.1186/gb-2010-11-5-211'/>
+    
+    <meta name="dc.identifier" content='10.1186/gb-2010-11-5-211'/>
+    
+    <meta name="citation_doi" content='10.1186/gb-2010-11-5-211'/>
+    
+    <meta name="citation_abstract" content='&lt;h2&gt;Abstract&lt;/h2&gt;Unbiased sequencing and analysis of human tumors is revealing unsuspected somatic changes that, upon further study, are elucidating aspects of tumor biology and identifying new biomarkers.'/>
+    
+    <meta name="DOI" content='10.1186/gb-2010-11-5-211'/>
+    
+
+        
+    <script type="text/javascript">
+        dataLayer = [{"content":{"article":{"doi":"10.1186/gb-2010-11-5-211","articleType":"Review","peerReviewType":"Closed"},"contentInfo":{"imprint":"BioMed Central","title":"Cancer genomics identifies determinants of tumor biology","publishedAt":1273017600000,"publishedAtDate":"2010-05-05","authors":["Elaine R Mardis"],"collections":[{"collectionId":"AC_ca806ffee91440eeb1d1ba42a6a32ea8","collectionName":"10th Anniversary Collection"}]},"attributes":{"deliveryPlatform":"oscar","template":null,"cms":null,"copyright":{"creativeCommonsType":null}},"journal":{"volume":"11","issue":"5","title":"Genome Biology","category":"FLAGSHIP","id":13059},"category":{"pmc":{"primarySubject":"Life Sciences"}}}}]
+
+    </script>
+
+        
+
+        <meta charset="UTF-8"/>
+        <meta http-equiv="X-UA-Compatible" content="IE=edge"/>
+        <meta name="viewport" content="width=device-width, initial-scale=1"/>
+        <!-- For IE 9 and below -->
+<!--[if IE]><link rel="shortcut icon" href=/static/images/favicons/biomedcentral/favicon-dc10a51d5f.ico><![endif]-->
+<!-- Touch Icons - iOS and Android 2.1+ -->
+<link rel="apple-touch-icon" href=/static/images/favicons/biomedcentral/favicon-0969f3a317.png>
+<!-- Firefox, Chrome, Safari, IE 11+ and Opera -->
+<link rel="icon" href=/static/images/favicons/biomedcentral/favicon-0969f3a317.png>
+        <script>(function(H){H.className=H.className.replace(/\bno-js\b/,'js')})(document.documentElement)</script>
+        <script>(function(d) {if (sessionStorage.getItem('webfonts') == 'true'){d.className += ' webfonts-loaded';}})(document.documentElement);</script>
+        <link rel="stylesheet" media="screen" href=/static/styles/basic/basic-8a9ed7dce9.css>
+<link rel="stylesheet" media="print" href=/static/styles/biomedcentral/biomedcentral-print-9d9c0bc8d5.css>
+
+<link rel="stylesheet" class="js-ctm" href=/static/styles/biomedcentral/biomedcentral-1a58e9106c.css
+      media="only screen and (-webkit-min-device-pixel-ratio:0) and (min-color-index:0), (-ms-high-contrast: none), only all and (min--moz-device-pixel-ratio:0) and (min-resolution: 3e1dpcm)">
+        
+    <script type="text/javascript">
+        config = {
+            env: 'live',
+            site: 'genomebiology.biomedcentral.com',
+            siteWithPath: 'genomebiology.biomedcentral.com' + window.location.pathname,
+            twitterHashtag: '',
+            cmsPrefix: 'http://studio-cms.springer.com/studio/',
+            
+            doi: '10.1186/gb-2010-11-5-211',
+            figshareScriptUrl: 'https://widgets.figshare.com/static/figshare.js',
+            publisherBrand: 'BioMed Central'
+        };
+    </script>
+
+        
+    
+    <script>
+        window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
+
+        (function() {
+            var sampleRate = 20;
+
+            ga('create', "UA-61881280-4", {
+                cookieDomain: 'none',
+                allowLinker: true,
+                siteSpeedSampleRate: sampleRate
+            });
+
+            ga("set", "anonymizeIp", true);
+            ga('send', 'pageview');
+
+        
+            ga('create', "UA-54492316-9", {
+                cookieDomain: 'none',
+                allowLinker: true,
+                siteSpeedSampleRate: sampleRate,
+                name: 'global'
+            });
+            ga("global.set", "anonymizeIp", true);
+            ga('global.send', 'pageview');
+            ga('set', 'transport', 'beacon');
+        
+        }())
+    </script>
+    <script async src='https://www.google-analytics.com/analytics.js'></script>
+    
+
+        
+    
+    <link rel="canonical" href="//genomebiology.biomedcentral.com/articles/10.1186/gb-2010-11-5-211"/>
+    
+
+
+        
+
+        
+        
+    <meta property="og:url" content="https://genomebiology.biomedcentral.com/articles/10.1186/gb-2010-11-5-211"/>
+    <meta property="og:type" content="article"/>
+    <meta property="og:site_name" content="Genome Biology"/>
+    <meta property="og:title" content="Cancer genomics identifies determinants of tumor biology"/>
+    <meta property="og:description" content="Unbiased sequencing and analysis of human tumors is revealing unsuspected somatic changes that, upon further study, are elucidating aspects of tumor biology and identifying new biomarkers."/>
+    <meta property="og:image" content="https://images.springer.com/sgw/journals/medium/13059.jpg"/>
+
+        
+    </head>
+
+    <body class="fulltext" >
+    
+    
+        
+    
+
+    
+    <div class="container" style="height: 0"><div id="wt_refpoint"></div></div>
+    <p class="skip-to-main">
+    <a class="skip-to-main__link" href="#main">Skip to main content</a>
+</p>
+
+    <div id="top">
+        
+<div id="RealMediaLeaderboard" class="adsbox RealMediaAd Ad Ad--leaderboard" data-position="Top">
+    <div class="Ad_content">
+        <p class="Ad_label">Advertisement</p>
+        
+    </div>
+</div>
+
+
+        
+
+
+
+         
+    <div id="membership-message-loader-desktop" class="placeholder" data-placeholder="/placeholder/v1/membership/message"></div>
+    <header class="header" role="banner">
+        <div class="header__inner">
+            <a id="header-logo" href="//www.biomedcentral.com/" class="logo header__logo" title="BioMed Central">
+                <img srcset="/static/images/biomed-central-logo-976eb64772.svg" src="/static/images/biomed-central-logo-5300b47908.png" class="logo__img" alt="Biomed Central" />
+            </a>
+            <div class="header__right">
+                <div class="toggles js-fade-toggle">
+                    <p id="loginLink" class="sign-in toggles__item" data-replace="true" data-placeholder="/placeholder/v1/username">
+    <a class="sign-in__link" href="//www.biomedcentral.com/login" data-track-event="click" data-event-category="Account" data-event-action="Click Login Link">
+        <span class="sign-in__no-js-account-hide">Login
+            <span class="sign-in__js-account-hide"> to </span>
+        </span>
+        <span class="sign-in__js-account-hide sign-in__no-js-capitalise">your account</span>
+    </a>
+</p>
+                    
+                    <a href="#globalSearch" class="toggles__item toggles__item--search" data-toggle="search"><span class="sr-only">Search</span></a>
+                </div>
+                <form role="search" id="globalSearch" class="search search--expandable header__search" method="GET" action="//www.biomedcentral.com/search" data-track-event="submit"
+      data-event-category="Search and Results" data-event-action="Submit search" data-event-label="">
+    <div class="search__content">
+        <label for="publisherSearch" class="sr-only">Search BioMed Central articles</label>
+        <input id="publisherSearch" class="search__input" autocomplete="off" role="textbox" name="query" type="text" value="" title="Search BioMed Central" placeholder="Search BioMed Central articles"/>
+        <button id="search" class="search__button" type="submit">
+            <span class="sr-only">Search</span>
+        </button>
+        <input type="hidden" name="searchType" value="publisherSearch"/>
+    </div>
+</form>
+
+            </div>
+            
+        </div>
+    </header>
+
+        <main role="main">
+            
+            <header class="journal-header" role="banner">
+                <div class="journal-header__inner">
+                    <h2 class="journal-header__title journal-header__title--medium" id="journalTitle">
+                        
+                        <a class="journal-header__title-text" href="/">
+                            Genome Biology
+                        </a>
+                    </h2>
+                    
+                </div>
+                <div class="navbar">
+                    <div class="navbar__inner">
+                        
+
+                        
+                        <nav class="navbar__nav">
+                            <h3 class="navbar__menu-toggle" data-toggle="collapse" data-target="journal-menu">
+                                <span class="sr-only">Main </span>menu
+                            </h3>
+                            <ul id="journal-menu" class="navbar__menu" id="siteNavigation" role="menu">
+                                
+                                    <li class="navbar__item" role="menuitem">
+                                        <a class="navbar__link" href='/'>Home</a>
+                                    </li>
+                                
+                                    <li class="navbar__item" role="menuitem">
+                                        <a class="navbar__link" href='/about'>About</a>
+                                    </li>
+                                
+                                    <li class="navbar__item" role="menuitem">
+                                        <a class="navbar__link is-active" href='/articles'>Articles</a>
+                                    </li>
+                                
+                                    <li class="navbar__item" role="menuitem">
+                                        <a class="navbar__link" href='/submission-guidelines'>Submission Guidelines</a>
+                                    </li>
+                                
+                            </ul>
+                        </nav>
+                        
+                    </div>
+                </div>
+                <div class="journal-identity journal-identity--fingers-blue">
+                    
+                </div>
+            </header>
+            
+        
+            <div class="container">
+                
+                <div id="main" class="layout">
+                
+                    <div class="layout__main--wide" id="main-content">
+                        <div class="block" id="Test-ImgSrc">
+                            
+                            
+    <div class="FulltextWrapper">
+        <div class="Categories">
+            <div class="ArticleCategory">Review</div>
+            <div class="OpenAccessLabel">Open Access</div>
+            
+        </div>
+        
+    </div>
+
+                            <div class="FulltextWrapper"><div xmlns="" xmlns:fn="http://www.w3.org/2005/xpath-functions" xmlns:meta="http://www.springer.com/app/meta" class="MainTitleSection"><h1 xmlns="http://www.w3.org/1999/xhtml" class="ArticleTitle" lang="en">Cancer genomics identifies determinants of tumor biology</h1></div><div xmlns="" xmlns:fn="http://www.w3.org/2005/xpath-functions" xmlns:meta="http://www.springer.com/app/meta" class="AuthorNames" data-author-affiliations="true"><ul class="u-listReset"><li class="Author" data-jumpto="Aff"><span xmlns:func="http://oscar.fig.bmc.com" xmlns="http://www.w3.org/1999/xhtml" class="AuthorName">Elaine&nbsp;R&nbsp;Mardis</span><sup><a href="#Aff1" class="AffiliationID">1</a></sup><a href="mailto:emardis@wustl.edu" class="EmailAuthor" title="Email author"><span class="ContactIcon" aria-hidden="true"></span><span class="u-srOnly">Email author</span></a></li></ul></div><div xmlns="" xmlns:fn="http://www.w3.org/2005/xpath-functions" xmlns:meta="http://www.springer.com/app/meta" class="ArticleContextInformation"><div class="ContextInformation"><div class="ContextInformationJournalTitles"><span class="ArticleCitation"><span xmlns="http://www.w3.org/1999/xhtml" class="JournalTitle">Genome Biology</span><span class="ArticleCitation_Year">2010</span><span class="ArticleCitation_Volume"><strong>11</strong>:211</span></span></div><p class="ArticleDOI"><a target="_blank" href="https://doi.org/10.1186/gb-2010-11-5-211">https://doi.org/10.1186/gb-2010-11-5-211</a></p><p class="Copyright">© &nbsp;BioMed Central Ltd.&nbsp;2010</p></div></div><div class="ArticleHistory"><p class="History HistoryOnlineDate"><strong>Published: </strong>5&nbsp;May&nbsp;2010</p></div></div>
+                            
+                            
+                            
+    
+
+                            <div class="FulltextWrapper"><section xmlns="" xmlns:fn="http://www.w3.org/2005/xpath-functions" xmlns:meta="http://www.springer.com/app/meta" class="Abstract" id="Abs1" lang="en"><h2 class="Heading js-ToggleCollapseSection">Abstract</h2><div class="js-CollapseSection"><p xmlns:func="http://oscar.fig.bmc.com" xmlns="http://www.w3.org/1999/xhtml" class="Para">Unbiased sequencing and analysis of human tumors is revealing unsuspected somatic changes that, upon further study, are elucidating aspects of tumor biology and identifying new biomarkers.</p></div></section>
+            <p xmlns:func="http://oscar.fig.bmc.com" class="Para">Whole-genome sequencing and analysis of tumor and matched normal genomes with next-generation sequencing platforms has begun to illuminate commonly mutated genes and transcript-level events that contribute to the underlying tumor biology. To elucidate the role of frequent somatic mutations, the mutant proteins have been biochemically characterized and the results interpreted in terms of the selective advantages these variants may confer on the tumor. Certain somatic alterations have demonstrable prognostic value for specific tumor types in which they commonly occur, although their downstream metabolic signatures may obviate genotyping to identify their mutational status. The metabolic signature is a direct result of the mutation's impact on a given protein/enzyme; therefore, rather than performing sequencing to detect whether a mutation is present, metabolic profiling may be more straightforward, cheaper, and have a lower error rate, for example. New insights into the relationship between a primary tumor and its fatal metastatic disease are also beginning to emerge from genomic comparisons, with the fine detail afforded by next-generation sequencing enabling these comparisons.</p>
+            <p xmlns:func="http://oscar.fig.bmc.com" class="Para">The transcriptomes of cancer cells also have their own unique somatic complexities, which often result from structural perturbations to the genome, but can be due to transcription-level events such as alternative splicing, RNA editing or transcript fusion. These types of alterations may explain certain aspects of tumor biology and may also be corroborated by cytogenetic phenomena. In this review, I will describe some tumor-specific alterations that were discovered as a result of analyses of unbiased genome or transcriptome sequencing data (unbiased sequencing does not select for portions of the genome or transcriptome in advance, and the entire genome or transcriptome is therefore surveyed) and then illustrate how these discoveries were pursued further to reveal insights into tumor biology that have enhanced our clinical diagnosis of cancer and our concepts of how best to treat it.</p>
+            <section xmlns="" xmlns:fn="http://www.w3.org/2005/xpath-functions" xmlns:meta="http://www.springer.com/app/meta" id="Sec1" class="Section1 RenderAsSection1"><h2 class="Heading js-ToggleCollapseSection">Genome-based discovery in cancer</h2><div class="js-CollapseSection"><p xmlns:func="http://oscar.fig.bmc.com" xmlns="http://www.w3.org/1999/xhtml" class="Para">In a 1956 paper [<span class="CitationRef"><a href="#CR1" data-toggle="citation" data-target="CR1">1</a></span>], Otto Warburg observed that the predominant mode of energy production in cancer cells was by aerobic glycolysis rather than by oxidation of pyruvate in mitochondria, as in normal cells. This observation led Warburg to postulate that this change in metabolism was a fundamental cause of cancer. Years later, in 1986, Renato Dulbecco opined that studying the cellular genome should be pursued to learn more about cancer, either by taking a 'piecemeal' approach of looking gene by gene, or by sequencing the whole genome [<span class="CitationRef"><a href="#CR2" data-toggle="citation" data-target="CR2">2</a></span>].</p><section id="Sec2" class="Section2 RenderAsSection2">
+                <h3 class="Heading">Somatic mutations in the genes <em class="EmphasisTypeItalic">IDH1</em> and <em class="EmphasisTypeItalic">IDH2</em></h3>
+                <div xmlns:func="http://oscar.fig.bmc.com" xmlns="http://www.w3.org/1999/xhtml" class="Para">In the current era of cancer genomics, one of the most interesting and unexpected discoveries to result from unbiased sequencing of matched tumor and normal samples is the somatic point mutations found in the genes for two isocitrate dehydrogenase isoenzymes, IDH1 and IDH2. First discovered by sequencing the exome (the exons collectively) of the glial brain tumor glioblastoma multiforme (GBM) [<span class="CitationRef"><a href="#CR3" data-toggle="citation" data-target="CR3">3</a></span>], mutated <em xmlns="" class="EmphasisTypeItalic">IDH1</em> was found in 12% of tumors analyzed. The general approach to exome capture and analysis is shown in Figure <span class="InternalRef"><a href="#Fig1">1</a></span>. Subsequent focused re-sequencing refined the occurrence of mutations at arginine 132 (R132) of IDH1, which are found in more than 80% of secondary GBMs (GBMs that initially present as low-grade astrocytomas (tumors of astrocytes)), and less than 10% of primary GBMs [<span class="CitationRef"><a href="#CR4" data-toggle="citation" data-target="CR4">4</a></span>–<span class="CitationRef"><a href="#CR6" data-toggle="citation" data-target="CR6">6</a></span>]. Subsequent work, explained later in this review, identified the biological impact of these mutations on enzyme function. On examining gliomas, including GBMs, negative for IDH1 mutations, recurrent somatic mutations of IDH2 at the analogous R172 residue were identified [<span class="CitationRef"><a href="#CR4" data-toggle="citation" data-target="CR4">4</a></span>, <span class="CitationRef"><a href="#CR7" data-toggle="citation" data-target="CR7">7</a></span>]. Not only are the IDH1 and IDH2 mutations frequent, but studies by several laboratories have established that the mutation in IDH1 occurs early in glioma progression [<span class="CitationRef"><a href="#CR8" data-toggle="citation" data-target="CR8">8</a></span>]. Notably, the mutations affect only one allele at the given locus (of the two alleles of either IDH1 or IDH2, but not both in the same tumor), which is puzzling considering the evidence that they are selected for early in tumorigenesis. Analysis of the correlation between mutation in IDH1 or IDH2 and various clinical features has revealed interesting associations between the presence of mutation and an early age of disease onset and overall longer survival time in GBMs and in anaplastic astrocytomas (another type of glial tumor, distinct from GBMs) [<span class="CitationRef"><a href="#CR4" data-toggle="citation" data-target="CR4">4</a></span>].<figure xmlns="" class="Figure" id="Fig1"><div xmlns="http://www.w3.org/1999/xhtml" class="MediaObject">
+                      <a target="_blank" href="http://media.springernature.com/full/springer-static/image/art%3A10.1186%2Fgb-2010-11-5-211/MediaObjects/13059_2010_Article_2424_Fig1_HTML.jpg"><img src="http://media.springernature.com/lw785/springer-static/image/art%3A10.1186%2Fgb-2010-11-5-211/MediaObjects/13059_2010_Article_2424_Fig1_HTML.jpg"></img></a>
+                    </div><figcaption class="Caption" lang="en"><div xmlns="http://www.w3.org/1999/xhtml" class="CaptionContent"><span class="CaptionNumber">Figure 1</span>
+                        <p xmlns="" class="SimplePara"><strong class="EmphasisTypeBold">General schema for targeted exome capture, whole genome sequencing, and transcriptome sequencing</strong>. <strong class="EmphasisTypeBold">(a)</strong> In exome capture, a random library of genomic fragments, each containing platform-specific adapters on each end, is combined with a set of probes that define the human exome. Following hybridization, the probe:genomic library fragment hybrids are captured using magnetic beads and isolated from solution by the application of a magnet, or by solid phase capture. Denaturing conditions are used to elute the captured genomic library fragment population from the hybrids, and prepared for sequencing. <strong class="EmphasisTypeBold">(b)</strong> In whole genome sequencing, the same random fragment library is constructed as in (a), but the resulting fragments are sequenced directly without a capture step. <strong class="EmphasisTypeBold">(c)</strong> In transcriptome sequencing, the RNA is converted to cDNA, the resulting cDNAs are fragmented, and the library adapters are ligated to the resulting fragments, followed by sequencing. Panel (a) reproduced with permission from [<span xmlns="http://www.w3.org/1999/xhtml" class="CitationRef"><a href="#CR27" data-toggle="citation" data-target="CR27">27</a></span>].</p>
+                      </div></figcaption></figure></div>
+                <div xmlns:func="http://oscar.fig.bmc.com" xmlns="http://www.w3.org/1999/xhtml" class="Para">The IDH enzymes play a key role in cellular metabolism, catalyzing the conversion of isocitrate to α-ketoglutarate (α-KG) and generating NADPH from NADP<sup>+</sup> in the process (Figure <span class="InternalRef"><a href="#Fig2">2</a></span>). The crystal structure of IDH1 [<span class="CitationRef"><a href="#CR9" data-toggle="citation" data-target="CR9">9</a></span>] predicts that the amino acid substitutions found at the R132 position will impair the interaction of the enzyme with its isocitrate substrate, and functional and biochemical studies of the mutant proteins by several groups have provided critical insights into this [<span class="CitationRef"><a href="#CR4" data-toggle="citation" data-target="CR4">4</a></span>, <span class="CitationRef"><a href="#CR10" data-toggle="citation" data-target="CR10">10</a></span>, <span class="CitationRef"><a href="#CR11" data-toggle="citation" data-target="CR11">11</a></span>]. Zhao and colleagues [<span class="CitationRef"><a href="#CR10" data-toggle="citation" data-target="CR10">10</a></span>] evaluated the <em xmlns="" class="EmphasisTypeItalic">in vitro</em> enzymatic activities of three tumor-derived IDH1 mutants - R132H, R132C and R132S - by expressing mutant constructs in transformed human embryonic kidney 293T cells. They observed all three mutants to have a more than 80% reduction in the ability to convert isocitrate to α-KG compared with the wild-type enzyme, and further kinetic analyses revealed a dramatically reduced affinity for isocitrate in all three mutants. As IDH1 functions as a homodimeric complex, Zhao <em xmlns="" class="EmphasisTypeItalic">et al</em>. [<span class="CitationRef"><a href="#CR10" data-toggle="citation" data-target="CR10">10</a></span>] isolated IDH1 dimers expressed from the R132H mutant and wild-type genes introduced into <em xmlns="" class="EmphasisTypeItalic">Escherichia coli</em>. Three dimer combinations were identified, the wild-type:R132H heterodimer exhibited only 4% of the wild-type dimer enzyme activity, while R132H:R132H homodimers were almost completely inactive.<figure xmlns="" class="Figure" id="Fig2"><div xmlns="http://www.w3.org/1999/xhtml" class="MediaObject">
+                      <a target="_blank" href="http://media.springernature.com/full/springer-static/image/art%3A10.1186%2Fgb-2010-11-5-211/MediaObjects/13059_2010_Article_2424_Fig2_HTML.jpg"><img src="http://media.springernature.com/lw785/springer-static/image/art%3A10.1186%2Fgb-2010-11-5-211/MediaObjects/13059_2010_Article_2424_Fig2_HTML.jpg"></img></a>
+                    </div><figcaption class="Caption" lang="en"><div xmlns="http://www.w3.org/1999/xhtml" class="CaptionContent"><span class="CaptionNumber">Figure 2</span>
+                        <p xmlns="" class="SimplePara"><strong class="EmphasisTypeBold">Impact of IDH1/2 mutations on tumor cell biology</strong>. <strong class="EmphasisTypeBold">(a)</strong> In normal cells, the role of IDH1 and IDH2 enzymes is to convert isocitrate to α-ketoglutarate (α-KG), converting NADP+ to NADPH. The presence of α-KG regulates prolylhydroxylases (PHD) that, in turn, promote the degradation of hypoxia-inducible factor 1α (HIF-1α). HIF-1α is a transcription factor that regulates the expression of genes related to glucose metabolism, angiogenesis, and other signaling pathways by sensing low cellular oxygen levels. The mutant IDH enzymes convert α-KG to 2-hydroxyglutarate (2-HG), leading to the build up of this oncometabolite. <strong class="EmphasisTypeBold">(b)</strong> Comparison of metabolomic profiling of IDH wild-type (upper panel) and mutant (lower panel) cells, indicating the increased levels of 2-HG associated with the mutation. 2-HG is absent in IDH wild-type cells. Panel (b) reproduced with permission from [<span xmlns="http://www.w3.org/1999/xhtml" class="CitationRef"><a href="#CR15" data-toggle="citation" data-target="CR15">15</a></span>].</p>
+                      </div></figcaption></figure></div>
+                <p xmlns:func="http://oscar.fig.bmc.com" xmlns="http://www.w3.org/1999/xhtml" class="Para">What are the metabolic consequences of IDH1 mutations? Using the U-87 MG human glioblastoma cell line, Zhao <em xmlns="" class="EmphasisTypeItalic">et al</em>. [<span class="CitationRef"><a href="#CR10" data-toggle="citation" data-target="CR10">10</a></span>] demonstrated a concomitant reduction in cellular α-KG levels after knocking down endogenous IDH1, and because α-KG is required by prolylhydroxylases, enzymes that hydroxylate and promote the degradation of hypoxia-inducible factor 1α (HIF-1α), the intracellular levels of HIF-1α were also characterized. Zhao <em xmlns="" class="EmphasisTypeItalic">et al</em>. showed that when wild-type IDH1 is knocked down by RNA interference using short hairpin RNA, HIF-1α is elevated, and when IDH1 is overexpressed, HIF-1α levels are reduced. HIF-1α is a component of HIF-1, a transcription factor that regulates the expression of genes related to glucose metabolism, angiogenesis, and other signaling pathways by sensing low cellular oxygen levels. By performing quantitative PCR to measure the transcripts of three known HIF-1 target genes - glucose transporter 1 (<em xmlns="" class="EmphasisTypeItalic">Glut1</em>), vascular endothelial growth factor (<em xmlns="" class="EmphasisTypeItalic">VEGF</em>), and phosphoglycerate kinase (<em xmlns="" class="EmphasisTypeItalic">PGK1</em>) - Zhao <em xmlns="" class="EmphasisTypeItalic">et al</em>. demonstrated induced expression of these genes as a consequence of either the knockdown of wild-type IDH1 or the expression of the IDH1 R132H mutant. On staining glioma samples for HIF-1α, those tumors with previously identified R132H mutations showed a statistically stronger staining signal than those without mutations. Thus, this body of evidence has demonstrated that when IDH1 is mutated, its function is reduced and the downstream impact of that reduced function (the consequential upregulation of HIF-1α) contributes to the cell's progression to cancer, thereby indicating that a likely function of <em xmlns="" class="EmphasisTypeItalic">IDH1</em> is that of a tumor suppressor gene. Further experimentation is needed to support the claim that <em xmlns="" class="EmphasisTypeItalic">IDH2</em> may be a tumor suppressor gene also.</p>
+                <p xmlns:func="http://oscar.fig.bmc.com" xmlns="http://www.w3.org/1999/xhtml" class="Para">Building on the initial characterizations of IDH1 mutations in gliomas, Dang <em xmlns="" class="EmphasisTypeItalic">et al</em>. [<span class="CitationRef"><a href="#CR11" data-toggle="citation" data-target="CR11">11</a></span>] took a metabolomics-based approach to identify further changes in associated metabolite levels when an IDH1 mutation is present [<span class="CitationRef"><a href="#CR11" data-toggle="citation" data-target="CR11">11</a></span>]. They found 2-hydroxyglutarate (2-HG) to be the only metabolite with significantly increased abundance in cells expressing R132H mutant IDH1. In a clever series of experiments, the increase in 2-HG was shown to result from the NADPH-dependent reduction of α-KG by mutant IDH1, a new function that is enabled by the mutation at R132. The authors demonstrated a similar gain of function for the R132C, R132L and R132S mutations. Their X-ray crystallographic studies showed that the R132H mutation in IDH1 results in the formation of an active site distinct from that of the wild-type enzyme. With the aim of improving diagnostic efficacy, Dang <em xmlns="" class="EmphasisTypeItalic">et al</em>. examined 12 GBM tumors with various R132 mutations in IDH1, and found 2-HG levels 100-fold greater or more than in tumors with wild-type IDH1; the measured decrease in α-KG was, however, not statistically different in mutant versus wild-type IDH1 tumors. This finding indicates that in the clinic, detecting patients with increased 2-HG levels would identify GBMs with IDH1 mutations, predicting an overall longer survival time. Indeed, since secondary GBMs develop from lower-grade gliomas, therapeutic inhibition of 2-HG production might slow the transition time to GBM development, offering an improved survival benefit as a result.</p>
+                <p xmlns:func="http://oscar.fig.bmc.com" xmlns="http://www.w3.org/1999/xhtml" class="Para">In our laboratory we have been using a whole-genome shotgun approach to sequence tumor genomes. In the second case of acute myeloid leukemia (AML) we sequenced, we discovered an IDH1 R132 mutation that was subsequently found in about 8% of our 187 banked AML patient samples, showing that this mutation is not restricted to gliomas [<span class="CitationRef"><a href="#CR12" data-toggle="citation" data-target="CR12">12</a></span>]. In these tumor genomes, we detected R132C, R132H and R132S substitutions, with R132C being most common (8 of 16). PCR assays designed to detect IDH2 R172 mutations in the 188 AML samples did not reveal any. Correlation analyses of clinical data and mutational status for AML patients with IDH1 mutations indicated that the presence of IDH1 mutations, in cases with normal cytogenetics and with wild-type nucleophosmin-1 (<em xmlns="" class="EmphasisTypeItalic">NPM1</em>), a commonly mutated gene in AML that has been known for some time, predicted a worse prognosis, although we did not reach statistical significance with our cohort. Soon after, Schnittger <em xmlns="" class="EmphasisTypeItalic">et al</em>. [<span class="CitationRef"><a href="#CR13" data-toggle="citation" data-target="CR13">13</a></span>] reported an analysis of a cohort of 999 AML patients, finding that IDH1 mutations were frequent (in 9.3% of samples), that the R132C mutant was the most common, and that in the presence of wild-type NPM1 and intermediate cytogenetics (a cytogenetic evaluation of the leukemia cells revealing no clues as to the patient's prognosis), patients with IDH1 mutations had a significantly unfavorable prognosis (<em xmlns="" class="EmphasisTypeItalic">P</em> = 0.038).</p>
+                <p xmlns:func="http://oscar.fig.bmc.com" xmlns="http://www.w3.org/1999/xhtml" class="Para">A subsequent study by Gross <em xmlns="" class="EmphasisTypeItalic">et al</em>. [<span class="CitationRef"><a href="#CR14" data-toggle="citation" data-target="CR14">14</a></span>] examined an additional 145 AML biopsies, identifying 11 IDH1 R132 mutant samples [<span class="CitationRef"><a href="#CR14" data-toggle="citation" data-target="CR14">14</a></span>]. Four IDH1-mutant primary samples had relapse samples that also carried the IDH1 mutation. AML cells carrying the R132 mutant of IDH1 were found by gas chromatography-mass spectrometry to have 2-HG levels around 50-fold greater than in samples with wild-type IDH1. Similarly, higher 2-HG levels were detected in sera from patients positive for the IDH1 R132 mutation. Two wild-type IDH1 samples had elevated 2-HG levels and were found to be carrying IDH2 R172 mutations, the first report of these in AML. Importantly, this paper reinforced the fact that metabolite screening rather than mutational screening can be an important diagnostic approach for the detection of elevated 2-HG levels and, by inference, IDH1/2 mutations. Because of the apparent predominance in AML of the IDH1 R132C mutation over R132H (which is more predominant in gliomas), Gross <em xmlns="" class="EmphasisTypeItalic">et al</em>. [<span class="CitationRef"><a href="#CR14" data-toggle="citation" data-target="CR14">14</a></span>] looked at the kinetics of the R132C mutant enzyme. The R132C enzyme showed a dramatic loss of affinity for isocitrate (resulting in a reduction in K<sub>M</sub>) and a drop of more than six orders of magnitude in net efficiency (K<sub>cat</sub>/K<sub>M</sub>) of isocitrate metabolism.</p>
+                <p xmlns:func="http://oscar.fig.bmc.com" xmlns="http://www.w3.org/1999/xhtml" class="Para">In another recent study, our understanding of IDH mutations and their detection has been extended. Ward <em xmlns="" class="EmphasisTypeItalic">et al</em>. [<span class="CitationRef"><a href="#CR15" data-toggle="citation" data-target="CR15">15</a></span>] have determined that the gain of function seen in the IDH1 R132 mutants (that is, the ability to reduce α-KG) is also found in the IDH2 R172K mutant. Metabolic profiling of cells expressing IDH2 R172K revealed an approximately 100-fold increase in intracellular 2-HG compared with cells overexpressing wild-type IDH2, and this finding was extended to leukemia cells carrying the IDH2 R172K mutation. Ward <em xmlns="" class="EmphasisTypeItalic">et al</em>. [<span class="CitationRef"><a href="#CR15" data-toggle="citation" data-target="CR15">15</a></span>] also screened AML samples with normal cytogenetics but unknown IDH mutational status for increased levels of 2-HG, and then evaluated the mutational status based on the result of the screening assay. In this test, 2-HG measurement was found to predict mutational status with high accuracy. In addition, a new IDH2 mutation, R140Q, was identified in five samples. In a second evaluation of 78 AML samples, IDH2 R140Q mutations were found to be more frequent than either IDH1 R132 mutations or IDH2 R172K [<span class="CitationRef"><a href="#CR15" data-toggle="citation" data-target="CR15">15</a></span>].</p>
+                <p xmlns:func="http://oscar.fig.bmc.com" xmlns="http://www.w3.org/1999/xhtml" class="Para">Despite some differences among sample sets, this body of work, aiming to characterize the impact of IDH mutations on tumor cell biology has led to the conclusion that all mutations discovered so far enable a gain of function in α-KG reduction with a concomitant increase in the tumor-specific metabolite, or oncometabolite, 2-HG. Although the contribution of 2-HG to tumor cell biology remains speculative, Ward <em xmlns="" class="EmphasisTypeItalic">et al</em>. noted that all IDH mutation-containing tumor types identified so far (leukemias and gliomas) are distinguished by proliferation of a relatively undifferentiated cell population, and in this context the effect of 2-HG in the tumor and its microenvironment is to block cellular differentiation [<span class="CitationRef"><a href="#CR15" data-toggle="citation" data-target="CR15">15</a></span>].</p>
+              </section></div></section>
+            <section xmlns="" xmlns:fn="http://www.w3.org/2005/xpath-functions" xmlns:meta="http://www.springer.com/app/meta" id="Sec3" class="Section1 RenderAsSection1"><h2 class="Heading js-ToggleCollapseSection">Whole-genome comparisons of matched primary and metastatic cancers</h2><div class="js-CollapseSection"><p xmlns:func="http://oscar.fig.bmc.com" xmlns="http://www.w3.org/1999/xhtml" class="Para">One intriguing aspect of cancer genomics, for which published examples are few, involves comparing genome-wide alterations between the matched primary and metastatic cancer genomes from the same patient as a way of elucidating both their inter-relationships and the metastatic process. The first such study, by Shah <em xmlns="" class="EmphasisTypeItalic">et al</em>. [<span class="CitationRef"><a href="#CR16" data-toggle="citation" data-target="CR16">16</a></span>], focused whole-genome and whole-transcriptome sequencing on a metastatic tumor genome from an estrogen-receptor-positive, invasive lobular breast cancer that occurred 9 years after the patient's initial diagnosis and treatment. After a combined analysis to identify somatic mutations in both the genomic and transcriptomic data, the primary tumor taken 9 years earlier and the matched blood normal genomes were queried in the light of these findings. The aim was to search the primary tumor genome for the 30 mutations that had been found and validated as tumor-associated in the metastatic genome, and to establish the somatic or germline nature of the variants by comparing their occurrence in blood cells. Variants that were found in the primary tumor data were deeply sampled by sequencing to provide an estimate of the allele frequency for the somatic mutation in the primary tumor. Because of the 9-year interval between diagnosis of the primary tumor and metastasis, significant differences in mutational load were present; only 3 of the 28 tested mutations were prevalent in the primary cancer cells, 6 had an allele frequency of 1 to 13%, and 19 were not detected and were therefore metastasis-specific. Genes found in this analysis to have somatic point mutations were tested for frequency of mutation in 192 breast cancers, revealing that both the gene for the receptor kinase HER2 (3 of 192) and for the HAUS augmin-like complex, subunit 3 (HAUS3); 2 of 192) were mutated [<span class="CitationRef"><a href="#CR16" data-toggle="citation" data-target="CR16">16</a></span>]. A second interesting finding from this study was the detection of two nonsynonymous variants that were introduced by RNA editing, perhaps the first description of this phenomenon from next-generation sequencing data and a strong testament to the importance of transcriptomic data in broadening the range of variant discovery from cancer genomics.</p><p xmlns:func="http://oscar.fig.bmc.com" xmlns="http://www.w3.org/1999/xhtml" class="Para">A recent study by our laboratory used next-generation whole-genome resequencing, analysis and comparison of the genomes of a matched primary breast tumor, metastatic brain tumor, and blood normal from an African-American patient with basal subtype breast cancer [<span class="CitationRef"><a href="#CR17" data-toggle="citation" data-target="CR17">17</a></span>] This estrogen-receptor-negative tumor represents one the most aggressive types of breast cancer, and in this patient only 8 months elapsed between diagnosis of the primary tumor and a diagnosis of metastatic disease. We also sequenced the genome of a human-in-mouse xenograft [<span class="CitationRef"><a href="#CR18" data-toggle="citation" data-target="CR18">18</a></span>] passage of the patient's primary tumor, taken by core biopsy procedure before adjuvant chemotherapy and placed into the fat pad of a NOD/SCID female mouse. Briefly, we found 48 mutations shared across all 3 tumors, and only 2 metastasis-specific point mutations. Two mutations, identified in this analysis, in the kinase JAK2 (affecting the JAK-STAT signaling pathway) and in the gene <em xmlns="" class="EmphasisTypeItalic">CSMD1</em> (CUB and Sushi multiple domains 1; loss of <em xmlns="" class="EmphasisTypeItalic">CSMD1</em> expression is associated with poor survival in invasive ductal breast carcinoma [<span class="CitationRef"><a href="#CR19" data-toggle="citation" data-target="CR19">19</a></span>]) were also found mutated in other types of breast cancer samples. Interestingly, we established that the frequency of 16 mutations in the primary tumor cell population was lower than 10% but rose to very high frequency in both the metastatic and xenograft samples.</p><div xmlns:func="http://oscar.fig.bmc.com" xmlns="http://www.w3.org/1999/xhtml" class="Para">In addition to point mutations, 7 inter-chromosomal translocations, 6 inversions and 28 large deletion events were detected and validated as tumor-associated. One of the large deletions was particularly interesting, and nicely illustrates the exquisite resolution afforded by next-generation sequencing as well as emphasizing the important role of large structural rearrangements in tumor biology. A large (more than 500 kb) biallelic deletion, shown in Figure <span class="InternalRef"><a href="#Fig3">3</a></span>, was detected by the BreakDancer algorithm [<span class="CitationRef"><a href="#CR20" data-toggle="citation" data-target="CR20">20</a></span>], which identifies read pair sequences that map to the reference genome at an unexpected distance or orientation relative to one another, and hence identifies a putative site of structural variation. The assembly of paired reads defining the deleted region resulted in two contigs with distinctly different breakpoints, both of which were confirmed by PCR and sequencing. Annotation of the region indicated that the gene <em xmlns="" class="EmphasisTypeItalic">CTNNA1</em> was completely deleted on both alleles. <em xmlns="" class="EmphasisTypeItalic">CTNNA1</em> encodes an α-catenin, loss of which has been shown to lead to global loss of cell adhesion in human breast cancer cells [<span class="CitationRef"><a href="#CR21" data-toggle="citation" data-target="CR21">21</a></span>]. Figure <span class="InternalRef"><a href="#Fig3">3</a></span> shows that there are an increasing number of cells containing the bi-allelic deletion in the transition from primary to metastatic disease, and that the xenograft tumor cells carry only the bi-allelic deletion in their genomes - trends reminiscent of the somatic point mutations mentioned in the previous paragraph.<figure xmlns="" class="Figure" id="Fig3"><div xmlns="http://www.w3.org/1999/xhtml" class="MediaObject">
+                    <a target="_blank" href="http://media.springernature.com/full/springer-static/image/art%3A10.1186%2Fgb-2010-11-5-211/MediaObjects/13059_2010_Article_2424_Fig3_HTML.jpg"><img src="http://media.springernature.com/lw785/springer-static/image/art%3A10.1186%2Fgb-2010-11-5-211/MediaObjects/13059_2010_Article_2424_Fig3_HTML.jpg"></img></a>
+                  </div><figcaption class="Caption" lang="en"><div xmlns="http://www.w3.org/1999/xhtml" class="CaptionContent"><span class="CaptionNumber">Figure 3</span>
+                      <p xmlns="" class="SimplePara"><strong class="EmphasisTypeBold">Two overlapping</strong> <span class="EmphasisTypeBoldItalic">CTNNA1</span> <strong class="EmphasisTypeBold">deletions on chromosome 5 in three tumors</strong>. A graph of sequence depths, read pairs and genes in a 638,468-bp region containing two overlapping deletions. The top four panels display the read depths at each base, and the reads within the region whose mates mapped at an abnormal distance are displayed as bars, with matched pairs connected by arcs. Two different shades of blue indicate the two separate allelic deletion events (538,467 bp and 515,465 bp in length). The bottom panel displays genes annotated in this genomic region. Reproduced with permission from [<span xmlns="http://www.w3.org/1999/xhtml" class="CitationRef"><a href="#CR17" data-toggle="citation" data-target="CR17">17</a></span>].</p>
+                    </div></figcaption></figure></div></div></section>
+            <section xmlns="" xmlns:fn="http://www.w3.org/2005/xpath-functions" xmlns:meta="http://www.springer.com/app/meta" id="Sec4" class="Section1 RenderAsSection1"><h2 class="Heading js-ToggleCollapseSection">Monitoring tumor-specific DNA biomarkers</h2><div class="js-CollapseSection"><p xmlns:func="http://oscar.fig.bmc.com" xmlns="http://www.w3.org/1999/xhtml" class="Para">At the interface between variant discovery and the transition from primary to metastatic disease lies the possibility of identifying personalized biomarkers that might enable an oncologist to monitor the progression or remission of a cancer. This approach has been elegantly developed by Leary <em xmlns="" class="EmphasisTypeItalic">et al</em>. [<span class="CitationRef"><a href="#CR22" data-toggle="citation" data-target="CR22">22</a></span>], who utilized long-distance mate-pair sequencing (a variation of paired end sequencing involving circularization of long DNA fragments (&gt;1 kb) and ligation to an internal adapter DNA of known sequence) of an approximately 1.4 kbp region on the SOLiD platform to detect and characterize tumor-specific structural variations in two colon and two breast tumors [<span class="CitationRef"><a href="#CR22" data-toggle="citation" data-target="CR22">22</a></span>]. Each sample was found to carry at least four validated somatic rearrangements that were then used to design PCR assays by which they could be detected. Patients' sera were assayed by PCR and this revealed that the amount of DNA circulating in plasma was sufficient to detect the tumor DNA rearrangements. In one case, serum samples were taken before and after tumor resection, and the levels of tumor-specific biomarker DNA in the plasma mirrored these procedures. This remarkable demonstration may transform our clinical approach to monitoring the course of cancer with minimally invasive methods.</p></div></section>
+            <section xmlns="" xmlns:fn="http://www.w3.org/2005/xpath-functions" xmlns:meta="http://www.springer.com/app/meta" id="Sec5" class="Section1 RenderAsSection1"><h2 class="Heading js-ToggleCollapseSection">Transcriptome-based discovery in cancer</h2><div class="js-CollapseSection"><section id="Sec6" class="Section2 RenderAsSection2">
+                <h3 class="Heading">Novel fusion transcripts in prostate tumors</h3>
+                <p xmlns:func="http://oscar.fig.bmc.com" xmlns="http://www.w3.org/1999/xhtml" class="Para">Several groups now have pioneered efforts at unbiased transcriptome discovery using next-generation sequencing of mRNA (RNA-seq) from the tumor cell population and a variety of approaches to analyze the data. Although algorithmically complex to detect, there are a number of unique transcription-level processes that modify the encoded genome, including alternative splicing, RNA editing, and the formation of chimeric transcripts. Maher <em xmlns="" class="EmphasisTypeItalic">et al</em>. have published two studies [<span class="CitationRef"><a href="#CR23" data-toggle="citation" data-target="CR23">23</a></span>, <span class="CitationRef"><a href="#CR24" data-toggle="citation" data-target="CR24">24</a></span>] that illustrate the development and implementation of RNA-seq analytical approaches to discover novel fusion transcripts in prostate tumors, which are often regulated by androgen levels. Initially, a dual-platform strategy combined longer read-length RNA-seq data from the Roche/454 platform with shorter RNA-seq fragment reads from the Illumina platform, and resulted in the discovery of a novel chimeric transcript, <em xmlns="" class="EmphasisTypeItalic">SLC45A3-ELK4</em>, in prostate tumor samples [<span class="CitationRef"><a href="#CR23" data-toggle="citation" data-target="CR23">23</a></span>]. The second approach [<span class="CitationRef"><a href="#CR24" data-toggle="citation" data-target="CR24">24</a></span>] took advantage of Illumina paired-end RNA-seq data and a different algorithmic filtering of mapped paired ends to identify putative chimeric transcripts. When combining these read pairs with unmapped reads that span the fusion boundary, fusion transcripts previously identified in prostate cancer cells, such as <em xmlns="" class="EmphasisTypeItalic">TMPRSS2-ERG</em>, were detected, as were novel fusion transcripts such as <em xmlns="" class="EmphasisTypeItalic">HERPUD1-ERG</em>. These discoveries not only enhance our understanding of fusion transcripts in cancer, but have led to experiments to interrogate the role of hormonal signaling by androgens in inducing chromosomal movements that bring two genes that participate in a detected fusion event into close proximity [<span class="CitationRef"><a href="#CR25" data-toggle="citation" data-target="CR25">25</a></span>].</p>
+              </section><section id="Sec7" class="Section2 RenderAsSection2">
+                <h3 class="Heading">FOXL2 mutations in granulosa-cell ovarian tumors</h3>
+                <p xmlns:func="http://oscar.fig.bmc.com" xmlns="http://www.w3.org/1999/xhtml" class="Para">In a recent study, Shah <em xmlns="" class="EmphasisTypeItalic">et al</em>. [<span class="CitationRef"><a href="#CR26" data-toggle="citation" data-target="CR26">26</a></span>] evaluated the transcriptomes of four adult granulosa-cell tumors (GCTs) of the ovary, identifying putative variants involved in tumorigenesis by shared analysis of all four tumors. A single missense point mutation in <em xmlns="" class="EmphasisTypeItalic">FOXL2</em> was identified (C134W), and was subsequently found in an additional 86 out of 89 cases of adult GCTs. The gene was not mutated in other ovarian tumors of different types, nor in breast cancers that were tested. FOXL2 is a transcription factor in the forkhead-winged-helix family and is required for the normal development of granulosa cells. Although loss-of-function mutations in <em xmlns="" class="EmphasisTypeItalic">FOXL2</em> have been described for germline genomes, this was the first description of <em xmlns="" class="EmphasisTypeItalic">FOXL2</em> somatic mutations in ovarian tumors. We await the results of downstream functional studies, which will be required to reveal the impact of the cysteine-to-tryptophan amino acid change on the activity of this transcription factor, as well as altered transcription of genes bound by FOXL2.</p>
+                <p xmlns:func="http://oscar.fig.bmc.com" xmlns="http://www.w3.org/1999/xhtml" class="Para">In conclusion, cancer genomics, largely due to the unbiased and comprehensive nature of data that can be produced by next-generation sequencing platforms, is being applied to unravel the DNA- and RNA-level somatic alterations that determine tumor development and progression. It has been remarkable to see the pursuit of enzymatic, biochemical, functional and diagnostic implications of the earliest discoveries afforded by these methods. Hopefully, these important efforts will scale to accommodate the wave of next-generation-based discovery that is imminent, and the ultimate benefactors of our enhanced knowledge will be the patients and families whose lives are touched by this disease.</p>
+              </section></div></section>
+          <section xmlns="" xmlns:fn="http://www.w3.org/2005/xpath-functions" xmlns:meta="http://www.springer.com/app/meta" class="Section1 RenderAsSection1" id="Declarations"><h2 class="Heading js-ToggleCollapseSection">
+              Declarations
+            </h2><div class="js-CollapseSection"><aside class="Appendix" id="App1">
+              
+                <h3 class="Heading">Authors' original submitted files for images</h3><div id="widgetContainer"></div>
+                <div xmlns:func="http://oscar.fig.bmc.com" xmlns="http://www.w3.org/1999/xhtml" class="Para">Below are the links to the authors’ original submitted files for images.<div class="MediaObject" id="MOESM1">
+                    <div xmlns="" class="esm-item "><div xmlns="http://www.w3.org/1999/xhtml" class="caption-container"><a class="filename" href="https://static-content.springer.com/esm/art%3A10.1186%2Fgb-2010-11-5-211/MediaObjects/13059_2010_2424_MOESM1_ESM.eps">13059_2010_2424_MOESM1_ESM.eps</a>
+                          <span xmlns="" class="SimplePara">Authors’ original file for figure 1</span>
+                        </div></div>
+                  </div><div class="MediaObject" id="MOESM2">
+                    <div xmlns="" class="esm-item "><div xmlns="http://www.w3.org/1999/xhtml" class="caption-container"><a class="filename" href="https://static-content.springer.com/esm/art%3A10.1186%2Fgb-2010-11-5-211/MediaObjects/13059_2010_2424_MOESM2_ESM.eps">13059_2010_2424_MOESM2_ESM.eps</a>
+                          <span xmlns="" class="SimplePara">Authors’ original file for figure 2</span>
+                        </div></div>
+                  </div><div class="MediaObject" id="MOESM3">
+                    <div xmlns="" class="esm-item "><div xmlns="http://www.w3.org/1999/xhtml" class="caption-container"><a class="filename" href="https://static-content.springer.com/esm/art%3A10.1186%2Fgb-2010-11-5-211/MediaObjects/13059_2010_2424_MOESM3_ESM.eps">13059_2010_2424_MOESM3_ESM.eps</a>
+                          <span xmlns="" class="SimplePara">Authors’ original file for figure 3</span>
+                        </div></div>
+                  </div></div>
+              
+            </aside></div></section></div>
+                            <div class="FulltextWrapper"><section xmlns="" xmlns:fn="http://www.w3.org/2005/xpath-functions" xmlns:meta="http://www.springer.com/app/meta" class="Section1 RenderAsSection1 Affiliations" id="Aff"><h2 class="Heading js-ToggleCollapseSection">Authors’ Affiliations</h2><div class="js-CollapseSection"><div class="Affiliation" id="Aff1"><span class="AffiliationNumber">(1)</span><div class="AffiliationText">The Genome Center, Washington University School of Medicine</div></div></div></section></div>
+                            <div class="FulltextWrapper"><section xmlns="" xmlns:fn="http://www.w3.org/2005/xpath-functions" xmlns:meta="http://www.springer.com/app/meta" class="Section1 RenderAsSection1 SectionTypeMaterialsAndMethods" id="Bib1"><h2 class="Heading js-ToggleCollapseSection">References</h2><div class="js-CollapseSection"><ol class="BibliographyWrapper"><li class="Citation"><cite class="CitationContent" id="CR1">Warburg O: On the origin of cancer cells. Science. 1956, 123: 309-314. 10.1126/science.123.3191.309.<span class="Occurrences"><span class="Occurrence OccurrencePID"><a target="_blank" href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=PubMed&amp;dopt=Abstract&amp;list_uids=13298683"><span><span>PubMed</span></span></a></span><span class="Occurrence OccurrenceDOI"><a target="_blank" href="https://doi.org/10.1126/science.123.3191.309"><span><span>View Article</span></span></a></span><span class="Occurrence OccurrenceGS"><a target="_blank" href="http://scholar.google.com/scholar_lookup?title=On%20the%20origin%20of%20cancer%20cells.&amp;author=O.%20Warburg&amp;journal=Science&amp;volume=123&amp;pages=309-314&amp;publication_year=1956&amp;doi=10.1126%2Fscience.123.3191.309"><span><span>Google Scholar</span></span></a></span></span></cite></li><li class="Citation"><cite class="CitationContent" id="CR2">Dulbecco R: A turning point in cancer research: sequencing the human genome. Science. 1986, 231: 1055-1056. 10.1126/science.3945817.<span class="Occurrences"><span class="Occurrence OccurrencePID"><a target="_blank" href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=PubMed&amp;dopt=Abstract&amp;list_uids=3945817"><span><span>PubMed</span></span></a></span><span class="Occurrence OccurrenceDOI"><a target="_blank" href="https://doi.org/10.1126/science.3945817"><span><span>View Article</span></span></a></span><span class="Occurrence OccurrenceGS"><a target="_blank" href="http://scholar.google.com/scholar_lookup?title=A%20turning%20point%20in%20cancer%20research%3A%20sequencing%20the%20human%20genome.&amp;author=R.%20Dulbecco&amp;journal=Science&amp;volume=231&amp;pages=1055-1056&amp;publication_year=1986&amp;doi=10.1126%2Fscience.3945817"><span><span>Google Scholar</span></span></a></span></span></cite></li><li class="Citation"><cite class="CitationContent" id="CR3">Parsons DW, Jones S, Zhang X, Lin JC, Leary RJ, Angenendt P, Mankoo P, Carter H, Siu IM, Gallia GL, Olivi A, McLendon R, Rasheed BA, Keir S, Nikolskaya T, Nikolsky Y, Busam DA, Tekleab H, Diaz LA, Hartigan J, Smith DR, Strausberg RL, Marie SK, Shinjo SM, Yan H, Riggins GJ, Bigner DD, Karchin R, Papadopoulos N, Parmigiani G, et al: An integrated genomic analysis of human glioblastoma multiforme. Science. 2008, 321: 1807-1812. 10.1126/science.1164382.<span class="Occurrences"><span class="Occurrence OccurrencePID"><a target="_blank" href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=PubMed&amp;dopt=Abstract&amp;list_uids=18772396"><span><span>PubMed</span></span></a></span><span class="Occurrence OccurrencePMCID"><a target="_blank" href="http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2820389"><span><span>PubMed Central</span></span></a></span><span class="Occurrence OccurrenceDOI"><a target="_blank" href="https://doi.org/10.1126/science.1164382"><span><span>View Article</span></span></a></span><span class="Occurrence OccurrenceGS"><a target="_blank" href="http://scholar.google.com/scholar_lookup?title=An%20integrated%20genomic%20analysis%20of%20human%20glioblastoma%20multiforme.&amp;author=DW.%20Parsons&amp;author=S.%20Jones&amp;author=X.%20Zhang&amp;author=JC.%20Lin&amp;author=RJ.%20Leary&amp;author=P.%20Angenendt&amp;author=P.%20Mankoo&amp;author=H.%20Carter&amp;author=IM.%20Siu&amp;author=GL.%20Gallia&amp;author=A.%20Olivi&amp;author=R.%20McLendon&amp;author=BA.%20Rasheed&amp;author=S.%20Keir&amp;author=T.%20Nikolskaya&amp;author=Y.%20Nikolsky&amp;author=DA.%20Busam&amp;author=H.%20Tekleab&amp;author=LA.%20Diaz&amp;author=J.%20Hartigan&amp;author=DR.%20Smith&amp;author=RL.%20Strausberg&amp;author=SK.%20Marie&amp;author=SM.%20Shinjo&amp;author=H.%20Yan&amp;author=GJ.%20Riggins&amp;author=DD.%20Bigner&amp;author=R.%20Karchin&amp;author=N.%20Papadopoulos&amp;author=G.%20Parmigiani&amp;journal=Science&amp;volume=321&amp;pages=1807-1812&amp;publication_year=2008&amp;doi=10.1126%2Fscience.1164382"><span><span>Google Scholar</span></span></a></span></span></cite></li><li class="Citation"><cite class="CitationContent" id="CR4">Yan H, Parsons DW, Jin G, McLendon R, Rasheed BA, Yuan W, Kos I, Batinic-Haberle I, Jones S, Riggins GJ, Friedman H, Friedman A, Reardon D, Herndon J, Kinzler KW, Velculescu VE, Vogelstein B, Bigner DD: IDH1 and IDH2 mutations in gliomas. N Engl J Med. 2009, 360: 765-773. 10.1056/NEJMoa0808710.<span class="Occurrences"><span class="Occurrence OccurrencePID"><a target="_blank" href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=PubMed&amp;dopt=Abstract&amp;list_uids=19228619"><span><span>PubMed</span></span></a></span><span class="Occurrence OccurrencePMCID"><a target="_blank" href="http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2820383"><span><span>PubMed Central</span></span></a></span><span class="Occurrence OccurrenceDOI"><a target="_blank" href="https://doi.org/10.1056/NEJMoa0808710"><span><span>View Article</span></span></a></span><span class="Occurrence OccurrenceGS"><a target="_blank" href="http://scholar.google.com/scholar_lookup?title=IDH1%20and%20IDH2%20mutations%20in%20gliomas.&amp;author=H.%20Yan&amp;author=DW.%20Parsons&amp;author=G.%20Jin&amp;author=R.%20McLendon&amp;author=BA.%20Rasheed&amp;author=W.%20Yuan&amp;author=I.%20Kos&amp;author=I.%20Batinic-Haberle&amp;author=S.%20Jones&amp;author=GJ.%20Riggins&amp;author=H.%20Friedman&amp;author=A.%20Friedman&amp;author=D.%20Reardon&amp;author=J.%20Herndon&amp;author=KW.%20Kinzler&amp;author=VE.%20Velculescu&amp;author=B.%20Vogelstein&amp;author=DD.%20Bigner&amp;journal=N%20Engl%20J%20Med&amp;volume=360&amp;pages=765-773&amp;publication_year=2009&amp;doi=10.1056%2FNEJMoa0808710"><span><span>Google Scholar</span></span></a></span></span></cite></li><li class="Citation"><cite class="CitationContent" id="CR5">Bleeker FE, Lamba S, Leenstra S, Troost D, Hulsebos T, Vandertop WP, Frattini M, Molinari F, Knowles M, Cerrato A, Rodolfo M, Scarpa A, Felicioni L, Buttitta F, Malatesta S, Marchetti A, Bardelli A: IDH1 mutations at residue p.R132 (IDH1(R132)) occur frequently in high-grade gliomas but not in other solid tumors. Hum Mutat. 2009, 30: 7-11. 10.1002/humu.20937.<span class="Occurrences"><span class="Occurrence OccurrencePID"><a target="_blank" href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=PubMed&amp;dopt=Abstract&amp;list_uids=19117336"><span><span>PubMed</span></span></a></span><span class="Occurrence OccurrenceDOI"><a target="_blank" href="https://doi.org/10.1002/humu.20937"><span><span>View Article</span></span></a></span><span class="Occurrence OccurrenceGS"><a target="_blank" href="http://scholar.google.com/scholar_lookup?title=IDH1%20mutations%20at%20residue%20p.R132%20%28IDH1%28R132%29%29%20occur%20frequently%20in%20high-grade%20gliomas%20but%20not%20in%20other%20solid%20tumors.&amp;author=FE.%20Bleeker&amp;author=S.%20Lamba&amp;author=S.%20Leenstra&amp;author=D.%20Troost&amp;author=T.%20Hulsebos&amp;author=WP.%20Vandertop&amp;author=M.%20Frattini&amp;author=F.%20Molinari&amp;author=M.%20Knowles&amp;author=A.%20Cerrato&amp;author=M.%20Rodolfo&amp;author=A.%20Scarpa&amp;author=L.%20Felicioni&amp;author=F.%20Buttitta&amp;author=S.%20Malatesta&amp;author=A.%20Marchetti&amp;author=A.%20Bardelli&amp;journal=Hum%20Mutat&amp;volume=30&amp;pages=7-11&amp;publication_year=2009&amp;doi=10.1002%2Fhumu.20937"><span><span>Google Scholar</span></span></a></span></span></cite></li><li class="Citation"><cite class="CitationContent" id="CR6">Balss J, Meyer J, Mueller W, Korshunov A, Hartmann C, von Deimling A: Analysis of the IDH1 codon 132 mutation in brain tumors. Acta Neuropathol. 2008, 116: 597-602. 10.1007/s00401-008-0455-2.<span class="Occurrences"><span class="Occurrence OccurrencePID"><a target="_blank" href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=PubMed&amp;dopt=Abstract&amp;list_uids=18985363"><span><span>PubMed</span></span></a></span><span class="Occurrence OccurrenceDOI"><a target="_blank" href="https://doi.org/10.1007/s00401-008-0455-2"><span><span>View Article</span></span></a></span><span class="Occurrence OccurrenceGS"><a target="_blank" href="http://scholar.google.com/scholar_lookup?title=Analysis%20of%20the%20IDH1%20codon%20132%20mutation%20in%20brain%20tumors.&amp;author=J.%20Balss&amp;author=J.%20Meyer&amp;author=W.%20Mueller&amp;author=A.%20Korshunov&amp;author=C.%20Hartmann&amp;author=A.%20von%20Deimling&amp;journal=Acta%20Neuropathol&amp;volume=116&amp;pages=597-602&amp;publication_year=2008&amp;doi=10.1007%2Fs00401-008-0455-2"><span><span>Google Scholar</span></span></a></span></span></cite></li><li class="Citation"><cite class="CitationContent" id="CR7">Hartmann C, Meyer J, Balss J, Capper D, Mueller W, Christians A, Felsberg J, Wolter M, Mawrin C, Wick W, Weller M, Herold-Mende C, Unterberg A, Jeuken JW, Wesseling P, Reifenberger G, von Deimling A: Type and frequency of IDH1 and IDH2 mutations are related to astrocytic and oligodendroglial differentiation and age: a study of 1,010 diffuse gliomas. Acta Neuropathol. 2009, 118: 469-474. 10.1007/s00401-009-0561-9.<span class="Occurrences"><span class="Occurrence OccurrencePID"><a target="_blank" href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=PubMed&amp;dopt=Abstract&amp;list_uids=19554337"><span><span>PubMed</span></span></a></span><span class="Occurrence OccurrenceDOI"><a target="_blank" href="https://doi.org/10.1007/s00401-009-0561-9"><span><span>View Article</span></span></a></span><span class="Occurrence OccurrenceGS"><a target="_blank" href="http://scholar.google.com/scholar_lookup?title=Type%20and%20frequency%20of%20IDH1%20and%20IDH2%20mutations%20are%20related%20to%20astrocytic%20and%20oligodendroglial%20differentiation%20and%20age%3A%20a%20study%20of%201%2C010%20diffuse%20gliomas.&amp;author=C.%20Hartmann&amp;author=J.%20Meyer&amp;author=J.%20Balss&amp;author=D.%20Capper&amp;author=W.%20Mueller&amp;author=A.%20Christians&amp;author=J.%20Felsberg&amp;author=M.%20Wolter&amp;author=C.%20Mawrin&amp;author=W.%20Wick&amp;author=M.%20Weller&amp;author=C.%20Herold-Mende&amp;author=A.%20Unterberg&amp;author=JW.%20Jeuken&amp;author=P.%20Wesseling&amp;author=G.%20Reifenberger&amp;author=A.%20von%20Deimling&amp;journal=Acta%20Neuropathol&amp;volume=118&amp;pages=469-474&amp;publication_year=2009&amp;doi=10.1007%2Fs00401-009-0561-9"><span><span>Google Scholar</span></span></a></span></span></cite></li><li class="Citation"><cite class="CitationContent" id="CR8">Watanabe T, Nobusawa S, Kleihues P, Ohgaki H: IDH1 mutations are early events in the development of astrocytomas and oligodendrogliomas. Am J Pathol. 2009, 174: 1149-1153. 10.2353/ajpath.2009.080958.<span class="Occurrences"><span class="Occurrence OccurrencePID"><a target="_blank" href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=PubMed&amp;dopt=Abstract&amp;list_uids=19246647"><span><span>PubMed</span></span></a></span><span class="Occurrence OccurrencePMCID"><a target="_blank" href="http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2671348"><span><span>PubMed Central</span></span></a></span><span class="Occurrence OccurrenceDOI"><a target="_blank" href="https://doi.org/10.2353/ajpath.2009.080958"><span><span>View Article</span></span></a></span><span class="Occurrence OccurrenceGS"><a target="_blank" href="http://scholar.google.com/scholar_lookup?title=IDH1%20mutations%20are%20early%20events%20in%20the%20development%20of%20astrocytomas%20and%20oligodendrogliomas.&amp;author=T.%20Watanabe&amp;author=S.%20Nobusawa&amp;author=P.%20Kleihues&amp;author=H.%20Ohgaki&amp;journal=Am%20J%20Pathol&amp;volume=174&amp;pages=1149-1153&amp;publication_year=2009&amp;doi=10.2353%2Fajpath.2009.080958"><span><span>Google Scholar</span></span></a></span></span></cite></li><li class="Citation"><cite class="CitationContent" id="CR9">Xu X, Zhao J, Xu Z, Peng B, Huang Q, Arnold E, Ding J: Structures of human cytosolic NADP-dependent isocitrate dehydrogenase reveal a novel self-regulatory mechanism of activity. J Biol Chem. 2004, 279: 33946-33957. 10.1074/jbc.M404298200.<span class="Occurrences"><span class="Occurrence OccurrencePID"><a target="_blank" href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=PubMed&amp;dopt=Abstract&amp;list_uids=15173171"><span><span>PubMed</span></span></a></span><span class="Occurrence OccurrenceDOI"><a target="_blank" href="https://doi.org/10.1074/jbc.M404298200"><span><span>View Article</span></span></a></span><span class="Occurrence OccurrenceGS"><a target="_blank" href="http://scholar.google.com/scholar_lookup?title=Structures%20of%20human%20cytosolic%20NADP-dependent%20isocitrate%20dehydrogenase%20reveal%20a%20novel%20self-regulatory%20mechanism%20of%20activity.&amp;author=X.%20Xu&amp;author=J.%20Zhao&amp;author=Z.%20Xu&amp;author=B.%20Peng&amp;author=Q.%20Huang&amp;author=E.%20Arnold&amp;author=J.%20Ding&amp;journal=J%20Biol%20Chem&amp;volume=279&amp;pages=33946-33957&amp;publication_year=2004&amp;doi=10.1074%2Fjbc.M404298200"><span><span>Google Scholar</span></span></a></span></span></cite></li><li class="Citation"><cite class="CitationContent" id="CR10">Zhao S, Lin Y, Xu W, Jiang W, Zha Z, Wang P, Yu W, Li Z, Gong L, Peng Y, Ding J, Lei Q, Guan KL, Xiong Y: Glioma-derived mutations in IDH1 dominantly inhibit IDH1 catalytic activity and induce HIF-1alpha. Science. 2009, 324: 261-265. 10.1126/science.1170944.<span class="Occurrences"><span class="Occurrence OccurrencePID"><a target="_blank" href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=PubMed&amp;dopt=Abstract&amp;list_uids=19359588"><span><span>PubMed</span></span></a></span><span class="Occurrence OccurrencePMCID"><a target="_blank" href="http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3251015"><span><span>PubMed Central</span></span></a></span><span class="Occurrence OccurrenceDOI"><a target="_blank" href="https://doi.org/10.1126/science.1170944"><span><span>View Article</span></span></a></span><span class="Occurrence OccurrenceGS"><a target="_blank" href="http://scholar.google.com/scholar_lookup?title=Glioma-derived%20mutations%20in%20IDH1%20dominantly%20inhibit%20IDH1%20catalytic%20activity%20and%20induce%20HIF-1alpha.&amp;author=S.%20Zhao&amp;author=Y.%20Lin&amp;author=W.%20Xu&amp;author=W.%20Jiang&amp;author=Z.%20Zha&amp;author=P.%20Wang&amp;author=W.%20Yu&amp;author=Z.%20Li&amp;author=L.%20Gong&amp;author=Y.%20Peng&amp;author=J.%20Ding&amp;author=Q.%20Lei&amp;author=KL.%20Guan&amp;author=Y.%20Xiong&amp;journal=Science&amp;volume=324&amp;pages=261-265&amp;publication_year=2009&amp;doi=10.1126%2Fscience.1170944"><span><span>Google Scholar</span></span></a></span></span></cite></li><li class="Citation"><cite class="CitationContent" id="CR11">Dang L, White DW, Gross S, Bennett BD, Bittinger MA, Driggers EM, Fantin VR, Jang HG, Jin S, Keenan MC, Marks KM, Prins RM, Ward PS, Yen KE, Liau LM, Rabinowitz JD, Cantley LC, Thompson CB, Heiden Vander MG, Su SM: Cancer-associated IDH1 mutations produce 2-hydroxyglutarate. Nature. 2009, 462: 739-744. 10.1038/nature08617.<span class="Occurrences"><span class="Occurrence OccurrencePID"><a target="_blank" href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=PubMed&amp;dopt=Abstract&amp;list_uids=19935646"><span><span>PubMed</span></span></a></span><span class="Occurrence OccurrencePMCID"><a target="_blank" href="http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2818760"><span><span>PubMed Central</span></span></a></span><span class="Occurrence OccurrenceDOI"><a target="_blank" href="https://doi.org/10.1038/nature08617"><span><span>View Article</span></span></a></span><span class="Occurrence OccurrenceGS"><a target="_blank" href="http://scholar.google.com/scholar_lookup?title=Cancer-associated%20IDH1%20mutations%20produce%202-hydroxyglutarate.&amp;author=L.%20Dang&amp;author=DW.%20White&amp;author=S.%20Gross&amp;author=BD.%20Bennett&amp;author=MA.%20Bittinger&amp;author=EM.%20Driggers&amp;author=VR.%20Fantin&amp;author=HG.%20Jang&amp;author=S.%20Jin&amp;author=MC.%20Keenan&amp;author=KM.%20Marks&amp;author=RM.%20Prins&amp;author=PS.%20Ward&amp;author=KE.%20Yen&amp;author=LM.%20Liau&amp;author=JD.%20Rabinowitz&amp;author=LC.%20Cantley&amp;author=CB.%20Thompson&amp;author=MG%20Vander.%20Heiden&amp;author=SM.%20Su&amp;journal=Nature&amp;volume=462&amp;pages=739-744&amp;publication_year=2009&amp;doi=10.1038%2Fnature08617"><span><span>Google Scholar</span></span></a></span></span></cite></li><li class="Citation"><cite class="CitationContent" id="CR12">Mardis ER, Ding L, Dooling DJ, Larson DE, McLellan MD, Chen K, Koboldt DC, Fulton RS, Delehaunty KD, McGrath SD, Fulton LA, Locke DP, Magrini VJ, Abbott RM, Vickery TL, Reed JS, Robinson JS, Wylie T, Smith SM, Carmichael L, Eldred JM, Harris CC, Walker J, Peck JB, Du F, Dukes AF, Sanderson GE, Brummett AM, Clark E, McMichael JF, et al: Recurring mutations found by sequencing an acute myeloid leukemia genome. N Engl J Med. 2009, 361: 1058-1066. 10.1056/NEJMoa0903840.<span class="Occurrences"><span class="Occurrence OccurrencePID"><a target="_blank" href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=PubMed&amp;dopt=Abstract&amp;list_uids=19657110"><span><span>PubMed</span></span></a></span><span class="Occurrence OccurrencePMCID"><a target="_blank" href="http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3201812"><span><span>PubMed Central</span></span></a></span><span class="Occurrence OccurrenceDOI"><a target="_blank" href="https://doi.org/10.1056/NEJMoa0903840"><span><span>View Article</span></span></a></span><span class="Occurrence OccurrenceGS"><a target="_blank" href="http://scholar.google.com/scholar_lookup?title=Recurring%20mutations%20found%20by%20sequencing%20an%20acute%20myeloid%20leukemia%20genome.&amp;author=ER.%20Mardis&amp;author=L.%20Ding&amp;author=DJ.%20Dooling&amp;author=DE.%20Larson&amp;author=MD.%20McLellan&amp;author=K.%20Chen&amp;author=DC.%20Koboldt&amp;author=RS.%20Fulton&amp;author=KD.%20Delehaunty&amp;author=SD.%20McGrath&amp;author=LA.%20Fulton&amp;author=DP.%20Locke&amp;author=VJ.%20Magrini&amp;author=RM.%20Abbott&amp;author=TL.%20Vickery&amp;author=JS.%20Reed&amp;author=JS.%20Robinson&amp;author=T.%20Wylie&amp;author=SM.%20Smith&amp;author=L.%20Carmichael&amp;author=JM.%20Eldred&amp;author=CC.%20Harris&amp;author=J.%20Walker&amp;author=JB.%20Peck&amp;author=F.%20Du&amp;author=AF.%20Dukes&amp;author=GE.%20Sanderson&amp;author=AM.%20Brummett&amp;author=E.%20Clark&amp;author=JF.%20McMichael&amp;journal=N%20Engl%20J%20Med&amp;volume=361&amp;pages=1058-1066&amp;publication_year=2009&amp;doi=10.1056%2FNEJMoa0903840"><span><span>Google Scholar</span></span></a></span></span></cite></li><li class="Citation"><cite class="CitationContent" id="CR13">IDH1 mutations are detected in 9.3% of all AML and are strongly associated with intermediate risk karyotype and unfavourable prognosis: a study of 999 patients. American Society of Hematology. [<span xmlns:func="http://oscar.fig.bmc.com" xmlns="http://www.w3.org/1999/xhtml" class="ExternalRef"><a href="http://ash.confex.com/ash/2009/webprogram/Paper25668.html"><span class="RefSource">http://ash.confex.com/ash/2009/webprogram/Paper25668.html</span></a></span>]<span class="Occurrences"></span></cite></li><li class="Citation"><cite class="CitationContent" id="CR14">Gross S, Cairns RA, Minden MD, Driggers EM, Bittinger MA, Jang HG, Sasaki M, Jin S, Schenkein DP, Su SM, Dang L, Fantin VR, Mak TW: Cancer-associated metabolite 2-hydroxyglutarate accumulates in acute myelogenous leukemia with isocitrate dehydrogenase 1 and 2 mutations. J Exp Med. 2010, 207: 339-344. 10.1084/jem.20092506.<span class="Occurrences"><span class="Occurrence OccurrencePID"><a target="_blank" href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=PubMed&amp;dopt=Abstract&amp;list_uids=20142433"><span><span>PubMed</span></span></a></span><span class="Occurrence OccurrencePMCID"><a target="_blank" href="http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2822606"><span><span>PubMed Central</span></span></a></span><span class="Occurrence OccurrenceDOI"><a target="_blank" href="https://doi.org/10.1084/jem.20092506"><span><span>View Article</span></span></a></span><span class="Occurrence OccurrenceGS"><a target="_blank" href="http://scholar.google.com/scholar_lookup?title=Cancer-associated%20metabolite%202-hydroxyglutarate%20accumulates%20in%20acute%20myelogenous%20leukemia%20with%20isocitrate%20dehydrogenase%201%20and%202%20mutations.&amp;author=S.%20Gross&amp;author=RA.%20Cairns&amp;author=MD.%20Minden&amp;author=EM.%20Driggers&amp;author=MA.%20Bittinger&amp;author=HG.%20Jang&amp;author=M.%20Sasaki&amp;author=S.%20Jin&amp;author=DP.%20Schenkein&amp;author=SM.%20Su&amp;author=L.%20Dang&amp;author=VR.%20Fantin&amp;author=TW.%20Mak&amp;journal=J%20Exp%20Med&amp;volume=207&amp;pages=339-344&amp;publication_year=2010&amp;doi=10.1084%2Fjem.20092506"><span><span>Google Scholar</span></span></a></span></span></cite></li><li class="Citation"><cite class="CitationContent" id="CR15">Ward PS, Patel J, Wise DR, Abdel-Wahab O, Bennett BD, Coller HA, Cross JR, Fantin VR, Hedvat CV, Perl AE, Rabinowitz JD, Carroll M, Su SM, Sharp KA, Levine RL, Thompson CB: The common feature of leukemia-associated IDH1 and IDH2 mutations is a neomorphic enzyme activity converting alpha-ketoglutarate to 2-hydroxyglutarate. Cancer Cell. 2010, 17: 225-234. 10.1016/j.ccr.2010.01.020.<span class="Occurrences"><span class="Occurrence OccurrencePID"><a target="_blank" href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=PubMed&amp;dopt=Abstract&amp;list_uids=20171147"><span><span>PubMed</span></span></a></span><span class="Occurrence OccurrencePMCID"><a target="_blank" href="http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2849316"><span><span>PubMed Central</span></span></a></span><span class="Occurrence OccurrenceDOI"><a target="_blank" href="https://doi.org/10.1016/j.ccr.2010.01.020"><span><span>View Article</span></span></a></span><span class="Occurrence OccurrenceGS"><a target="_blank" href="http://scholar.google.com/scholar_lookup?title=The%20common%20feature%20of%20leukemia-associated%20IDH1%20and%20IDH2%20mutations%20is%20a%20neomorphic%20enzyme%20activity%20converting%20alpha-ketoglutarate%20to%202-hydroxyglutarate.&amp;author=PS.%20Ward&amp;author=J.%20Patel&amp;author=DR.%20Wise&amp;author=O.%20Abdel-Wahab&amp;author=BD.%20Bennett&amp;author=HA.%20Coller&amp;author=JR.%20Cross&amp;author=VR.%20Fantin&amp;author=CV.%20Hedvat&amp;author=AE.%20Perl&amp;author=JD.%20Rabinowitz&amp;author=M.%20Carroll&amp;author=SM.%20Su&amp;author=KA.%20Sharp&amp;author=RL.%20Levine&amp;author=CB.%20Thompson&amp;journal=Cancer%20Cell&amp;volume=17&amp;pages=225-234&amp;publication_year=2010&amp;doi=10.1016%2Fj.ccr.2010.01.020"><span><span>Google Scholar</span></span></a></span></span></cite></li><li class="Citation"><cite class="CitationContent" id="CR16">Shah SP, Morin RD, Khattra J, Prentice L, Pugh T, Burleigh A, Delaney A, Gelmon K, Guliany R, Senz J, Steidl C, Holt RA, Jones S, Sun M, Leung G, Moore R, Severson T, Taylor GA, Teschendorff AE, Tse K, Turashvili G, Varhol R, Warren RL, Watson P, Zhao Y, Caldas C, Huntsman D, Hirst M, Marra MA, Aparicio S: Mutational evolution in a lobular breast tumour profiled at single nucleotide resolution. Nature. 2009, 461: 809-813. 10.1038/nature08489.<span class="Occurrences"><span class="Occurrence OccurrencePID"><a target="_blank" href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=PubMed&amp;dopt=Abstract&amp;list_uids=19812674"><span><span>PubMed</span></span></a></span><span class="Occurrence OccurrenceDOI"><a target="_blank" href="https://doi.org/10.1038/nature08489"><span><span>View Article</span></span></a></span><span class="Occurrence OccurrenceGS"><a target="_blank" href="http://scholar.google.com/scholar_lookup?title=Mutational%20evolution%20in%20a%20lobular%20breast%20tumour%20profiled%20at%20single%20nucleotide%20resolution.&amp;author=SP.%20Shah&amp;author=RD.%20Morin&amp;author=J.%20Khattra&amp;author=L.%20Prentice&amp;author=T.%20Pugh&amp;author=A.%20Burleigh&amp;author=A.%20Delaney&amp;author=K.%20Gelmon&amp;author=R.%20Guliany&amp;author=J.%20Senz&amp;author=C.%20Steidl&amp;author=RA.%20Holt&amp;author=S.%20Jones&amp;author=M.%20Sun&amp;author=G.%20Leung&amp;author=R.%20Moore&amp;author=T.%20Severson&amp;author=GA.%20Taylor&amp;author=AE.%20Teschendorff&amp;author=K.%20Tse&amp;author=G.%20Turashvili&amp;author=R.%20Varhol&amp;author=RL.%20Warren&amp;author=P.%20Watson&amp;author=Y.%20Zhao&amp;author=C.%20Caldas&amp;author=D.%20Huntsman&amp;author=M.%20Hirst&amp;author=MA.%20Marra&amp;author=S.%20Aparicio&amp;journal=Nature&amp;volume=461&amp;pages=809-813&amp;publication_year=2009&amp;doi=10.1038%2Fnature08489"><span><span>Google Scholar</span></span></a></span></span></cite></li><li class="Citation"><cite class="CitationContent" id="CR17">Ding L, Ellis MJ, Li S, Larson DE, Chen K, Wallis JW, Harris CC, McLellan MD, Fulton RS, Fulton LL, Abbott RM, Hoog J, Dooling DJ, Koboldt DC, Schmidt H, Kalicki J, Zhang Q, Chen L, Ling L, Wendl MC, McMichael JF, Magrini VJ, Cook L, McGrath SD, Vickery TL, Appelbaum E, DeSchryver K, Davies S, Guintoli T, Lin L, et al: Genome remodelling in a basal-like breast cancer metastasis and xenograft. Nature. 2010, 464: 999-1005. 10.1038/nature08989.<span class="Occurrences"><span class="Occurrence OccurrencePID"><a target="_blank" href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=PubMed&amp;dopt=Abstract&amp;list_uids=20393555"><span><span>PubMed</span></span></a></span><span class="Occurrence OccurrencePMCID"><a target="_blank" href="http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2872544"><span><span>PubMed Central</span></span></a></span><span class="Occurrence OccurrenceDOI"><a target="_blank" href="https://doi.org/10.1038/nature08989"><span><span>View Article</span></span></a></span><span class="Occurrence OccurrenceGS"><a target="_blank" href="http://scholar.google.com/scholar_lookup?title=Genome%20remodelling%20in%20a%20basal-like%20breast%20cancer%20metastasis%20and%20xenograft.&amp;author=L.%20Ding&amp;author=MJ.%20Ellis&amp;author=S.%20Li&amp;author=DE.%20Larson&amp;author=K.%20Chen&amp;author=JW.%20Wallis&amp;author=CC.%20Harris&amp;author=MD.%20McLellan&amp;author=RS.%20Fulton&amp;author=LL.%20Fulton&amp;author=RM.%20Abbott&amp;author=J.%20Hoog&amp;author=DJ.%20Dooling&amp;author=DC.%20Koboldt&amp;author=H.%20Schmidt&amp;author=J.%20Kalicki&amp;author=Q.%20Zhang&amp;author=L.%20Chen&amp;author=L.%20Ling&amp;author=MC.%20Wendl&amp;author=JF.%20McMichael&amp;author=VJ.%20Magrini&amp;author=L.%20Cook&amp;author=SD.%20McGrath&amp;author=TL.%20Vickery&amp;author=E.%20Appelbaum&amp;author=K.%20DeSchryver&amp;author=S.%20Davies&amp;author=T.%20Guintoli&amp;author=L.%20Lin&amp;journal=Nature&amp;volume=464&amp;pages=999-1005&amp;publication_year=2010&amp;doi=10.1038%2Fnature08989"><span><span>Google Scholar</span></span></a></span></span></cite></li><li class="Citation"><cite class="CitationContent" id="CR18">Kuperwasser C, Chavarria T, Wu M, Magrane G, Gray JW, Carey L, Richardson A, Weinberg RA: Reconstruction of functionally normal and malignant human breast tissues in mice. Proc Natl Acad Sci USA. 2004, 101: 4966-4971. 10.1073/pnas.0401064101.<span class="Occurrences"><span class="Occurrence OccurrencePID"><a target="_blank" href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=PubMed&amp;dopt=Abstract&amp;list_uids=15051869"><span><span>PubMed</span></span></a></span><span class="Occurrence OccurrencePMCID"><a target="_blank" href="http://www.ncbi.nlm.nih.gov/pmc/articles/PMC387357"><span><span>PubMed Central</span></span></a></span><span class="Occurrence OccurrenceDOI"><a target="_blank" href="https://doi.org/10.1073/pnas.0401064101"><span><span>View Article</span></span></a></span><span class="Occurrence OccurrenceGS"><a target="_blank" href="http://scholar.google.com/scholar_lookup?title=Reconstruction%20of%20functionally%20normal%20and%20malignant%20human%20breast%20tissues%20in%20mice.&amp;author=C.%20Kuperwasser&amp;author=T.%20Chavarria&amp;author=M.%20Wu&amp;author=G.%20Magrane&amp;author=JW.%20Gray&amp;author=L.%20Carey&amp;author=A.%20Richardson&amp;author=RA.%20Weinberg&amp;journal=Proc%20Natl%20Acad%20Sci%20USA&amp;volume=101&amp;pages=4966-4971&amp;publication_year=2004&amp;doi=10.1073%2Fpnas.0401064101"><span><span>Google Scholar</span></span></a></span></span></cite></li><li class="Citation"><cite class="CitationContent" id="CR19">Kamal M, Shaaban AM, Zhang L, Walker C, Gray S, Thakker N, Toomes C, Speirs V, Bell SM: Loss of CSMD1 expression is associated with high tumour grade and poor survival in invasive ductal breast carcinoma. Breast Cancer Res Treat. 2009, doi: 10.1007/s10549-009-0500-4<span class="Occurrences"><span class="Occurrence OccurrenceGS"><a target="_blank" href="http://scholar.google.com/scholar_lookup?title=Loss%20of%20CSMD1%20expression%20is%20associated%20with%20high%20tumour%20grade%20and%20poor%20survival%20in%20invasive%20ductal%20breast%20carcinoma.&amp;author=M.%20Kamal&amp;author=AM.%20Shaaban&amp;author=L.%20Zhang&amp;author=C.%20Walker&amp;author=S.%20Gray&amp;author=N.%20Thakker&amp;author=C.%20Toomes&amp;author=V.%20Speirs&amp;author=SM.%20Bell&amp;publication_year=2009"><span><span>Google Scholar</span></span></a></span></span></cite></li><li class="Citation"><cite class="CitationContent" id="CR20">Chen K, Wallis JW, McLellan MD, Larson DE, Kalicki JM, Pohl CS, McGrath SD, Wendl MC, Zhang Q, Locke DP, Shi X, Fulton RS, Ley TJ, Wilson RK, Ding L, Mardis ER: BreakDancer: an algorithm for high-resolution mapping of genomic structural variation. Nat Methods. 2009, 6: 677-681. 10.1038/nmeth.1363.<span class="Occurrences"><span class="Occurrence OccurrencePID"><a target="_blank" href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=PubMed&amp;dopt=Abstract&amp;list_uids=19668202"><span><span>PubMed</span></span></a></span><span class="Occurrence OccurrencePMCID"><a target="_blank" href="http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3661775"><span><span>PubMed Central</span></span></a></span><span class="Occurrence OccurrenceDOI"><a target="_blank" href="https://doi.org/10.1038/nmeth.1363"><span><span>View Article</span></span></a></span><span class="Occurrence OccurrenceGS"><a target="_blank" href="http://scholar.google.com/scholar_lookup?title=BreakDancer%3A%20an%20algorithm%20for%20high-resolution%20mapping%20of%20genomic%20structural%20variation.&amp;author=K.%20Chen&amp;author=JW.%20Wallis&amp;author=MD.%20McLellan&amp;author=DE.%20Larson&amp;author=JM.%20Kalicki&amp;author=CS.%20Pohl&amp;author=SD.%20McGrath&amp;author=MC.%20Wendl&amp;author=Q.%20Zhang&amp;author=DP.%20Locke&amp;author=X.%20Shi&amp;author=RS.%20Fulton&amp;author=TJ.%20Ley&amp;author=RK.%20Wilson&amp;author=L.%20Ding&amp;author=ER.%20Mardis&amp;journal=Nat%20Methods&amp;volume=6&amp;pages=677-681&amp;publication_year=2009&amp;doi=10.1038%2Fnmeth.1363"><span><span>Google Scholar</span></span></a></span></span></cite></li><li class="Citation"><cite class="CitationContent" id="CR21">Bajpai S, Feng Y, Krishnamurthy R, Longmore GD, Wirtz D: Loss of alpha-catenin decreases the strength of single E-cadherin bonds between human cancer cells. J Biol Chem. 2009, 284: 18252-18259. 10.1074/jbc.M109.000661.<span class="Occurrences"><span class="Occurrence OccurrencePID"><a target="_blank" href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=PubMed&amp;dopt=Abstract&amp;list_uids=19458087"><span><span>PubMed</span></span></a></span><span class="Occurrence OccurrencePMCID"><a target="_blank" href="http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2709389"><span><span>PubMed Central</span></span></a></span><span class="Occurrence OccurrenceDOI"><a target="_blank" href="https://doi.org/10.1074/jbc.M109.000661"><span><span>View Article</span></span></a></span><span class="Occurrence OccurrenceGS"><a target="_blank" href="http://scholar.google.com/scholar_lookup?title=Loss%20of%20alpha-catenin%20decreases%20the%20strength%20of%20single%20E-cadherin%20bonds%20between%20human%20cancer%20cells.&amp;author=S.%20Bajpai&amp;author=Y.%20Feng&amp;author=R.%20Krishnamurthy&amp;author=GD.%20Longmore&amp;author=D.%20Wirtz&amp;journal=J%20Biol%20Chem&amp;volume=284&amp;pages=18252-18259&amp;publication_year=2009&amp;doi=10.1074%2Fjbc.M109.000661"><span><span>Google Scholar</span></span></a></span></span></cite></li><li class="Citation"><cite class="CitationContent" id="CR22">Leary RJ, I Kinde, F Diehl, K Schmidt, C Clouser, C Duncan, A Antipova, C Lee, K McKernan, FM De La Vega, KW Kinzler, B Vogelstein, LA Diaz, VE Velculescu: Development of personalized tumor biomarkers using massively parallel sequencing. Sci Transl Med. 2010, 2: 20ra14-<span class="Occurrences"><span class="Occurrence OccurrencePID"><a target="_blank" href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=PubMed&amp;dopt=Abstract&amp;list_uids=20371490"><span><span>PubMed</span></span></a></span><span class="Occurrence OccurrencePMCID"><a target="_blank" href="http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2858564"><span><span>PubMed Central</span></span></a></span><span class="Occurrence OccurrenceGS"><a target="_blank" href="http://scholar.google.com/scholar_lookup?title=Development%20of%20personalized%20tumor%20biomarkers%20using%20massively%20parallel%20sequencing.&amp;author=RJ.%20Leary&amp;author=Kinde.%20I&amp;author=Diehl.%20F&amp;author=Schmidt.%20K&amp;author=Clouser.%20C&amp;author=Duncan.%20C&amp;author=Antipova.%20A&amp;author=Lee.%20C&amp;author=McKernan.%20K&amp;author=Vega.%20FM%20De%20La&amp;author=Kinzler.%20KW&amp;author=Vogelstein.%20B&amp;author=Diaz.%20LA&amp;author=Velculescu.%20VE&amp;journal=Sci%20Transl%20Med&amp;volume=2&amp;pages=20ra14&amp;publication_year=2010"><span><span>Google Scholar</span></span></a></span></span></cite></li><li class="Citation"><cite class="CitationContent" id="CR23">Maher CA, Kumar-Sinha C, Cao X, Kalyana-Sundaram S, Han B, Jing X, Sam L, Barrette T, Palanisamy N, Chinnaiyan AM: Transcriptome sequencing to detect gene fusions in cancer. Nature. 2009, 458: 97-101. 10.1038/nature07638.<span class="Occurrences"><span class="Occurrence OccurrencePID"><a target="_blank" href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=PubMed&amp;dopt=Abstract&amp;list_uids=19136943"><span><span>PubMed</span></span></a></span><span class="Occurrence OccurrencePMCID"><a target="_blank" href="http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2725402"><span><span>PubMed Central</span></span></a></span><span class="Occurrence OccurrenceDOI"><a target="_blank" href="https://doi.org/10.1038/nature07638"><span><span>View Article</span></span></a></span><span class="Occurrence OccurrenceGS"><a target="_blank" href="http://scholar.google.com/scholar_lookup?title=Transcriptome%20sequencing%20to%20detect%20gene%20fusions%20in%20cancer.&amp;author=CA.%20Maher&amp;author=C.%20Kumar-Sinha&amp;author=X.%20Cao&amp;author=S.%20Kalyana-Sundaram&amp;author=B.%20Han&amp;author=X.%20Jing&amp;author=L.%20Sam&amp;author=T.%20Barrette&amp;author=N.%20Palanisamy&amp;author=AM.%20Chinnaiyan&amp;journal=Nature&amp;volume=458&amp;pages=97-101&amp;publication_year=2009&amp;doi=10.1038%2Fnature07638"><span><span>Google Scholar</span></span></a></span></span></cite></li><li class="Citation"><cite class="CitationContent" id="CR24">Maher CA, Palanisamy N, Brenner JC, Cao X, Kalyana-Sundaram S, Luo S, Khrebtukova I, Barrette TR, Grasso C, Yu J, Lonigro RJ, Schroth G, Kumar-Sinha C, Chinnaiyan AM: Chimeric transcript discovery by paired-end transcriptome sequencing. Proc Natl Acad Sci USA. 2009, 106: 12353-12358. 10.1073/pnas.0904720106.<span class="Occurrences"><span class="Occurrence OccurrencePID"><a target="_blank" href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=PubMed&amp;dopt=Abstract&amp;list_uids=19592507"><span><span>PubMed</span></span></a></span><span class="Occurrence OccurrencePMCID"><a target="_blank" href="http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2708976"><span><span>PubMed Central</span></span></a></span><span class="Occurrence OccurrenceDOI"><a target="_blank" href="https://doi.org/10.1073/pnas.0904720106"><span><span>View Article</span></span></a></span><span class="Occurrence OccurrenceGS"><a target="_blank" href="http://scholar.google.com/scholar_lookup?title=Chimeric%20transcript%20discovery%20by%20paired-end%20transcriptome%20sequencing.&amp;author=CA.%20Maher&amp;author=N.%20Palanisamy&amp;author=JC.%20Brenner&amp;author=X.%20Cao&amp;author=S.%20Kalyana-Sundaram&amp;author=S.%20Luo&amp;author=I.%20Khrebtukova&amp;author=TR.%20Barrette&amp;author=C.%20Grasso&amp;author=J.%20Yu&amp;author=RJ.%20Lonigro&amp;author=G.%20Schroth&amp;author=C.%20Kumar-Sinha&amp;author=AM.%20Chinnaiyan&amp;journal=Proc%20Natl%20Acad%20Sci%20USA&amp;volume=106&amp;pages=12353-12358&amp;publication_year=2009&amp;doi=10.1073%2Fpnas.0904720106"><span><span>Google Scholar</span></span></a></span></span></cite></li><li class="Citation"><cite class="CitationContent" id="CR25">Mani RS, Tomlins SA, Callahan K, Ghosh A, Nyati MK, Varambally S, Palanisamy N, Chinnaiyan AM: Induced chromosomal proximity and gene fusions in prostate cancer. Science. 2009, 326: 1230-10.1126/science.1178124.<span class="Occurrences"><span class="Occurrence OccurrencePID"><a target="_blank" href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=PubMed&amp;dopt=Abstract&amp;list_uids=19933109"><span><span>PubMed</span></span></a></span><span class="Occurrence OccurrencePMCID"><a target="_blank" href="http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2935583"><span><span>PubMed Central</span></span></a></span><span class="Occurrence OccurrenceDOI"><a target="_blank" href="https://doi.org/10.1126/science.1178124"><span><span>View Article</span></span></a></span><span class="Occurrence OccurrenceGS"><a target="_blank" href="http://scholar.google.com/scholar_lookup?title=Induced%20chromosomal%20proximity%20and%20gene%20fusions%20in%20prostate%20cancer.&amp;author=RS.%20Mani&amp;author=SA.%20Tomlins&amp;author=K.%20Callahan&amp;author=A.%20Ghosh&amp;author=MK.%20Nyati&amp;author=S.%20Varambally&amp;author=N.%20Palanisamy&amp;author=AM.%20Chinnaiyan&amp;journal=Science&amp;volume=326&amp;pages=1230&amp;publication_year=2009&amp;doi=10.1126%2Fscience.1178124"><span><span>Google Scholar</span></span></a></span></span></cite></li><li class="Citation"><cite class="CitationContent" id="CR26">Shah SP, Köbel M, Senz J, Morin RD, Clarke BA, Wiegand KC, Leung G, Zayed A, Mehl E, Kalloger SE, Sun M, Giuliany R, Yorida E, Jones S, Varhol R, Swenerton KD, Miller D, Clement PB, Crane C, Madore J, Provencher D, Leung P, DeFazio A, Khattra J, Turashvili G, Zhao Y, Zeng T, Glover JN, Vanderhyden B, Zhao C, et al: Mutation of FOXL2 in granulosa-cell tumors of the ovary. N Engl J Med. 2009, 360: 2719-2729. 10.1056/NEJMoa0902542.<span class="Occurrences"><span class="Occurrence OccurrencePID"><a target="_blank" href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=PubMed&amp;dopt=Abstract&amp;list_uids=19516027"><span><span>PubMed</span></span></a></span><span class="Occurrence OccurrenceDOI"><a target="_blank" href="https://doi.org/10.1056/NEJMoa0902542"><span><span>View Article</span></span></a></span><span class="Occurrence OccurrenceGS"><a target="_blank" href="http://scholar.google.com/scholar_lookup?title=Mutation%20of%20FOXL2%20in%20granulosa-cell%20tumors%20of%20the%20ovary.&amp;author=SP.%20Shah&amp;author=M.%20K%C3%B6bel&amp;author=J.%20Senz&amp;author=RD.%20Morin&amp;author=BA.%20Clarke&amp;author=KC.%20Wiegand&amp;author=G.%20Leung&amp;author=A.%20Zayed&amp;author=E.%20Mehl&amp;author=SE.%20Kalloger&amp;author=M.%20Sun&amp;author=R.%20Giuliany&amp;author=E.%20Yorida&amp;author=S.%20Jones&amp;author=R.%20Varhol&amp;author=KD.%20Swenerton&amp;author=D.%20Miller&amp;author=PB.%20Clement&amp;author=C.%20Crane&amp;author=J.%20Madore&amp;author=D.%20Provencher&amp;author=P.%20Leung&amp;author=A.%20DeFazio&amp;author=J.%20Khattra&amp;author=G.%20Turashvili&amp;author=Y.%20Zhao&amp;author=T.%20Zeng&amp;author=JN.%20Glover&amp;author=B.%20Vanderhyden&amp;author=C.%20Zhao&amp;journal=N%20Engl%20J%20Med&amp;volume=360&amp;pages=2719-2729&amp;publication_year=2009&amp;doi=10.1056%2FNEJMoa0902542"><span><span>Google Scholar</span></span></a></span></span></cite></li><li class="Citation"><cite class="CitationContent" id="CR27">Mamanova L, Coffey AJ, Scott CE, Kozarewa I, Turner EH, Kumar A, Howard E, Shendure J, Turner DJ: Target-enrichment strategies for next-generation sequencing. Nat Methods. 2010, 7: 111-118. 10.1038/nmeth.1419.<span class="Occurrences"><span class="Occurrence OccurrencePID"><a target="_blank" href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=PubMed&amp;dopt=Abstract&amp;list_uids=20111037"><span><span>PubMed</span></span></a></span><span class="Occurrence OccurrenceDOI"><a target="_blank" href="https://doi.org/10.1038/nmeth.1419"><span><span>View Article</span></span></a></span><span class="Occurrence OccurrenceGS"><a target="_blank" href="http://scholar.google.com/scholar_lookup?title=Target-enrichment%20strategies%20for%20next-generation%20sequencing.&amp;author=L.%20Mamanova&amp;author=AJ.%20Coffey&amp;author=CE.%20Scott&amp;author=I.%20Kozarewa&amp;author=EH.%20Turner&amp;author=A.%20Kumar&amp;author=E.%20Howard&amp;author=J.%20Shendure&amp;author=DJ.%20Turner&amp;journal=Nat%20Methods&amp;volume=7&amp;pages=111-118&amp;publication_year=2010&amp;doi=10.1038%2Fnmeth.1419"><span><span>Google Scholar</span></span></a></span></span></cite></li></ol></div></section><section xmlns="" xmlns:fn="http://www.w3.org/2005/xpath-functions" xmlns:meta="http://www.springer.com/app/meta" class="Section1 RenderAsSection1" id="CopyrightMessage"><h2 class="Heading js-ToggleCollapseSection">Copyright</h2><div class="js-CollapseSection"><div xmlns="http://www.w3.org/1999/xhtml" class="ArticleCopyright">©&nbsp;BioMed Central Ltd.&nbsp;2010</div></div></section></div>
+                            
+
+
+                        </div>
+                    </div>
+                    <div class="layout__sidebar-right" id="main-sidebar">
+                        
+                        <div class="block">
+                            <aside role="complementary">
+                                <div class="SideBox">
+                                    
+    <p class="SideBox_action">
+        <a class="SideBox_pdf" id="articlePdf" target="_blank" href="/track/pdf/10.1186/gb-2010-11-5-211?site&#x3D;genomebiology.biomedcentral.com" data-track-event="click" data-event-category="PDF Download"
+           data-event-action="Click download article PDF"
+           data-event-label="10.1186/gb-2010-11-5-211">Download PDF</a>
+    </p>
+
+                                    
+                                    
+    <h3 class="export-citations-button" data-toggle="collapse" data-target="js-exportCitations">Export citations</h3>
+    <div id="js-exportCitations" class="export-citations-content panel">
+        <div class="panel__section">
+            <h4 class="panel__title">Citations & References</h4>
+            <ul class="ListDownload" id="articleReferences">
+                <li><a data-track-event="click" data-event-category="Article Page" data-event-action="Download Papers, Zotero, Reference Manager, RefWorks citations and references"
+                       data-event-label="10.1186/gb-2010-11-5-211"
+                       href="http://citation-needed.springer.com/v2/references/10.1186/gb-2010-11-5-211?format=refman&flavour=full">Papers, Zotero, Reference Manager, RefWorks <span>(.RIS)</span></a>
+                </li>
+                <li><a data-track-event="click" data-event-category="Article Page" data-event-action="Download EndNote citations and references" data-event-label="10.1186/gb-2010-11-5-211"
+                       href="http://citation-needed.springer.com/v2/references/10.1186/gb-2010-11-5-211?format=endnote&flavour=full">EndNote <span>(.ENW)</span></a></li>
+                <li><a data-track-event="click" data-event-category="Article Page" data-event-action="Download Mendeley, JabRef citations and references" data-event-label="10.1186/gb-2010-11-5-211"
+                       href="http://citation-needed.springer.com/v2/references/10.1186/gb-2010-11-5-211?format=bibtex&flavour=full">Mendeley, JabRef <span>(.BIB)</span></a></li>
+            </ul>
+        </div>
+        <div class="panel__section">
+            <h4 class="panel__title">Article citation</h4>
+            <ul class="ListDownload">
+                <li><a data-track-event="click" data-event-category="Article Page" data-event-action="Download Papers, Zotero, Reference Manager, RefWorks article citations" data-event-label="10.1186/gb-2010-11-5-211"
+                       href="http://citation-needed.springer.com/v2/references/10.1186/gb-2010-11-5-211?format=refman&flavour=citation">Papers, Zotero, Reference Manager, RefWorks <span>(.RIS)</span></a></li>
+                <li><a data-track-event="click" data-event-category="Article Page" data-event-action="Download EndNote article citations" data-event-label="10.1186/gb-2010-11-5-211"
+                       href="http://citation-needed.springer.com/v2/references/10.1186/gb-2010-11-5-211?format=endnote&flavour=citation">EndNote <span>(.ENW)</span></a></li>
+                <li><a data-track-event="click" data-event-category="Article Page" data-event-action="Download Mendeley, JabRef article citations" data-event-label="10.1186/gb-2010-11-5-211"
+                       href="http://citation-needed.springer.com/v2/references/10.1186/gb-2010-11-5-211?format=bibtex&flavour=citation">Mendeley, JabRef <span>(.BIB)</span></a></li>
+            </ul>
+        </div>
+        <div class="panel__section">
+            <h4 class="panel__title">References</h4>
+            <ul class="ListDownload">
+                <li><a data-track-event="click" data-event-category="Article Page" data-event-action="Download Papers, Zotero, Reference Manager, RefWorks references" data-event-label="10.1186/gb-2010-11-5-211"
+                       href="http://citation-needed.springer.com/v2/references/10.1186/gb-2010-11-5-211?format=refman&flavour=references">Papers, Zotero, Reference Manager, RefWorks <span>(.RIS)</span></a>
+                </li>
+                <li><a data-track-event="click" data-event-category="Article Page" data-event-action="Download EndNote references" data-event-label="10.1186/gb-2010-11-5-211"
+                       href="http://citation-needed.springer.com/v2/references/10.1186/gb-2010-11-5-211?format=endnote&flavour=references">EndNote <span>(.ENW)</span></a></li>
+                <li><a data-track-event="click" data-event-category="Article Page" data-event-action="Download Mendeley, JabRef references" data-event-label="10.1186/gb-2010-11-5-211"
+                       href="http://citation-needed.springer.com/v2/references/10.1186/gb-2010-11-5-211?format=bibtex&flavour=references">Mendeley, JabRef <span>(.BIB)</span></a></li>
+            </ul>
+        </div>
+    </div>
+
+                                </div>
+                                <div class="SideBox">
+                                    <nav xmlns="" xmlns:fn="http://www.w3.org/2005/xpath-functions" xmlns:meta="http://www.springer.com/app/meta" id="ArticleNavigation" class="table-of-contents" aria-label="table of contents"><div class="table-of-contents__content" data-sticky="toc"><h3 class="table-of-contents__title is-open" data-toggle="collapse" data-target="tocMenu" data-event-category="Table of Contents" data-track-event="click" data-event-action="Toggle ToC" data-event-label="Toggle" data-toggle-disable-clickoff="true" aria-expanded="true">Table of Contents</h3><ul class="table-of-contents__menu is-open" role="menu" id="tocMenu" aria-expanded="true"><li role="menuitem" class="table-of-contents__item"><a class="table-of-contents__link" href="#Abs1" data-event-category="Table of Contents" data-track-event="click" data-event-action="Link Clicked" data-event-label="Abstract">Abstract</a></li><li role="menuitem" class="table-of-contents__item"><a class="table-of-contents__link" href="#Sec1" data-event-category="Table of Contents" data-track-event="click" data-event-action="Link Clicked" data-event-label="Genome-based discovery in cancer">Genome-based discovery in cancer</a></li><li role="menuitem" class="table-of-contents__item"><a class="table-of-contents__link" href="#Sec3" data-event-category="Table of Contents" data-track-event="click" data-event-action="Link Clicked" data-event-label="Whole-genome comparisons of matched primary and metastatic cancers">Whole-genome comparisons of matched primary and metastatic cancers</a></li><li role="menuitem" class="table-of-contents__item"><a class="table-of-contents__link" href="#Sec4" data-event-category="Table of Contents" data-track-event="click" data-event-action="Link Clicked" data-event-label="Monitoring tumor-specific DNA biomarkers">Monitoring tumor-specific DNA biomarkers</a></li><li role="menuitem" class="table-of-contents__item"><a class="table-of-contents__link" href="#Sec5" data-event-category="Table of Contents" data-track-event="click" data-event-action="Link Clicked" data-event-label="Transcriptome-based discovery in cancer">Transcriptome-based discovery in cancer</a></li><li role="menuitem" class="table-of-contents__item"><a class="table-of-contents__link" href="#Declarations" data-event-category="Table of Contents" data-track-event="click" data-event-action="Link Clicked" data-event-label="Declarations">
+                        Declarations
+                      </a></li><li role="menuitem" class="table-of-contents__item"><a class="table-of-contents__link" href="#Bib1" data-event-category="Table of Contents" data-track-event="click" data-event-action="Link Clicked" data-event-label="References">References</a></li><li role="menuitem" class="table-of-contents__item is-hidden"><a class="table-of-contents__link" href="#comments" data-event-category="Table of Contents" data-track-event="click" data-event-action="Link Clicked" data-event-label="Comments">Comments</a></li></ul></div></nav>
+                                </div>
+                                <div class="SideBox">
+                                    <h3 class="SideBox_title">Metrics</h3>
+                                    <ul class="SideBox_list list-stacked list-stacked--small list-stacked--2">
+                                        <div id="article-access-count-loader" class="placeholder" data-replace="true" data-placeholder="/placeholder/v1/article/access-count/10.1186/gb-2010-11-5-211 #accessCount-container"></div>
+                                        <div id="citation-count-loader" class="placeholder" data-replace="true" data-placeholder="/placeholder/v1/article/citation-count/10.1186/gb-2010-11-5-211 #count-container"></div>
+                                        <div id="altmetric-loader" class="placeholder" data-replace="true" data-placeholder="/placeholder/v1/article/altmetric/10.1186/gb-2010-11-5-211 #altmetric-container"></div>
+                                    </ul>
+                                </div>
+                                
+    <div id="sociaMediaShare" class="SideBox">
+        <h3 class="SideBox_title">Share this article</h3>
+        <ul id="shareButtons" class="share">
+            <li class="share__item">
+                <button id="shareOnTwitter" class="js-btnShareOnTwitter share__button share__button--twitter" data-track-event="click"
+                        data-event-category="Article Page" data-event-action="Share Twitter" data-event-label="10.1186/gb-2010-11-5-211">
+                    <span class="sr-only">Share on Twitter</span>
+                </button>
+            </li>
+            <li class="share__item">
+                <button id="shareOnFacebook" class="js-btnShareOnFacebook share__button share__button--facebook" data-track-event="click"
+                        data-event-category="Article Page" data-event-action="Share Facebook" data-event-label="10.1186/gb-2010-11-5-211">
+                    <span class="sr-only">Share on Facebook</span>
+                </button>
+            </li>
+            <li class="share__item">
+                <button id="shareOnLinkedIn" class="js-btnShareOnLinkedIn share__button share__button--linkedin" data-track-event="click"
+                        data-event-category="Article Page" data-event-action="Share LinkedIn" data-event-label="10.1186/gb-2010-11-5-211">
+                    <span class="sr-only">Share on LinkedIn</span>
+                </button>
+            </li>
+            <li class="share__item">
+                <button id="shareOnWeibo" class="js-btnShareOnWeibo share__button share__button--weibo" data-track-event="click"
+                        data-event-category="Article Page" data-event-action="Share Weibo" data-event-label="10.1186/gb-2010-11-5-211">
+                    <span class="sr-only">Share on Weibo</span>
+                </button>
+            </li>
+            <li class="share__item">
+                <button id="shareOnGooglePlus" class="js-btnShareOnGplus share__button share__button--gplus" data-track-event="click"
+                        data-event-category="Article Page" data-event-action="Share Google+" data-event-label="10.1186/gb-2010-11-5-211">
+                    <span class="sr-only">Share on Google Plus</span>
+                </button>
+            </li>
+            <li class="share__item">
+                <button id="shareOnReddit" class="js-btnShareOnReddit share__button share__button--reddit" data-track-event="click"
+                        data-event-category="Article Page" data-event-action="Share Reddit" data-event-label="10.1186/gb-2010-11-5-211">
+                    <span class="sr-only">Share on Reddit</span>
+                </button>
+            </li>
+        </ul>
+    </div>
+
+                                
+    
+
+                                
+    
+
+                                
+    
+        <div id="articleCollections" class="SideBox">
+            <h3 class="SideBox_title">In these collections</h3>
+            <ul class="list-stacked list-stacked--2 list-stacked--small">
+                
+                    <li class="list-stacked__item">
+                        <a class="list-stacked__link" href="https://www.biomedcentral.com/collections/10thanniversary"
+                           title="10th Anniversary Collection"
+                           data-track-event="click"
+                           data-event-category="Article Page|Article Page"
+                           data-event-action="Click collection link|Click collection link"
+                           data-event-label="10thanniversary|10.1186/gb-2010-11-5-211">10th Anniversary Collection</a>
+                    </li>
+                
+            </ul>
+        </div>
+    
+
+                                <div class="SideBox">
+                                    <h3 class="SideBox_title">Other Actions</h3>
+                                    <ul class="list-stacked list-stacked--2 list-stacked--small">
+                                        <li class="list-stacked__item">
+                                            
+    <a data-track-event="click" data-event-category="Article Page" data-event-action="Order article reprints" data-event-label="10.1186/gb-2010-11-5-211" href="https://www.odysseypress.com/onlinehost/reprint_order.php?type=A&page=0&journal=738&doi=10.1186%2Fgb-2010-11-5-211&volume=11&issue=5&title=Cancer+genomics+identifies+determinants+of+tumor+biology&author_name=Elaine+R+Mardis&start_page=1&end_page=8">Order reprint</a>
+
+                                        </li>
+                                    </ul>
+                                </div>
+                                
+        
+        <div id="sociaMediaAccounts" class="SideBox">
+            <h3 class="SideBox_title">Follow</h3>
+            <ul class="follow follow--inline">
+                
+                <li class="follow__item">
+                    <a class="follow__link follow__link--twitter-2" href="https://twitter.com/genomebiology" data-track-event="click" data-event-category="Social Media"
+                       data-event-action="Click Follow Social Media" data-event-label="Twitter">
+                        <span class="follow__label">Follow us on Twitter</span>
+                    </a>
+                </li>
+                
+
+                
+                <li class="follow__item">
+                    <a class="follow__link follow__link--facebook-2" href="https://www.facebook.com/GenomeBiology/" data-track-event="click" data-event-category="Social Media"
+                       data-event-action="Click Follow Social Media" data-event-label="Facebook">
+                        <span class="follow__label">Follow us on Facebook</span>
+                    </a>
+                </li>
+                
+
+                
+            </ul>
+        </div>
+        
+    
+                            </aside>
+                            
+    <div id="FulltextAd" class="adsbox Ad Ad--skyscraper">
+        <div class="Ad_content">
+            <p class="Ad_label">Advertisement</p>
+            <span id="pbgrd-43415139"></span>
+        </div>
+    </div>
+
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </main>
+        
+            <div class="journal-footer">
+                <div class="journal-footer__inner">
+                    <div class="journal-footer__summary">
+                        <h4 class="journal-footer__title">
+                            
+                            <span class="journal-footer__title-text">Genome Biology</span>
+                        </h4>
+                        <p class="journal-footer__issn">ISSN: 1474-760X</p>
+                    </div>
+                    
+                        <div class="journal-footer__contact">
+                            <h4 class="journal-footer__contact-title">Contact us</h4>
+                            <ul class="journal-footer__contact-list">
+                                
+                                    <li class="journal-footer__contact-item">Editorial email: <a href="mailto:editorial@genomebiology.com">editorial@genomebiology.com</a></li>
+                                
+                                
+                                    <li class="journal-footer__contact-item">Support email: <a href="mailto:info@biomedcentral.com">info@biomedcentral.com</a></li>
+                                
+                            </ul>
+                        </div>
+                    
+                </div>
+            </div>
+        
+         
+    <footer>
+        <div class="footer">
+            <div class="footer__header">
+                <img srcset="/static/images/biomed-central-logo-white-3c6c941205.svg" src="/static/images/biomed-central-logo-white-faac4202d5.png" class="logo__img footer__logo" alt="Biomed Central" />
+                
+                    <h2 class="footer__menu-title">Publisher Main Menu</h2>
+                    <ul class="footer__primary-menu">
+                        
+                            <li class="footer__primary-item">
+                                <a class="footer__link footer__primary-link" href="//www.biomedcentral.com/journals">Explore journals</a>
+                            </li>
+                        
+                            <li class="footer__primary-item">
+                                <a class="footer__link footer__primary-link" href="//www.biomedcentral.com/getpublished">Get published</a>
+                            </li>
+                        
+                            <li class="footer__primary-item">
+                                <a class="footer__link footer__primary-link" href="//www.biomedcentral.com/about">About BioMed Central</a>
+                            </li>
+                        
+                    </ul>
+                
+            </div>
+            <div id="Test-FooterExists" class="footer__content">
+                <div class="footer__legal">
+                    
+                    <p class="footer__terms">By continuing to use this website, you agree to our <a class="footer__link footer__link--inline" href="//www.biomedcentral.com/terms-and-conditions">Terms and Conditions</a>, <a class="footer__link footer__link--inline"
+                                                                                                                                                                                                                               href="//www.biomedcentral.com/terms-and-conditions/privacy-statement">Privacy
+                        statement</a> and <a class="footer__link footer__link--inline" href="//www.biomedcentral.com/cookies">Cookies</a> policy.</p>
+                </div>
+                
+    <nav id="publisherFooter" class="footer__nav">
+        <h3 class="footer__menu-title">Publisher secondary menu</h3>
+        <div class="footer__nav-inner">
+            
+            <div class="footer__menu">
+                <ul class="footer__list">
+                    
+                    <li class="footer__item">
+                        <a class="footer__link" href="http://blogs.biomedcentral.com/">Read more on our blogs</a>
+                        
+                    </li>
+                    
+                    <li class="footer__item">
+                        <a class="footer__link" href="//www.biomedcentral.com/login">Receive BMC newsletters</a>
+                        
+                    </li>
+                    
+                    <li class="footer__item">
+                        <a class="footer__link" href="//www.biomedcentral.com/account">Manage article alerts</a>
+                        
+                    </li>
+                    
+                    <li class="footer__item">
+                        <a class="footer__link" href="http://authorservices.springernature.com/language-editing/">Language editing for authors</a>
+                        
+                    </li>
+                    
+                    <li class="footer__item">
+                        <a class="footer__link" href="http://authorservices.springernature.com/scientific-editing/">Scientific editing for authors</a>
+                        
+                    </li>
+                    
+                </ul>
+            </div>
+            
+            <div class="footer__menu">
+                <ul class="footer__list">
+                    
+                    <li class="footer__item">
+                        <a class="footer__link" href="//www.biomedcentral.com/about/policies">Policies</a>
+                        
+                    </li>
+                    
+                    <li class="footer__item">
+                        <a class="footer__link" href="//www.biomedcentral.com/accessibility">Accessibility</a>
+                        
+                    </li>
+                    
+                    <li class="footer__item">
+                        <a class="footer__link" href="//www.biomedcentral.com/about/press-centre">Press center</a>
+                        
+                    </li>
+                    
+                </ul>
+            </div>
+            
+            <div class="footer__menu">
+                <ul class="footer__list">
+                    
+                    <li class="footer__item">
+                        <a class="footer__link" href="//www.biomedcentral.com/about/contact-us">Contact us</a>
+                        
+                    </li>
+                    
+                    <li class="footer__item">
+                        <a class="footer__link" href="https://biomedcentral.typeform.com/to/VLXboo">Leave feedback</a>
+                        
+                    </li>
+                    
+                    <li class="footer__item">
+                        <a class="footer__link" href="//www.biomedcentral.com/about/jobs">Careers</a>
+                        
+                    </li>
+                    
+                </ul>
+            </div>
+            
+            <div class="footer__menu footer__menu--follow">
+                <div class="footer__follow">
+                    <h3 class="footer__follow-title">Follow BioMed Central</h3>
+                    <ul class="follow follow--inline">
+                    
+                        <li class="footer__follow-item follow__item">
+                            <a class="follow__link follow__link--twitter" href="https://twitter.com/biomedcentral" target="_blank" data-track-event="click" data-event-category="Social Media" data-event-action="Click Follow Social Media" data-event-label="Twitter">
+                                <span class="follow__label">Twitter</span>
+                            </a>
+                        </li>
+                    
+                        <li class="footer__follow-item follow__item">
+                            <a class="follow__link follow__link--facebook" href="https://www.facebook.com/BioMedCentral" target="_blank" data-track-event="click" data-event-category="Social Media" data-event-action="Click Follow Social Media" data-event-label="Facebook">
+                                <span class="follow__label">Facebook</span>
+                            </a>
+                        </li>
+                    
+                        <li class="footer__follow-item follow__item">
+                            <a class="follow__link follow__link--gplus" href="https://plus.google.com/106226337984152901734/" target="_blank" data-track-event="click" data-event-category="Social Media" data-event-action="Click Follow Social Media" data-event-label="Google Plus">
+                                <span class="follow__label">Google Plus</span>
+                            </a>
+                        </li>
+                    
+                        <li class="footer__follow-item follow__item">
+                            <a class="follow__link follow__link--weibo" href="http://www.weibo.com/biomedcentral" target="_blank" data-track-event="click" data-event-category="Social Media" data-event-action="Click Follow Social Media" data-event-label="Weibo">
+                                <span class="follow__label">Weibo</span>
+                            </a>
+                        </li>
+                    
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </nav>
+
+
+            </div>
+        </div>
+        <div class="branding-bar">
+            <div class="logo branding-bar__logo">
+                <img srcset="/static/images/logo-springernature-4230d19d5c.svg" src="/static/images/logo-springernature-828f4f84c8.png" class="logo__img branding-bar-logo__img" alt="Springer Nature Logo" />
+            </div>
+            <p class="branding-bar__copyright">&#169; 2017 BioMed Central Ltd unless otherwise stated. Part of <a class="branding-bar__link" href="http://www.springernature.com">Springer Nature</a>.</p>
+        </div>
+    </footer>
+    <noscript class="js-cookie-banner-noscript">
+        <div class="cookie-banner js-cookie-banner">
+            <div class="cookie-banner__inner">
+                <p class="cookie-banner__message">
+                    We use cookies to improve your experience with our site.
+                    <a href="https://www.biomedcentral.com/cookies"
+                       class="cookie-banner__link"
+                       data-track-event="click"
+                       data-event-category="EU Cookie Law Banner"
+                       data-event-action="Find out more">More information <span class="sr-only">about our cookie policy</span>
+                    </a>
+                </p>
+                <button hidden class="cookie-banner__dismiss js-cookie-banner-dismiss"
+                        data-track-event="click"
+                        data-event-category="EU Cookie Law Banner"
+                        data-event-action="Close"><span class="cookie-banner__dismiss-text">Close</span>
+                </button>
+            </div>
+        </div>
+</noscript>
+
+
+    </div>
+    
+    <img class='tracker' style='display:none' src='/track/article/10.1186/gb-2010-11-5-211' alt=""/>
+
+    <div id="JFulltext"></div>
+
+    
+    <script type="text/javascript" src="//cdn.pbgrd.com/bmc.js" async="async"></script>
+
+    
+
+    
+<script>
+(function() {
+    var linkEl = document.querySelector('.js-ctm');
+    if (linkEl && window.matchMedia && window.matchMedia(linkEl.media)) {
+        var vendorScript = document.createElement('script');
+        vendorScript.src = '/static/js/oscar-vendor-67103b4f35.js';
+        vendorScript.async = false;
+        document.body.appendChild(vendorScript);
+        var appScript = document.createElement('script');
+        appScript.src = '/static/js/oscar-app-4e91ea0ef9.js';
+        appScript.async = false;
+        document.body.appendChild(appScript);
+    }
+})();
+</script>
+
+
+
+<script type="text/javascript">
+    if (config) {
+        (function (d) {
+            Array.prototype.forEach.call(d.getElementsByClassName('RealMediaAd'), function (adElement) {
+                var iframe = d.createElement('iframe');
+                iframe.frameBorder = '0';
+                iframe.scrolling = 'no';
+                var position = adElement.getAttribute("data-position"),
+                        iframeInDoc = adElement.getElementsByClassName('Ad_content')[0].appendChild(iframe),
+                        doc = iframeInDoc.contentWindow.document;
+
+                doc.open().write('<body onload="window.location.href = '
+                        + '\'/placeholder/v1/advertising/realMedia?siteWithPath=' + encodeURIComponent(config.siteWithPath)
+                        + '&placement=' + position + '\';">');
+                doc.close();
+            });
+        })(document);
+    }
+</script>
+
+
+
+    
+        <script type="text/javascript">
+            document.addEventListener('readystatechange', function () {
+                if (document.readyState === 'complete') {
+                    setTimeout(function () {
+                        var script = document.createElement("script");
+                        script.type = "text/javascript";
+                        script.src = "https://recommendations.springernature.com/latest/entry-point.js";
+                        document.getElementsByTagName("head")[0].appendChild(script);
+                    }, 0);
+                }
+            });
+        </script>
+    
+
+
+    <script type="text/javascript">
+        var _kiq = _kiq || [];
+        (function () {
+            setTimeout(function () {
+                var d = document, f = d.getElementsByTagName('script')[0], s = d.createElement('script');
+                s.type = 'text/javascript';
+                s.async = true;
+                s.src = '//s3.amazonaws.com/ki.js/47412/9CC.js';
+                f.parentNode.insertBefore(s, f);
+            }, 1);
+            setTimeout(function () {
+                var d = document, f = d.getElementsByTagName('script')[0], s = d.createElement('script');
+                s.type = 'text/javascript';
+                s.async = true;
+                s.src = '//s3.amazonaws.com/ki.js/47412/aC6.js';
+                f.parentNode.insertBefore(s, f);
+            }, 1);
+        })();
+    </script>
+
+
+<noscript>
+	<img hidden src="https://verify.nature.com/verify/nature.png" border="0" width="0" height="0" style="display: none">
+</noscript>
+</body>
+</html>
+

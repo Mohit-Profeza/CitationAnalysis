@@ -1,0 +1,585 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+    <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+
+        <title>Inhibitors of Glioma Growth that Reveal the Tumour to the Immune Syste  </title>
+        <meta name="description" content="Inhibitors of Glioma Growth that Reveal the Tumour to the Immune System " />
+        <meta name="keywords" content="Cancer Informatics, Evolutionary Bioinformatics Online, bioinformatics, biomarkers, computational biology, cancer, informatics, computational biology, phylogeny, phylogenetics, evolutionary biology, science news articles, science articles, proteomics, caBIG, biomedical informatics, informatics, proteomics, genomics, biomarkers, pathology, pathology informatics, radiology, radiology informatics, cancer genes, open access review, open access, biology, microarray, biological, evidence-based, cancer, oncology, biology, evolutionary bioinformatics, informatics, cancer, open access, cancer informatics, evolutionary bioinformatics, computational biology,  journal, peer review, international, computational biology, oncology informatics, cancer informatics, peer-reviewed journals, scientific, research papers, review articles, biotechnology, genomics, proteomics, bioinformatics, cancer, genetic modification, sample scientific journal, science journals, journal publisher, international science journal, subscribe, science, biology, computational biology, pharmacology, drug, research papers, drug delivery, review articles, scientific journal, science journals, journal publisher, international science journal, subscribe,  bioscience, medicine, disease, pharmacology, drug, peer-reviewed journals, clinical medicine, scientific journal, science journals, journal publisher international science journal, subscribe, clinical science, medicine, disease, pharmacology, pharmacy, peer-reviewed journals, scientific research papers, review articles, clinical scientific journal, science journals, journal publisher international science journal, subscribe, biological science, peer-reviewed journals, scientific research papers, review articles, biological science, cancer, oncology, computational biology, bioinformatics, international science journal, peer-review, subscribe, science, peer-reviewed journals, scientific, research papers, review articles, scientific journal, science journals, medical journal, biology, journal publisher, biology, disease, journals, peer-reviewed journals, scientific, research papers, review articles, science journals, journal publisher, international science journal, subscribe,  peer-reviewed Open Access journals, Cancer Informatics, Evolutionary Bioinformatics Online, open access journals, peer-reviewed journals, scientific, research papers, review articles, original research">
+
+        <!-- links -->
+<link rel='index' title='' href='' />
+
+<link rel="stylesheet" href="./js/jquery-ui-1.8.11.custom.css" />
+<!--<link rel="stylesheet" type="text/css" media="screen" href="css/reset.css" />-->
+<link rel="stylesheet" type="text/css" href="css/addon.css" />
+<link rel="stylesheet" type="text/css" media="screen" href="css/grid5.css" />
+<link rel="stylesheet" type="text/css" href="css/lapress.css" />
+<link rel="stylesheet" type="text/css" media="screen" href="css/maffey_styles2.css" />
+<link rel="stylesheet" type="text/css" href="css/print.css" media="print" />
+<link rel="stylesheet" type="text/css" media="screen" href="js/jquery.tools.css" />
+
+<link rel="canonical" href="" />
+<!--[if IE 6]>
+<link rel="stylesheet" type="text/css" media="screen" href="css/screen_ie.css" />
+<![endif]-->
+
+<script type='text/javascript' src='./js/jquery-1.7.1.js'></script>
+
+<script type='text/javascript' src='./js/jquery-validate/jquery.validate.min.js'></script>
+<script type="text/javascript" src="js/gatag.js"></script>
+<script type='text/javascript' src='./js/site_javascript.js'></script>
+<script type='text/javascript' src='./js/jquery-cycle2.72.js?v=1'></script>
+<script type='text/javascript' src='./js/jquery.formTools.js?v=1'></script>
+<script type='text/javascript' src='./js/jquery-ui-1.8.11.custom.min.js'></script>
+
+<link rel="shortcut icon" type="image/x-icon" href="favicon.ico" />
+
+
+<meta name="language" content="en-usa" />
+<meta name="revisit-after" content="30 days" />
+<meta name="rating" content="general" />
+<meta name="distribution" content="global" />
+
+    <link rel="alternate" type="application/rss+xml" title="RSS" href="feed.php?journal_id=42" />
+        <meta name="citation_title" content="Inhibitors of Glioma Growth that Reveal the Tumour to the Immune System">
+            <meta name="citation_author" content="Manuel Nieto-Sampedro">
+            <meta name="citation_author" content="Beatriz Valle-Argos">
+            <meta name="citation_author" content="Diego Gómez-Nicola">
+            <meta name="citation_author" content="Alfonso Fernández-Mayoralas">
+            <meta name="citation_author" content="Manuel Nieto-Díaz">
+        <meta name="citation_publication_date" content="2011/09/21">
+    <meta name="citation_journal_title" content="Clinical Medicine Insights: Oncology">
+    <meta name="citation_volume" content="2011">
+    <meta name="citation_issue" content="5">
+    <meta name="citation_firstpage" content="265">
+    <meta name="citation_lastpage" content="314">
+    <meta name="citation_pdf_url" content="http://insights.sagepub.com/redirect_file.php?fileId=3816&filename=2847-CMO-Inhibitors-of-Glioma-Growth-that-Reveal-the-Tumour-to-the-Immune-Syste.pdf&fileType=pdf">
+    <meta name="DC.Title" content="Inhibitors of Glioma Growth that Reveal the Tumour to the Immune System" />
+    <meta name="DC.Type" content="Text" />
+    <meta name="DC.Description" content="Treated glioblastoma patients survive from 6 to 14 months. In the first part of this review, we describe glioma origins, cancer stem cells and the genomic alterations that generate dysregulated cell division, with enhanced proliferation and diverse response to radiation and chemotherapy. We review the pathways that mediate tumour cell proliferation, neo-angiogenesis, tumor cell invasion, as well as necrotic and apoptotic cell death. Then, we examine the ability of gliomas to evade and suppress the host immune system, exhibited at the levels of antigen recognition and immune activation, limiting the effective signaling between glioma and host immune cells.
+
+The second part of the review presents current therapies and their drawbacks. This is followed by a summary of the work of our laboratory during the past 20 years, on oligosaccharide and glycosphingolipid inhibitors of astroblast and astrocytoma division. Neurostatins, the O-acetylated forms of gangliosides GD1b and GT1b naturally present in mammalian brain, are cytostatic for normal astroblasts, but cytotoxic for rat C6 glioma cells and human astrocytoma grades III and IV, with ID50 values ranging from 200 to 450 nM. The inhibitors do not affect neurons or fibroblasts up to concentrations of 4 µM or higher.
+
+At least four different neurostatin-activated, cell-mediated antitumoral processes, lead to tumor destruction: (i) inhibition of tumor neovascularization; (ii) activation of microglia; (iii) activation of natural killer (NK) cells; (iv) activation of cytotoxic lymphocytes (CTL). The enhanced antigenicity of neurostatin-treated glioma cells, could be related to their increased expression of connexin 43. Because neurostatins and their analogues show specific activity and no toxicity for normal cells, a clinical trial would be the logical next step. 
+"/>
+    <meta name="DC.Publisher" content="SAGE Publishing" />
+            <meta name="DC.Contributor" content="Manuel Nieto-Sampedro" />
+            <meta name="DC.Contributor" content="Beatriz Valle-Argos" />
+            <meta name="DC.Contributor" content="Diego Gómez-Nicola" />
+            <meta name="DC.Contributor" content="Alfonso Fernández-Mayoralas" />
+            <meta name="DC.Contributor" content="Manuel Nieto-Díaz" />
+        <meta name="DC.Rights" content="http://creativecommons.org/licenses/by-nc/3.0/deed.en_US" />
+    <meta name="DC.Date" content="2011" />
+    <meta name="DC.Identifier" content="10.4137/CMO.S7685" />
+    <meta name="DC.Language" content="en" />
+    <link title="schema(PRISM)" rel="schema.prism" href="http://prismstandard.org/namespaces/1.2/basic/" />
+    <meta name="prism.copyright" content="http://creativecommons.org/licenses/by-nc/3.0/deed.en_US" />
+    <meta name="prism.publicationName" content="Clinical Medicine Insights: Oncology" />
+    <meta name="prism.volume" content="2011" />
+    <meta name="prism.number" content="5" />
+    <meta name="prism.startingPage" content="265" />
+    <meta name="prism.endingPage" content="314" />
+    <meta name="prism.publicationDate" content="2011-09-21" />
+    <meta name="prism.eIssn" content="1179-5549" />
+
+        <meta name="robots" content="all" />
+
+                <noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-574KJG"
+                          height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+        <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+                new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+                j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+                '//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+            })(window,document,'script','dataLayer','GTM-574KJG');</script>
+                <script type="text/javascript">
+            var seuEEQ=document.createElement("script");
+            seuEEQ.type="text/javascript";
+            var seuEEQs=(location.protocol.indexOf("https")==0?"https://secure.providesupport.com/image":"http://image.providesupport.com")+"/js/lap/safe-standard.js?ps_h=uEEQ\u0026ps_t="+new Date().getTime();
+            setTimeout("seuEEQ.src=seuEEQs;document.getElementById('sduEEQ').appendChild(seuEEQ)",1);
+        </script>
+    </head>
+    <body>
+        <div id='help'>
+            <img src='./img/popup-close-btn.png' alt='Close' id='closeBtn' style='right: 0px; position: absolute; z-index: 31; margin-top: 0px; cursor: pointer'/>
+            <div style='margin: 17px auto;  overflow: auto; width: 360px; height: 190px'>
+                <span style='color: #0083c8; font-weight: bold; font-size: 14px;'>Help</span>
+                <div id='addHelp'></div>
+            </div>
+        </div><!-- end help -->
+            <div id="sidetab">
+        <li id="sage_sidebar" class="sidebar_icon">
+            <a href="/">
+                <img alt="Sage Publishing" src="images/sage_sidebar.png" />
+            </a>
+        </li>
+        <li id="email_sidebar" class="sidebar_icon">
+            <a target="_blank" href="sign_up_for_email_alerts.php">
+                <img alt="Email Sage" src="images/email_sidebar.png" />
+            </a>
+        </li>
+        <li id="facebook_sidebar" class="sidebar_icon">
+            <a target="_blank" href="https://www.facebook.com/SAGEPublications/?fref=ts">
+                <img alt="Sage Facebook" src="images/facebook_sidebar.png" />
+            </a>
+        </li>
+        <li id="twitter_sidebar" class="sidebar_icon">
+            <a target="_blank" href="https://twitter.com/SAGE_News?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor">
+                <img alt="Sage Twitter" src="images/twitter_sidebar.png" />
+            </a>
+        </li>
+    </div>
+    <div class="wrapper">
+    <div id="headerouter">
+        <div class="headerleft">
+            <a href="./index.php" title="" class="logo"><img src="img/sage_logo.jpg" alt="Sage Publishing"/></a>
+        </div>
+        <div class="headerright">
+            <div class="views_login">
+                <p class="login">
+                                            <a href="./my_la.php">Login to My Author Portal</a>
+                                    </p>
+            </div>
+            <div class="clear"></div>
+
+            <div class="searchouter">
+                <div class="searchleft">
+                    <a onclick="psuEEQow(); return false;" href="" title="" class="help">Need Help?</a>
+                    <!-- BEGIN ProvideSupport.com Graphics Chat Button Code -->
+                    <div id="ciuEEQ"></div>
+                    <div id="scuEEQ" style="display:inline"></div>
+                    <div id="sduEEQ" style="display:none"></div>
+
+                    <noscript>
+                        <div style="display:inline"><a href="http://www.providesupport.com?messenger=lap">Live Chat</a>
+                        </div>
+                    </noscript>
+                    <!-- END ProvideSupport.com Graphics Chat Button Code -->
+                </div>
+
+                <div class="searchright">
+                    <form action="search_result2.php" id="search_form">
+                        <fieldset>
+                            <input type="text" name="q" id="q" class="tf_google"/>
+                            <label><a href="#" onclick="document.getElementById('search_form').submit()" title="Search">Search</a></label>
+                        </fieldset>
+                    </form>
+                </div>
+                <br class="break"/>
+            </div>
+        </div>
+        <br class="break"/>
+    </div>
+    <!-- end headerright -->
+</div><!-- end wrapper -->
+<br/>
+<div class="nav-bg hidewhenprinting">
+    <div class="nav">
+        <ul>
+                            <li class="here"><a href="journal_homepage.php" class="journals">Journals</a></li>
+                            <li class=""><a href="author_resources.php" class="author">Authors</a></li>
+                            <li class=""><a href="peer_reviewers.php" class="peer">Peer Reviewers</a></li>
+                            <li class=""><a href="https://us.sagepub.com/en-us/nam/institution-information" class="lib">Librarians</a></li>
+                            <li class=""><a href="about_us.php" class="about">About Us</a></li>
+                            <li class=""><a href="la_press_news.php" class="news">News</a></li>
+                        <li class="signup"><a href="sign_up_for_email_alerts.php">Sign Up For Alerts</a></li>
+        </ul>
+    </div>
+    <!-- end nav -->
+</div>
+<!-- end nav-bg -->
+        <div class="wrapper">
+                        <div id="contentouter">
+                <div class="leftcolumn">
+                    <br />
+<script type="text/javascript">
+        var CM8Server = "sage.checkm8.com";
+        var CM8Cat = "health_sciences.oncology.onc";
+        var CM8Profile = "76.28.207.224";
+    </script>
+    <script type="text/javascript" src="http://sagedigital.checkm8.com/adam/cm8adam_1_call.js"></script><script type="text/javascript" language="javascript">CM8ShowAd("Leaderboard-Carbon");</script><br />
+<br />
+<div class='journal_heading'>JOURNAL</div>
+<h1 class='journal_heading_h1'>Clinical Medicine Insights: Oncology</h1>
+
+		<div class='journal_heading_stats'>
+    		            <a href="journal.php?pa=journal_analytics&journal_id=42">Journal Analytics</a>	    </div>
+        <div class="journalmenu">
+        <ul>
+                            <li><a href="journal-clinical-medicine-insights-oncology-j42">Contents</a></li>
+                                <li><a href="journal.php?pa=aims_and_scope&journal_id=42">About</a></li>
+                                <li><a href="journal.php?pa=special_announcement&journal_id=42">Call for Papers</a></li>
+                                <li><a href="william-chi-shing-cho-eic42">Editor in Chief</a></li>
+                                <li><a href="journal.php?pa=editorial_board&journal_id=42">Editorial Board</a></li>
+                                <li><a href="journal.php?pa=journal_news&journal_id=42">News</a></li>
+                                    <li class="lastlist_journals"><a
+                            href="journal.php?pa=journal_analytics&journal_id=42">Analytics</a>
+                    </li>
+                        </ul>
+    </div>
+    <div class="articleviews_journal">
+    <h2 class="h2journal" style="margin-bottom: 0;">Inhibitors of Glioma Growth that Reveal the Tumour to the Immune System</h2>
+
+
+
+    <p class="download_paper">
+        <a href="submit_step_1.php" class="submitapaper_link">Submit a Paper</a>
+    </p>
+
+    <br class="break"/>
+    <div class="articlediv_outer">
+        <div class="articlediv_outerleft" style="padding: 0;width: 100%;">
+            
+            <div class=""
+                 style="font: 12px Georgia,Arial,Helvetica,sans-serif !important; line-height: 1.6em !important;">
+                <p class="article_authors_p">Manuel Nieto-Sampedro, Beatriz Valle-Argos, Diego G&oacute;mez-Nicola, Alfonso Fern&aacute;ndez-Mayoralas and Manuel Nieto-D&iacute;az</p>
+                                <p><a href="journal-clinical-medicine-insights-oncology-j42"
+                      style="font: 12px Georgia,Arial,Helvetica,sans-serif !important; line-height: 1.6em !important;"
+                      class="greenlink_article"><em>Clinical Medicine Insights: Oncology</em></a> <a
+                            style="text-decoration: underline;"
+                            href="./journal.php?journal_id=42&tab=volume#issue356">2011:5</a>  265-314                </p>
+                                    <p style="font: 12px Georgia,Arial,Helvetica,sans-serif !important; line-height: 1.6em !important;">Review</p>
+                                <p style="font: 12px Georgia,Arial,Helvetica,sans-serif !important; line-height: 1.6em !important;">
+                    Published on <span class="pubdate"
+                                       style="font-weight: inherit !important;">21 Sep 2011</span>
+                </p>
+                                    <p>DOI: <a style="background-image:none;padding-left:0px; text-decoration: underline;"
+                               href="http://dx.doi.org/10.4137/CMO.S7685">10.4137/CMO.S7685</a>
+                    </p>
+                                
+            </div><!-- files ends -->
+            <br/>
+            Further metadata provided in PDF<br /><br /><div class="paper_black" style="margin:0; height: auto;">
+                            <span class="fulltext_pdf">
+                                <a onclick="pageTracker._trackPageview('/download_2847-CMO-Inhibitors-of-Glioma-Growth-that-Reveal-the-Tumour-to-the-Immune-Syste.pdf.pdf')" href="redirect_file.php?fileId=3816&filename=2847-CMO-Inhibitors-of-Glioma-Growth-that-Reveal-the-Tumour-to-the-Immune-Syste.pdf&fileType=pdf"  class="dwnload">Download Article PDF</a>
+                            </span>
+                        </div>        </div><!-- articlediv_outerleft ends -->
+        <div class="articlediv_journal_info" style="padding: 0;">
+        </div><!-- articlediv_journal_info ends -->
+    </div><!-- articlediv_outer ends -->
+</div><!-- articleviews_journal ends -->
+
+<div class="emailSignUp">
+    <br/> <br/>
+    <p><em class="orange"><a href='./sign_up_for_email_alerts.php?journal_id=42'>Sign up
+                for email alerts</a></em> to receive notifications of
+        new articles published in <em class="blue">Clinical Medicine Insights: Oncology</em></p>
+</div>
+
+    <div class="endorsedArticle">
+        <h2>The <strong>Editor-in-Chief</strong> has endorsed this article</h2>
+        <p><p>Gliomas is one of the most devastating diseases as they are difficult to treat and with high mortality. The authors conducted a comprehensive review on gliomas with a focus on cellular pathways that mediate tumor proliferation and invasion as well as current therapies on gliomas.</p></p>
+    </div>
+    <div class="searchresults_most">
+    <div class="recentviewed">
+        <ul>
+            <li class='searchresults_current'>Abstract and Sharing</li><li><a href='article.php?article_id=2847&tab=metrics'>Article Metrics</a></li><li><a href='article.php?article_id=2847&tab=discuss'>Discuss</a></li>        </ul>
+    </div><!-- recentviewed ends -->
+</div><!-- searchresults_most ends -->
+
+<div class="searchresults" style='padding-top: 10px; padding-bottom: 20px;'>
+<div class="abstract">
+    <strong>Abstract</strong><p>Treated glioblastoma patients survive from 6 to 14 months. In the first part of this review, we describe glioma origins, cancer stem cells and the genomic alterations that generate dysregulated cell division, with enhanced proliferation and diverse response to radiation and chemotherapy. We review the pathways that mediate tumour cell proliferation, neo-angiogenesis, tumor cell invasion, as well as necrotic and apoptotic cell death. Then, we examine the ability of gliomas to evade and suppress the host immune system, exhibited at the levels of antigen recognition and immune activation, limiting the effective signaling between glioma and host immune cells.</p><p></p><p>The second part of the review presents current therapies and their drawbacks. This is followed by a summary of the work of our laboratory during the past 20 years, on oligosaccharide and glycosphingolipid inhibitors of astroblast and astrocytoma division. Neurostatins, the O-acetylated forms of gangliosides GD1b and GT1b naturally present in mammalian brain, are cytostatic for normal astroblasts, but cytotoxic for rat C6 glioma cells and human astrocytoma grades III and IV, with ID50 values ranging from 200 to 450 nM. The inhibitors do not affect neurons or fibroblasts up to concentrations of 4 µM or higher.</p><p></p><p>At least four different neurostatin-activated, cell-mediated antitumoral processes, lead to tumor destruction: (i) inhibition of tumor neovascularization; (ii) activation of microglia; (iii) activation of natural killer (NK) cells; (iv) activation of cytotoxic lymphocytes (CTL). The enhanced antigenicity of neurostatin-treated glioma cells, could be related to their increased expression of connexin 43. Because neurostatins and their analogues show specific activity and no toxicity for normal cells, a clinical trial would be the logical next step. </p><p></p></div><!-- abstract ends -->
+<hr/>
+
+    <div id='trendMD'>
+        <div id="trendmd-suggestions"></div>
+    </div>
+    <hr/>
+<div class="abstract" id='downloads'>
+    <strong><a name='downloads>'>Downloads</a></strong>
+    <div class='downloadsSegmentLeft'>
+        <p><a onclick="pageTracker._trackPageview('/download_2847-CMO-Inhibitors-of-Glioma-Growth-that-Reveal-the-Tumour-to-the-Immune-Syste.pdf.pdf')" href="redirect_file.php?fileId=3816&filename=2847-CMO-Inhibitors-of-Glioma-Growth-that-Reveal-the-Tumour-to-the-Immune-Syste.pdf&fileType=pdf"  class="dwnload">PDF</a><span class="appendedText" style="display: inline; margin-left: 7px;">&nbsp;&nbsp;(9.62 MB PDF FORMAT)</span></p>    </div>
+
+    <div class='downloadsSegmentRight'>
+        <p><a href="bibliography.php?article_id=2847">RIS citation</a><span
+                    class='appendedText'>&nbsp;&nbsp;&nbsp;(ENDNOTE, REFERENCE MANAGER, PROCITE, REFWORKS)</span></p>
+    </div>
+
+    
+    <div class='downloadsSegmentRight'>
+        <p><a href="bibliography.php?pa=bibtex&article_id=2847">BibTex citation</a><span
+                    class='appendedText'>&nbsp;&nbsp;&nbsp;(BIBDESK, LATEX)</span></p>
+    </div>
+
+    
+        <div class='downloadsSegmentLeft' style='clear: none;'>
+            <p><a href="get_file_pmc_xml.php?pmc_id=PMC3201112&title=inhibitors-of-glioma-growth-that-reveal-the-tumour-to-the-immune-syste">XML</a></p>
+        </div>
+        <div class='downloadsSegmentLeft'>
+            <p><a target="_blank" href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3201112/?tool=pmcentrez">PMC HTML</a></p>
+        </div>
+
+        </div><!-- end abstract Downloads -->
+<hr/>
+
+
+<div class='abstract' id='sharing' style='padding-bottom: 0px;'>
+    <strong>Sharing</strong>
+
+        <div class="socialmedia" style='float: left;'>
+        <span class='shareLink'><img style="border: 0pt none;" src="images/stumble_upon.png" border="0"
+                                     alt="stumble"/><a
+                    href="http://www.stumbleupon.com/submit?url=http://insights.sagepub.com/article.php?article_id=2847&t=Inhibitors of Glioma Growth that Reveal the Tumour to the Immune System"
+                    target="_blank">STUMBLE UPON</a></span>
+        <span class='shareLink'><img src="images/citeulike_icon.gif"/><a target="_blank"
+                                                                         href="http://www.citeulike.org/posturl?&url=&title=Inhibitors+of+Glioma+Growth+that+Reveal+the+Tumour+to+the+Immune+System">CITEULIKE</a></span>
+        <span class='shareLink'><img src="images/digg_guy.png"/><a
+                    href="http://www.digg.com/submit?phase=2&url=http://insights.sagepub.com/article.php?article_id=2847&t=Inhibitors of Glioma Growth that Reveal the Tumour to the Immune System">DIGG</a></span>
+        <span class='shareLink'><img src="images/facebook_logo.gif"/><a
+                    href='http://www.facebook.com/sharer.php?u=http://insights.sagepub.com/article.php?article_id=2847&t=Inhibitors of Glioma Growth that Reveal the Tumour to the Immune System'>FACEBOOK</a></span>
+        <span class='shareLink'><img src="images/icon_mendeley_16x16.gif" alt="Bibliography"/><a
+                    href="http://www.mendeley.com/import/?url=10.4137%2FCMO.S7685"
+                    title="Add to Mendeley" target="_blank">MENDELEY</a></span>
+        <span class='shareLink'><img src="images/linkedin_logo.gif"/><a
+                    href="http://www.linkedin.com/shareArticle?mini=true&url=http://insights.sagepub.com/article.php?article_id=2847&title=Inhibitors of Glioma Growth that Reveal the Tumour to the Immune System&source=http://insights.sagepub.com/">LINKED IN</a></span>
+        <span class='shareLink'><img src="images/twitter_20.png"/><a
+                    href="http://twitter.com/home?status=http://insights.sagepub.com/article.php?article_id=2847&t=Inhibitors of Glioma Growth that Reveal the Tumour to the Immune System">TWITTER</a></span>
+    </div><!-- socialmedia ends -->
+
+    <div id='articleShareURL'>
+        <input id='urlInput' type='text'
+               value="http://insights.sagepub.com/article.php?article_id=2847"/>
+    </div>
+</div><!-- end abstract Sharing -->
+
+<script type='text/javascript'>
+    $(document).ready(function () {
+        $('#urlInput').click(function () {
+            $('#urlInput').select();
+        });
+
+        $('#urlInput').attr('readonly', 'readonly');
+    });
+</script>
+
+    <script type="text/javascript" src="//trendmd.s3.amazonaws.com/trendmd.min.js"></script>
+    <script type="text/javascript">TrendMD.register({
+            journal_id: 2685,
+            element: '#trendmd-suggestions',
+            track_id: null
+        });</script>
+    	</div><!-- searchresults ends -->
+</div><!-- leftcolumn ends -->
+
+<div class="rightcolumn">
+	<br /><br />    <div style="text-align:center;padding:10px 0px 10px 0px"><script type="text/javascript" language="javascript">CM8ShowAd("180x150-Carbon");</script></div>    <br/>
+
+    <h3>Quick Links</h3>
+<ul class="links">
+	<li><a href="http://languageservices.sagepub.com/en/services/editing/">English Editing</a></li>
+    <li><a href="call_for_paper.php">Calls for Papers</a></li>
+	<li><a href="author_resources.php?folder_id=135">Prepare your Manuscript</a></li>
+	<li><a href="peer_reviewer_registration.php">Volunteer as a Peer Reviewer</a></li>
+</ul>    <div style="text-align:center;padding:10px 0px 10px 0px"><script type="text/javascript" language="javascript">CM8ShowAd("Skyscraper-Carbon");</script></div>    <div class="ebook_banner_right">
+    <a href="sign_up_for_email_alerts.php" target=""><img src="images/signup-blue.gif" /></a>
+
+    </div>
+    	<script type='text/javascript' src='./js/jquery.scrollable.js'></script>
+	<script type='text/javascript' src='./js/jquery.autoscrollable.js'></script>
+<div id="news_holder">
+   <h2>LATEST NEWS</h2>
+   <!-- root element for scrollable -->
+<div class="vertical">
+
+  <!-- root element for the items -->
+  <div class="items">
+  
+               <div class="item">
+            
+               <p class="news_sideline_heading"><a target="_blank" href="la_press_news.php?pa=view&news_item_id=4119">Evolutionary Bioinformatics: Special Collection on Algorithm Development for E...</a></p>
+            
+         </div>
+               <div class="item">
+            
+               <p class="news_sideline_heading"><a target="_blank" href="la_press_news.php?pa=view&news_item_id=4111">Biomedical Engineering and Computational Biology: Special Collection on Machin...</a></p>
+            
+         </div>
+               <div class="item">
+            
+               <p class="news_sideline_heading"><a target="_blank" href="la_press_news.php?pa=view&news_item_id=4112">Biomedical Informatics Insights: Special Collection on Precision and Individua...</a></p>
+            
+         </div>
+               <div class="item">
+            
+               <p class="news_sideline_heading"><a target="_blank" href="la_press_news.php?pa=view&news_item_id=4113">Cancer Informatics: Special Collection on Human Protein Coding Genes for Cance...</a></p>
+            
+         </div>
+               <div class="item">
+            
+               <p class="news_sideline_heading"><a target="_blank" href="la_press_news.php?pa=view&news_item_id=4114">Cancer Informatics: Special Collection on Signal Processing Applications In Ge...</a></p>
+            
+         </div>
+               <div class="item">
+            
+               <p class="news_sideline_heading"><a target="_blank" href="la_press_news.php?pa=view&news_item_id=4115">Clinical Medicine Insights: Arthritis and Musculoskeletal Disorders: Special C...</a></p>
+            
+         </div>
+               <div class="item">
+            
+               <p class="news_sideline_heading"><a target="_blank" href="la_press_news.php?pa=view&news_item_id=4116">International Journal of Insect Science: Special Collection on Africanized Hon...</a></p>
+            
+         </div>
+               <div class="item">
+            
+               <p class="news_sideline_heading"><a target="_blank" href="la_press_news.php?pa=view&news_item_id=4118">Substance Abuse: Research and Treatment: Special Collection on Individual Diff...</a></p>
+            
+         </div>
+               <div class="item">
+            
+               <p class="news_sideline_heading"><a target="_blank" href="la_press_news.php?pa=view&news_item_id=4117">International Journal of Insect Science: Special Collection on Oviposition Str...</a></p>
+            
+         </div>
+               <div class="item">
+            
+               <p class="news_sideline_heading"><a target="_blank" href="la_press_news.php?pa=view&news_item_id=4110">Public Science Insights: Involve Me and I Learn: Teaching Medical Students Ski...</a></p>
+            
+         </div>
+            </div>
+
+</div>
+    
+</div>
+<script>
+$('document').ready(function(){
+   // initialize scrollable with mousewheel support
+   $(".vertical").scrollable({
+        circular: true,
+        vertical: true,
+        speed: 750,
+        itemCount: 10        })
+   .autoscroll({
+        autoplay: true,
+        interval: 2500
+        });
+
+
+});
+</script>
+
+<style>
+   .vertical {
+
+    /* required settings */
+    position:relative;
+    overflow:hidden;
+
+    /* vertical scrollers have typically larger height than width */
+    height: 512px;
+    width: 210px;
+   
+    padding-bottom: 5px;
+}
+
+/* root element for scrollable items */
+.vertical .items {
+    position:absolute;
+
+    /* this time we have very large space for height */
+    height:20000em;
+    width:100%;
+}
+
+/* single scrollable item */
+.vertical .items .item {
+   display:block;
+    width:190px;
+    margin: 0 auto;
+    padding:10px 5px 15px;
+    font-size:12px;
+    overflow: hidden;
+    vertical-align: middle;
+}
+
+
+</style>
+</div><!-- rightcolumn ends -->
+</div><!-- contentouter ends -->    <br clear="all" />
+    <div id="followus">
+        <strong>New article and journal news notification services</strong>
+        <div id="socialFeedContainer">
+            <a href="sign_up_for_email_alerts.php">Email Alerts</a>
+            <a href="social_network_feeds.php?site=rss">RSS Feeds</a><br/>
+            <a target="_blank" href="https://www.facebook.com/SAGEPublications/?fref=ts">Facebook</a>
+            <a href="social_network_feeds.php?site=twitter">Twitter</a><br/>
+            <a target="_blank" href="http://pinterest.com/libertasacadem/">Pinterest</a>
+        </div>
+    </div><!-- followus ends -->
+
+    <br clear="all" />
+    <div class="hideForPrint" style="clear: both;" id="footer-banner">
+    <div class="a-100 assets">
+                <h2>Services for authors</h2>
+    </div>
+
+    <div class="a-100 assets-light journal-footer" style="position:relative;">
+    <div class="a-100 assets-light">
+        <div class="a-outer-padding">
+            <div class="a-100 a-journal">
+                <div class="a-left a-margin-right">
+                    <img src="assets/img/journal-cover.jpg">
+                </div>
+                <div class="a-left">
+                    <span class="a-green">Journal</span>
+                    <h2>Clinical Medicine Insights: Oncology</h2>
+                </div>
+            </div>
+
+            <div class="a-33 assets">
+                <div class="a-padding">
+                    <ul>
+                        <li>Rigorous, expert peer review</li>
+                        <li>Submission to first editorial decision including peer review in 4 weeks average</li>
+                        <li>Rapid publication in 3-6 weeks after start of production</li>
+                        <li>Simple author instructions and manuscript submission system</li>
+                    </ul>
+                </div>
+            </div>
+            <div class="a-33 assets">
+                <div class="a-padding assets-border-right">
+                    <ul>
+                        <li>Article announcement after publication through scholarly databases, social media, opted-in journal newsletters and TrendMD.</li>
+                        <li>Article usage metrics (currently in beta)</li>
+                        <li>Detailed guidance for authors on how to enhance article visibility</li>
+                    </ul>
+                </div>
+            </div>
+            <div class="a-33 assets">
+                <div class="a-padding">
+                    <ul>
+                        <li>Pre-peer review language polishing and paper formatting service</li>
+                        <li>Pre-submission paper-matching
+                            and editor in chief consultation</li>
+                        <li>No deadlines for corrections to typeset proofs</li>
+                        <li>Manuscript status updates available through My Author Portal</li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="a-100" style="text-align: right; padding-right: 15px; box-sizing: border-box; position: absolute; bottom: 20px;left: 0;"><a target="new" href="http://insights.sagepub.com/author_resources.php?folder_id=135">How to Prepare &amp; Submit Your Manuscript</a></div>
+
+</div></div>
+<!-- hideForPrint --><br clear="all" />
+
+        <div id="footer-links" class='hidewhenprinting'>
+    <a href="https://www.formstack.com/forms/?578577-N8b5qIMO2O">Feedback</a>
+    |
+    <a href="https://us.sagepub.com/en-us/nam/re-use-of-open-access-content">Copyright Policy</a>
+    |
+    <a href="https://us.sagepub.com/en-us/nam/contact-us">Contact Us</a>
+
+    <div style="float:right">
+        <a href="http://oaspa.org/member/sage-publications/" target="_blank">OASPA membership</a>
+        |
+        <a href="http://thinkchecksubmit.org/" target="_blank">We support Think. Check. Submit.</a>
+    </div>
+
+</div><!-- footer -->
+    <div id="footer-copyright">
+        Copyright &copy; 2017 <span>SAGE Publishing</span>
+        (except open access articles and accompanying metadata and supplementary files.)
+    </div>
+        </div><!-- wrapper -->
+</body>
+</html>

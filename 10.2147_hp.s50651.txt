@@ -1,0 +1,520 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
+<!--[if IE 8]>         <html class="no-js lt-ie9"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js"> <!--<![endif]-->
+
+<head>
+	<meta charset="utf-8">
+<meta name="author" content="Dove Press">
+<meta name="viewport" content="initial-scale=1.0, width=device-width">
+<title>Complex role of HIF in cancer: the known, the unknown, and the unexpec | HP</title>
+<meta property="og:title" content="Complex role of HIF in cancer: the known, the unknown, and the unexpec | HP" />
+<meta name="description" content="Complex role of HIF in cancer: the known, the unknown, and the unexpected Patricia Denise Tiburcio,1,2 Hyunsung Choi,1 L Eric Huang1,21Department of Neurosurgery, Clinical Neurosciences Center, University of Utah, Salt Lake City, UT, USA; 2Department of Oncological Sciences, Huntsman Cancer Institute, University of Utah, Salt Lake City, UT, USAAbstract: Tumor hypoxia has long been recognized as a driving force of malignant progression and therapeutic resistance. The discovery of hypoxia-inducible transcription factors (HIFs) has greatly advanced our understanding of how cancer cells cope with hypoxic stress by maintaining bioenergetics through the stimulation of glycolysis. Until recently, however, it remained perplexing why proliferative cancer cells opt for aerobic glycolysis, an energy-inefficient process of glucose metabolism. Furthermore, the role of HIF in cancer has also become complex. In this review, we highlight recent groundbreaking findings in cancer metabolism, put forward plausible explanations to the complex role of HIF, and underscore remaining issues in cancer biology.Keywords: cancer biology, hypoxia, metabolism, oncogenic signaling" />
+<meta property="og:description" content="Complex role of HIF in cancer: the known, the unknown, and the unexpected Patricia Denise Tiburcio,1,2 Hyunsung Choi,1 L Eric Huang1,21Department of Neurosurgery, Clinical Neurosciences Center, University of Utah, Salt Lake City, UT, USA; 2Department of Oncological Sciences, Huntsman Cancer Institute, University of Utah, Salt Lake City, UT, USAAbstract: Tumor hypoxia has long been recognized as a driving force of malignant progression and therapeutic resistance. The discovery of hypoxia-inducible transcription factors (HIFs) has greatly advanced our understanding of how cancer cells cope with hypoxic stress by maintaining bioenergetics through the stimulation of glycolysis. Until recently, however, it remained perplexing why proliferative cancer cells opt for aerobic glycolysis, an energy-inefficient process of glucose metabolism. Furthermore, the role of HIF in cancer has also become complex. In this review, we highlight recent groundbreaking findings in cancer metabolism, put forward plausible explanations to the complex role of HIF, and underscore remaining issues in cancer biology.Keywords: cancer biology, hypoxia, metabolism, oncogenic signaling" />
+<meta property="og:image" content="https://www.dovepress.com/assets/img/addon/og_logo.png" />
+<meta property="og:type" content="website" />
+<link rel="canonical" href="https://www.dovepress.com/complex-role-of-hif-in-cancer-the-known-the-unknown-and-the-unexpected-peer-reviewed-article-HP" />
+<meta property="og:url" content="https://www.dovepress.com/complex-role-of-hif-in-cancer-the-known-the-unknown-and-the-unexpected-peer-reviewed-article-HP" />
+<link itemprop="sameAs" href="https://twitter.com/dovepress">
+<link rel="image_src" href="assets/img/addon/favicon.ico" />
+<link rel="shortcut icon" type="image/x-icon" href="assets/img/addon/favicon.ico" />
+<meta name="citation_title" content="Complex role of HIF in cancer: the known, the unknown, and the unexpected">
+<meta name="citation_publication_date" content="2014/06/18">
+<meta name="citation_journal_title" content="Hypoxia">
+<meta name="citation_journal_issn" content="2324-1128">
+<meta name="citation_journal_abbrev" content="HP">
+<meta name="citation_publisher" content="Dove Press">
+<meta name="citation_language" content="English">
+<meta name="citation_volume" content="2">
+<meta name="citation_firstpage" content="59">
+<meta name="citation_lastpage" content="70">
+<meta name="citation_doi" content="10.2147/HP.S50651">
+<meta name="citation_pdf_url" content="https://www.dovepress.com/getfile.php?fileID=20473">
+<meta name="citation_author" content="Patricia Denise Tiburcio">
+<meta name="citation_author" content="Hyunsung Choi">
+<meta name="citation_author" content="L Eric Huang">
+<link rel="stylesheet" href="cr_data/cache/css_compressed/min.standard.css"  media="all" />
+<link rel="stylesheet" href="cr_data/cache/css_compressed/min.standard.articles.print.css"  media="print" />
+<link rel="stylesheet" href="cr_data/cache/css_compressed/min.standard.articles.screen.css"  media="screen" />
+<!--[if lt IE 9]>
+<script src="assets/js/html5shiv.js"></script>
+<![endif]-->
+
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-W2V6CH');</script>
+<!-- End Google Tag Manager -->
+
+</head>
+<body>
+    <!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-W2V6CH"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->    <div id="modal_wrapper">
+        <div id="modal_bg"></div>
+        <div id="modal_popup"></div>
+    </div>
+	<noscript>
+	<div id='jswarn'>
+	<p>Javascript is currently disabled in your browser. Several features of
+	this site will not function whilst javascript is disabled.</p>
+	</div>
+</noscript>
+	<div id="page">
+        <div id="mobile-bg">
+	<div class="mobile">
+		<ul>
+			<li><a href="browse_journals.php" id="browse-journals">Browse Journals</a></li>
+			<li><a href="why_publish_with_dove.php" id="why-publish">Why Publish With Dove?</a></li>
+			<li><a href="editors_in_chief.php" id="editors-in-chief">Editors-in-Chief</a></li>
+			<li><a href="author_guidelines.php" id="author-guidelines">Author Guidelines</a></li>
+			<li><a href="peer_review_guidelines.php" id="peer-review-guidelines">Peer Review Guidelines</a></li>
+			<li><a href="open_outlook.php" id="open-outlook">Open Outlook</a></li>
+			<li><a href="blog_post.php" id="blog-post">Blog</a></li>
+			<li><a href="#" id="submit-manuscript" class="orange">Submit Manuscript</a></li>
+		</ul>
+	</div>
+</div>
+<div class="top_bg group">
+	<div class="top group">
+		<div class="mobile-nav">
+			<a href="#" id="toggle"><img src="assets/img/mobile-icon.png" width="20" height="14" /> Menu</a>
+		</div>
+		<ul>
+			<li><a href="about_dovepress.php">About</a></li>
+			<li class="mobile-top"><a href="contact.php" class="contact">Contact</a></li>
+			<li><a href="sustainability.php">Sustainability</a></li>
+			<li><a href="press_releases.php">Press Releases</a></li>
+			<li><a href="testimonials.php">Testimonials</a></li>
+			<li><a href="blog_post.php">Blog</a></li>
+			<li><a href="fav_author.php">Favored Author Program</a></li>
+			<li><a href="permissions.php">Permissions</a></li>
+			<li><a href="presubmission_check.php">Pre-Submission</a></li>
+			<li class="mobile-top">
+									<a href="login.php" class="login"><strong>Login</strong></a>
+								</li>
+            <li class="mobile-top">
+                <a target="_blank" href="http://www.dovepress.com.cn"><img src="assets/img/flags/cn-2.png" alt="Chinese website (中文网站)" title="Chinese website (中文网站)" /></a>
+            </li>
+		</ul>
+	</div>
+</div>
+
+<div class="mast_bg group">
+	<div class="mast group">
+		<div class="logo">
+			<a href="index.php" name="page-top"><img src="assets/img/logo.png" width="205" height="43" /></a>
+			<p>open access to scientific and medical research</p>	
+		</div>
+		<!-- /end logo -->
+		<div class="search-bg">
+			<form method="get" action="search_results.php">
+				<input type="text" name="search_word" value="" placeholder="Search Dove Press" class="search" />
+				<span style="display: inline-block">
+					<input type="submit" value="Search" class="btn-search" id="sitewide-search" />
+					<a href="search_advance.php" class="link-search-advanced">Advanced search</a>
+				</span>
+			</form>
+		</div>
+		<!-- /end search_bg -->
+        	</div>
+	<!-- /end mast -->
+</div>
+<!-- /end mast_bg -->
+
+
+<nav role="navigation" class="nav_bg group">
+	<div class="nav group">
+		<ul>
+			<li class=""><a href="index.php" >Home</a></li><li class=""><a href="browse_journals.php" >Browse Journals</a></li><li class=""><a href="why_publish_with_dove.php" >Why Dove?</a></li><li class=""><a href="editors_in_chief.php" >Editors-in-Chief</a></li><li class=""><a href="author_guidelines.php" >Author Guidelines</a></li><li class=""><a href="peer_review_guidelines.php" >Peer Review Guidelines</a></li><li class=""><a href="open_outlook.php" >Open Outlook</a></li>		</ul>
+	</div>
+	<!-- /end nav -->
+</nav>
+<!-- /end nav_bg -->		<div class="grid_bg group">
+			<div class="grid group">
+				<aside role="complementary" class="sidebar">
+					<section class="box-wrap"><section class="box-ticker"><div class="small-bottom-padding"><h5>Average Article Statistics</h5></div><div class="no-top-padding">
+								<div class="journal-counter">
+									<h4><span class="ticker-num">2</span><span class="ticker-num">3</span> <span class="ticker-days">Days</span></h4>
+								</div>
+								<div class="box-ticker-note">*</div>
+								<p class="journal-ticker">from submission to first editorial decision.</p>
+							</div><div class="no-top-padding">
+								<div class="journal-counter">
+									<h4><span class="ticker-num">2</span><span class="ticker-num">0</span> <span class="ticker-days">Days</span></h4>
+								</div>
+								<div class="box-ticker-note">*</div>
+								<p class="journal-ticker">from editorial acceptance to publication.</p>
+							</div><div class="no-top-padding box-ticker-footnote"><p>*Business days (Mon-Fri)</p></div></section></section><section class="box-wrap">
+	<section class="box-ticker">
+		<div class="padding">
+			<div class="ticker">
+				<h4>
+					<span class="ticker-num">3</span><span class="ticker-num">3</span><span class="ticker-num">2</span><span class="ticker-num">4</span><span class="ticker-num">6</span>				</h4>
+			</div>
+			<p>Papers Published</p>
+		</div>
+	</section>
+</section>
+<section class="box-wrap">
+	<section class="box-none">
+		<div class="width-padding">
+		<a href="submit_step_1.php" class="manuscript-btn">Submit Manuscript</a>
+		</div>
+	</section>
+	<!-- /end box -->
+</section>
+<!-- /end box-wrap --><section class="box-wrap">
+	<section class="box light-green">
+		<div class="padding">
+			<h4>Journal Email Alerts</h4>
+			<a href="register.php" class="alerts-btn">Signup for Alerts</a>
+		</div>
+	</section>
+	<!-- /end box -->
+</section>
+<!-- /end box-wrap -->			<section class="box-wrap ">
+				<section class="box-bg">
+					<div class="padding">
+						<h4>About Dove Press</h4>
+												<p>Open access peer-reviewed scientific and medical journals.</p>
+													<a href="http://www.dovepress.com/about_dovepress.php"  class="std-link">Learn more</a>
+												</div>
+				</section>
+				<!-- /end box-open -->
+			</section>
+			<!-- /end box-wrap -->
+						<section class="box-wrap ">
+				<section class="box-bg">
+					<div class="padding">
+						<h4>Open Access</h4>
+													<img src="cr_data/promo_box_image/promo_9.jpg" />
+													<p>Dove Medical Press is a member of the OAI.</p>
+													<a href="why_publish_with_dove.php?content_id=3045"  class="std-link">Learn more</a>
+												</div>
+				</section>
+				<!-- /end box-open -->
+			</section>
+			<!-- /end box-wrap -->
+						<section class="box-wrap ">
+				<section class="box-bg">
+					<div class="padding">
+						<h4>Reprints</h4>
+												<p>Bulk reprints for the pharmaceutical industry.</p>
+													<a href="bulk_reprints.php"  class="std-link">Learn more</a>
+												</div>
+				</section>
+				<!-- /end box-open -->
+			</section>
+			<!-- /end box-wrap -->
+						<section class="box-wrap promo-box">
+				<section class="box-open">
+					<div class="padding">
+						<h4>Favored Authors</h4>
+												<p>We offer real benefits to our authors, including fast-track processing of papers.</p>
+													<a href="fav_author.php"  class="std-link">Learn more</a>
+												</div>
+				</section>
+				<!-- /end box-open -->
+			</section>
+			<!-- /end box-wrap -->
+			<!-- end echoFromCache --><section class="box-wrap">
+	<section class="box-open">
+		<div class="padding">
+			<h5>Social Media</h5>
+			<a href="https://www.facebook.com/DoveMedicalPress" class="btn-facebook" id="facebook"></a> &nbsp;
+			<a href="https://twitter.com/DovePress" class="btn-twitter" id="twitter"></a> &nbsp;
+			<a href="https://www.linkedin.com/company/dove-medical-press" class="btn-linked-in" id="linked-in"></a> &nbsp;
+			<a href="https://plus.google.com/103430773410928392958" class="btn-google" id="google"></a> &nbsp;
+			<a href="https://www.youtube.com/user/dovepress" class="btn-youtube" id="youtube"></a>
+		</div>
+	</section>
+	<!-- /end box-open -->
+</section>
+<!-- /end box-wrap --><section class="box-wrap">
+	<section class="box-none">
+        <iframe src="live_chat.php" width="90%" height="60"></iframe>
+	</section>
+	<!-- /end box-open -->
+</section>
+<!-- /end box-wrap -->				</aside>
+	
+				<div role="main" class="main" id="content">
+					<p class="back">Back to <a href="browse_journals.php">Browse Journals</a> &raquo; <a href="hypoxia-journal">Hypoxia</a> &raquo; <a href="hypoxia-archive149-v817">Volume 2</a></p><div class="tabs-bg group"><div class="tabs-padding group">	<div class="article-labels group">
+        <div class="tag  article-tag">Review</div><img src="assets/img/article_icons/highly-accessed.png" title="Highly-accessed" class="article-icon"/>	</div>
+	<h1>Complex role of HIF in cancer: the known, the unknown, and the unexpected</h1><div class="mobile-social"><a href="https://twitter.com/intent/tweet?text=Complex+role+of+HIF+in+cancer%3A+the+known%2C+the+unknown%2C+and+the+unexpec+%7C+HP+%40DovePress&related=DovePress&url=https://www.dovepress.com/complex-role-of-hif-in-cancer-the-known-the-unknown-and-the-unexpected-peer-reviewed-article-HP" class="btn-twitter btn-page-share" id="twitter" title="share this page on Twitter"></a>&nbsp;<a href="https://www.facebook.com/sharer.php?u=https://www.dovepress.com/complex-role-of-hif-in-cancer-the-known-the-unknown-and-the-unexpected-peer-reviewed-article-HP&t=Complex role of HIF in cancer: the known, the unknown, and the unexpec | HP" class="btn-facebook btn-page-share" id="facebook" title="share this page on Facebook"></a>&nbsp;<a href="qr.php?p=https://www.dovepress.com/complex-role-of-hif-in-cancer-the-known-the-unknown-and-the-unexpected-peer-reviewed-article-HP" class="btn-wechat btn-page-share" id="wechat" title="share this page on WeChat"></a>&nbsp;<a href="https://www.linkedin.com/shareArticle?mini=true&url=https://www.dovepress.com/complex-role-of-hif-in-cancer-the-known-the-unknown-and-the-unexpected-peer-reviewed-article-HP&title=Complex+role+of+HIF+in+cancer%3A+the+known%2C+the+unknown%2C+and+the+unexpec+%7C+HP&source=Dove Press" class="btn-linked-in btn-page-share" title="share this page on Linkedin"></a>&nbsp;<a href="http://del.icio.us/post?url= https://www.dovepress.com/complex-role-of-hif-in-cancer-the-known-the-unknown-and-the-unexpected-peer-reviewed-article-HP" class="btn-delicious btn-page-share" id="delicious" title="share this page on Delicious"></a>&nbsp;<a href="https://plus.google.com/share?url=https://www.dovepress.com/complex-role-of-hif-in-cancer-the-known-the-unknown-and-the-unexpected-peer-reviewed-article-HP" class="btn-google btn-page-share" id="google" title="share this page on Google+"></a>&nbsp;<a href="https://www.reddit.com/submit?url=https://www.dovepress.com/complex-role-of-hif-in-cancer-the-known-the-unknown-and-the-unexpected-peer-reviewed-article-HP" class="btn-reddit btn-page-share" id="reddit" title="share this page on Reddit"></a>&nbsp;<a href="http://www.citeulike.org/posturl?url=https%3A%2F%2Fwww.dovepress.com%2Fcomplex-role-of-hif-in-cancer-the-known-the-unknown-and-the-unexpected-peer-reviewed-article-HP&title=Complex+role+of+HIF+in+cancer%3A+the+known%2C+the+unknown%2C+and+the+unexpec+%7C+HP" class="btn-citeulike" id="citeulike" title="share this page on CiteULike"></a>&nbsp;<a href="http://www.mendeley.com/import/?url=https%3A%2F%2Fwww.dovepress.com%2Fcomplex-role-of-hif-in-cancer-the-known-the-unknown-and-the-unexpected-peer-reviewed-article-HP" class="btn-mendeley" id="mendeley" title="share this page on Mendeley"></a>&nbsp;<a href="site_referral.php?article_id=17245" class="btn-email" id="email" title="share this page via Email"></a>&nbsp;</div><div class="tabs print-hide"><a href="https://twitter.com/intent/tweet?text=Complex+role+of+HIF+in+cancer%3A+the+known%2C+the+unknown%2C+and+the+unexpec+%7C+HP+%40DovePress&related=DovePress&url=https://www.dovepress.com/complex-role-of-hif-in-cancer-the-known-the-unknown-and-the-unexpected-peer-reviewed-article-HP" class="btn-twitter btn-page-share" id="twitter" title="share this page on Twitter"></a>&nbsp;<a href="https://www.facebook.com/sharer.php?u=https://www.dovepress.com/complex-role-of-hif-in-cancer-the-known-the-unknown-and-the-unexpected-peer-reviewed-article-HP&t=Complex role of HIF in cancer: the known, the unknown, and the unexpec | HP" class="btn-facebook btn-page-share" id="facebook" title="share this page on Facebook"></a>&nbsp;<a href="qr.php?p=https://www.dovepress.com/complex-role-of-hif-in-cancer-the-known-the-unknown-and-the-unexpected-peer-reviewed-article-HP" class="btn-wechat btn-page-share" id="wechat" title="share this page on WeChat"></a>&nbsp;<a href="https://www.linkedin.com/shareArticle?mini=true&url=https://www.dovepress.com/complex-role-of-hif-in-cancer-the-known-the-unknown-and-the-unexpected-peer-reviewed-article-HP&title=Complex+role+of+HIF+in+cancer%3A+the+known%2C+the+unknown%2C+and+the+unexpec+%7C+HP&source=Dove Press" class="btn-linked-in btn-page-share" title="share this page on Linkedin"></a>&nbsp;<a href="http://del.icio.us/post?url= https://www.dovepress.com/complex-role-of-hif-in-cancer-the-known-the-unknown-and-the-unexpected-peer-reviewed-article-HP" class="btn-delicious btn-page-share" id="delicious" title="share this page on Delicious"></a>&nbsp;<a href="https://plus.google.com/share?url=https://www.dovepress.com/complex-role-of-hif-in-cancer-the-known-the-unknown-and-the-unexpected-peer-reviewed-article-HP" class="btn-google btn-page-share" id="google" title="share this page on Google+"></a>&nbsp;<a href="https://www.reddit.com/submit?url=https://www.dovepress.com/complex-role-of-hif-in-cancer-the-known-the-unknown-and-the-unexpected-peer-reviewed-article-HP" class="btn-reddit btn-page-share" id="reddit" title="share this page on Reddit"></a>&nbsp;<a href="http://www.citeulike.org/posturl?url=https%3A%2F%2Fwww.dovepress.com%2Fcomplex-role-of-hif-in-cancer-the-known-the-unknown-and-the-unexpected-peer-reviewed-article-HP&title=Complex+role+of+HIF+in+cancer%3A+the+known%2C+the+unknown%2C+and+the+unexpec+%7C+HP" class="btn-citeulike" id="citeulike" title="share this page on CiteULike"></a>&nbsp;<a href="http://www.mendeley.com/import/?url=https%3A%2F%2Fwww.dovepress.com%2Fcomplex-role-of-hif-in-cancer-the-known-the-unknown-and-the-unexpected-peer-reviewed-article-HP" class="btn-mendeley" id="mendeley" title="share this page on Mendeley"></a>&nbsp;<a href="site_referral.php?article_id=17245" class="btn-email" id="email" title="share this page via Email"></a>&nbsp;<ul><li class="here"><a href="#"  >Abstract</a></li><li class=""><a href="complex-role-of-hif-in-cancer-the-known-the-unknown-and-the-unexpected-peer-reviewed-fulltext-article-HP"  title="Machine readable">Fulltext</a></li><li class=""><a href="article_metric.php?article_id=17245"  >Metrics</a></li><li class=""><a href="//www.copyright.com/ccc/openurl.do?&issn=2324-1128&WT.mc.id=Dove Medical Press" target="_blank" >Get Permission</a></li></ul></div><div class="tab-content">
+	<div class="articles">
+		
+<div class="intro">
+    <div class="padding">				
+        <p>
+            <strong>Authors</strong> Tiburcio PD, Choi H, Huang LE        </p>
+                    <p>
+                <strong>Received</strong> <abbr title="These are actual dates the paper was submitted to, accepted for, and published in the journal.">22 March 2014</abbr>
+            </p>
+            <p>
+                <strong>Accepted for publication</strong> 22 April 2014            </p>
+                    <p>
+            <strong>Published</strong> 18 June 2014
+                            <a href="hypoxia-archive149-v817">Volume 2014:2</a>
+                                Pages 59&mdash;70                        </p>
+
+                    <p>
+                <strong>DOI</strong> <a href="https://doi.org/10.2147/HP.S50651">https://doi.org/10.2147/HP.S50651</a>
+            </p>
+                        <p>
+                <strong>Checked for plagiarism</strong> Yes
+            </p>
+                        <p>
+                <strong>Review by</strong> <a href="peer_review_guidelines.php">Single-blind</a>
+            </p>
+                        <p>
+                <strong>Peer reviewer comments</strong> 4            </p>
+                        <div class='altmetric-embed' data-doi='https://doi.org/10.2147/HP.S50651'></div>
+                </div>
+    <!-- /end padding -->
+</div>
+<!-- /end intro -->		
+		<div class="copy">
+			<p>Patricia Denise Tiburcio,<sup>1,2</sup> Hyunsung Choi,<sup>1</sup> L Eric Huang<sup>1,2</sup><br /><br /><sup>1</sup>Department of Neurosurgery, Clinical Neurosciences Center, University of Utah, Salt Lake City, UT, USA; <sup>2</sup>Department of Oncological Sciences, Huntsman Cancer Institute, University of Utah, Salt Lake City, UT, USA<br /><br /><strong>Abstract:</strong> Tumor hypoxia has long been recognized as a driving force of malignant progression and therapeutic resistance. The discovery of hypoxia-inducible transcription factors (HIFs) has greatly advanced our understanding of how cancer cells cope with hypoxic stress by maintaining bioenergetics through the stimulation of glycolysis. Until recently, however, it remained perplexing why proliferative cancer cells opt for aerobic glycolysis, an energy-inefficient process of glucose metabolism. Furthermore, the role of HIF in cancer has also become complex. In this review, we highlight recent groundbreaking findings in cancer metabolism, put forward plausible explanations to the complex role of HIF, and underscore remaining issues in cancer biology.<br /><br /><strong>Keywords:</strong> cancer biology, hypoxia, metabolism, oncogenic signaling<br /></p>				<p class="article-cc-license">
+					<img alt="Creative Commons License" style="border-width:0" src="//i.creativecommons.org/l/by-nc/3.0/us/88x31.png" />
+					This work is published and licensed by Dove Medical Press Limited. The full terms of this license are available at <a target="_blank"  href="https://www.dovepress.com/terms.php">https://www.dovepress.com/terms.php</a> and incorporate the <a target="_blank" rel="license" href="//creativecommons.org/licenses/by-nc/3.0/">Creative Commons Attribution - Non Commercial (unported, v3.0) License</a>.
+
+					By accessing the work you hereby accept the Terms. Non-commercial uses of the work are permitted without any further permission from Dove Medical Press Limited, provided the work is properly attributed. For permission for commercial use of this work, please see paragraphs 4.2 and 5 of <a target="_blank"  xmlns:cc="//creativecommons.org/ns#" href="https://www.dovepress.com/terms.php" rel="cc:morePermissions">our Terms</a>.
+				</p>
+				<a class="download-btn print-hide" href="getfile.php?fileID=20473" id="download-pdf">Download Article <span>[PDF]</span></a>&nbsp;				<a class="download-btn print-hide" href="complex-role-of-hif-in-cancer-the-known-the-unknown-and-the-unexpected-peer-reviewed-fulltext-article-HP" id="view-full-text">View Full Text <span>[HTML]</span><span class="text_machine">[Machine readable]</span></a>
+								<p>&nbsp;</p>
+				<script src="//api.growkudos.com/widgets/article/10.2147/HP.S50651"></script>
+						</div>
+		<!-- /end copy -->
+	</div>
+	<!-- /end articles -->
+</div>
+<!-- /end tab-content -->
+</div></div><div class="categories-bg group"><div class="tabs-padding group"><h2>Other article by this author:</h2>
+			
+<div class="tab-content">
+		<div class="tab-item">
+        <div class="article-labels group">
+    <div class="tag  article-tag">Review</div><img src="assets/img/article_icons/highly-accessed.png" title="Highly-accessed" class="article-icon"/></div>		<h3>
+			<a href="from-antiangiogenesis-to-hypoxia-current-research-and-future-direction-peer-reviewed-article-CMAR">From antiangiogenesis to hypoxia: current research and future directions</a>
+		</h3>
+				
+		<p>Christopher Rice, L Eric Huang</p>
+		<p class="journal">
+							<a href="cancer-management-and-research-journal">Cancer Management and Research</a> <a href="cancer-management-and-research-archive55-v363">2011</a>, 3:9-16						</p>
+		<p class="journal">Published Date: <strong>20 December 2010</strong></p>
+	</div>
+	<!-- /end tab-item -->
+	</div>
+<!-- /end tabs-content --></div></div><div class="categories-bg group"><div class="tabs-padding group"><h2>Readers of this article also read:</h2>
+			
+<div class="tab-content">
+		<div class="tab-item">
+        <div class="article-labels group">
+    <div class="tag  article-tag">Review</div><img src="assets/img/article_icons/highly-accessed.png" title="Highly-accessed" class="article-icon"/></div>		<h3>
+			<a href="emerging-and-future-therapies-for-hemophilia-peer-reviewed-article-JBM-recommendation1">Emerging and future therapies for hemophilia</a>
+		</h3>
+				
+		<p>Carr ME, Tortella BJ</p>
+		<p class="journal">
+			<a href="journal-of-blood-medicine-journal">Journal of Blood Medicine</a> <a href="journal-of-blood-medicine-archive85-v896">2015</a>, 6:245-255		</p>
+		<p class="journal">Published Date: <strong>3 September 2015</strong></p>
+	</div>
+	<!-- /end tab-item -->
+		<div class="tab-item">
+        <div class="article-labels group">
+    <div class="tag  article-tag">Original Research</div><img src="assets/img/article_icons/highly-accessed.png" title="Highly-accessed" class="article-icon"/></div>		<h3>
+			<a href="green-synthesis-of-water-soluble-nontoxic-polymeric-nanocomposites-con-peer-reviewed-article-IJN-recommendation1">Green synthesis of water-soluble nontoxic polymeric nanocomposites containing silver nanoparticles</a>
+		</h3>
+				
+		<p>Prozorova GF, Pozdnyakov AS, Kuznetsova NP, Korzhova SA, Emel&rsquo;yanov AI, Ermakova TG, Fadeeva TV, Sosedova LM</p>
+		<p class="journal">
+			<a href="international-journal-of-nanomedicine-journal">International Journal of Nanomedicine</a> <a href="international-journal-of-nanomedicine-archive5-v722">2014</a>, 9:1883-1889		</p>
+		<p class="journal">Published Date: <strong>16 April 2014</strong></p>
+	</div>
+	<!-- /end tab-item -->
+		<div class="tab-item">
+        <div class="article-labels group">
+    <div class="tag  article-tag">Original Research</div><img src="assets/img/article_icons/highly-accessed.png" title="Highly-accessed" class="article-icon"/></div>		<h3>
+			<a href="methacrylic-based-nanogels-for-the-ph-sensitive-delivery-of-5-fluorour-peer-reviewed-article-IJN-recommendation1">Methacrylic-based nanogels for the pH-sensitive delivery of 5-Fluorouracil in the colon</a>
+		</h3>
+				
+		<p>Ashwanikumar N, Kumar NA, Nair SA, Kumar GS</p>
+		<p class="journal">
+			<a href="international-journal-of-nanomedicine-journal">International Journal of Nanomedicine</a> <a href="international-journal-of-nanomedicine-archive5-v473">2012</a>, 7:5769-5779		</p>
+		<p class="journal">Published Date: <strong>15 November 2012</strong></p>
+	</div>
+	<!-- /end tab-item -->
+		<div class="tab-item">
+        <div class="article-labels group">
+    <div class="tag  article-tag">Original Research</div><img src="assets/img/article_icons/highly-accessed.png" title="Highly-accessed" class="article-icon"/></div>		<h3>
+			<a href="a-novel-preparation-method-for-silicone-oil-nanoemulsions-and-its-appl-peer-reviewed-article-IJN-recommendation1">A novel preparation method for silicone oil nanoemulsions and its application for coating hair with silicone</a>
+		</h3>
+				
+		<p>Hu Z, Liao M, Chen Y, Cai Y, Meng L, Liu Y, Lv N, Liu Z, Yuan W</p>
+		<p class="journal">
+			<a href="international-journal-of-nanomedicine-journal">International Journal of Nanomedicine</a> <a href="international-journal-of-nanomedicine-archive5-v473">2012</a>, 7:5719-5724		</p>
+		<p class="journal">Published Date: <strong>12 November 2012</strong></p>
+	</div>
+	<!-- /end tab-item -->
+		<div class="tab-item">
+        <div class="article-labels group">
+    <div class="tag  article-tag">Original Research</div><img src="assets/img/article_icons/highly-accessed.png" title="Highly-accessed" class="article-icon"/></div>		<h3>
+			<a href="cross-linked-acrylic-hydrogel-for-the-controlled-delivery-of-hydrophob-peer-reviewed-article-IJN-recommendation1">Cross-linked acrylic hydrogel for the controlled delivery of hydrophobic drugs in cancer therapy</a>
+		</h3>
+				
+		<p>Deepa G, Thulasidasan AK, Anto RJ, Pillai JJ, Kumar GS</p>
+		<p class="journal">
+			<a href="international-journal-of-nanomedicine-journal">International Journal of Nanomedicine</a> <a href="international-journal-of-nanomedicine-archive5-v473">2012</a>, 7:4077-4088		</p>
+		<p class="journal">Published Date: <strong>27 July 2012</strong></p>
+	</div>
+	<!-- /end tab-item -->
+		<div class="tab-item">
+        <div class="article-labels group">
+    <div class="tag  article-tag">Expert Opinion</div><img src="assets/img/article_icons/video.png" title="Video" class="article-icon"/><img src="assets/img/article_icons/highly-accessed.png" title="Highly-accessed" class="article-icon"/></div>		<h3>
+			<a href="true-story-about-hiv-theory-of-viral-sequestration-and-reserve-infecti-peer-reviewed-article-HIV-recommendation1">True story about HIV: theory of viral sequestration and reserve infection</a>
+		</h3>
+					<div class="tab-item-figure video-placeholder">
+				<div class="tab-item-video">
+					<img src="assets/img/video_100.png" />
+				</div>
+				<img src="//img.youtube.com/vi/WgsZvZyM88k/1.jpg" width="120" />
+			</div>
+					
+		<p>Barasa S</p>
+		<p class="journal">
+			<a href="hivaids---research-and-palliative-care-journal">HIV/AIDS - Research and Palliative Care</a> <a href="hivaids---research-and-palliative-care-archive68-v422">2011</a>, 3:125-133		</p>
+		<p class="journal">Published Date: <strong>8 December 2011</strong></p>
+	</div>
+	<!-- /end tab-item -->
+		<div class="tab-item">
+        <div class="article-labels group">
+    <div class="tag  article-tag">Original Research</div><img src="assets/img/article_icons/highly-accessed.png" title="Highly-accessed" class="article-icon"/></div>		<h3>
+			<a href="particle-size-reduction-to-the-nanometer-range-a-promising-approach-to-peer-reviewed-article-IJN-recommendation1">Particle size reduction to the nanometer range: a promising approach to improve buccal absorption of poorly water-soluble drugs</a>
+		</h3>
+				
+		<p>Rao S, Song Y, Peddie F, Evans AM</p>
+		<p class="journal">
+			<a href="international-journal-of-nanomedicine-journal">International Journal of Nanomedicine</a> <a href="international-journal-of-nanomedicine-archive5-v305">2011</a>, 6:1245-1251		</p>
+		<p class="journal">Published Date: <strong>20 June 2011</strong></p>
+	</div>
+	<!-- /end tab-item -->
+		<div class="tab-item">
+        <div class="article-labels group">
+    <div class="tag  article-tag">Review</div><img src="assets/img/article_icons/highly-accessed.png" title="Highly-accessed" class="article-icon"/></div>		<h3>
+			<a href="current-and-developing-therapeutic-agents-in-the-treatment-of-chagas-d-peer-reviewed-article-DDDT-recommendation1">Current and developing therapeutic agents in the treatment of Chagas disease</a>
+		</h3>
+				
+		<p>Werner Apt</p>
+		<p class="journal">
+			<a href="drug-design-development-and-therapy-journal">Drug Design, Development and Therapy</a> <a href="drug-design-development-and-therapy-archive19-v256">2010</a>, 4:243-253		</p>
+		<p class="journal">Published Date: <strong>17 September 2010</strong></p>
+	</div>
+	<!-- /end tab-item -->
+		<div class="tab-item">
+        <div class="article-labels group">
+    <div class="tag  article-tag">Case report</div><img src="assets/img/article_icons/highly-accessed.png" title="Highly-accessed" class="article-icon"/></div>		<h3>
+			<a href="crystallization-after-intravitreal-ganciclovir-injection-peer-reviewed-article-OPTH-recommendation1">Crystallization after intravitreal ganciclovir injection</a>
+		</h3>
+				
+		<p>Pitipol Choopong, Nattaporn Tesavibul, Nattawut Rodanant</p>
+		<p class="journal">
+			<a href="clinical-ophthalmology-journal">Clinical Ophthalmology</a> <a href="clinical-ophthalmology-archive9-v221">2010</a>, 4:709-711		</p>
+		<p class="journal">Published Date: <strong>14 July 2010</strong></p>
+	</div>
+	<!-- /end tab-item -->
+		<div class="tab-item">
+        <div class="article-labels group">
+    <div class="tag  article-tag">Original Research</div><img src="assets/img/article_icons/highly-accessed.png" title="Highly-accessed" class="article-icon"/></div>		<h3>
+			<a href="characterization-of-complexation-of-poly-n-isopropylacrylamide-co-2-di-peer-reviewed-article-IJN-recommendation1">Characterization of complexation of poly (N-isopropylacrylamide-co-2-(dimethylamino) ethyl methacrylate) thermoresponsive cationic nanogels with salmon sperm DNA</a>
+		</h3>
+				
+		<p>Jim Moselhy, Tasnim Vira, Fei-Fei Liu, et al</p>
+		<p class="journal">
+			<a href="international-journal-of-nanomedicine-journal">International Journal of Nanomedicine</a> <a href="international-journal-of-nanomedicine-archive5-v143">2009</a>, 4:153-164		</p>
+		<p class="journal">Published Date: <strong>24 August 2009</strong></p>
+	</div>
+	<!-- /end tab-item -->
+	</div>
+<!-- /end tabs-content --></div></div>				</div>
+				<!-- /end main -->
+			</div>
+			<!-- /end grid -->
+		</div>
+		<!-- /end grid_bg -->
+	
+		<div class="footer-nav-bg group">
+	<div class="footer-nav group">
+		<div class="footer-desktop-nav">
+			<p>
+				<a href="contact.php">Contact Us</a> &nbsp;
+				<span>&bull;</span>&nbsp; <a href="privacy.php">Privacy Policy</a> &nbsp;
+				<span>&bull;</span>&nbsp; <a href="partners.php">Associations &amp; Partners</a> &nbsp;
+				<span>&bull;</span>&nbsp; <a href="testimonials.php">Testimonials</a> &nbsp;
+				<span>&bull;</span>&nbsp; <a href="sitemap.php">Sitemap</a> &nbsp;
+				<span>&bull;</span>&nbsp; <a href="terms.php">Terms &amp; Conditions</a> &nbsp;
+				<span>&bull;</span>&nbsp; <a href="site_referral.php">Recommend this site</a>
+				<span>&bull;</span>&nbsp; <a href="#page-top">Top</a>
+			</p>
+		</div>
+		<div class="footer-mobile-nav">
+			<p><a href="contact.php">Contact Us</a> &nbsp;<span>&bull;</span>&nbsp; <a href="privacy.php">Privacy Policy</a></p>
+		</div>
+	</div>
+	<!-- /end footer-nav -->
+</div>
+<!-- /end footer-nav-bg --><footer role="contentinfo" class="footer_bg group">
+	<div class="footer group">
+		<p>
+			<strong>&copy; Copyright 2017</strong> &nbsp;<span>&bull;</span>&nbsp; <strong>Dove Press Ltd</strong> &nbsp;
+							<span>&bull;</span>&nbsp; Website development by maffey.com
+							<span>&bull;</span>&nbsp; Web Design by <a href="http://www.adhesion.co.nz" title="Adhesion Website Design">Adhesion</a>
+		</p>
+		<p class="small">The opinions expressed in all articles published here are those of the specific author(s), and do not necessarily reflect the views of Dove Medical Press Ltd or any of its employees.</p>
+	</div>
+	<!-- /end footer -->
+	<br clear="all" />
+</footer>
+<!-- /end footer_bg -->	</div>
+	<!-- /end #page -->
+	
+	<script type='text/javascript' src='assets/js/jquery-1.10.2.min.js'></script>
+<script type='text/javascript' src='assets/js/jquery-ui-1.10.4.custom.min.js'></script>
+<script type='text/javascript' src='assets/js/addon/jquery.formtools.js'></script>
+<script type='text/javascript' src='assets/js/addon/jquery.popupBox.min.js'></script>
+<script type='text/javascript' src='assets/js/jquery.news_ticker.min.js'></script>
+<script type='text/javascript' src='assets/js/jquery.fitvids.js'></script>
+
+<span id='javascript-insert-point'></span>
+
+<script type='text/javascript'>
+function addJS(url){
+	var insertPoint = document.getElementById('javascript-insert-point');
+	var element = document.createElement('script');
+	element.src = url;
+	insertPoint.appendChild(element);
+}
+
+function downloadJSAtOnload(){
+	addJS('assets/js/main.js');
+	addJS('assets/js/addon/addon_v2.js');
+	addJS('assets/js/img-sizer.js');
+	addJS('https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js');
+}
+
+if (window.addEventListener) {
+	window.addEventListener('load', downloadJSAtOnload, false);
+} else if (window.attachEvent) {
+	window.attachEvent('onload', downloadJSAtOnload);
+} else {
+	window.onload = downloadJSAtOnload;
+}
+
+</script>
+</body>
+</html>

@@ -1,0 +1,1615 @@
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml"
+      xmlns:dc="http://purl.org/dc/terms/"
+      xmlns:doi="http://dx.doi.org/"
+      lang="en" xml:lang="en"
+      itemscope itemtype="http://schema.org/Article"
+      class="no-js">
+
+
+
+<head prefix="og: http://ogp.me/ns#">
+  <title>Screen for IDH1, IDH2, IDH3, D2HGDH and L2HGDH Mutations in Glioblastoma</title>
+
+
+
+
+
+
+
+<link rel="stylesheet" href="/plosone/resource/compiled/asset_V7OLX4LSII2Y4DADFWUTOT572TJ6EECJ.css" />
+
+  <!-- allows for  extra head tags -->
+
+
+<!-- hello -->
+<link rel="stylesheet" type="text/css"
+      href="https://fonts.googleapis.com/css?family=Open+Sans:400,400i,600">
+
+<link media="print" rel="stylesheet" type="text/css"  href="/plosone/resource/css/print.css"/>
+    <script type="text/javascript">
+        var siteUrlPrefix = "/plosone/";
+    </script>
+<script src="/plosone/resource/compiled/asset_SC5JIUGEUPR4P4P6VBUINUVOVUSU3NRY.js"></script>
+
+  <link rel="shortcut icon" href="/plosone/resource/img/favicon.ico" type="image/x-icon"/>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+
+
+
+
+
+
+  <link rel="canonical" href="http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0019868" />
+  <meta name="description" content="Isocitrate dehydrogenases (IDHs) catalyse oxidative decarboxylation of isocitrate to &alpha;-ketoglutarate (&alpha;-KG). IDH1 functions in the cytosol and peroxisomes, whereas IDH2 and IDH3 are both localized in the mitochondria. Heterozygous somatic mutations in IDH1 occur at codon 132 in 70% of grade II&ndash;III gliomas and secondary glioblastomas (GBMs), and in 5% of primary GBMs. Mutations in IDH2 at codon 172 are present in grade II&ndash;III gliomas at a low frequency. IDH1 and IDH2 mutations cause both loss of normal enzyme function and gain-of-function, causing reduction of &alpha;-KG to D-2-hydroxyglutarate (D-2HG) which accumulates. Excess hydroxyglutarate (2HG) can also be caused by germline mutations in D- and L-2-hydroxyglutarate dehydrogenases (D2HGDH and L2HGDH). If loss of IDH function is critical for tumourigenesis, we might expect some tumours to acquire somatic IDH3 mutations. Alternatively, if 2HG accumulation is critical, some tumours might acquire somatic D2HGDH or L2HGDH mutations. We therefore screened 47 glioblastoma samples looking for changes in these genes. Although IDH1 R132H was identified in 12% of samples, no mutations were identified in any of the other genes. This suggests that mutations in IDH3, D2HGDH and L2HGDH do not occur at an appreciable frequency in GBM. One explanation is simply that mono-allelic IDH1 and IDH2 mutations occur more frequently by chance than the bi-allelic mutations expected at IDH3, D2HGDH and L2HGDH. Alternatively, both loss of IDH function and 2HG accumulation might be required for tumourigenesis, and only IDH1 and IDH2 mutations have these dual effects." />
+
+  <meta name="keywords" content="Glioblastoma multiforme,Glioma,Substitution mutation,Somatic mutation,Biocatalysis,Genome sequencing,Lesions,Mitochondria" />
+
+
+<meta name="citation_doi" content="10.1371/journal.pone.0019868"/>
+<meta name="citation_author" content="Daniel Krell"/>
+  <meta name="citation_author_institution" content="Molecular and Population Genetics Laboratory, Wellcome Trust Centre for Human Genetics, University of Oxford, Oxford, United Kingdom"/>
+  <meta name="citation_author_institution" content="Department of Medical Oncology, University College London Hospitals, London, United Kingdom"/>
+<meta name="citation_author" content="Mawuelikem Assoku"/>
+  <meta name="citation_author_institution" content="Molecular and Population Genetics Laboratory, Wellcome Trust Centre for Human Genetics, University of Oxford, Oxford, United Kingdom"/>
+  <meta name="citation_author_institution" content="Department of Medical Oncology, University College London Hospitals, London, United Kingdom"/>
+<meta name="citation_author" content="Malcolm Galloway"/>
+  <meta name="citation_author_institution" content="Department of Cellular Pathology, The Royal Free Hospital, London, United Kingdom"/>
+<meta name="citation_author" content="Paul Mulholland"/>
+  <meta name="citation_author_institution" content="Department of Medical Oncology, University College London Hospitals, London, United Kingdom"/>
+<meta name="citation_author" content="Ian Tomlinson"/>
+  <meta name="citation_author_institution" content="Molecular and Population Genetics Laboratory, Wellcome Trust Centre for Human Genetics, University of Oxford, Oxford, United Kingdom"/>
+<meta name="citation_author" content="Chiara Bardella"/>
+  <meta name="citation_author_institution" content="Molecular and Population Genetics Laboratory, Wellcome Trust Centre for Human Genetics, University of Oxford, Oxford, United Kingdom"/>
+
+<meta name="citation_title" content="Screen for IDH1, IDH2, IDH3, D2HGDH and L2HGDH Mutations in Glioblastoma"/>
+<meta itemprop="name" content="Screen for IDH1, IDH2, IDH3, D2HGDH and L2HGDH Mutations in Glioblastoma"/>
+<meta name="citation_journal_title" content="PLOS ONE"/>
+<meta name="citation_journal_abbrev" content="PLOS ONE"/>
+<meta name="citation_date" content="May 23, 2011"/>
+<meta name="citation_firstpage" content="e19868"/>
+<meta name="citation_issue" content="5"/>
+<meta name="citation_volume" content="6"/>
+<meta name="citation_issn" content="1932-6203"/>
+<meta name="citation_publisher" content="Public Library of Science"/>
+
+  <meta name="citation_pdf_url" content="http://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0019868&type=printable">
+
+
+<meta name="dc.identifier" content="10.1371/journal.pone.0019868" />
+
+
+  <meta name="twitter:card" content="summary" />
+  <meta name="twitter:site" content="@plosone"/>
+    <meta name="twitter:title" content="Screen for IDH1, IDH2, IDH3, D2HGDH and L2HGDH Mutations in Glioblastoma" />
+    <meta property="twitter:description" content="Isocitrate dehydrogenases (IDHs) catalyse oxidative decarboxylation of isocitrate to &alpha;-ketoglutarate (&alpha;-KG). IDH1 functions in the cytosol and peroxisomes, whereas IDH2 and IDH3 are both localized in the mitochondria. Heterozygous somatic mutations in IDH1 occur at codon 132 in 70% of grade II&ndash;III gliomas and secondary glioblastomas (GBMs), and in 5% of primary GBMs. Mutations in IDH2 at codon 172 are present in grade II&ndash;III gliomas at a low frequency. IDH1 and IDH2 mutations cause both loss of normal enzyme function and gain-of-function, causing reduction of &alpha;-KG to D-2-hydroxyglutarate (D-2HG) which accumulates. Excess hydroxyglutarate (2HG) can also be caused by germline mutations in D- and L-2-hydroxyglutarate dehydrogenases (D2HGDH and L2HGDH). If loss of IDH function is critical for tumourigenesis, we might expect some tumours to acquire somatic IDH3 mutations. Alternatively, if 2HG accumulation is critical, some tumours might acquire somatic D2HGDH or L2HGDH mutations. We therefore screened 47 glioblastoma samples looking for changes in these genes. Although IDH1 R132H was identified in 12% of samples, no mutations were identified in any of the other genes. This suggests that mutations in IDH3, D2HGDH and L2HGDH do not occur at an appreciable frequency in GBM. One explanation is simply that mono-allelic IDH1 and IDH2 mutations occur more frequently by chance than the bi-allelic mutations expected at IDH3, D2HGDH and L2HGDH. Alternatively, both loss of IDH function and 2HG accumulation might be required for tumourigenesis, and only IDH1 and IDH2 mutations have these dual effects." />
+    <meta property="twitter:image" content="http://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0019868.g002&size=inline" />
+
+<meta property="og:type" content="article" />
+<meta property="og:url" content="http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0019868"/>
+<meta property="og:title" content="Screen for IDH1, IDH2, IDH3, D2HGDH and L2HGDH Mutations in Glioblastoma"/>
+<meta property="og:description" content="Isocitrate dehydrogenases (IDHs) catalyse oxidative decarboxylation of isocitrate to &alpha;-ketoglutarate (&alpha;-KG). IDH1 functions in the cytosol and peroxisomes, whereas IDH2 and IDH3 are both localized in the mitochondria. Heterozygous somatic mutations in IDH1 occur at codon 132 in 70% of grade II&ndash;III gliomas and secondary glioblastomas (GBMs), and in 5% of primary GBMs. Mutations in IDH2 at codon 172 are present in grade II&ndash;III gliomas at a low frequency. IDH1 and IDH2 mutations cause both loss of normal enzyme function and gain-of-function, causing reduction of &alpha;-KG to D-2-hydroxyglutarate (D-2HG) which accumulates. Excess hydroxyglutarate (2HG) can also be caused by germline mutations in D- and L-2-hydroxyglutarate dehydrogenases (D2HGDH and L2HGDH). If loss of IDH function is critical for tumourigenesis, we might expect some tumours to acquire somatic IDH3 mutations. Alternatively, if 2HG accumulation is critical, some tumours might acquire somatic D2HGDH or L2HGDH mutations. We therefore screened 47 glioblastoma samples looking for changes in these genes. Although IDH1 R132H was identified in 12% of samples, no mutations were identified in any of the other genes. This suggests that mutations in IDH3, D2HGDH and L2HGDH do not occur at an appreciable frequency in GBM. One explanation is simply that mono-allelic IDH1 and IDH2 mutations occur more frequently by chance than the bi-allelic mutations expected at IDH3, D2HGDH and L2HGDH. Alternatively, both loss of IDH function and 2HG accumulation might be required for tumourigenesis, and only IDH1 and IDH2 mutations have these dual effects."/>
+<meta property="og:image" content="http://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0019868.g002&size=inline"/>
+
+<meta name="citation_reference" content="citation_title=Epidemiology of brain tumours.;citation_author=H Ohgaki;citation_journal_title=Methods Mol Biol;citation_volume=472;citation_number=472;citation_first_page=323;citation_last_page=342;citation_publication_date=2009;"/>    
+<meta name="citation_reference" content="citation_title=Malignant gliomas in adults.;citation_author=PY Wen;citation_author=S Kesari;citation_journal_title=N Engl J Med;citation_volume=359;citation_number=359;citation_first_page=492;citation_last_page=507;citation_publication_date=2008;"/>    
+<meta name="citation_reference" content="citation_title=Structures of human cytosolic NADP-dependent isocitrate dehydrogenase reveal a novel self-regulatory mechanism of activity.;citation_author=X Xu;citation_author=J Zhao;citation_author=Z Xu;citation_author=B Peng;citation_author=Q Huang;citation_journal_title=J Biol Chem;citation_volume=279;citation_number=279;citation_first_page=33946;citation_last_page=33957;citation_publication_date=2004;"/>    
+<meta name="citation_reference" content="citation_title=Isocitrate dehydrogenase 1 and 2 mutations in cancer: alterations at a crossroads of cellular metabolism.;citation_author=ZJ Reitman;citation_author=H Yan;citation_journal_title=J Natl Cancer Inst;citation_volume=102;citation_number=102;citation_first_page=932;citation_last_page=941;citation_publication_date=2010;"/>    
+<meta name="citation_reference" content="citation_title=Function and expression of yeast mitochondrial NAD- and NADP-specific isocitrate dehydrogenases.;citation_author=RJ Haselbeck;citation_author=L McAlister-Henn;citation_journal_title=J Biol Chem;citation_volume=268;citation_number=268;citation_first_page=12116;citation_last_page=12122;citation_publication_date=1993;"/>    
+<meta name="citation_reference" content="citation_title=The mitochondrial citrate/isocitrate carrier plays a regulatory role in glucose-stimulated insulin secretion.;citation_author=JW Joseph;citation_author=MV Jensen;citation_author=O Ilkayeva;citation_author=F Palmieri;citation_author=C Alarcon;citation_journal_title=J Biol Chem;citation_volume=281;citation_number=281;citation_first_page=35624;citation_last_page=35632;citation_publication_date=2006;"/>    
+<meta name="citation_reference" content="citation_title=Dependence of peroxisomal beta-oxidation on cytosolic sources of NADPH.;citation_author=KI Minard;citation_author=L McAlister-Henn;citation_journal_title=J Biol Chem;citation_volume=274;citation_number=274;citation_first_page=3402;citation_last_page=3406;citation_publication_date=1999;"/>    
+<meta name="citation_reference" content="citation_title=Silencing of cytosolic NADP(+)-dependent isocitrate dehydrogenase by small interfering RNA enhances the sensitivity of HeLa cells toward staurosporine.;citation_author=SM Lee;citation_author=SY Park;citation_author=SW Shin;citation_author=IS Kil;citation_author=ES Yang;citation_journal_title=Free Radic Res;citation_volume=43;citation_number=43;citation_first_page=165;citation_last_page=173;citation_publication_date=2009;"/>    
+<meta name="citation_reference" content="citation_title=Role of NADP+-dependent isocitrate dehydrogenase (NADP+-ICDH) on cellular defence against oxidative injury by gamma-rays.;citation_author=SH Lee;citation_author=SH Jo;citation_author=SM Lee;citation_author=HJ Koh;citation_author=H Song;citation_journal_title=Int J Radiat Biol;citation_volume=80;citation_number=80;citation_first_page=635;citation_last_page=642;citation_publication_date=2004;"/>    
+<meta name="citation_reference" content="citation_title=Small interfering RNA-mediated silencing of mitochondrial NADP+-dependent isocitrate dehydrogenase enhances the sensitivity of HeLa cells toward tumour necrosis factor-alpha and anticancer drugs.;citation_author=IS Kil;citation_author=SY Kim;citation_author=SJ Lee;citation_author=JW Park;citation_journal_title=Free Radic Biol Med;citation_volume=43;citation_number=43;citation_first_page=1197;citation_last_page=1207;citation_publication_date=2007;"/>    
+<meta name="citation_reference" content="citation_title=Regulation of ethanol-induced toxicity by mitochondrial NADP(+)-dependent isocitrate dehydrogenase.;citation_author=ES Yang;citation_author=JW Park;citation_journal_title=Biochimie;citation_volume=91;citation_number=91;citation_first_page=1020;citation_last_page=1028;citation_publication_date=2009;"/>    
+<meta name="citation_reference" content="citation_title=An integrated genomic analysis of human glioblastoma multiforme.;citation_author=DW Parsons;citation_author=S Jones;citation_author=X Zhang;citation_author=JC Lin;citation_author=RJ Leary;citation_journal_title=Science;citation_volume=321;citation_number=321;citation_first_page=1807;citation_last_page=1812;citation_publication_date=2008;"/>    
+<meta name="citation_reference" content="citation_title=IDH1 and IDH2 mutations in gliomas.;citation_author=H Yan;citation_author=DW Parsons;citation_author=G Jin;citation_author=R McLendon;citation_author=BA Rasheed;citation_journal_title=N Engl J Med;citation_volume=360;citation_number=360;citation_first_page=765;citation_last_page=773;citation_publication_date=2009;"/>    
+<meta name="citation_reference" content="citation_title=Isocitrate dehydrogenase-1 mutations: a fundamentally new understanding of diffuse glioma?;citation_author=NK Kloosterhof;citation_author=LB Bralten;citation_author=HJ Dubbink;citation_author=PJ French;citation_author=MJ van den Bent;citation_journal_title=Lancet Oncol;citation_publication_date=2010;"/>    
+<meta name="citation_reference" content="citation_title=Type and frequency of IDH1 and IDH2 mutations are related to astrocytic and oligodendroglial differentiation and age: a study of 1,010 diffuse gliomas.;citation_author=C Hartmann;citation_author=J Meyer;citation_author=J Balss;citation_author=D Capper;citation_author=W Mueller;citation_journal_title=Acta Neuropathol;citation_volume=118;citation_number=118;citation_first_page=469;citation_last_page=474;citation_publication_date=2009;"/>    
+<meta name="citation_reference" content="citation_title=The common feature of leukemia-associated IDH1 and IDH2 mutations is a neomorphic enzyme activity converting alpha-ketoglutarate to 2-hydroxyglutarate.;citation_author=PS Ward;citation_author=J Patel;citation_author=DR Wise;citation_author=O Abdel-Wahab;citation_author=BD Bennett;citation_journal_title=Cancer Cell;citation_volume=17;citation_number=17;citation_first_page=225;citation_last_page=234;citation_publication_date=2010;"/>    
+<meta name="citation_reference" content="citation_title=Glioma-derived mutations in IDH1 dominantly inhibit IDH1 catalytic activity and induce HIF-1alpha.;citation_author=S Zhao;citation_author=Y Lin;citation_author=W Xu;citation_author=W Jiang;citation_author=Z Zha;citation_journal_title=Science;citation_volume=324;citation_number=324;citation_first_page=261;citation_last_page=265;citation_publication_date=2009;"/>    
+<meta name="citation_reference" content="citation_title=IDH1 mutations are present in the majority of common adult gliomas but rare in primary glioblastomas.;citation_author=K Ichimura;citation_author=DM Pearson;citation_author=S Kocialkowski;citation_author=LM Backlund;citation_author=R Chan;citation_journal_title=Neuro Oncol;citation_volume=11;citation_number=11;citation_first_page=341;citation_last_page=347;citation_publication_date=2009;"/>    
+<meta name="citation_reference" content="citation_title=Cancer-associated IDH1 mutations produce 2-hydroxyglutarate.;citation_author=L Dang;citation_author=DW White;citation_author=S Gross;citation_author=BD Bennett;citation_author=MA Bittinger;citation_journal_title=Nature;citation_volume=462;citation_number=462;citation_first_page=739;citation_last_page=744;citation_publication_date=2009;"/>    
+<meta name="citation_reference" content="citation_title=Cancer-associated metabolite 2-hydroxyglutarate accumulates in acute myelogenous leukemia with isocitrate dehydrogenase 1 and 2 mutations.;citation_author=S Gross;citation_author=RA Cairns;citation_author=MD Minden;citation_author=EM Driggers;citation_author=MA Bittinger;citation_journal_title=J Exp Med;citation_volume=207;citation_number=207;citation_first_page=339;citation_last_page=344;citation_publication_date=2010;"/>    
+<meta name="citation_reference" content="citation_title=Leukemic IDH1 and IDH2 mutations result in a hypermethylation phenotype, disrupt TET2 function, and impair hematopoietic differentiation.;citation_author=ME Figueroa;citation_author=O Abdel-Wahab;citation_author=C Lu;citation_author=PS Ward;citation_author=J Patel;citation_journal_title=Cancer Cell;citation_volume=18;citation_number=18;citation_first_page=553;citation_last_page=567;citation_publication_date=2010;"/>    
+<meta name="citation_reference" content="citation_title=Oncometabolite 2-Hydroxyglutarate Is a Competitive Inhibitor of alpha-Ketoglutarate-Dependent Dioxygenases.;citation_author=W Xu;citation_author=H Yang;citation_author=Y Liu;citation_author=Y Yang;citation_author=P Wang;citation_journal_title=Cancer Cell;citation_volume=19;citation_number=19;citation_first_page=17;citation_last_page=30;citation_publication_date=2011;"/>    
+<meta name="citation_reference" content="citation_title=IDH2 mutations in patients with D-2-hydroxyglutaric aciduria.;citation_author=M Kranendijk;citation_author=EA Struys;citation_author=E van Schaftingen;citation_author=KM Gibson;citation_author=WA Kanhai;citation_journal_title=Science;citation_volume=330;citation_number=330;citation_first_page=336;citation_publication_date=2010;"/>    
+<meta name="citation_reference" content="citation_title=IDH mutations in glioma and acute myeloid leukemia.;citation_author=L Dang;citation_author=S Jin;citation_author=SM Su;citation_journal_title=Trends Mol Med;citation_volume=16;citation_number=16;citation_first_page=387;citation_last_page=397;citation_publication_date=2010;"/>    
+
+
+<!-- DoubleClick overall ad setup script -->
+<script type='text/javascript'>
+  var googletag = googletag || {};
+  googletag.cmd = googletag.cmd || [];
+  (function() {
+    var gads = document.createElement('script');
+    gads.async = true;
+    gads.type = 'text/javascript';
+    var useSSL = 'https:' == document.location.protocol;
+    gads.src = (useSSL ? 'https:' : 'http:') +
+        '//www.googletagservices.com/tag/js/gpt.js';
+    var node = document.getElementsByTagName('script')[0];
+    node.parentNode.insertBefore(gads, node);
+  })();
+</script>
+
+<!-- DoubleClick ad slot setup script -->
+
+  <script id="doubleClickSetupScript" type='text/javascript'>
+    googletag.cmd.push(function() {
+  googletag.defineSlot('/75507958/PONE_728x90_ATF', [728, 90], 'div-gpt-ad-1458247671871-0').addService(googletag.pubads());
+  googletag.defineSlot('/75507958/PONE_160x600_BTF', [160, 600], 'div-gpt-ad-1458247671871-1').addService(googletag.pubads());
+      googletag.pubads().enableSingleRequest();
+      googletag.enableServices();
+    });
+  </script>
+
+
+
+<script type="text/javascript">
+    var WombatConfig = WombatConfig || {};
+    WombatConfig.resourcePath = "/plosone/resource/";
+    WombatConfig.imgPath = "/plosone/resource/img/";
+    WombatConfig.journalKey = "PLoSONE";
+    WombatConfig.figurePath = "/plosone/article/figure/image";
+    WombatConfig.figShareInstitutionString = "plos";
+    WombatConfig.doiResolverPrefix = "http://dx.plos.org/";
+</script>
+
+<script type="text/javascript">
+  var WombatConfig = WombatConfig || {};
+  WombatConfig.metrics = WombatConfig.metrics || {};
+  WombatConfig.metrics.referenceUrl      = "http://lagotto.io/plos";
+  WombatConfig.metrics.googleScholarUrl  = "http://scholar.google.com/scholar";
+  WombatConfig.metrics.googleScholarCitationUrl  = WombatConfig.metrics.googleScholarUrl + "?hl=en&lr=&cites=";
+  WombatConfig.metrics.crossrefUrl  = "http://www.crossref.org";
+</script><script src="//code.jquery.com/jquery-2.1.4.min.js" ></script>
+<script>window.jQuery || document.write('<script src="/plosone/resource/js/vendor/jquery-2.1.4.min.js""><\/script>')</script>
+
+          <script type="text/javascript" src="https://widgets.figshare.com/static/figshare.js"></script>
+
+
+
+
+
+
+
+
+
+
+<!--For Google Tag manager to be able to track site information  -->
+<script>
+
+  dataLayer = [{
+    'mobileSite': 'false',
+    'desktopSite': 'true'
+  }];
+
+</script>
+
+</head>
+
+
+
+<body class="article plosone">
+
+
+<!-- Google Tag Manager -->
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-TP26BH"
+                  height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+    new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+    j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+    '//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-TP26BH');</script>
+
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-MQQMGF"
+                  height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+    new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+    j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+    '//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-MQQMGF');</script>
+<!-- End Google Tag Manager -->
+
+<header>
+  <div id="topslot" class="head-top">
+
+<div class="center">
+<div class="title">Advertisement</div>
+<!-- DoubleClick Ad Zone -->
+  <div class='advertisement' id='div-gpt-ad-1458247671871-0' style='width:728px; height:90px;'>
+    <script type='text/javascript'>
+      googletag.cmd.push(function() { googletag.display('div-gpt-ad-1458247671871-0'); });
+    </script>
+  </div>
+</div>
+  </div>
+
+  <div id="user" class="nav">
+    <ul class="nav-user">
+
+
+
+
+      <li ><a href="http://www.plos.org">plos.org</a></li>
+
+
+        <li ><a href="https://community.plos.org/registration/new">create account</a></li>
+
+
+          <li class="highlighted"><a href="/plosone/user/secure/login?page=%2Fplosone%2Farticle%3Fid%3D10.1371%2Fjournal.pone.0019868">sign in</a></li>
+
+    </ul>
+  </div>
+  <div id="pagehdr">
+
+    <nav class="nav-main">
+
+
+
+
+<h1 class="logo">
+  <a href="/plosone/.">PLOS ONE</a>
+</h1>
+
+<section class="top-bar-section"> 
+
+<ul class="nav-elements">
+
+
+    <li class="multi-col-parent menu-section-header has-dropdown" id="publish">
+    Publish
+      <div class="dropdown mega ">
+        <ul class="multi-col" id="publish-dropdown-list">
+
+  <li class="menu-section-header " id="submissions">
+    <span class="menu-section-header-title">  Submissions </span>
+
+    <ul class="menu-section "
+        id="submissions-dropdown-list">
+      <li>
+    <a href="/plosone/s/getting-started" >Getting Started</a>
+  </li>
+
+      <li>
+    <a href="/plosone/s/submission-guidelines" >Submission Guidelines</a>
+  </li>
+
+      <li>
+    <a href="/plosone/s/figures" >Figures</a>
+  </li>
+
+      <li>
+    <a href="/plosone/s/tables" >Tables</a>
+  </li>
+
+      <li>
+    <a href="/plosone/s/supporting-information" >Supporting Information</a>
+  </li>
+
+      <li>
+    <a href="/plosone/s/latex" >LaTeX</a>
+  </li>
+
+      <li>
+    <a href="/plosone/s/revising-your-manuscript" >Revising Your Manuscript</a>
+  </li>
+
+      <li>
+    <a href="/plosone/s/submit-now" >Submit Now</a>
+  </li>
+
+    </ul>
+
+  </li>
+
+
+  <li class="menu-section-header " id="policies">
+    <span class="menu-section-header-title">  Policies </span>
+
+    <ul class="menu-section "
+        id="policies-dropdown-list">
+      <li>
+    <a href="/plosone/s/best-practices-in-research-reporting" >Best Practices in Research Reporting</a>
+  </li>
+
+      <li>
+    <a href="/plosone/s/human-subjects-research" >Human Subjects Research</a>
+  </li>
+
+      <li>
+    <a href="/plosone/s/animal-research" >Animal Research</a>
+  </li>
+
+      <li>
+    <a href="/plosone/s/competing-interests" >Competing Interests</a>
+  </li>
+
+      <li>
+    <a href="/plosone/s/disclosure-of-funding-sources" >Disclosure of Funding Sources</a>
+  </li>
+
+      <li>
+    <a href="/plosone/s/licenses-and-copyright" >Licenses and Copyright</a>
+  </li>
+
+      <li>
+    <a href="/plosone/s/data-availability" >Data Availability</a>
+  </li>
+
+      <li>
+    <a href="/plosone/s/materials-and-software-sharing" >Materials and Software Sharing</a>
+  </li>
+
+      <li>
+    <a href="/plosone/s/ethical-publishing-practice" >Ethical Publishing Practice</a>
+  </li>
+
+      <li>
+    <a href="/plosone/s/authorship" >Authorship</a>
+  </li>
+
+      <li>
+    <a href="/plosone/s/downloads-and-translations" >Downloads and Translations</a>
+  </li>
+
+    </ul>
+
+  </li>
+
+
+  <li class="menu-section-header " id="manuscript-review-and-publication">
+    <span class="menu-section-header-title">  Manuscript Review and Publication </span>
+
+    <ul class="menu-section "
+        id="manuscript-review-and-publication-dropdown-list">
+      <li>
+    <a href="/plosone/s/criteria-for-publication" >Criteria for Publication</a>
+  </li>
+
+      <li>
+    <a href="/plosone/s/editorial-and-peer-review-process" >Editorial and Peer Review Process</a>
+  </li>
+
+      <li>
+    <a href="/plosone/s/reviewer-guidelines" >Reviewer Guidelines</a>
+  </li>
+
+      <li>
+    <a href="/plosone/s/accepted-manuscripts" >Accepted Manuscripts</a>
+  </li>
+
+      <li>
+    <a href="/plosone/s/corrections-and-retractions" >Corrections and Retractions</a>
+  </li>
+
+      <li>
+    <a href="/plosone/s/comments" >Comments</a>
+  </li>
+
+      <li>
+    <a href="/plosone/s/article-level-metrics" >Article-Level Metrics</a>
+  </li>
+
+    </ul>
+
+  </li>
+        </ul>
+          <div class="calloutcontainer">
+
+
+
+  <h3 class="callout-headline">Submit Your Manuscript</h3>
+
+  <div class="action-contain">
+  <p class="callout-content">
+  Discover a faster, simpler path to publishing in a high-quality journal. <em>PLOS ONE</em> promises fair, rigorous peer review,
+  broad scope, and wide readership – a perfect fit for your research every time.
+  </p>
+
+  <p class="button-contain special">
+    <a class="button button-default" href="/plosone/static/publish">
+     Learn More
+    </a>
+    <a class="button-link" href="http://www.editorialmanager.com/pone/default.asp">
+      Submit Now
+    </a>
+  </p>
+  </div>  <!-- opens in siteMenuCalloutDescription -->
+
+
+          </div>
+      </div>
+    </li>
+
+
+
+  <li class="menu-section-header has-dropdown " id="about">
+    <span class="menu-section-header-title">  About </span>
+
+    <ul class="menu-section dropdown "
+        id="about-dropdown-list">
+      <li>
+    <a href="/plosone/static/publish" >Why Publish with PLOS ONE</a>
+  </li>
+
+      <li>
+    <a href="/plosone/s/journal-information" >Journal Information</a>
+  </li>
+
+      <li>
+    <a href="/plosone/s/staff-editors" >Staff Editors</a>
+  </li>
+
+      <li>
+    <a href="/plosone/static/editorial-board" >Editorial Board</a>
+  </li>
+
+      <li>
+    <a href="/plosone/s/section-editors" >Section Editors</a>
+  </li>
+
+      <li>
+    <a href="/plosone/s/advisory-groups" >Advisory Groups</a>
+  </li>
+
+      <li>
+    <a href="/plosone/s/publishing-information" >Publishing Information</a>
+  </li>
+
+      <li>
+    <a href="/plosone/s/publication-fees" >Publication Fees</a>
+  </li>
+
+      <li>
+    <a href="/plosone/s/press-and-media" >Press and Media</a>
+  </li>
+
+      <li>
+    <a href="/plosone/s/contact" >Contact</a>
+  </li>
+
+    </ul>
+
+  </li>
+
+  <li data-js-tooltip-hover="trigger" class="subject-area menu-section-header">
+  Browse
+  </li>
+
+
+
+
+  <li id="navsearch" class="head-search">
+    <form name="searchForm" action="/plosone/search" method="get">
+      <fieldset>
+        <legend>Search</legend>
+        <label for="search">Search</label>
+        <input id="search" type="text" name="q" placeholder="Search" required/>
+        <button id="headerSearchButton" type="submit"><span class="search-icon"></span></button>
+
+      </fieldset>
+      <input type="hidden" name="filterJournals" value="PLoSONE"/>
+    </form>
+
+    <a id="advSearch"
+       href="/plosone/search">
+      advanced search
+    </a>
+
+  </li>
+
+
+
+
+
+      </ul>     
+      </section>  
+    </nav>
+  </div>
+
+</header><section id="taxonomyContainer">
+
+<div id="taxonomy-browser" class="areas" data-search-url="/plosone/browse">
+  <div class="wrapper">
+    <div class="taxonomy-header">
+      Browse Subject Areas
+      <div id="subjInfo">?</div>
+      <div id="subjInfoText">
+        <p>Click through the PLOS taxonomy to find articles in your field.</p>
+        <p>For more information about PLOS Subject Areas, click
+          <a href="/plosone/s/help-using-this-site#loc-subject-areas">here</a>.
+        </p>
+      </div>
+    </div>
+    <div class="levels">
+      <div class="levels-container cf">
+        <div class="levels-position"></div>
+      </div>
+      <a href="#" class="prev"></a>
+      <a href="#" class="next active"></a>
+    </div>
+  </div>
+  <div class="taxonomy-browser-border-bottom"></div>
+</div></section>
+<main> <div class="set-grid">
+
+<header class="title-block">
+
+
+
+
+<ul id="almSignposts" class="signposts">
+  <li id="loadingMetrics">
+    <p>Loading metrics</p>
+  </li>
+</ul>
+
+<script type="text/template" id="signpostsGeneralErrorTemplate">
+  <li id="metricsError">Article metrics are unavailable at this time. Please try again later.</li>
+</script>
+
+<script type="text/template" id="signpostsNewArticleErrorTemplate">
+  <li></li><li></li><li id="tooSoon">Article metrics are unavailable for recently published articles.</li>
+</script>
+
+<script type="text/template" id="signpostsTemplate">
+    <li id="almSaves">
+      <%= s.numberFormat(saveCount, 0) %>
+      <div class="tools" data-js-tooltip-hover="trigger">
+        <a class="metric-term" href="/plosone/article/metrics?id=10.1371/journal.pone.0019868#savedHeader">Save</a>
+        <p class="saves-tip" data-js-tooltip-hover="target"><a href="/plosone/article/metrics?id=10.1371/journal.pone.0019868#savedHeader">Total Mendeley and CiteULike bookmarks.</a></p>
+      </div>
+    </li>
+
+    <li id="almCitations">
+      <%= s.numberFormat(citationCount, 0) %>
+      <div class="tools" data-js-tooltip-hover="trigger">
+        <a class="metric-term" href="/plosone/article/metrics?id=10.1371/journal.pone.0019868#citedHeader">Citation</a>
+        <p class="citations-tip" data-js-tooltip-hover="target"><a href="/plosone/article/metrics?id=10.1371/journal.pone.0019868#citedHeader">Paper's citation count computed by Scopus.</a></p>
+      </div>
+    </li>
+
+    <li id="almViews">
+      <%= s.numberFormat(viewCount, 0) %>
+      <div class="tools" data-js-tooltip-hover="trigger">
+        <a class="metric-term" href="/plosone/article/metrics?id=10.1371/journal.pone.0019868#viewedHeader">View</a>
+        <p class="views-tip" data-js-tooltip-hover="target"><a href="/plosone/article/metrics?id=10.1371/journal.pone.0019868#viewedHeader">Sum of PLOS and PubMed Central page views and downloads.</a></p>
+      </div>
+    </li>
+
+    <li id="almShares">
+      <%= s.numberFormat(shareCount, 0) %>
+      <div class="tools" data-js-tooltip-hover="trigger">
+        <a class="metric-term" href="/plosone/article/metrics?id=10.1371/journal.pone.0019868#discussedHeader">Share</a>
+        <p class="shares-tip" data-js-tooltip-hover="target"><a href="/plosone/article/metrics?id=10.1371/journal.pone.0019868#discussedHeader">Sum of Facebook and Twitter activity.</a></p>
+      </div>
+    </li>
+</script>
+
+    <div class="article-meta">
+
+<div class="classifications">
+  <p class="license-short" id="licenseShort">Open Access</p>
+  <p class="peer-reviewed" id="peerReviewed">Peer-reviewed</p>
+
+<div class="article-type" >
+  <p class="type-article" id="artType">Research Article</p>
+</div>
+
+
+</div>
+
+
+    </div>
+    <div class="article-title-etc">
+
+
+
+<div class="title-authors">
+  <h1 id="artTitle"><?xml version="1.0" encoding="UTF-8"?>Screen for <i>IDH1</i>, <i>IDH2</i>, <i>IDH3</i>, <i>D2HGDH</i> and <i>L2HGDH</i> Mutations in Glioblastoma</h1>
+
+<ul class="author-list clearfix"  data-js-tooltip="tooltip_container" id="author-list">
+
+
+
+<li
+  data-js-tooltip="tooltip_trigger"
+  
+>
+   <a  data-author-id="0" class="author-name" >
+Daniel Krell <span class="contribute"> </span>,</a>    <div id="author-meta-0" class="author-info" data-js-tooltip="tooltip_target">
+
+  <p>
+    <span class="contribute"> </span> Contributed equally to this work with:
+    Daniel Krell,
+    Mawuelikem Assoku
+  </p>
+  
+  
+  <p id="authAffiliations-0"><span class="type">Affiliations</span>
+    Molecular and Population Genetics Laboratory, Wellcome Trust Centre for Human Genetics, University of Oxford, Oxford, United Kingdom, 
+    Department of Medical Oncology, University College London Hospitals, London, United Kingdom
+  </p>
+
+      <a data-js-tooltip="tooltip_close" class="close" id="tooltipClose0"> &#x02A2F; </a>
+    </div>
+</li>
+
+<li
+  data-js-tooltip="tooltip_trigger"
+  
+>
+   <a  data-author-id="1" class="author-name" >
+Mawuelikem Assoku <span class="contribute"> </span>,</a>    <div id="author-meta-1" class="author-info" data-js-tooltip="tooltip_target">
+
+  <p>
+    <span class="contribute"> </span> Contributed equally to this work with:
+    Daniel Krell,
+    Mawuelikem Assoku
+  </p>
+  
+  
+  <p id="authAffiliations-1"><span class="type">Affiliations</span>
+    Molecular and Population Genetics Laboratory, Wellcome Trust Centre for Human Genetics, University of Oxford, Oxford, United Kingdom, 
+    Department of Medical Oncology, University College London Hospitals, London, United Kingdom
+  </p>
+
+      <a data-js-tooltip="tooltip_close" class="close" id="tooltipClose1"> &#x02A2F; </a>
+    </div>
+</li>
+
+<li
+  data-js-tooltip="tooltip_trigger"
+  
+>
+   <a  data-author-id="2" class="author-name" >
+Malcolm Galloway,</a>    <div id="author-meta-2" class="author-info" data-js-tooltip="tooltip_target">
+
+  
+  
+  <p id="authAffiliations-2"><span class="type">Affiliation</span>
+    Department of Cellular Pathology, The Royal Free Hospital, London, United Kingdom
+  </p>
+
+      <a data-js-tooltip="tooltip_close" class="close" id="tooltipClose2"> &#x02A2F; </a>
+    </div>
+</li>
+
+<li
+  data-js-tooltip="tooltip_trigger"
+  
+>
+   <a  data-author-id="3" class="author-name" >
+Paul Mulholland,</a>    <div id="author-meta-3" class="author-info" data-js-tooltip="tooltip_target">
+
+  
+  
+  <p id="authAffiliations-3"><span class="type">Affiliation</span>
+    Department of Medical Oncology, University College London Hospitals, London, United Kingdom
+  </p>
+
+      <a data-js-tooltip="tooltip_close" class="close" id="tooltipClose3"> &#x02A2F; </a>
+    </div>
+</li>
+
+<li
+  data-js-tooltip="tooltip_trigger"
+  
+>
+   <a  data-author-id="4" class="author-name" >
+Ian Tomlinson,</a>    <div id="author-meta-4" class="author-info" data-js-tooltip="tooltip_target">
+
+  
+  
+  <p id="authAffiliations-4"><span class="type">Affiliation</span>
+    Molecular and Population Genetics Laboratory, Wellcome Trust Centre for Human Genetics, University of Oxford, Oxford, United Kingdom
+  </p>
+
+      <a data-js-tooltip="tooltip_close" class="close" id="tooltipClose4"> &#x02A2F; </a>
+    </div>
+</li>
+
+<li
+  data-js-tooltip="tooltip_trigger"
+  
+>
+   <a  data-author-id="5" class="author-name" >
+Chiara Bardella <span class="email">  </span></a>    <div id="author-meta-5" class="author-info" data-js-tooltip="tooltip_target">
+
+  
+  <p id="authCorresponding-5"> <span class="email">* E-mail:</span> <a href="mailto:chiara.bardella@well.ox.ac.uk">chiara.bardella@well.ox.ac.uk</a></p>
+  <p id="authAffiliations-5"><span class="type">Affiliation</span>
+    Molecular and Population Genetics Laboratory, Wellcome Trust Centre for Human Genetics, University of Oxford, Oxford, United Kingdom
+  </p>
+
+      <a data-js-tooltip="tooltip_close" class="close" id="tooltipClose5"> &#x02A2F; </a>
+    </div>
+</li>
+
+</ul>
+
+</div>
+
+
+<div id="floatTitleTop" data-js-floater="title_author" class="float-title">
+  <div class="set-grid">
+    <div class="float-title-inner">
+      <h1><?xml version="1.0" encoding="UTF-8"?>Screen for <i>IDH1</i>, <i>IDH2</i>, <i>IDH3</i>, <i>D2HGDH</i> and <i>L2HGDH</i> Mutations in Glioblastoma</h1>
+
+<ul id="floatAuthorList" data-js-floater="floated_authors">
+
+  <li data-float-index="1">Daniel Krell,&nbsp;
+
+  </li>
+  <li data-float-index="2">Mawuelikem Assoku,&nbsp;
+
+  </li>
+  <li data-float-index="3">Malcolm Galloway,&nbsp;
+
+  </li>
+  <li data-float-index="4">Paul Mulholland,&nbsp;
+
+  </li>
+  <li data-float-index="5">Ian Tomlinson,&nbsp;
+
+  </li>
+  <li data-float-index="6">Chiara Bardella
+
+  </li>
+
+</ul>
+
+
+
+    </div>
+    <div class="logo-close" id="titleTopCloser">
+      <img src="/plosone/resource/img/logo.plos.95.png" alt="PLOS" />
+      <div class="close-floater" title="close">x</div>
+    </div>
+  </div>
+</div>
+
+      <ul class="date-doi">
+        <li id="artPubDate">Published: May 23, 2011</li>
+        <li id="artDoi">
+<a   href="https://doi.org/10.1371/journal.pone.0019868">https://doi.org/10.1371/journal.pone.0019868</a>
+            </li>
+      </ul>
+
+    </div>
+  <div>
+
+  </div>
+</header>
+
+  <section class="article-body">
+
+
+
+<ul class="article-tabs">
+
+        <li class="tab-title active" id="tabArticle">
+          <a href="/plosone/article?id=10.1371/journal.pone.0019868" class="article-tab-1">Article</a>
+      </li>
+
+
+            <li class="tab-title " id="tabAuthors">
+          <a href="/plosone/article/authors?id=10.1371/journal.pone.0019868" class="article-tab-2">Authors</a>
+      </li>
+
+
+        <li class="tab-title " id="tabMetrics">
+          <a href="/plosone/article/metrics?id=10.1371/journal.pone.0019868" class="article-tab-3">Metrics</a>
+      </li>
+
+        <li class="tab-title " id="tabComments">
+          <a href="/plosone/article/comments?id=10.1371/journal.pone.0019868" class="article-tab-4">Comments</a>
+      </li>
+
+        <li class="tab-title " id="tabRelated">
+          <a href="/plosone/article/related?id=10.1371/journal.pone.0019868" class="article-tab-5">Related Content</a>
+      </li>
+
+</ul>
+
+    <div class="article-container">
+
+
+<div id="nav-article">
+  <ul class="nav-secondary">
+
+    <li class="nav-comments" id="nav-comments">
+      <a href="article/comments?id=10.1371/journal.pone.0019868">Reader Comments (1)</a>
+    </li>
+
+    <li class="nav-media" id="nav-media" data-doi="10.1371/journal.pone.0019868">
+      <a href="/plosone/article/related?id=10.1371/journal.pone.0019868">
+        Media Coverage <span id="media-coverage-count"></span>
+      </a>
+    </li>
+
+    <li id="nav-figures"><a href="#" data-doi="10.1371/journal.pone.0019868">Figures</a></li>
+  </ul>
+</div>
+
+<div id="figure-lightbox-container"></div>
+
+<script id="figure-lightbox-template" type="text/template">
+  <div id="figure-lightbox" class="reveal-modal full" data-reveal aria-hidden="true"
+       role="dialog">
+    <div class="lb-header">
+      <h1 id="lb-title"><%= articleTitle %></h1>
+
+      <div id="lb-authors">
+        <% authorList.split(',').forEach(function (author) { %>
+        <span><%= author.trim() %></span>
+        <% }) %>
+      </div>
+
+      <div class="lb-close" title="close">&nbsp;</div>
+    </div>
+    <div class="img-container">
+      <div class="loader"> <i class="fa-spinner"></i> </div>
+      <img class="main-lightbox-image" src=""/>
+      <aside id="figures-list">
+        <% figureList.each(function (ix, figure) { %>
+        <div class="change-img" data-doi="<%= figure.getAttribute('data-doi') %>">
+          <img class="aside-figure" src="/plosone/article/figure/image?size=inline&id=<%= figure.getAttribute('data-doi') %>" />
+        </div>
+        <% }) %>
+        <div class="dummy-figure">
+        </div>
+      </aside>
+    </div>
+    <div id="lightbox-footer">
+
+      <div id="btns-container" class="lightbox-row <% if(figureList.length <= 1) { print('one-figure-only') } %>">
+        <div class="fig-btns-container reset-zoom-wrapper left">
+          <span class="fig-btn reset-zoom-btn">Reset zoom</span>
+        </div>
+        <div class="zoom-slider-container">
+          <div class="range-slider-container">
+            <span id="lb-zoom-min"></span>
+            <div class="range-slider round" data-slider data-options="start: 20; end: 200; initial: 20;">
+              <span class="range-slider-handle" role="slider" tabindex="0"></span>
+              <span class="range-slider-active-segment"></span>
+              <input type="hidden">
+            </div>
+            <span id="lb-zoom-max"></span>
+          </div>
+        </div>
+        <% if(figureList.length > 1) { %>
+        <div class="fig-btns-container">
+          <span class="fig-btn all-fig-btn"><i class="icon icon-all"></i> All Figures</span>
+          <span class="fig-btn next-fig-btn"><i class="icon icon-next"></i> Next</span>
+          <span class="fig-btn prev-fig-btn"><i class="icon icon-prev"></i> Previous</span>
+        </div>
+        <% } %>
+      </div>
+      <div id="image-context">
+      </div>
+    </div>
+  </div>
+</script>
+
+<script id="image-context-template" type="text/template">
+  <div class="footer-text">
+    <div id="figure-description-wrapper">
+      <div id="view-more-wrapper" style="<% descriptionExpanded? print('display:none;') : '' %>">
+        <span id="figure-title"><%= title %></span>
+        <p id="figure-description">
+          <%= description %>&nbsp;&nbsp;
+        </p>
+        <span id="view-more">show more<i class="icon-arrow-right"></i></span>
+
+      </div>
+      <div id="view-less-wrapper" style="<% descriptionExpanded? print('display:inline-block;') : '' %>" >
+        <span id="figure-title"><%= title %></span>
+        <p id="full-figure-description">
+          <%= description %>&nbsp;&nbsp;
+          <span id="view-less">show less<i class="icon-arrow-left"></i></span>
+        </p>
+      </div>
+    </div>
+  </div>
+  <div id="show-context-container">
+    <a class="btn show-context" href="<%= showInContext(strippedDoi) %>">Show in Context</a>
+  </div>
+  <div id="download-buttons">
+    <h3>Download:</h3>
+    <div class="item">
+      <a href="/plosone/article/figure/image?size=original&download=&id=<%= doi %>" title="original image">
+        <span class="download-btn">TIFF</span>
+      </a>
+      <span class="file-size"><%= fileSizes.original %></span>
+    </div>
+    <div class="item">
+      <a href="/plosone/article/figure/image?size=large&download=&id=<%= doi %>" title="large image">
+        <span class="download-btn">PNG</span>
+      </a>
+      <span class="file-size"><%= fileSizes.large %></span>
+    </div>
+    <div class="item">
+      <a href="/plosone/article/figure/powerpoint?id=<%= doi %>" title="PowerPoint slide">
+        <span class="download-btn">PPT</span>
+      </a>
+    </div>
+
+  </div>
+</script>
+      <div class="article-content">
+
+
+
+
+
+
+
+
+<div id="figure-carousel-section">
+  <h2>Figures</h2>
+
+  <div id="figure-carousel">
+
+    <div class="carousel-wrapper">
+      <div class="slider">
+
+          <div class="carousel-item lightbox-figure" data-doi="10.1371/journal.pone.0019868.g001">
+
+                <img src="/plosone/article/figure/image?size=inline&amp;id=10.1371/journal.pone.0019868.g001"
+                     alt="Figure 1"
+                />
+
+            </div>
+
+          <div class="carousel-item lightbox-figure" data-doi="10.1371/journal.pone.0019868.g002">
+
+                <img src="/plosone/article/figure/image?size=inline&amp;id=10.1371/journal.pone.0019868.g002"
+                     alt="Figure 2"
+                />
+
+            </div>
+      </div>
+    </div>
+
+    <div class="carousel-control">
+      <span class="button previous"></span>
+      <span class="button next"></span>
+    </div>
+    <div class="carousel-page-buttons">
+
+    </div>
+  </div>
+</div>
+
+
+        <div class="article-text" id="artText">
+        
+
+
+
+<div class="abstract toc-section"><a id="abstract0" name="abstract0" data-toc="abstract0" class="link-target" title="Abstract"></a><h2>Abstract</h2><a id="article1.front1.article-meta1.abstract1.p1" name="article1.front1.article-meta1.abstract1.p1" class="link-target"></a><p>Isocitrate dehydrogenases (IDHs) catalyse oxidative decarboxylation of isocitrate to α-ketoglutarate (α-KG). IDH1 functions in the cytosol and peroxisomes, whereas IDH2 and IDH3 are both localized in the mitochondria. Heterozygous somatic mutations in <em>IDH1</em> occur at codon 132 in 70% of grade II–III gliomas and secondary glioblastomas (GBMs), and in 5% of primary GBMs. Mutations in <em>IDH2</em> at codon 172 are present in grade II–III gliomas at a low frequency. <em>IDH1</em> and <em>IDH2</em> mutations cause both loss of normal enzyme function and gain-of-function, causing reduction of α-KG to D-2-hydroxyglutarate (D-2HG) which accumulates. Excess hydroxyglutarate (2HG) can also be caused by germline mutations in D- and L-2-hydroxyglutarate dehydrogenases (<em>D2HGDH</em> and <em>L2HGDH</em>). If loss of IDH function is critical for tumourigenesis, we might expect some tumours to acquire somatic <em>IDH3</em> mutations. Alternatively, if 2HG accumulation is critical, some tumours might acquire somatic <em>D2HGDH</em> or <em>L2HGDH</em> mutations. We therefore screened 47 glioblastoma samples looking for changes in these genes. Although <em>IDH1</em> R132H was identified in 12% of samples, no mutations were identified in any of the other genes. This suggests that mutations in <em>IDH3</em>, <em>D2HGDH</em> and <em>L2HGDH</em> do not occur at an appreciable frequency in GBM. One explanation is simply that mono-allelic <em>IDH1</em> and <em>IDH2</em> mutations occur more frequently by chance than the bi-allelic mutations expected at <em>IDH3</em>, <em>D2HGDH</em> and <em>L2HGDH</em>. Alternatively, both loss of IDH function and 2HG accumulation might be required for tumourigenesis, and only <em>IDH1</em> and <em>IDH2</em> mutations have these dual effects.</p>
+</div>
+
+
+<div class="articleinfo"><p><strong>Citation: </strong>Krell D, Assoku M, Galloway M, Mulholland P, Tomlinson I, Bardella C (2011) Screen for <em>IDH1</em>, <em>IDH2</em>, <em>IDH3</em>, <em>D2HGDH</em> and <em>L2HGDH</em> Mutations in Glioblastoma. PLoS ONE 6(5):
+        e19868.
+        https://doi.org/10.1371/journal.pone.0019868</p><p><strong>Editor: </strong>Joseph Charles Glorioso, University of Pittsburgh School of Medicine, United States of America</p><p><strong>Received: </strong>February 10, 2011; <strong>Accepted: </strong>April 13, 2011; <strong>Published: </strong> May 23, 2011</p><p><strong>Copyright: </strong> © 2011 Krell et al. This is an open-access article distributed under the terms of the Creative Commons Attribution License, which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.</p><p><strong>Funding: </strong>This work was supported by Oxford Comprehensive Biomedical Core (BRC), the charity Mothers and Daughters, the University College London Hospitals, Experimental Cancer Medicine Centre, and a core centre grant from the Wellcome Trust (075491/Z/04). The funders had no role in study design, data collection and analysis, decision to publish or preparation of the manuscript.</p><p><strong>Competing interests: </strong> The authors have declared that no competing interests exist.</p></div>
+
+
+
+
+
+<div id="section1" class="section toc-section"><a id="s1" name="s1" data-toc="s1" class="link-target" title="Introduction"></a><h2>Introduction</h2><a id="article1.body1.sec1.p1" name="article1.body1.sec1.p1" class="link-target"></a><p>Gliomas are the most common primary brain tumour, accounting for 70% of all primary central nervous system neoplasms. They show wide diversity with respect to location, morphology, genetic status and response to therapy.</p>
+<a id="article1.body1.sec1.p2" name="article1.body1.sec1.p2" class="link-target"></a><p>Grade I gliomas occur more in children than in adults, are generally curable with complete surgical resection and rarely evolve into higher-grade lesions. WHO grade II or III gliomas are invasive, progress to higher-grade lesions and have a poor outcome. Glioblastoma (GBM), the most common and most malignant glioma, has a very poor prognosis and may develop rapidly without evidence of a less malignant precursor lesion (primary glioblastoma), or less commonly through progression from a lower grade tumour (secondary glioblastoma) <a href="#pone.0019868-Ohgaki1" class="ref-tip">[1]</a>, <a href="#pone.0019868-Wen1" class="ref-tip">[2]</a>.</p>
+<a id="article1.body1.sec1.p3" name="article1.body1.sec1.p3" class="link-target"></a><p>Isocitrate dehydrogenases (IDHs) catalyse the oxidative decarboxylation of isocitrate to α-ketoglutarate (α-KG) and reduce NAD<sup>+</sup> or NADP<sup>+</sup> to NADH or NADPH. IDH1 and IDH2 are homodimeric, NADP<sup>+</sup>-dependent enzymes that share considerable sequence similarity and an almost identical protein structure <a href="#pone.0019868-Xu1" class="ref-tip">[3]</a>. IDH3 is a heterotetramer composed of two α, one β and one γ subunit. IDH3 is a NAD<sup>+</sup>-dependent enzyme. IDH1 is localised to the cytoplasm and peroxisomes, it is highly expressed in the liver and to a lesser level in other tissues <a href="#pone.0019868-Reitman1" class="ref-tip">[4]</a>. As well as being involved in catalysing the conversion of isocitrate to α-KG, IDH1 is thought to play a role in cellular metabolic processes such as lipid and glucose metabolism <a href="#pone.0019868-Haselbeck1" class="ref-tip">[5]</a>, <a href="#pone.0019868-Joseph1" class="ref-tip">[6]</a>, and has been shown to be involved in cellular defence against reactive oxygen species and radiation <a href="#pone.0019868-Minard1" class="ref-tip">[7]</a>, <a href="#pone.0019868-Lee1" class="ref-tip">[8]</a>, <a href="#pone.0019868-Lee2" class="ref-tip">[9]</a>.</p>
+<a id="article1.body1.sec1.p4" name="article1.body1.sec1.p4" class="link-target"></a><p>IDH2 is localised to the mitochondria, is highly expressed in heart, muscle, activated lymphocytes and moderately in other tissues <a href="#pone.0019868-Reitman1" class="ref-tip">[4]</a>. IDH2 plays a key role in the regulation of the tricarboxylic acid cycle (TCA) and like IDH1, has been shown to have a protective role against insults such as oxidative stress <a href="#pone.0019868-Lee2" class="ref-tip">[9]</a>, <a href="#pone.0019868-Kil1" class="ref-tip">[10]</a>, <a href="#pone.0019868-Yang1" class="ref-tip">[11]</a>.</p>
+<a id="article1.body1.sec1.p5" name="article1.body1.sec1.p5" class="link-target"></a><p>IDH3 is also localised to the mitochondria and plays a central role in the TCA cycle.</p>
+<a id="article1.body1.sec1.p6" name="article1.body1.sec1.p6" class="link-target"></a><p>In 2008, a genome-wide sequencing study identified somatic mutations in <em>IDH1</em> in 18 (12%) of 149 patients with GBM <a href="#pone.0019868-Parsons1" class="ref-tip">[12]</a> and it was subsequently found that GBMs without <em>IDH1</em> mutations often have mutations affecting <em>IDH2</em> <a href="#pone.0019868-Yan1" class="ref-tip">[13]</a>. Both <em>IDH1</em> and <em>IDH2</em> mutations are more frequent in grade II-III gliomas and secondary glioblastoma (70–75%) than in primary glioblastoma (5%) <a href="#pone.0019868-Kloosterhof1" class="ref-tip">[14]</a>, are present at higher frequencies in younger patients, and are associated with a relatively favourable prognosis <a href="#pone.0019868-Yan1" class="ref-tip">[13]</a>, <a href="#pone.0019868-Hartmann1" class="ref-tip">[15]</a>. <em>IDH1</em> and <em>IDH2</em> mutations are mono-allelic, somatic, missense changes. Mutations in <em>IDH1</em> almost always affect R132, which is the binding site for isocitrate <a href="#pone.0019868-Parsons1" class="ref-tip">[12]</a>. Mutations in <em>IDH2</em> exclusively affect R172 and R140; the former of these arginines is analogous to <em>IDH1</em> R132 <a href="#pone.0019868-Yan1" class="ref-tip">[13]</a> <a href="#pone.0019868-Ward1" class="ref-tip">[16]</a>.</p>
+<a id="article1.body1.sec1.p7" name="article1.body1.sec1.p7" class="link-target"></a><p>Initial investigations demonstrated that mutated IDH1 had a reduced affinity for isocitrate <a href="#pone.0019868-Zhao1" class="ref-tip">[17]</a>. Furthermore, expression of mutant <em>IDH1</em> in cultured cells has been shown to reduce the formation of the enzyme products, α-KG and NADPH <a href="#pone.0019868-Yan1" class="ref-tip">[13]</a>, <a href="#pone.0019868-Zhao1" class="ref-tip">[17]</a>, <a href="#pone.0019868-Ichimura1" class="ref-tip">[18]</a>. These structural and biochemical findings suggested that <em>IDH</em> mutation results in loss of function, the most plausible mechanism being a dominant negative effect through the formation of catalytically inactive heterodimers of mutant and wild type proteins <a href="#pone.0019868-Zhao1" class="ref-tip">[17]</a>. Deficiency of α-KG might lead to defective function of α-KG-dependent enzymes such as HIF prolyl hydroxylases.</p>
+<a id="article1.body1.sec1.p8" name="article1.body1.sec1.p8" class="link-target"></a><p>Subsequent evidence has emerged suggesting that mutant IDH1 and IDH2 are not simply inactive enzymes, but instead possess novel enzymatic activity <a href="#pone.0019868-Ward1" class="ref-tip">[16]</a>, <a href="#pone.0019868-Dang1" class="ref-tip">[19]</a>, <a href="#pone.0019868-Gross1" class="ref-tip">[20]</a>. Dang <em>et al</em>. demonstrated that mutant, but not wild type, IDH1 catalyses the reduction of α-KG to D-2HG while converting NADPH to NADP<sup>+</sup>. D-2HG accumulates in glioblastoma cells with <em>IDH1</em> R132H mutations <a href="#pone.0019868-Dang1" class="ref-tip">[19]</a>. The role of 2HG in tumourigenesis is unclear, although it may act as an oncometabolite, perhaps competitively inhibiting α-KG-dependent enzymes <a href="#pone.0019868-Figueroa1" class="ref-tip">[21]</a> <a href="#pone.0019868-Xu2" class="ref-tip">[22]</a>. One of the rationales for a role of 2HG in tumour formation is derived from the observation of patients suffering from hereditary 2-hydroxyglutaric aciduria. This is a rare inherited metabolic disorder, caused by homozygous inactivating germline 2-hydroxyglutarate dehydrogenase (<em>2HGDH</em>) mutations, that is weakly associated with brain tumours.</p>
+<a id="article1.body1.sec1.p9" name="article1.body1.sec1.p9" class="link-target"></a><p>If IDH loss-of-function alone is critical for tumourigenesis, we might expect <em>IDH3</em> mutations to occur in brain tumours, including those sub-types with relatively low frequencies of <em>IDH1</em> and <em>IDH2</em> mutations. Alternatively, if accumulation of 2HG alone is critical, we might expect mutations in <em>D2HGDH</em> and/or <em>L2HGDH</em>. A further, more speculative line of reasoning is that, if patients with mutations in <em>IDH1</em> and <em>IDH2</em> have normal D2HGDH and L2HGDH function, excess 2HG should simply be converted back to α-KG by 2HGDH. The failure of this to occur might be due to saturation of the 2HGDH enzymes, but raises the possibility that patients with <em>IDH1</em> and <em>IDH2</em> mutations might also require inactivating mutations in <em>D2HGDH</em> and <em>L2HGDH</em> for 2HG to accumulate.</p>
+<a id="article1.body1.sec1.p10" name="article1.body1.sec1.p10" class="link-target"></a><p>We therefore analysed a set of GBM for mutations in <em>IDH1</em>, <em>IDH2</em>, <em>IDH3</em>, <em>D2HGDH</em> and <em>L2HGDH</em>.</p>
+</div>
+
+<div id="section2" class="section toc-section"><a id="s2" name="s2" data-toc="s2" class="link-target" title="Results and Discussion"></a><h2>Results and Discussion</h2><a id="article1.body1.sec2.p1" name="article1.body1.sec2.p1" class="link-target"></a><p>We studied 47 glioblastomas (WHO grade IV). Heterozygous mutations of <em>IDH1</em> were found in 6/47 tumours (12%). All 6 mutations were single base substitutions c.395G&gt;A occurring at residue R132, resulting in an arginine to histidine (p.R132H) substitution (<a href="#pone-0019868-g001">Figure 1</a>). This frequency is consistent with previously described data. No mutations were found in <em>IDH2</em>, in keeping with the lower frequency of such changes than mutations in <em>IDH1</em>. We sequenced all the exons of <em>IDH3A</em>, <em>IDH3B</em> and <em>IDH3G</em>, which encode the α, β, and γ subunits of the IDH3 heterotetramer, and all the exons of <em>D2HGDH</em> and <em>L2HGDH</em>. In all cases examined we did not find any mutations. Known SNPs were found within each gene (details not shown).</p>
+<a class="link-target" id="pone-0019868-g001" name="pone-0019868-g001"></a><div class="figure" data-doi="10.1371/journal.pone.0019868.g001"><div class="img-box"><a title="Click for larger image" href="article/figure/image?size=medium&amp;id=info:doi/10.1371/journal.pone.0019868.g001" data-doi="info:doi/10.1371/journal.pone.0019868" data-uri="info:doi/10.1371/journal.pone.0019868.g001"><img src="article/figure/image?size=inline&amp;id=info:doi/10.1371/journal.pone.0019868.g001" alt="thumbnail" class="thumbnail"></a><div class="expand"></div></div><div class="figure-inline-download">
+          Download:
+          <ul><li><div class="definition-label"><a href="article/figure/powerpoint?id=info:doi/10.1371/journal.pone.0019868.g001">
+                  PPT
+                </a></div><a href="article/figure/powerpoint?id=info:doi/10.1371/journal.pone.0019868.g001">
+                PowerPoint slide
+              </a></li><li><div class="definition-label"><a href="article/figure/image?download&amp;size=large&amp;id=info:doi/10.1371/journal.pone.0019868.g001">
+                  PNG
+                </a></div><a href="article/figure/image?download&amp;size=large&amp;id=info:doi/10.1371/journal.pone.0019868.g001">
+                larger image
+              </a></li><li><div class="definition-label"><a href="article/figure/image?download&amp;size=original&amp;id=info:doi/10.1371/journal.pone.0019868.g001">
+                  TIFF
+                </a></div><a href="article/figure/image?download&amp;size=original&amp;id=info:doi/10.1371/journal.pone.0019868.g001">
+                original image
+              </a></li></ul></div><div class="figcaption"><span>Figure 1. </span> Identification of the G395A mutation at codon 132 by sequence analysis of the <em>IDH1</em> gene.</div><p class="caption_target"><a id="article1.body1.sec2.fig1.caption1.p1" name="article1.body1.sec2.fig1.caption1.p1" class="link-target"></a><p>The electropherogram shows a representative example of the heterozygous, single base G-to-A substitution at nucleotide position 395 of the <em>IDH1</em> gene (right panel) and the corresponding wild-type sequence (left panel). The mutation was detected in 6 out of 47 glioblastomas analyzed.</p>
+</p><p class="caption_object"><a href="https://doi.org/10.1371/journal.pone.0019868.g001">
+              https://doi.org/10.1371/journal.pone.0019868.g001</a></p></div><a id="article1.body1.sec2.p2" name="article1.body1.sec2.p2" class="link-target"></a><p>We then wondered whether <em>D2HGDH</em> or <em>L2HGDH</em> might be inactivated by other mechanisms such as promoter methylation or miRNA over-expression. We therefore evaluated the expression of the corresponding proteins in human glioblastomas samples (<a href="#pone-0019868-g002">Figure 2</a>). D2HGDH and L2HGDH were detected in GBMs carrying wild type <em>IDH1</em> and <em>IDH2</em> genes, as well as in <em>IDH1</em>-mutants tumours. It is highly unlikely that the loss of D2HGDH or L2HGDH expression plays an important role in the pathogenesis of human GBMs.</p>
+<a class="link-target" id="pone-0019868-g002" name="pone-0019868-g002"></a><div class="figure" data-doi="10.1371/journal.pone.0019868.g002"><div class="img-box"><a title="Click for larger image" href="article/figure/image?size=medium&amp;id=info:doi/10.1371/journal.pone.0019868.g002" data-doi="info:doi/10.1371/journal.pone.0019868" data-uri="info:doi/10.1371/journal.pone.0019868.g002"><img src="article/figure/image?size=inline&amp;id=info:doi/10.1371/journal.pone.0019868.g002" alt="thumbnail" class="thumbnail"></a><div class="expand"></div></div><div class="figure-inline-download">
+          Download:
+          <ul><li><div class="definition-label"><a href="article/figure/powerpoint?id=info:doi/10.1371/journal.pone.0019868.g002">
+                  PPT
+                </a></div><a href="article/figure/powerpoint?id=info:doi/10.1371/journal.pone.0019868.g002">
+                PowerPoint slide
+              </a></li><li><div class="definition-label"><a href="article/figure/image?download&amp;size=large&amp;id=info:doi/10.1371/journal.pone.0019868.g002">
+                  PNG
+                </a></div><a href="article/figure/image?download&amp;size=large&amp;id=info:doi/10.1371/journal.pone.0019868.g002">
+                larger image
+              </a></li><li><div class="definition-label"><a href="article/figure/image?download&amp;size=original&amp;id=info:doi/10.1371/journal.pone.0019868.g002">
+                  TIFF
+                </a></div><a href="article/figure/image?download&amp;size=original&amp;id=info:doi/10.1371/journal.pone.0019868.g002">
+                original image
+              </a></li></ul></div><div class="figcaption"><span>Figure 2. </span> D2HGDH and L2HGDH are expressed in wildtype <em>IDH1/2</em> and <em>IDH1</em> R132H glioblastomas.</div><p class="caption_target"><a id="article1.body1.sec2.fig2.caption1.p1" name="article1.body1.sec2.fig2.caption1.p1" class="link-target"></a><p>Expression of D2HGDH and L2HGDH in normal brain is shown respectively in panels A and B. D2HGDH and L2HGDH were detected in brain tumour samples carrying either wild-type <em>IDH1/IDH2</em> (C and D) or mutated <em>IDH1</em> allele (E and F) by immunohistochemistry. Scale bar represents 50 µm in all panels.</p>
+</p><p class="caption_object"><a href="https://doi.org/10.1371/journal.pone.0019868.g002">
+              https://doi.org/10.1371/journal.pone.0019868.g002</a></p></div><a id="article1.body1.sec2.p3" name="article1.body1.sec2.p3" class="link-target"></a><p>Mutations in <em>IDH3, D2HGDH</em> and <em>L2HGDH</em> (or loss of expression of the 2HGDHs) do not therefore occur at an appreciable frequency in GBM. One explanation is simply that mono-allelic <em>IDH1</em> and <em>IDH2</em> mutations occur more frequently by chance than the bi-allelic mutations expected at <em>IDH3</em>, <em>D2HGDH</em> and <em>L2HGDH</em>. Alternatively, both loss of IDH function and 2HG accumulation are required for tumourigenesis, and only <em>IDH1</em> and <em>IDH2</em> mutations have these dual effects. It is also possible that 2HG accumulation is an epiphenomenon and that IDH3 loss-of-function does not lead to sufficient deficiency of α-KG to promote tumourigenesis. There might also be an unknown mechanism of tumourigenesis that is specific to defects in IDH1 or IDH2.</p>
+<a id="article1.body1.sec2.p4" name="article1.body1.sec2.p4" class="link-target"></a><p>Moreover our data suggest that in patients with mutations of <em>IDH1</em> and <em>IDH2</em> and normal D2HGDH and L2HGDH function, the excess 2HG is not converted back to α-KG by 2HGDH, perhaps due to the saturation of the latter enzyme. A recent report identified heterozygous germline <em>IDH2</em> mutations in patients with idiopathic D-2-hydroxyglutaric aciduria, carrying no mutations in <em>D2HGDH</em> and consistently increased D-2HG levels in body fluids <a href="#pone.0019868-Kranendijk1" class="ref-tip">[23]</a>; interestingly, the patient did not develop brain tumours.</p>
+<a id="article1.body1.sec2.p5" name="article1.body1.sec2.p5" class="link-target"></a><p>The mechanisms by which <em>IDH1</em> and <em>IDH2</em> mutations cause tumourigenesis remain largely unclear, as do the putative alternative functional deficiencies in <em>IDH</em>-wildtype gliomas. However, even if 2HG has no direct pathogenic role it has potential as a specific marker of <em>IDH1</em> or <em>IDH2</em> mutations, to diagnose or monitor <em>IDH</em>-mutant glioma <a href="#pone.0019868-Dang2" class="ref-tip">[24]</a>.</p>
+</div>
+
+<div id="section3" class="section toc-section"><a id="s3" name="s3" data-toc="s3" class="link-target" title="Materials and Methods"></a><h2>Materials and Methods</h2>
+<div id="section1" class="section toc-section"><a id="s3a" name="s3a" class="link-target" title="Sample collection"></a>
+<h3>Sample collection</h3>
+<a id="article1.body1.sec3.sec1.p1" name="article1.body1.sec3.sec1.p1" class="link-target"></a><p>All brain tumours were obtained from the neuropathology department at The Royal Free Hospital, Hampstead, London. All 47 samples analysed were confirmed to be WHO grade IV glioblastoma. We have worked solely on anonymously samples. Study of these has been approved by Oxfordshire REC B 05/Q1605/66.</p>
+</div>
+
+<div id="section2" class="section toc-section"><a id="s3b" name="s3b" class="link-target" title="DNA extraction"></a>
+<h3>DNA extraction</h3>
+<a id="article1.body1.sec3.sec2.p1" name="article1.body1.sec3.sec2.p1" class="link-target"></a><p>DNA was extracted from paraffin embedded samples using DNeasy Blood and Tissue from Quiagen<sup>R</sup> (Alameda, CA), following the manufacturer's instructions.</p>
+</div>
+
+<div id="section3" class="section toc-section"><a id="s3c" name="s3c" class="link-target" title="Sequencing analysis"></a>
+<h3>Sequencing analysis</h3>
+<a id="article1.body1.sec3.sec3.p1" name="article1.body1.sec3.sec3.p1" class="link-target"></a><p>Mutation screening of each gene was performed by direct sequencing of genomic DNA in forward and reverse orientations using the Applied Biosystems BigDye terminator reaction kit and the AB 3730xl sequencing machine (Applied Biosystems, Foster City, CA). Primer sequences were designed to encompass the coding region and splice sites of exon 4 of <em>IDH1</em> and <em>IDH2</em>, and all exons of <em>IDH3A</em> (RefSeq: NM_005530.2), <em>IDH3B</em> (RefSeq: NM_174855.1), <em>IDH3G</em> (RefSeq: NM_004135.2 for the transcript variant 1 and RefSeq: NM_174869.1 for the transcript variant 2), <em>L2HGH</em> (RefSeq: NM_024884.2) and <em>D2HGDH</em> (RefSeq: NM_024884.2). Primer sequences and PCR conditions are available on request.</p>
+</div>
+
+<div id="section4" class="section toc-section"><a id="s3d" name="s3d" class="link-target" title="Immunohistochemistry"></a>
+<h3>Immunohistochemistry</h3>
+<a id="article1.body1.sec3.sec4.p1" name="article1.body1.sec3.sec4.p1" class="link-target"></a><p>Formalin-fixed, paraffin-embedded tissue sections (4 µm) were de-waxed in xylene and rehydrated through graded alcohols to water. Endogenous peroxidase was blocked using 1.6% H<sub>2</sub>O<sub>2</sub> for 20 minutes. For antigen retrieval, sections were pressure cooked in 10 mmol/L citrate buffer (pH6.0) for 5 minutes. Sections were blocked with 10% serum for 30 minutes. Slides were incubated with primary polyclonal antibodies anti human D2HGDH (ProteinTech Group, Chicago, IL 60612, 1∶50), or anti human L2HGDH (ProteinTech Group, Chicago, IL 60612, 1∶100) for 1 hour. Goat anti-rabbit secondary antibody was applied for one hour at room temperature. Sections were then incubated in ABC (Vector labs) for 30 minutes. DAB solution was applied for 2–5 minutes and development of the colour reaction was monitored microscopically. Slides were counterstained with haematoxylin, dehydrated, cleared and then mounted. Images were taken at 20× magnification.</p>
+</div>
+</div>
+
+
+
+<div class="contributions toc-section"><a id="authcontrib" name="authcontrib" data-toc="authcontrib" title="Author Contributions"></a><h2>Author Contributions</h2><p>Conceived and designed the experiments: CB PM IT. Performed the experiments: DK MA. Analyzed the data: DK MA. Contributed reagents/materials/analysis tools: MG. Wrote the paper: DK MA CB.</p></div><div class="toc-section"><a id="references" name="references" class="link-target" data-toc="references" title="References"></a><h2>References</h2><ol class="references"><li id="ref1"><span class="order">1.
+            </span><a name="pone.0019868-Ohgaki1" id="pone.0019868-Ohgaki1" class="link-target"></a>Ohgaki H (2009) Epidemiology of brain tumours. Methods Mol Biol  472: 323–342.H. Ohgaki2009Epidemiology of brain tumours.Methods Mol Biol472323342  <ul class="reflinks"><li><a href="#" data-author="Ohgaki" data-cit="OhgakiH2009Epidemiology%20of%20brain%20tumours.Methods%20Mol%20Biol472323342" data-title="Epidemiology%20of%20brain%20tumours." target="_new" title="Go to article in CrossRef">
+                      View Article
+                    </a></li><li><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?db=PubMed&amp;cmd=Search&amp;doptcmdl=Citation&amp;defaultField=Title+Word&amp;term=Ohgaki%5Bauthor%5D+AND+Epidemiology+of+brain+tumours." target="_new" title="Go to article in PubMed">
+                      PubMed/NCBI
+                    </a></li><li><a href="http://scholar.google.com/scholar_lookup?title=Epidemiology+of+brain+tumours.&amp;author=Ohgaki&amp;publication_year=2009" target="_new" title="Go to article in Google Scholar">
+                      Google Scholar
+                    </a></li></ul></li><li id="ref2"><span class="order">2.
+            </span><a name="pone.0019868-Wen1" id="pone.0019868-Wen1" class="link-target"></a>Wen PY, Kesari S (2008) Malignant gliomas in adults. N Engl J Med  359: 492–507.PY WenS. Kesari2008Malignant gliomas in adults.N Engl J Med359492507  <ul class="reflinks"><li><a href="#" data-author="Wen" data-cit="WenPYKesariS2008Malignant%20gliomas%20in%20adults.N%20Engl%20J%20Med359492507" data-title="Malignant%20gliomas%20in%20adults." target="_new" title="Go to article in CrossRef">
+                      View Article
+                    </a></li><li><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?db=PubMed&amp;cmd=Search&amp;doptcmdl=Citation&amp;defaultField=Title+Word&amp;term=Wen%5Bauthor%5D+AND+Malignant+gliomas+in+adults." target="_new" title="Go to article in PubMed">
+                      PubMed/NCBI
+                    </a></li><li><a href="http://scholar.google.com/scholar_lookup?title=Malignant+gliomas+in+adults.&amp;author=Wen&amp;publication_year=2008" target="_new" title="Go to article in Google Scholar">
+                      Google Scholar
+                    </a></li></ul></li><li id="ref3"><span class="order">3.
+            </span><a name="pone.0019868-Xu1" id="pone.0019868-Xu1" class="link-target"></a>Xu X, Zhao J, Xu Z, Peng B, Huang Q, et al.  (2004) Structures of human cytosolic NADP-dependent isocitrate dehydrogenase reveal a novel self-regulatory mechanism of activity. J Biol Chem  279: 33946–33957.X. XuJ. ZhaoZ. XuB. PengQ. Huang2004Structures of human cytosolic NADP-dependent isocitrate dehydrogenase reveal a novel self-regulatory mechanism of activity.J Biol Chem2793394633957  <ul class="reflinks"><li><a href="#" data-author="Xu" data-cit="XuXZhaoJXuZPengBHuangQ2004Structures%20of%20human%20cytosolic%20NADP-dependent%20isocitrate%20dehydrogenase%20reveal%20a%20novel%20self-regulatory%20mechanism%20of%20activity.J%20Biol%20Chem2793394633957" data-title="Structures%20of%20human%20cytosolic%20NADP-dependent%20isocitrate%20dehydrogenase%20reveal%20a%20novel%20self-regulatory%20mechanism%20of%20activity." target="_new" title="Go to article in CrossRef">
+                      View Article
+                    </a></li><li><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?db=PubMed&amp;cmd=Search&amp;doptcmdl=Citation&amp;defaultField=Title+Word&amp;term=Xu%5Bauthor%5D+AND+Structures+of+human+cytosolic+NADP-dependent+isocitrate+dehydrogenase+reveal+a+novel+self-regulatory+mechanism+of+activity." target="_new" title="Go to article in PubMed">
+                      PubMed/NCBI
+                    </a></li><li><a href="http://scholar.google.com/scholar_lookup?title=Structures+of+human+cytosolic+NADP-dependent+isocitrate+dehydrogenase+reveal+a+novel+self-regulatory+mechanism+of+activity.&amp;author=Xu&amp;publication_year=2004" target="_new" title="Go to article in Google Scholar">
+                      Google Scholar
+                    </a></li></ul></li><li id="ref4"><span class="order">4.
+            </span><a name="pone.0019868-Reitman1" id="pone.0019868-Reitman1" class="link-target"></a>Reitman ZJ, Yan H (2010) Isocitrate dehydrogenase 1 and 2 mutations in cancer: alterations at a crossroads of cellular metabolism. J Natl Cancer Inst  102: 932–941.ZJ ReitmanH. Yan2010Isocitrate dehydrogenase 1 and 2 mutations in cancer: alterations at a crossroads of cellular metabolism.J Natl Cancer Inst102932941  <ul class="reflinks"><li><a href="#" data-author="Reitman" data-cit="ReitmanZJYanH2010Isocitrate%20dehydrogenase%201%20and%202%20mutations%20in%20cancer%3A%20alterations%20at%20a%20crossroads%20of%20cellular%20metabolism.J%20Natl%20Cancer%20Inst102932941" data-title="Isocitrate%20dehydrogenase%201%20and%202%20mutations%20in%20cancer%3A%20alterations%20at%20a%20crossroads%20of%20cellular%20metabolism." target="_new" title="Go to article in CrossRef">
+                      View Article
+                    </a></li><li><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?db=PubMed&amp;cmd=Search&amp;doptcmdl=Citation&amp;defaultField=Title+Word&amp;term=Reitman%5Bauthor%5D+AND+Isocitrate+dehydrogenase+1+and+2+mutations+in+cancer%3A+alterations+at+a+crossroads+of+cellular+metabolism." target="_new" title="Go to article in PubMed">
+                      PubMed/NCBI
+                    </a></li><li><a href="http://scholar.google.com/scholar_lookup?title=Isocitrate+dehydrogenase+1+and+2+mutations+in+cancer%3A+alterations+at+a+crossroads+of+cellular+metabolism.&amp;author=Reitman&amp;publication_year=2010" target="_new" title="Go to article in Google Scholar">
+                      Google Scholar
+                    </a></li></ul></li><li id="ref5"><span class="order">5.
+            </span><a name="pone.0019868-Haselbeck1" id="pone.0019868-Haselbeck1" class="link-target"></a>Haselbeck RJ, McAlister-Henn L (1993) Function and expression of yeast mitochondrial NAD- and NADP-specific isocitrate dehydrogenases. J Biol Chem  268: 12116–12122.RJ HaselbeckL. McAlister-Henn1993Function and expression of yeast mitochondrial NAD- and NADP-specific isocitrate dehydrogenases.J Biol Chem2681211612122  <ul class="reflinks"><li><a href="#" data-author="Haselbeck" data-cit="HaselbeckRJMcAlister-HennL1993Function%20and%20expression%20of%20yeast%20mitochondrial%20NAD-%20and%20NADP-specific%20isocitrate%20dehydrogenases.J%20Biol%20Chem2681211612122" data-title="Function%20and%20expression%20of%20yeast%20mitochondrial%20NAD-%20and%20NADP-specific%20isocitrate%20dehydrogenases." target="_new" title="Go to article in CrossRef">
+                      View Article
+                    </a></li><li><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?db=PubMed&amp;cmd=Search&amp;doptcmdl=Citation&amp;defaultField=Title+Word&amp;term=Haselbeck%5Bauthor%5D+AND+Function+and+expression+of+yeast+mitochondrial+NAD-+and+NADP-specific+isocitrate+dehydrogenases." target="_new" title="Go to article in PubMed">
+                      PubMed/NCBI
+                    </a></li><li><a href="http://scholar.google.com/scholar_lookup?title=Function+and+expression+of+yeast+mitochondrial+NAD-+and+NADP-specific+isocitrate+dehydrogenases.&amp;author=Haselbeck&amp;publication_year=1993" target="_new" title="Go to article in Google Scholar">
+                      Google Scholar
+                    </a></li></ul></li><li id="ref6"><span class="order">6.
+            </span><a name="pone.0019868-Joseph1" id="pone.0019868-Joseph1" class="link-target"></a>Joseph JW, Jensen MV, Ilkayeva O, Palmieri F, Alarcon C, et al.  (2006) The mitochondrial citrate/isocitrate carrier plays a regulatory role in glucose-stimulated insulin secretion. J Biol Chem  281: 35624–35632.JW JosephMV JensenO. IlkayevaF. PalmieriC. Alarcon2006The mitochondrial citrate/isocitrate carrier plays a regulatory role in glucose-stimulated insulin secretion.J Biol Chem2813562435632  <ul class="reflinks"><li><a href="#" data-author="Joseph" data-cit="JosephJWJensenMVIlkayevaOPalmieriFAlarconC2006The%20mitochondrial%20citrate%2Fisocitrate%20carrier%20plays%20a%20regulatory%20role%20in%20glucose-stimulated%20insulin%20secretion.J%20Biol%20Chem2813562435632" data-title="The%20mitochondrial%20citrate%2Fisocitrate%20carrier%20plays%20a%20regulatory%20role%20in%20glucose-stimulated%20insulin%20secretion." target="_new" title="Go to article in CrossRef">
+                      View Article
+                    </a></li><li><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?db=PubMed&amp;cmd=Search&amp;doptcmdl=Citation&amp;defaultField=Title+Word&amp;term=Joseph%5Bauthor%5D+AND+The+mitochondrial+citrate%2Fisocitrate+carrier+plays+a+regulatory+role+in+glucose-stimulated+insulin+secretion." target="_new" title="Go to article in PubMed">
+                      PubMed/NCBI
+                    </a></li><li><a href="http://scholar.google.com/scholar_lookup?title=The+mitochondrial+citrate%2Fisocitrate+carrier+plays+a+regulatory+role+in+glucose-stimulated+insulin+secretion.&amp;author=Joseph&amp;publication_year=2006" target="_new" title="Go to article in Google Scholar">
+                      Google Scholar
+                    </a></li></ul></li><li id="ref7"><span class="order">7.
+            </span><a name="pone.0019868-Minard1" id="pone.0019868-Minard1" class="link-target"></a>Minard KI, McAlister-Henn L (1999) Dependence of peroxisomal beta-oxidation on cytosolic sources of NADPH. J Biol Chem  274: 3402–3406.KI MinardL. McAlister-Henn1999Dependence of peroxisomal beta-oxidation on cytosolic sources of NADPH.J Biol Chem27434023406  <ul class="reflinks"><li><a href="#" data-author="Minard" data-cit="MinardKIMcAlister-HennL1999Dependence%20of%20peroxisomal%20beta-oxidation%20on%20cytosolic%20sources%20of%20NADPH.J%20Biol%20Chem27434023406" data-title="Dependence%20of%20peroxisomal%20beta-oxidation%20on%20cytosolic%20sources%20of%20NADPH." target="_new" title="Go to article in CrossRef">
+                      View Article
+                    </a></li><li><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?db=PubMed&amp;cmd=Search&amp;doptcmdl=Citation&amp;defaultField=Title+Word&amp;term=Minard%5Bauthor%5D+AND+Dependence+of+peroxisomal+beta-oxidation+on+cytosolic+sources+of+NADPH." target="_new" title="Go to article in PubMed">
+                      PubMed/NCBI
+                    </a></li><li><a href="http://scholar.google.com/scholar_lookup?title=Dependence+of+peroxisomal+beta-oxidation+on+cytosolic+sources+of+NADPH.&amp;author=Minard&amp;publication_year=1999" target="_new" title="Go to article in Google Scholar">
+                      Google Scholar
+                    </a></li></ul></li><li id="ref8"><span class="order">8.
+            </span><a name="pone.0019868-Lee1" id="pone.0019868-Lee1" class="link-target"></a>Lee SM, Park SY, Shin SW, Kil IS, Yang ES, et al.  (2009) Silencing of cytosolic NADP(+)-dependent isocitrate dehydrogenase by small interfering RNA enhances the sensitivity of HeLa cells toward staurosporine. Free Radic Res  43: 165–173.SM LeeSY ParkSW ShinIS KilES Yang2009Silencing of cytosolic NADP(+)-dependent isocitrate dehydrogenase by small interfering RNA enhances the sensitivity of HeLa cells toward staurosporine.Free Radic Res43165173  <ul class="reflinks"><li><a href="#" data-author="Lee" data-cit="LeeSMParkSYShinSWKilISYangES2009Silencing%20of%20cytosolic%20NADP%28%2B%29-dependent%20isocitrate%20dehydrogenase%20by%20small%20interfering%20RNA%20enhances%20the%20sensitivity%20of%20HeLa%20cells%20toward%20staurosporine.Free%20Radic%20Res43165173" data-title="Silencing%20of%20cytosolic%20NADP%28%2B%29-dependent%20isocitrate%20dehydrogenase%20by%20small%20interfering%20RNA%20enhances%20the%20sensitivity%20of%20HeLa%20cells%20toward%20staurosporine." target="_new" title="Go to article in CrossRef">
+                      View Article
+                    </a></li><li><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?db=PubMed&amp;cmd=Search&amp;doptcmdl=Citation&amp;defaultField=Title+Word&amp;term=Lee%5Bauthor%5D+AND+Silencing+of+cytosolic+NADP%28%2B%29-dependent+isocitrate+dehydrogenase+by+small+interfering+RNA+enhances+the+sensitivity+of+HeLa+cells+toward+staurosporine." target="_new" title="Go to article in PubMed">
+                      PubMed/NCBI
+                    </a></li><li><a href="http://scholar.google.com/scholar_lookup?title=Silencing+of+cytosolic+NADP%28%2B%29-dependent+isocitrate+dehydrogenase+by+small+interfering+RNA+enhances+the+sensitivity+of+HeLa+cells+toward+staurosporine.&amp;author=Lee&amp;publication_year=2009" target="_new" title="Go to article in Google Scholar">
+                      Google Scholar
+                    </a></li></ul></li><li id="ref9"><span class="order">9.
+            </span><a name="pone.0019868-Lee2" id="pone.0019868-Lee2" class="link-target"></a>Lee SH, Jo SH, Lee SM, Koh HJ, Song H, et al.  (2004) Role of NADP+-dependent isocitrate dehydrogenase (NADP+-ICDH) on cellular defence against oxidative injury by gamma-rays. Int J Radiat Biol  80: 635–642.SH LeeSH JoSM LeeHJ KohH. Song2004Role of NADP+-dependent isocitrate dehydrogenase (NADP+-ICDH) on cellular defence against oxidative injury by gamma-rays.Int J Radiat Biol80635642  <ul class="reflinks"><li><a href="#" data-author="Lee" data-cit="LeeSHJoSHLeeSMKohHJSongH2004Role%20of%20NADP%2B-dependent%20isocitrate%20dehydrogenase%20%28NADP%2B-ICDH%29%20on%20cellular%20defence%20against%20oxidative%20injury%20by%20gamma-rays.Int%20J%20Radiat%20Biol80635642" data-title="Role%20of%20NADP%2B-dependent%20isocitrate%20dehydrogenase%20%28NADP%2B-ICDH%29%20on%20cellular%20defence%20against%20oxidative%20injury%20by%20gamma-rays." target="_new" title="Go to article in CrossRef">
+                      View Article
+                    </a></li><li><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?db=PubMed&amp;cmd=Search&amp;doptcmdl=Citation&amp;defaultField=Title+Word&amp;term=Lee%5Bauthor%5D+AND+Role+of+NADP%2B-dependent+isocitrate+dehydrogenase+%28NADP%2B-ICDH%29+on+cellular+defence+against+oxidative+injury+by+gamma-rays." target="_new" title="Go to article in PubMed">
+                      PubMed/NCBI
+                    </a></li><li><a href="http://scholar.google.com/scholar_lookup?title=Role+of+NADP%2B-dependent+isocitrate+dehydrogenase+%28NADP%2B-ICDH%29+on+cellular+defence+against+oxidative+injury+by+gamma-rays.&amp;author=Lee&amp;publication_year=2004" target="_new" title="Go to article in Google Scholar">
+                      Google Scholar
+                    </a></li></ul></li><li id="ref10"><span class="order">10.
+            </span><a name="pone.0019868-Kil1" id="pone.0019868-Kil1" class="link-target"></a>Kil IS, Kim SY, Lee SJ, Park JW (2007) Small interfering RNA-mediated silencing of mitochondrial NADP+-dependent isocitrate dehydrogenase enhances the sensitivity of HeLa cells toward tumour necrosis factor-alpha and anticancer drugs. Free Radic Biol Med  43: 1197–1207.IS KilSY KimSJ LeeJW Park2007Small interfering RNA-mediated silencing of mitochondrial NADP+-dependent isocitrate dehydrogenase enhances the sensitivity of HeLa cells toward tumour necrosis factor-alpha and anticancer drugs.Free Radic Biol Med4311971207  <ul class="reflinks"><li><a href="#" data-author="Kil" data-cit="KilISKimSYLeeSJParkJW2007Small%20interfering%20RNA-mediated%20silencing%20of%20mitochondrial%20NADP%2B-dependent%20isocitrate%20dehydrogenase%20enhances%20the%20sensitivity%20of%20HeLa%20cells%20toward%20tumour%20necrosis%20factor-alpha%20and%20anticancer%20drugs.Free%20Radic%20Biol%20Med4311971207" data-title="Small%20interfering%20RNA-mediated%20silencing%20of%20mitochondrial%20NADP%2B-dependent%20isocitrate%20dehydrogenase%20enhances%20the%20sensitivity%20of%20HeLa%20cells%20toward%20tumour%20necrosis%20factor-alpha%20and%20anticancer%20drugs." target="_new" title="Go to article in CrossRef">
+                      View Article
+                    </a></li><li><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?db=PubMed&amp;cmd=Search&amp;doptcmdl=Citation&amp;defaultField=Title+Word&amp;term=Kil%5Bauthor%5D+AND+Small+interfering+RNA-mediated+silencing+of+mitochondrial+NADP%2B-dependent+isocitrate+dehydrogenase+enhances+the+sensitivity+of+HeLa+cells+toward+tumour+necrosis+factor-alpha+and+anticancer+drugs." target="_new" title="Go to article in PubMed">
+                      PubMed/NCBI
+                    </a></li><li><a href="http://scholar.google.com/scholar_lookup?title=Small+interfering+RNA-mediated+silencing+of+mitochondrial+NADP%2B-dependent+isocitrate+dehydrogenase+enhances+the+sensitivity+of+HeLa+cells+toward+tumour+necrosis+factor-alpha+and+anticancer+drugs.&amp;author=Kil&amp;publication_year=2007" target="_new" title="Go to article in Google Scholar">
+                      Google Scholar
+                    </a></li></ul></li><li id="ref11"><span class="order">11.
+            </span><a name="pone.0019868-Yang1" id="pone.0019868-Yang1" class="link-target"></a>Yang ES, Park JW (2009) Regulation of ethanol-induced toxicity by mitochondrial NADP(+)-dependent isocitrate dehydrogenase. Biochimie  91: 1020–1028.ES YangJW Park2009Regulation of ethanol-induced toxicity by mitochondrial NADP(+)-dependent isocitrate dehydrogenase.Biochimie9110201028  <ul class="reflinks"><li><a href="#" data-author="Yang" data-cit="YangESParkJW2009Regulation%20of%20ethanol-induced%20toxicity%20by%20mitochondrial%20NADP%28%2B%29-dependent%20isocitrate%20dehydrogenase.Biochimie9110201028" data-title="Regulation%20of%20ethanol-induced%20toxicity%20by%20mitochondrial%20NADP%28%2B%29-dependent%20isocitrate%20dehydrogenase." target="_new" title="Go to article in CrossRef">
+                      View Article
+                    </a></li><li><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?db=PubMed&amp;cmd=Search&amp;doptcmdl=Citation&amp;defaultField=Title+Word&amp;term=Yang%5Bauthor%5D+AND+Regulation+of+ethanol-induced+toxicity+by+mitochondrial+NADP%28%2B%29-dependent+isocitrate+dehydrogenase." target="_new" title="Go to article in PubMed">
+                      PubMed/NCBI
+                    </a></li><li><a href="http://scholar.google.com/scholar_lookup?title=Regulation+of+ethanol-induced+toxicity+by+mitochondrial+NADP%28%2B%29-dependent+isocitrate+dehydrogenase.&amp;author=Yang&amp;publication_year=2009" target="_new" title="Go to article in Google Scholar">
+                      Google Scholar
+                    </a></li></ul></li><li id="ref12"><span class="order">12.
+            </span><a name="pone.0019868-Parsons1" id="pone.0019868-Parsons1" class="link-target"></a>Parsons DW, Jones S, Zhang X, Lin JC, Leary RJ, et al.  (2008) An integrated genomic analysis of human glioblastoma multiforme. Science  321: 1807–1812.DW ParsonsS. JonesX. ZhangJC LinRJ Leary2008An integrated genomic analysis of human glioblastoma multiforme.Science32118071812  <ul class="reflinks"><li><a href="#" data-author="Parsons" data-cit="ParsonsDWJonesSZhangXLinJCLearyRJ2008An%20integrated%20genomic%20analysis%20of%20human%20glioblastoma%20multiforme.Science32118071812" data-title="An%20integrated%20genomic%20analysis%20of%20human%20glioblastoma%20multiforme." target="_new" title="Go to article in CrossRef">
+                      View Article
+                    </a></li><li><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?db=PubMed&amp;cmd=Search&amp;doptcmdl=Citation&amp;defaultField=Title+Word&amp;term=Parsons%5Bauthor%5D+AND+An+integrated+genomic+analysis+of+human+glioblastoma+multiforme." target="_new" title="Go to article in PubMed">
+                      PubMed/NCBI
+                    </a></li><li><a href="http://scholar.google.com/scholar_lookup?title=An+integrated+genomic+analysis+of+human+glioblastoma+multiforme.&amp;author=Parsons&amp;publication_year=2008" target="_new" title="Go to article in Google Scholar">
+                      Google Scholar
+                    </a></li></ul></li><li id="ref13"><span class="order">13.
+            </span><a name="pone.0019868-Yan1" id="pone.0019868-Yan1" class="link-target"></a>Yan H, Parsons DW, Jin G, McLendon R, Rasheed BA, et al.  (2009) IDH1 and IDH2 mutations in gliomas. N Engl J Med  360: 765–773.H. YanDW ParsonsG. JinR. McLendonBA Rasheed2009IDH1 and IDH2 mutations in gliomas.N Engl J Med360765773  <ul class="reflinks"><li><a href="#" data-author="Yan" data-cit="YanHParsonsDWJinGMcLendonRRasheedBA2009IDH1%20and%20IDH2%20mutations%20in%20gliomas.N%20Engl%20J%20Med360765773" data-title="IDH1%20and%20IDH2%20mutations%20in%20gliomas." target="_new" title="Go to article in CrossRef">
+                      View Article
+                    </a></li><li><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?db=PubMed&amp;cmd=Search&amp;doptcmdl=Citation&amp;defaultField=Title+Word&amp;term=Yan%5Bauthor%5D+AND+IDH1+and+IDH2+mutations+in+gliomas." target="_new" title="Go to article in PubMed">
+                      PubMed/NCBI
+                    </a></li><li><a href="http://scholar.google.com/scholar_lookup?title=IDH1+and+IDH2+mutations+in+gliomas.&amp;author=Yan&amp;publication_year=2009" target="_new" title="Go to article in Google Scholar">
+                      Google Scholar
+                    </a></li></ul></li><li id="ref14"><span class="order">14.
+            </span><a name="pone.0019868-Kloosterhof1" id="pone.0019868-Kloosterhof1" class="link-target"></a>Kloosterhof NK, Bralten LB, Dubbink HJ, French PJ, van den Bent MJ (2010) Isocitrate dehydrogenase-1 mutations: a fundamentally new understanding of diffuse glioma? Lancet Oncol. NK KloosterhofLB BraltenHJ DubbinkPJ FrenchMJ van den Bent2010Isocitrate dehydrogenase-1 mutations: a fundamentally new understanding of diffuse glioma?Lancet Oncol  <ul class="reflinks"><li><a href="#" data-author="Kloosterhof" data-cit="KloosterhofNKBraltenLBDubbinkHJFrenchPJvan%20den%20BentMJ2010Isocitrate%20dehydrogenase-1%20mutations%3A%20a%20fundamentally%20new%20understanding%20of%20diffuse%20glioma%3FLancet%20Oncol" data-title="Isocitrate%20dehydrogenase-1%20mutations%3A%20a%20fundamentally%20new%20understanding%20of%20diffuse%20glioma%3F" target="_new" title="Go to article in CrossRef">
+                      View Article
+                    </a></li><li><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?db=PubMed&amp;cmd=Search&amp;doptcmdl=Citation&amp;defaultField=Title+Word&amp;term=Kloosterhof%5Bauthor%5D+AND+Isocitrate+dehydrogenase-1+mutations%3A+a+fundamentally+new+understanding+of+diffuse+glioma%3F" target="_new" title="Go to article in PubMed">
+                      PubMed/NCBI
+                    </a></li><li><a href="http://scholar.google.com/scholar_lookup?title=Isocitrate+dehydrogenase-1+mutations%3A+a+fundamentally+new+understanding+of+diffuse+glioma%3F&amp;author=Kloosterhof&amp;publication_year=2010" target="_new" title="Go to article in Google Scholar">
+                      Google Scholar
+                    </a></li></ul></li><li id="ref15"><span class="order">15.
+            </span><a name="pone.0019868-Hartmann1" id="pone.0019868-Hartmann1" class="link-target"></a>Hartmann C, Meyer J, Balss J, Capper D, Mueller W, et al.  (2009) Type and frequency of IDH1 and IDH2 mutations are related to astrocytic and oligodendroglial differentiation and age: a study of 1,010 diffuse gliomas. Acta Neuropathol  118: 469–474.C. HartmannJ. MeyerJ. BalssD. CapperW. Mueller2009Type and frequency of IDH1 and IDH2 mutations are related to astrocytic and oligodendroglial differentiation and age: a study of 1,010 diffuse gliomas.Acta Neuropathol118469474  <ul class="reflinks"><li><a href="#" data-author="Hartmann" data-cit="HartmannCMeyerJBalssJCapperDMuellerW2009Type%20and%20frequency%20of%20IDH1%20and%20IDH2%20mutations%20are%20related%20to%20astrocytic%20and%20oligodendroglial%20differentiation%20and%20age%3A%20a%20study%20of%201%2C010%20diffuse%20gliomas.Acta%20Neuropathol118469474" data-title="Type%20and%20frequency%20of%20IDH1%20and%20IDH2%20mutations%20are%20related%20to%20astrocytic%20and%20oligodendroglial%20differentiation%20and%20age%3A%20a%20study%20of%201%2C010%20diffuse%20gliomas." target="_new" title="Go to article in CrossRef">
+                      View Article
+                    </a></li><li><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?db=PubMed&amp;cmd=Search&amp;doptcmdl=Citation&amp;defaultField=Title+Word&amp;term=Hartmann%5Bauthor%5D+AND+Type+and+frequency+of+IDH1+and+IDH2+mutations+are+related+to+astrocytic+and+oligodendroglial+differentiation+and+age%3A+a+study+of+1%2C010+diffuse+gliomas." target="_new" title="Go to article in PubMed">
+                      PubMed/NCBI
+                    </a></li><li><a href="http://scholar.google.com/scholar_lookup?title=Type+and+frequency+of+IDH1+and+IDH2+mutations+are+related+to+astrocytic+and+oligodendroglial+differentiation+and+age%3A+a+study+of+1%2C010+diffuse+gliomas.&amp;author=Hartmann&amp;publication_year=2009" target="_new" title="Go to article in Google Scholar">
+                      Google Scholar
+                    </a></li></ul></li><li id="ref16"><span class="order">16.
+            </span><a name="pone.0019868-Ward1" id="pone.0019868-Ward1" class="link-target"></a>Ward PS, Patel J, Wise DR, Abdel-Wahab O, Bennett BD, et al.  (2010) The common feature of leukemia-associated IDH1 and IDH2 mutations is a neomorphic enzyme activity converting alpha-ketoglutarate to 2-hydroxyglutarate. Cancer Cell  17: 225–234.PS WardJ. PatelDR WiseO. Abdel-WahabBD Bennett2010The common feature of leukemia-associated IDH1 and IDH2 mutations is a neomorphic enzyme activity converting alpha-ketoglutarate to 2-hydroxyglutarate.Cancer Cell17225234  <ul class="reflinks"><li><a href="#" data-author="Ward" data-cit="WardPSPatelJWiseDRAbdel-WahabOBennettBD2010The%20common%20feature%20of%20leukemia-associated%20IDH1%20and%20IDH2%20mutations%20is%20a%20neomorphic%20enzyme%20activity%20converting%20alpha-ketoglutarate%20to%202-hydroxyglutarate.Cancer%20Cell17225234" data-title="The%20common%20feature%20of%20leukemia-associated%20IDH1%20and%20IDH2%20mutations%20is%20a%20neomorphic%20enzyme%20activity%20converting%20alpha-ketoglutarate%20to%202-hydroxyglutarate." target="_new" title="Go to article in CrossRef">
+                      View Article
+                    </a></li><li><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?db=PubMed&amp;cmd=Search&amp;doptcmdl=Citation&amp;defaultField=Title+Word&amp;term=Ward%5Bauthor%5D+AND+The+common+feature+of+leukemia-associated+IDH1+and+IDH2+mutations+is+a+neomorphic+enzyme+activity+converting+alpha-ketoglutarate+to+2-hydroxyglutarate." target="_new" title="Go to article in PubMed">
+                      PubMed/NCBI
+                    </a></li><li><a href="http://scholar.google.com/scholar_lookup?title=The+common+feature+of+leukemia-associated+IDH1+and+IDH2+mutations+is+a+neomorphic+enzyme+activity+converting+alpha-ketoglutarate+to+2-hydroxyglutarate.&amp;author=Ward&amp;publication_year=2010" target="_new" title="Go to article in Google Scholar">
+                      Google Scholar
+                    </a></li></ul></li><li id="ref17"><span class="order">17.
+            </span><a name="pone.0019868-Zhao1" id="pone.0019868-Zhao1" class="link-target"></a>Zhao S, Lin Y, Xu W, Jiang W, Zha Z, et al.  (2009) Glioma-derived mutations in IDH1 dominantly inhibit IDH1 catalytic activity and induce HIF-1alpha. Science  324: 261–265.S. ZhaoY. LinW. XuW. JiangZ. Zha2009Glioma-derived mutations in IDH1 dominantly inhibit IDH1 catalytic activity and induce HIF-1alpha.Science324261265  <ul class="reflinks"><li><a href="#" data-author="Zhao" data-cit="ZhaoSLinYXuWJiangWZhaZ2009Glioma-derived%20mutations%20in%20IDH1%20dominantly%20inhibit%20IDH1%20catalytic%20activity%20and%20induce%20HIF-1alpha.Science324261265" data-title="Glioma-derived%20mutations%20in%20IDH1%20dominantly%20inhibit%20IDH1%20catalytic%20activity%20and%20induce%20HIF-1alpha." target="_new" title="Go to article in CrossRef">
+                      View Article
+                    </a></li><li><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?db=PubMed&amp;cmd=Search&amp;doptcmdl=Citation&amp;defaultField=Title+Word&amp;term=Zhao%5Bauthor%5D+AND+Glioma-derived+mutations+in+IDH1+dominantly+inhibit+IDH1+catalytic+activity+and+induce+HIF-1alpha." target="_new" title="Go to article in PubMed">
+                      PubMed/NCBI
+                    </a></li><li><a href="http://scholar.google.com/scholar_lookup?title=Glioma-derived+mutations+in+IDH1+dominantly+inhibit+IDH1+catalytic+activity+and+induce+HIF-1alpha.&amp;author=Zhao&amp;publication_year=2009" target="_new" title="Go to article in Google Scholar">
+                      Google Scholar
+                    </a></li></ul></li><li id="ref18"><span class="order">18.
+            </span><a name="pone.0019868-Ichimura1" id="pone.0019868-Ichimura1" class="link-target"></a>Ichimura K, Pearson DM, Kocialkowski S, Backlund LM, Chan R, et al.  (2009) IDH1 mutations are present in the majority of common adult gliomas but rare in primary glioblastomas. Neuro Oncol  11: 341–347.K. IchimuraDM PearsonS. KocialkowskiLM BacklundR. Chan2009IDH1 mutations are present in the majority of common adult gliomas but rare in primary glioblastomas.Neuro Oncol11341347  <ul class="reflinks"><li><a href="#" data-author="Ichimura" data-cit="IchimuraKPearsonDMKocialkowskiSBacklundLMChanR2009IDH1%20mutations%20are%20present%20in%20the%20majority%20of%20common%20adult%20gliomas%20but%20rare%20in%20primary%20glioblastomas.Neuro%20Oncol11341347" data-title="IDH1%20mutations%20are%20present%20in%20the%20majority%20of%20common%20adult%20gliomas%20but%20rare%20in%20primary%20glioblastomas." target="_new" title="Go to article in CrossRef">
+                      View Article
+                    </a></li><li><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?db=PubMed&amp;cmd=Search&amp;doptcmdl=Citation&amp;defaultField=Title+Word&amp;term=Ichimura%5Bauthor%5D+AND+IDH1+mutations+are+present+in+the+majority+of+common+adult+gliomas+but+rare+in+primary+glioblastomas." target="_new" title="Go to article in PubMed">
+                      PubMed/NCBI
+                    </a></li><li><a href="http://scholar.google.com/scholar_lookup?title=IDH1+mutations+are+present+in+the+majority+of+common+adult+gliomas+but+rare+in+primary+glioblastomas.&amp;author=Ichimura&amp;publication_year=2009" target="_new" title="Go to article in Google Scholar">
+                      Google Scholar
+                    </a></li></ul></li><li id="ref19"><span class="order">19.
+            </span><a name="pone.0019868-Dang1" id="pone.0019868-Dang1" class="link-target"></a>Dang L, White DW, Gross S, Bennett BD, Bittinger MA, et al.  (2009) Cancer-associated IDH1 mutations produce 2-hydroxyglutarate. Nature  462: 739–744.L. DangDW WhiteS. GrossBD BennettMA Bittinger2009Cancer-associated IDH1 mutations produce 2-hydroxyglutarate.Nature462739744  <ul class="reflinks"><li><a href="#" data-author="Dang" data-cit="DangLWhiteDWGrossSBennettBDBittingerMA2009Cancer-associated%20IDH1%20mutations%20produce%202-hydroxyglutarate.Nature462739744" data-title="Cancer-associated%20IDH1%20mutations%20produce%202-hydroxyglutarate." target="_new" title="Go to article in CrossRef">
+                      View Article
+                    </a></li><li><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?db=PubMed&amp;cmd=Search&amp;doptcmdl=Citation&amp;defaultField=Title+Word&amp;term=Dang%5Bauthor%5D+AND+Cancer-associated+IDH1+mutations+produce+2-hydroxyglutarate." target="_new" title="Go to article in PubMed">
+                      PubMed/NCBI
+                    </a></li><li><a href="http://scholar.google.com/scholar_lookup?title=Cancer-associated+IDH1+mutations+produce+2-hydroxyglutarate.&amp;author=Dang&amp;publication_year=2009" target="_new" title="Go to article in Google Scholar">
+                      Google Scholar
+                    </a></li></ul></li><li id="ref20"><span class="order">20.
+            </span><a name="pone.0019868-Gross1" id="pone.0019868-Gross1" class="link-target"></a>Gross S, Cairns RA, Minden MD, Driggers EM, Bittinger MA, et al.  (2010) Cancer-associated metabolite 2-hydroxyglutarate accumulates in acute myelogenous leukemia with isocitrate dehydrogenase 1 and 2 mutations. J Exp Med  207: 339–344.S. GrossRA CairnsMD MindenEM DriggersMA Bittinger2010Cancer-associated metabolite 2-hydroxyglutarate accumulates in acute myelogenous leukemia with isocitrate dehydrogenase 1 and 2 mutations.J Exp Med207339344  <ul class="reflinks"><li><a href="#" data-author="Gross" data-cit="GrossSCairnsRAMindenMDDriggersEMBittingerMA2010Cancer-associated%20metabolite%202-hydroxyglutarate%20accumulates%20in%20acute%20myelogenous%20leukemia%20with%20isocitrate%20dehydrogenase%201%20and%202%20mutations.J%20Exp%20Med207339344" data-title="Cancer-associated%20metabolite%202-hydroxyglutarate%20accumulates%20in%20acute%20myelogenous%20leukemia%20with%20isocitrate%20dehydrogenase%201%20and%202%20mutations." target="_new" title="Go to article in CrossRef">
+                      View Article
+                    </a></li><li><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?db=PubMed&amp;cmd=Search&amp;doptcmdl=Citation&amp;defaultField=Title+Word&amp;term=Gross%5Bauthor%5D+AND+Cancer-associated+metabolite+2-hydroxyglutarate+accumulates+in+acute+myelogenous+leukemia+with+isocitrate+dehydrogenase+1+and+2+mutations." target="_new" title="Go to article in PubMed">
+                      PubMed/NCBI
+                    </a></li><li><a href="http://scholar.google.com/scholar_lookup?title=Cancer-associated+metabolite+2-hydroxyglutarate+accumulates+in+acute+myelogenous+leukemia+with+isocitrate+dehydrogenase+1+and+2+mutations.&amp;author=Gross&amp;publication_year=2010" target="_new" title="Go to article in Google Scholar">
+                      Google Scholar
+                    </a></li></ul></li><li id="ref21"><span class="order">21.
+            </span><a name="pone.0019868-Figueroa1" id="pone.0019868-Figueroa1" class="link-target"></a>Figueroa ME, Abdel-Wahab O, Lu C, Ward PS, Patel J, et al.  (2010) Leukemic IDH1 and IDH2 mutations result in a hypermethylation phenotype, disrupt TET2 function, and impair hematopoietic differentiation. Cancer Cell  18: 553–567.ME FigueroaO. Abdel-WahabC. LuPS WardJ. Patel2010Leukemic IDH1 and IDH2 mutations result in a hypermethylation phenotype, disrupt TET2 function, and impair hematopoietic differentiation.Cancer Cell18553567  <ul class="reflinks"><li><a href="#" data-author="Figueroa" data-cit="FigueroaMEAbdel-WahabOLuCWardPSPatelJ2010Leukemic%20IDH1%20and%20IDH2%20mutations%20result%20in%20a%20hypermethylation%20phenotype%2C%20disrupt%20TET2%20function%2C%20and%20impair%20hematopoietic%20differentiation.Cancer%20Cell18553567" data-title="Leukemic%20IDH1%20and%20IDH2%20mutations%20result%20in%20a%20hypermethylation%20phenotype%2C%20disrupt%20TET2%20function%2C%20and%20impair%20hematopoietic%20differentiation." target="_new" title="Go to article in CrossRef">
+                      View Article
+                    </a></li><li><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?db=PubMed&amp;cmd=Search&amp;doptcmdl=Citation&amp;defaultField=Title+Word&amp;term=Figueroa%5Bauthor%5D+AND+Leukemic+IDH1+and+IDH2+mutations+result+in+a+hypermethylation+phenotype%2C+disrupt+TET2+function%2C+and+impair+hematopoietic+differentiation." target="_new" title="Go to article in PubMed">
+                      PubMed/NCBI
+                    </a></li><li><a href="http://scholar.google.com/scholar_lookup?title=Leukemic+IDH1+and+IDH2+mutations+result+in+a+hypermethylation+phenotype%2C+disrupt+TET2+function%2C+and+impair+hematopoietic+differentiation.&amp;author=Figueroa&amp;publication_year=2010" target="_new" title="Go to article in Google Scholar">
+                      Google Scholar
+                    </a></li></ul></li><li id="ref22"><span class="order">22.
+            </span><a name="pone.0019868-Xu2" id="pone.0019868-Xu2" class="link-target"></a>Xu W, Yang H, Liu Y, Yang Y, Wang P, et al.  (2011) Oncometabolite 2-Hydroxyglutarate Is a Competitive Inhibitor of alpha-Ketoglutarate-Dependent Dioxygenases. Cancer Cell  19: 17–30.W. XuH. YangY. LiuY. YangP. Wang2011Oncometabolite 2-Hydroxyglutarate Is a Competitive Inhibitor of alpha-Ketoglutarate-Dependent Dioxygenases.Cancer Cell191730  <ul class="reflinks"><li><a href="#" data-author="Xu" data-cit="XuWYangHLiuYYangYWangP2011Oncometabolite%202-Hydroxyglutarate%20Is%20a%20Competitive%20Inhibitor%20of%20alpha-Ketoglutarate-Dependent%20Dioxygenases.Cancer%20Cell191730" data-title="Oncometabolite%202-Hydroxyglutarate%20Is%20a%20Competitive%20Inhibitor%20of%20alpha-Ketoglutarate-Dependent%20Dioxygenases." target="_new" title="Go to article in CrossRef">
+                      View Article
+                    </a></li><li><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?db=PubMed&amp;cmd=Search&amp;doptcmdl=Citation&amp;defaultField=Title+Word&amp;term=Xu%5Bauthor%5D+AND+Oncometabolite+2-Hydroxyglutarate+Is+a+Competitive+Inhibitor+of+alpha-Ketoglutarate-Dependent+Dioxygenases." target="_new" title="Go to article in PubMed">
+                      PubMed/NCBI
+                    </a></li><li><a href="http://scholar.google.com/scholar_lookup?title=Oncometabolite+2-Hydroxyglutarate+Is+a+Competitive+Inhibitor+of+alpha-Ketoglutarate-Dependent+Dioxygenases.&amp;author=Xu&amp;publication_year=2011" target="_new" title="Go to article in Google Scholar">
+                      Google Scholar
+                    </a></li></ul></li><li id="ref23"><span class="order">23.
+            </span><a name="pone.0019868-Kranendijk1" id="pone.0019868-Kranendijk1" class="link-target"></a>Kranendijk M, Struys EA, van Schaftingen E, Gibson KM, Kanhai WA, et al.  (2010) IDH2 mutations in patients with D-2-hydroxyglutaric aciduria. Science  330: 336.M. KranendijkEA StruysE. van SchaftingenKM GibsonWA Kanhai2010IDH2 mutations in patients with D-2-hydroxyglutaric aciduria.Science330336  <ul class="reflinks"><li><a href="#" data-author="Kranendijk" data-cit="KranendijkMStruysEAvan%20SchaftingenEGibsonKMKanhaiWA2010IDH2%20mutations%20in%20patients%20with%20D-2-hydroxyglutaric%20aciduria.Science330336" data-title="IDH2%20mutations%20in%20patients%20with%20D-2-hydroxyglutaric%20aciduria." target="_new" title="Go to article in CrossRef">
+                      View Article
+                    </a></li><li><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?db=PubMed&amp;cmd=Search&amp;doptcmdl=Citation&amp;defaultField=Title+Word&amp;term=Kranendijk%5Bauthor%5D+AND+IDH2+mutations+in+patients+with+D-2-hydroxyglutaric+aciduria." target="_new" title="Go to article in PubMed">
+                      PubMed/NCBI
+                    </a></li><li><a href="http://scholar.google.com/scholar_lookup?title=IDH2+mutations+in+patients+with+D-2-hydroxyglutaric+aciduria.&amp;author=Kranendijk&amp;publication_year=2010" target="_new" title="Go to article in Google Scholar">
+                      Google Scholar
+                    </a></li></ul></li><li id="ref24"><span class="order">24.
+            </span><a name="pone.0019868-Dang2" id="pone.0019868-Dang2" class="link-target"></a>Dang L, Jin S, Su SM (2010) IDH mutations in glioma and acute myeloid leukemia. Trends Mol Med  16: 387–397.L. DangS. JinSM Su2010IDH mutations in glioma and acute myeloid leukemia.Trends Mol Med16387397  <ul class="reflinks"><li><a href="#" data-author="Dang" data-cit="DangLJinSSuSM2010IDH%20mutations%20in%20glioma%20and%20acute%20myeloid%20leukemia.Trends%20Mol%20Med16387397" data-title="IDH%20mutations%20in%20glioma%20and%20acute%20myeloid%20leukemia." target="_new" title="Go to article in CrossRef">
+                      View Article
+                    </a></li><li><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?db=PubMed&amp;cmd=Search&amp;doptcmdl=Citation&amp;defaultField=Title+Word&amp;term=Dang%5Bauthor%5D+AND+IDH+mutations+in+glioma+and+acute+myeloid+leukemia." target="_new" title="Go to article in PubMed">
+                      PubMed/NCBI
+                    </a></li><li><a href="http://scholar.google.com/scholar_lookup?title=IDH+mutations+in+glioma+and+acute+myeloid+leukemia.&amp;author=Dang&amp;publication_year=2010" target="_new" title="Go to article in Google Scholar">
+                      Google Scholar
+                    </a></li></ul></li></ol></div>
+
+
+
+          <div class="ref-tooltip">
+             <div class="ref_tooltip-content">
+
+             </div>
+          </div>
+
+        </div>
+      </div>
+    </div>
+
+    </section>
+    <aside class="article-aside">
+
+
+<!--[if IE 9]>
+<style>
+.dload-xml {margin-top: 38px}
+</style>
+<![endif]-->
+<div class="dload-menu">
+  <div class="dload-pdf">
+    <a href="/plosone/article/file?id=10.1371/journal.pone.0019868&type=printable"
+       id="downloadPdf" target="_blank">Download PDF</a>
+  </div>
+  <div data-js-tooltip-hover="trigger" class="dload-hover">&nbsp;
+    <ul class="dload-xml" data-js-tooltip-hover="target">
+      <li><a href="/plosone/article/citation?id=10.1371/journal.pone.0019868"
+             id="downloadCitation">Citation</a></li>
+      <li><a href="/plosone/article/file?id=10.1371/journal.pone.0019868&type=manuscript"
+             id="downloadXml">XML</a>
+      </li>
+    </ul>
+
+  </div>
+</div>
+
+<div class="aside-container">
+
+<div class="print-article" id="printArticle" data-js-tooltip-hover="trigger">
+
+  Print
+  <ul class="print-options" data-js-tooltip-hover="target">
+    <li>
+        <a href="#" onclick="window.print(); return false;" class="preventDefault" id="printBrowser" title="Print
+        Article">Print article</a>
+    </li>
+
+
+
+
+<li>
+<a title="Odyssey Press" href="https://www.odysseypress.com/onlinehost/reprint_order.php?type=A&amp;page=0&amp;journal=7&amp;doi=10.1371%2Fjournal.pone.0019868&amp;volume=&amp;issue=&amp;title=Screen%20for%20IDH1%2C%20IDH2%2C%20IDH3%2C%20D2HGDH%20and%20L2HGDH%20Mutations%20in%20Glioblastoma&amp;author_name=Daniel%20Krell%2C%20Mawuelikem%20Assoku%2C%20Malcolm%20Galloway%2C%20Paul%20Mulholland%2C%20Ian%20Tomlinson%2C%20Chiara%20Bardella&amp;start_page=1&amp;end_page=4">EzReprint  </a>
+</li>
+
+  </ul>
+</div>
+
+<div class="share-article" id="shareArticle" data-js-tooltip-hover="trigger">
+  Share
+  <ul data-js-tooltip-hover="target" class="share-options">
+
+    <li><a href="http://www.reddit.com/submit?url=http%3A%2F%2Fdx.plos.org%2F10.1371%2Fjournal.pone.0019868" id="shareReddit" target="_blank" title="Submit to Reddit"><img src="/plosone/resource/img/icon.reddit.16.png" width="16" height="16" alt="Reddit">Reddit</a></li>
+
+    <li><a href="https://plus.google.com/share?url=http%3A%2F%2Fdx.plos.org%2F10.1371%2Fjournal.pone.0019868" id="shareGoogle" target="_blank" title="Share on Google+"><img src="/plosone/resource/img/icon.gplus.16.png" width="16" height="16" alt="Google+">Google+</a></li>
+
+    <li><a href="http://www.stumbleupon.com/submit?url=http%3A%2F%2Fdx.plos.org%2F10.1371%2Fjournal.pone.0019868"  id="shareStumble" target="_blank" title="Add to StumbleUpon"><img src="/plosone/resource/img/icon.stumble.16.png" width="16" height="16" alt="StumbleUpon">StumbleUpon</a></li>
+
+    <li><a href="http://www.facebook.com/share.php?u=http%3A%2F%2Fdx.plos.org%2F10.1371%2Fjournal.pone.0019868&t=Screen for IDH1, IDH2, IDH3, D2HGDH and L2HGDH Mutations in Glioblastoma" id="shareFacebook" target="_blank" title="Share on Facebook"><img src="/plosone/resource/img/icon.fb.16.png" width="16" height="16" alt="Facebook">Facebook</a></li>
+
+
+
+<li><a href="http://www.linkedin.com/shareArticle?url=http%3A%2F%2Fdx.plos.org%2F10.1371%2Fjournal.pone.0019868&title=Screen for IDH1, IDH2, IDH3, D2HGDH and L2HGDH Mutations in Glioblastoma&summary=Checkout this article I found at PLOS"  id="shareLinkedIn" target="_blank" title="Add to LinkedIn"><img src="/plosone/resource/img/icon.linkedin.16.png" width="16" height="16" alt="LinkedIn">LinkedIn</a></li>
+
+<li><a href="http://www.citeulike.org/posturl?url=http%3A%2F%2Fdx.plos.org%2F10.1371%2Fjournal.pone.0019868&title=Screen for IDH1, IDH2, IDH3, D2HGDH and L2HGDH Mutations in Glioblastoma"  id="shareCiteULike" target="_blank" title="Add to CiteULike"><img src="/plosone/resource/img/icon.cul.16.png" width="16" height="16" alt="CiteULike">CiteULike</a></li>
+
+<li><a href="http://www.mendeley.com/import/?url=http%3A%2F%2Fdx.plos.org%2F10.1371%2Fjournal.pone.0019868"  id="shareMendeley" target="_blank" title="Add to Mendeley"><img src="/plosone/resource/img/icon.mendeley.16.png" width="16" height="16" alt="Mendeley">Mendeley</a></li>
+
+<li><a href="https://www.pubchase.com/library?add_aid=10.1371/journal.pone.0019868&source=plos"  id="sharePubChase" target="_blank" title="Add to PubChase"><img src="/plosone/resource/img/icon.pc.16.png" width="16" height="16" alt="PubChase">PubChase</a></li>
+
+  <li><a href="http://twitter.com/intent/tweet?url=http%3A%2F%2Fdx.plos.org%2F10.1371%2Fjournal.pone.0019868&text=%23PLOSONE%3A%20Screen for IDH1, IDH2, IDH3, D2HGDH and L2HGDH Mutations in Glioblastoma" target="_blank" title="share on Twitter" id="twitter-share-link"><img src="/plosone/resource/img/icon.twtr.16.png" width="16" height="16" alt="Twitter">Twitter</a></li>
+
+<li><a href="/plosone/article/email?id=10.1371/journal.pone.0019868" id="shareEmail" title="Email this article"><img src="/plosone/resource/img/icon.email.16.png" width="16" height="16" alt="Email">Email</a></li>
+
+  </ul>
+</div></div>
+
+
+ <!-- Crossmark 2.0 widget -->
+<script src="https://crossmark-cdn.crossref.org/widget/v2.0/widget.js"></script>
+<a data-target="crossmark"><img width="150" src="http://crossmark-cdn.crossref.org/widget/v2.0/logos/CROSSMARK_BW_horizontal.svg"></a>
+<!-- End Crossmark 2.0 widget -->
+
+
+
+
+
+
+
+<div class="skyscraper-container">
+  <div class="title">Advertisement</div>
+<!-- DoubleClick Ad Zone -->
+  <div class='advertisement' id='div-gpt-ad-1458247671871-1' style='width:160px; height:600px;'>
+    <script type='text/javascript'>
+      googletag.cmd.push(function() { googletag.display('div-gpt-ad-1458247671871-1'); });
+    </script>
+  </div>
+</div>
+
+
+
+
+<div class="subject-areas-container">
+  <h3>Subject Areas <div id="subjInfo">?</div>
+    <div id="subjInfoText">
+        <p>For more information about PLOS Subject Areas, click
+          <a href="/plosone/s/help-using-this-site#loc-subject-areas">here</a>.</p>
+      <span class="inline-intro">We want your feedback.</span> Do these Subject Areas make sense for this article? Click the target next to the incorrect Subject Area and let us know. Thanks for your help!
+
+
+    </div>
+  </h3>
+  <ul id="subjectList">
+      <li>
+              <a class="taxo-term" title="Search for articles about Glioblastoma multiforme"
+                 href="/plosone/search?filterSubjects=Glioblastoma+multiforme&filterJournals=PLoSONE&q=">Glioblastoma multiforme</a>
+        <span class="taxo-flag">&nbsp;</span>
+        <div class="taxo-tooltip" data-categoryname="Glioblastoma multiforme"><p class="taxo-explain">Is the Subject Area <strong>"Glioblastoma multiforme"</strong> applicable to this article?
+          <button id="noFlag" data-action="remove">Yes</button>
+          <button id="flagIt" value="flagno" data-action="add">No</button></p>
+          <p class="taxo-confirm">Thanks for your feedback.</p>
+        </div>
+      </li>
+      <li>
+              <a class="taxo-term" title="Search for articles about Glioma"
+                 href="/plosone/search?filterSubjects=Glioma&filterJournals=PLoSONE&q=">Glioma</a>
+        <span class="taxo-flag">&nbsp;</span>
+        <div class="taxo-tooltip" data-categoryname="Glioma"><p class="taxo-explain">Is the Subject Area <strong>"Glioma"</strong> applicable to this article?
+          <button id="noFlag" data-action="remove">Yes</button>
+          <button id="flagIt" value="flagno" data-action="add">No</button></p>
+          <p class="taxo-confirm">Thanks for your feedback.</p>
+        </div>
+      </li>
+      <li>
+              <a class="taxo-term" title="Search for articles about Substitution mutation"
+                 href="/plosone/search?filterSubjects=Substitution+mutation&filterJournals=PLoSONE&q=">Substitution mutation</a>
+        <span class="taxo-flag">&nbsp;</span>
+        <div class="taxo-tooltip" data-categoryname="Substitution mutation"><p class="taxo-explain">Is the Subject Area <strong>"Substitution mutation"</strong> applicable to this article?
+          <button id="noFlag" data-action="remove">Yes</button>
+          <button id="flagIt" value="flagno" data-action="add">No</button></p>
+          <p class="taxo-confirm">Thanks for your feedback.</p>
+        </div>
+      </li>
+      <li>
+              <a class="taxo-term" title="Search for articles about Somatic mutation"
+                 href="/plosone/search?filterSubjects=Somatic+mutation&filterJournals=PLoSONE&q=">Somatic mutation</a>
+        <span class="taxo-flag">&nbsp;</span>
+        <div class="taxo-tooltip" data-categoryname="Somatic mutation"><p class="taxo-explain">Is the Subject Area <strong>"Somatic mutation"</strong> applicable to this article?
+          <button id="noFlag" data-action="remove">Yes</button>
+          <button id="flagIt" value="flagno" data-action="add">No</button></p>
+          <p class="taxo-confirm">Thanks for your feedback.</p>
+        </div>
+      </li>
+      <li>
+              <a class="taxo-term" title="Search for articles about Biocatalysis"
+                 href="/plosone/search?filterSubjects=Biocatalysis&filterJournals=PLoSONE&q=">Biocatalysis</a>
+        <span class="taxo-flag">&nbsp;</span>
+        <div class="taxo-tooltip" data-categoryname="Biocatalysis"><p class="taxo-explain">Is the Subject Area <strong>"Biocatalysis"</strong> applicable to this article?
+          <button id="noFlag" data-action="remove">Yes</button>
+          <button id="flagIt" value="flagno" data-action="add">No</button></p>
+          <p class="taxo-confirm">Thanks for your feedback.</p>
+        </div>
+      </li>
+      <li>
+              <a class="taxo-term" title="Search for articles about Genome sequencing"
+                 href="/plosone/search?filterSubjects=Genome+sequencing&filterJournals=PLoSONE&q=">Genome sequencing</a>
+        <span class="taxo-flag">&nbsp;</span>
+        <div class="taxo-tooltip" data-categoryname="Genome sequencing"><p class="taxo-explain">Is the Subject Area <strong>"Genome sequencing"</strong> applicable to this article?
+          <button id="noFlag" data-action="remove">Yes</button>
+          <button id="flagIt" value="flagno" data-action="add">No</button></p>
+          <p class="taxo-confirm">Thanks for your feedback.</p>
+        </div>
+      </li>
+      <li>
+              <a class="taxo-term" title="Search for articles about Lesions"
+                 href="/plosone/search?filterSubjects=Lesions&filterJournals=PLoSONE&q=">Lesions</a>
+        <span class="taxo-flag">&nbsp;</span>
+        <div class="taxo-tooltip" data-categoryname="Lesions"><p class="taxo-explain">Is the Subject Area <strong>"Lesions"</strong> applicable to this article?
+          <button id="noFlag" data-action="remove">Yes</button>
+          <button id="flagIt" value="flagno" data-action="add">No</button></p>
+          <p class="taxo-confirm">Thanks for your feedback.</p>
+        </div>
+      </li>
+      <li>
+              <a class="taxo-term" title="Search for articles about Mitochondria"
+                 href="/plosone/search?filterSubjects=Mitochondria&filterJournals=PLoSONE&q=">Mitochondria</a>
+        <span class="taxo-flag">&nbsp;</span>
+        <div class="taxo-tooltip" data-categoryname="Mitochondria"><p class="taxo-explain">Is the Subject Area <strong>"Mitochondria"</strong> applicable to this article?
+          <button id="noFlag" data-action="remove">Yes</button>
+          <button id="flagIt" value="flagno" data-action="add">No</button></p>
+          <p class="taxo-confirm">Thanks for your feedback.</p>
+        </div>
+      </li>
+  </ul>
+</div>
+<div id="subjectErrors"></div>
+
+
+<div class="twitter-container">
+  <h3>Archived Tweets</h3>
+  <ul id="tweetList">
+
+  </ul>
+  <div class="load-more">Load more <span></span></div>
+  <div class="view-all"><a href="http://alm.plos.org/works/doi.org/10.1371/journal.pone.0019868?source_id=twitter">View all tweets</a>
+  </div>
+</div>
+
+<script type="text/template" id="twitterModuleItemTemplate">
+  <% _.each(items, function(item) { %>
+    <li>
+      <div class="tweet-info">
+        <a href="http://twitter.com/<%= item.user %>">
+          <span class="imgholder">
+            <img class="imgLoad" src="<%= item.user_profile_image %>">
+          </span>
+          <div class="tweetDate"><%= item.created_at %></div>
+          <div class="tweetUser">
+            <strong><%= item.user_name %></strong>
+            <span>@<%= item.user %></span>
+          </div>
+        </a>
+      </div>
+      <div class="tweetText">
+        <%= item.text %>
+      </div>
+      <div id="tweetActions">
+        <a class="tweet-reply" href="https://twitter.com/intent/tweet?in_reply_to<%= item.id %>&amp;text=@<%= item.user %>">
+          <div>&nbsp;</div> Reply
+        </a>
+        <a class="tweet-retweet" href="https://twitter.com/intent/retweet?tweet_id=<%= item.id %>">
+          <div>&nbsp;</div> Retweet
+        </a>
+        <a class="tweet-favorite" href="https://twitter.com/intent/favorite?tweet_id=<%= item.id %>">
+          <div>&nbsp;</div> Favorite
+        </a>
+      </div>
+    </li>
+  <% }); %>
+</script>
+
+    </aside>
+  </div>
+
+
+
+
+</main>
+
+<footer id="pageftr">
+  <div class="row">
+    <div class="brand-column">
+
+      <img src="/plosone/resource/img/logo-plos-footer.png" alt="PLOS" class="logo-footer"/>
+      <p class="nav-special">
+
+&nbsp;
+<!--
+  Webapp build:  3.3.5 at 20170725 by teamcity, commit: 
+  Service build: 2.2.3 at 20170626 by teamcity, commit: 
+  Enabled dev features: []
+  -->
+      </p>
+
+<ul class="nav-aux">
+  <li><a href="https://www.plos.org/privacy-policy" id="ftr-privacy">Privacy Policy</a></li>
+  <li><a href="https://www.plos.org/terms-of-use" id="ftr-terms">Terms of Use</a></li>
+  <li><a href="https://www.plos.org/advertise/" id="ftr-advertise">Advertise</a></li>
+  <li><a href="https://www.plos.org/media-inquiries" id="ftr-media">Media Inquiries</a></li>
+</ul>
+    </div>
+    <div class="link-column">
+
+<p class="nav-special"><a href="https://www.plos.org/publications/journals/">Publications</a></p>
+
+<div class="nav">
+  <ul>
+    <li><a href="/plosbiology/" id="ftr-bio">PLOS Biology</a></li>
+    <li><a href="/plosmedicine/" id="ftr-med">PLOS Medicine</a></li>
+    <li><a href="/ploscompbiol/" id="ftr-compbio">PLOS Computational Biology</a></li>
+    <li><a href="http://currents.plos.org" id="ftr-cur">PLOS Currents</a></li>
+    <li><a href="/plosgenetics/" id="ftr-gen">PLOS Genetics</a></li>
+    <li><a href="/plospathogens/" id="ftr-path">PLOS Pathogens</a></li>
+    <li><a href="/plosone/" id="ftr-one">PLOS ONE</a></li>
+    <li><a href="/plosntds/" id="ftr-ntds">PLOS Neglected Tropical Diseases</a></li>
+  </ul>
+</div>
+    </div>
+    <div class="link-column">
+
+<div class="nav nav-special">
+  <p><a href="https://www.plos.org" id="ftr-home">plos.org</a></p>
+
+  <p><a href="http://blogs.plos.org" id="ftr-blog">Blogs</a></p>
+
+  <p><a href="http://collections.plos.org" id="ftr-collections">Collections</a></p>
+
+  <p><a href="/plosone/feedback" id="ftr-feedback">Send us feedback</a></p>
+  <p><a href="/plosone/s/help-using-this-site"
+        id="ftr-help">Help using this site</a></p>
+  <p><a href="/plosone/lockss-manifest" id="ftr-lockss">LOCKSS</a></p>
+
+<p class="footer-non-profit-statement">PLOS is a nonprofit 501(c)(3) corporation, #C2354500, and is based in San Francisco, California, US</p></div>    </div>
+  </div>
+
+
+</footer>
+
+
+
+
+<script type="text/javascript">
+  var ArticleData = {
+    doi: '10.1371/journal.pone.0019868',
+    title: '<article-title xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" xmlns:xlink=\"http://www.w3.org/1999/xlink\">Screen for <italic>IDH1<\/italic>, <italic>IDH2<\/italic>, <italic>IDH3<\/italic>, <italic>D2HGDH<\/italic> and <italic>L2HGDH<\/italic> Mutations in Glioblastoma<\/article-title>',
+    date: 'May 23, 2011'
+  };
+</script>
+
+
+
+
+
+
+
+<script type="text/javascript" async src="//platform.twitter.com/widgets.js"></script>
+
+
+
+
+
+<!-- This file should be loaded before the renderJs, to avoid conflicts with the FigShare, that implements the MathJax also. -->
+
+<!--  mathjax configuration options  -->
+<!-- more can be found at http://docs.mathjax.org/en/latest/ -->
+<script type="text/x-mathjax-config">
+MathJax.Hub.Config({
+  "HTML-CSS": {
+    scale: 100,
+    availableFonts: ["STIX","TeX"],
+    preferredFont: "STIX",
+    webFont: "STIX-Web",
+    linebreaks: { automatic: false }
+  },
+  jax: ["input/MathML", "output/HTML-CSS"]
+});
+</script>
+
+<script type="text/javascript" src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=MML_HTMLorMML"></script>
+
+<script src="/plosone/resource/compiled/asset_V4KEKJMAKU34D33A4HSQGT4JUZQJDCQS.js"></script>
+<div class="reveal-modal-bg"></div>
+</body>
+</html>
