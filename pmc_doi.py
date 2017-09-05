@@ -104,13 +104,14 @@ class ParsePMC:
 			# Reference Index of Paper Title
 			title_occ = list(self.find_all(file_content, self.pid_title))
 			print "Title Index : ", title_occ
-			numeric_citation = title_occ
+			numeric_citation = []
 			for i in title_occ:
 				print "Index (%s) : "%i, file_content[i - 20: i + 20]
 				# Check for numeric citation
-				numeric_citation = [int(s) for s in file_content[i - 4: i].split() if s.isdigit()]
-				if len(numeric_citation):
-					print "# Numeric Citation of Title : ", numeric_citation
+				title_numeric_citation = [int(s) for s in file_content[i - 4: i].split() if s.isdigit()]
+				if len(title_numeric_citation):
+					print "# Numeric Citation of Title : ", title_numeric_citation
+					numeric_citation.append(title_numeric_citation)
 			self.author_ref_index = []
 			print "========== Found Reference Title =========="
 			# Finding Author Citation in text
@@ -142,11 +143,16 @@ class ParsePMC:
 				print "Title Numeric Citation : ", numeric_citation
 				citation_index = self.find_all(file_content, "[%s]"%numeric_citation[0])
 				print self.find_citation_section(citation_index)
-			if len(self.author_ref_index):
+			elif len(self.author_ref_index):
 				# Checking Author Citation
 				for i in self.author_ref_index:
 					print i
 					print self.find_citation_section(i[1])
+			elif len(title_occ):
+				print "Title Index Searching ...."
+				for i in title_occ:
+					print i
+					print self.find_citation_section(i)
 			else:
 				print "No Reference Found for Authors or Title"
 			
