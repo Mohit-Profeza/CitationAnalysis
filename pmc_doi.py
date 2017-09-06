@@ -72,6 +72,7 @@ class ParsePMC:
 		error_file = open("master_error_%s.txt"%self.pid, 'r')
 		doi_url_file = open("master_%s.txt"%self.pid, 'r')
 		error_data = {'no_doi': 0, 'no_url': 0}
+		doi_data = []
 		for i in error_file.readlines():
 			line_data = json.loads(i)
 			if 'DOI Not Found' in line_data['error']:
@@ -88,11 +89,26 @@ class ParsePMC:
 				urllib.urlretrieve(doi_url, "%s.txt"%doi_file_name)
 			else:
 				print "File Found : %s.txt"%doi_file_name
-			self.find_citation("%s.txt"%doi_file_name)
-		print "Analyzing Files"
+			
+			if 1:#try:
+				doi_data.append(self.find_citation("%s.txt"%doi_file_name))
+			#except:
+			#	print "Error : ", sys.exc_info()
+			#	print doi_file_name
+		print "Saving Analysis ......"
+		doi_analysis_file = open("master_%s_analysis.txt"%self.pid, 'w')
+		doi_analysis_file.write(json.dumps(doi_data))
+		doi_analysis_file.close()
 		return
 
 	def find_citation(self, doi_file_name):
+		self.doi_data = {'title_found': False,
+			'author_found': False,
+			'numeric_citation': False,
+			'sections_found': [],
+			'citation_data': {'numeric_citation': [],
+				'title': [],
+				'author': []}}
 		self.pid_title = "The common feature of leukemia-associated IDH1 and IDH2 mutations is a neomorphic enzyme activity converting alpha-ketoglutarate to 2-hydroxyglutarate"
 		self.pid_author = "Ward PS, Patel J, Wise DR, Abdel-Wahab O, Bennett BD, Coller HA, Cross JR, Fantin VR, Hedvat CV, Perl AE, Rabinowitz JD, Carroll M, Su SM, Sharp KA, Levine RL, Thompson CB."
 		pid_author = self.pid_author.split(", ")
@@ -104,14 +120,19 @@ class ParsePMC:
 			# Reference Index of Paper Title
 			title_occ = list(self.find_all(file_content, self.pid_title))
 			print "Title Index : ", title_occ
+			# Flag TITLE FOUND 
+			if len(title_occ):
+				self.doi_data['title_found'] = True
 			numeric_citation = []
 			for i in title_occ:
-				print "Index (%s) : "%i, file_content[i - 20: i + 20]
+				print "Index (%s) : "%i, file_content[i - 70: i + 70]
 				# Check for numeric citation
 				title_numeric_citation = [int(s) for s in file_content[i - 4: i].split() if s.isdigit()]
 				if len(title_numeric_citation):
 					print "# Numeric Citation of Title : ", title_numeric_citation
 					numeric_citation.append(title_numeric_citation)
+					# Flag NUMERIC CITATION
+					self.doi_data['numeric_citation'] = True
 			self.author_ref_index = []
 			print "========== Found Reference Title =========="
 			# Finding Author Citation in text
@@ -126,39 +147,54 @@ class ParsePMC:
 				for j in author_occ:
 					if 'et al' in file_content[j: j+7]:
 						self.author_ref_index.append([i, j])
+						# Flag AUTHOR FOUND
+						if not self.doi_data['author_found']:
+		                                        self.doi_data['author_found'] = True
 			print "Author References : ", self.author_ref_index
+			# If Title AND Author AND Numeric CITATION NOT FOUND THEN RETURN
+			if not self.doi_data['author_found'] \
+				and not self.doi_data['numeric_citation'] \
+				and not self.doi_data['title_found']:
+				return self.doi_data
 			# Tokenizing for Finding Frequency Distribution of Sections of Paper
 			tokens = filter(lambda x: not x in self.stopwords, nltk.word_tokenize(file_content))
 			text = nltk.Text(tokens)
-			print text.__str__()
 			print "Searching for Sections in Paper"
 			fd = nltk.FreqDist(vs for word in tokens \
 				for vs in re.findall(r'Introduction|Reference|Method|Result|Discussion|Conclusion', word))
 			self.section_occ = {}
 			for i in fd.most_common(7):
 				self.section_occ[i[0]] = list(self.find_all(file_content, i[0]))
+				self.doi_data['sections_found'].append(i[0])
 			print self.section_occ
 			# Checking Title Citation
 			if len(numeric_citation):
 				print "Title Numeric Citation : ", numeric_citation
 				citation_index = self.find_all(file_content, "[%s]"%numeric_citation[0])
-				print self.find_citation_section(citation_index)
+				citation_data = self.find_citation_section(citation_index)
+				print citation_data
+                                self.doi_data['citation_data']['numeric_citation'].append(citation_data)
 			elif len(self.author_ref_index):
 				# Checking Author Citation
 				for i in self.author_ref_index:
 					print i
-					print self.find_citation_section(i[1])
+					citation_data = self.find_citation_section(i[1])
+					print citation_data
+					self.doi_data['citation_data']['author'].append(citation_data)
 			elif len(title_occ):
 				print "Title Index Searching ...."
 				for i in title_occ:
 					print i
-					print self.find_citation_section(i)
+					citation_data = self.find_citation_section(i)
+					print citation_data
+                                        self.doi_data['citation_data']['title'].append(citation_data)
 			else:
+				return self.doi_data
 				print "No Reference Found for Authors or Title"
-			
+			return self.doi_data
 		else:
 			print "======= No Reference Found !! ========="
-		return
+		return self.doi_data
 
 	def find_all(self, a_str, sub):
 	    start = 0
@@ -215,7 +251,7 @@ class ParsePMC:
 				occ_dict['method_conl'] = [method_index]
 		# Checking if it exists between Introduction and Method
                 if 'Introduction' in self.section_occ and len(self.section_occ['Introduction']):
-			intro_index = min(self.section_occ['Introduction'])[0]
+			intro_index = min(self.section_occ['Introduction'])
 			# If Method Index exists and citation in between them 
 			if method_index and citation_index < method_index:
                                 occ_dict['method_conl'] = [intro_index]
@@ -228,7 +264,7 @@ class ParsePMC:
 			print occ_data[i]
 			for j in occ_dict[i]:
 				print j
-				print self.file_content[j - 20: j + 20]
+				print self.file_content[j - 70: j + 70]
 		return occ_dict
 
 
